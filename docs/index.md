@@ -24,10 +24,13 @@ Welcome to our Coding School site! Here you will find plans and materials for ou
 {% include Tuesday2018.html %}
 
 ### Wednesday 23 May
-[under construction]
+
+{% include Wednesday2018.html %}
 
 ### Thursday 24 May
-[under construction]
+
+{% include Thursday2018.html %}
 
 ### Friday 25 May
-[under construction]
+
+{% include Friday2018.html %}
