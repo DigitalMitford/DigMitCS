@@ -15,9 +15,10 @@ Welcome to our Coding School site! Here you will find plans and materials for ou
 ## Agenda:
 
 ### Monday 21 May
+
 | Time | Activity |
-| ___ | ___ |
-| 9:30am - ~10:15 am | *Preliminaries:*  
+| --- | --- |
+| 9:30am - 10:15 am | *Preliminaries:*  
 <ul>
 <li>Introductions all around, nametags. Internet access working?</li> 
 <li>Discussion of projects and interests bringing you all here.</li>
