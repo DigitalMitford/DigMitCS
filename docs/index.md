@@ -18,23 +18,16 @@ Welcome to our Coding School site! Here you will find plans and materials for ou
 
 {% include Monday2018.html %}
 
-
-
-
    
 ### Tuesday 22 May
-| Time | Activity |
-| ___ | ___ |
-| 9:30 - 11:15am | Text as tractable data: 
-* From “plain” text to XML...and back again. 
-* Up-conversion with regular expressions: workshop
 
-| 11:20am - 12:30pm| Patrick Juola: Introduction to Stylometry | 
+{% include Tuesday2018.html %}
 
-| #### Lunch Break | (return by ~1:30pm) |
+### Wednesday 23 May
+[under construction]
 
+### Thursday 24 May
+[under construction]
 
-
-
-
-
+### Friday 25 May
+[under construction]
