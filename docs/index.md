@@ -3,7 +3,8 @@
 Welcome to our Coding School site! Here you will find plans and materials for our workshops.
 
 ## 2018 Session: 21 - 25 May 
-Important: If you plan to attend, **[please register online](https://digitalmitford.wordpress.com/2018/02/22/coding-school-may-21-25-2018-cfp/) by Tuesday, May 8.**
+Important: If you plan to attend, **[please register online](https://pitt.wufoo.com/forms/zfi7o9s01l6j4s/)
+by Tuesday, May 8.**
 
 ## Arrivals: Sunday 20 May: Apollo House.
 
