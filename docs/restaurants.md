@@ -41,7 +41,8 @@
 <td><a href="http://www.jcorks.com">http://www.jcorks.com</a></td>
 </tr>
 <tr>
-<td><b>$$-$$$ Noviello’s Sunset Café</b><td><td>Italian (downtown Greensburg)</td>
+<td><b>$$-$$$ Noviello’s Sunset Café</b></td>
+<td>Italian (downtown Greensburg)</td>
 <td>302 S Urania Ave, Greensburg, PA</td>
 <td><a href="http://www.sunsetcafepa.com">http://www.sunsetcafepa.com</a></td>
 </tr>
