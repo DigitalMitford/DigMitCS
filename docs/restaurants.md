@@ -1,0 +1,66 @@
+# Some restaurants we like in Greensburg, PA
+(None are walkable from cthe Pitt-Greensburg campus.)
+
+### <a href="https://goo.gl/maps/CywdPk2AYJB2">Map of Greensburg restaurant locations</a>
+
+
+<table>
+<tr><td><b>$$ Boulevard</b></td><td>eclectic (sandwiches, pasta)</td><td>closest to campus (just past US 30 ramps)
+900 Towne Square Dr, Greensburg, PA</td><td>
+<a href="http://boulevardrestaurants.com">http://boulevardrestaurants.com</a></td></tr>
+<tr><td><b>$ Subway</b></td><td>located near the Boulevard, favorite lunch run. Closes 8:30pm.</td>
+<td>1020 Towne Square Drive.</td><td>724-691-0163</td></tr>
+
+<tr>
+<td><b>$-$$ Headkeeper</b></td><td>neo-tapas, 300+ bottled beers, big patio (downtown Greensburg)</td>
+<td>618 S Main St, Greensburg, PA</td>
+<td><a href="http://www.theheadkeeper.com">http://www.theheadkeeper.com</a></td>
+<tr>
+<td><b>$-$$ White Rabbit</b></td><td>local coffee house, fun decor: specialty coffees and teas, amazing pastries/quiches (downtown Greensburg), open Mon - Sat. 7am - 10pm </td> 
+<td>113 N. Main Street, Greensburg, PA</td>
+<td><a href="http://www.thewhiterabbitcafe.com">http://www.thewhiterabbitcafe.com/</a></td>
+</tr>
+<tr>
+<td><b>$$ Peking Garden</b></td><td>Chinese and Japanese (on Rte 30 east); sushi and Peking specialty menus, cocktails; free delivery</td>
+<td>Eastgate Shopping Center, 5126 Route 30, Greensburg, PA</td>
+<td><a href="http://pekinggardengreensburg.com/home/2775842">http://pekinggardengreensburg.com/home/2775842</a>; 724-838-1498</td>
+</tr>
+<tr>
+<td><b>$$ - $$$ Brasserie du Soleil</b></td><td>tiny French restaurant (Rte 30 east, behind Westmoreland Mall): hanger steaks, duck, mussels, crepes; BYOB for wine and champagne only; closed Mondays.</td>
+<td>5345 Rt. 30, Greensburg, PA</td>
+<td><a href="http://www.brasseriedusoleil.net/home.html">http://www.brasseriedusoleil.net/home.html</a></td>
+</tr>
+<tr>
+<td><b>$-$$ Little-E’s Pizzeria</b></td><td>ORGANIC pizza, patio</td>
+<td>807 Highland Ave, Greensburg, PA</td>
+<td><a href="http://www.littleespizzeria.com">http://www.littleespizzeria.com</a></td>
+</tr>
+<tr>
+<td><b>$$$ J-Corks</b></td><td>eclectic – nice patio (downtown Greensburg)</td>
+<td>25 E Pittsburgh St, Greensburg, PA</td>
+<td><a href="http://www.jcorks.com">http://www.jcorks.com</a></td>
+</tr>
+<tr>
+<td><b>$$-$$$ Noviello’s Sunset Café</b><td><td>Italian (downtown Greensburg)</td>
+<td>302 S Urania Ave, Greensburg, PA</td>
+<td><a href="http://www.sunsetcafepa.com">http://www.sunsetcafepa.com</a></td>
+</tr>
+<tr>
+<tr>
+<td><b>$ Chipotle</b></td><td>fast-taco/burrito chain (off US 30 west)</td>
+<td>2014 Lincoln Pl, Greensburg, PA</td>
+<td><a href="https://order.chipotle.com/Meal/Index/1210?showloc=1&_ga=2.38424165.718197459.1525994386-733751574.1525994386">Online Ordering</a> (or walk in)</td>
+</tr>
+<tr>
+<td><b>$ Five Guys</b></td><td>gourmet burgers (off US 30 west, same plaza as Chipotle), open until 10pm</td>
+<td>2000 Lincoln Pl, Greensburg, PA</td>
+<td><a href="https://order.fiveguys.com/menu/greensburg">Online Ordering</a> (or walk in)</td>
+</tr>
+<tr>
+<td><b>$-$$ IHOP</b></td>
+<td>Breakfast (off US 30 east), open 24 hours</td>
+<td>5159 U.S. 30, Greensburg, PA</td>
+<td><a href="https://www.ihop.com/en">https://www.ihop.com/en</a>; 724-834-1345</td>
+</tr>
+</table>
+
