@@ -5,3 +5,4 @@
 
 {% include restaurants.html %}
 
+[Main page](index.md)
