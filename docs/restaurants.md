@@ -46,7 +46,6 @@
 <td><a href="http://www.sunsetcafepa.com">http://www.sunsetcafepa.com</a></td>
 </tr>
 <tr>
-<tr>
 <td><b>$ Chipotle</b></td><td>fast-taco/burrito chain (off US 30 west)</td>
 <td>2014 Lincoln Pl, Greensburg, PA</td>
 <td><a href="https://order.chipotle.com/Meal/Index/1210?showloc=1&_ga=2.38424165.718197459.1525994386-733751574.1525994386">Online Ordering</a> (or walk in)</td>
