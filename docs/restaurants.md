@@ -1,8 +1,7 @@
 # Some restaurants we like in Greensburg, PA
-(None are walkable from cthe Pitt-Greensburg campus.)
+(None are walkable from the Pitt-Greensburg campus.)
 
 ### <a href="https://goo.gl/maps/CywdPk2AYJB2">Map of Greensburg restaurant locations</a>
-
 
 <table>
 <tr><td><b>$$ Boulevard</b></td><td>eclectic (sandwiches, pasta)</td><td>closest to campus (just past US 30 ramps)
