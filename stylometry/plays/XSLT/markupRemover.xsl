@@ -7,7 +7,7 @@
     <xsl:output method="text"/>
     
     <xsl:template match="/">
-        <xsl:value-of select="//text"/>
+        <xsl:value-of select="//play//text()"/>
     </xsl:template>
         
 </xsl:stylesheet>
