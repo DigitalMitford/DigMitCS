@@ -27,16 +27,16 @@
     </xsl:template>
     <!--ebb: This preserves the children of the app without the tags themselves. -->   
     
-       
+    
+<xsl:template match="app/rdg[not(contains(@wit, '#R1828'))]"/>
+    
    
- <xsl:template match="app/rdg[not(contains(@wit, '#F1826'))]"/>
 
-
-    <xsl:template match="app/rdg[contains(@wit, '#F1826')]">
+    <xsl:template match="app/rdg[contains(@wit, '#R1828')]">
        <xsl:apply-templates/>
    </xsl:template>
        
-    
+  <xsl:template match="note"/>  
    
    
     
