@@ -147,7 +147,7 @@
 			<pb edRef="#F1854"/><!-- err: Is there a way to indicate that there is no page number for the 1854 preface? -->
 				<div type="preface">
 					<!-- err: The preface to the 1854 edition doesn't have a title. Not sure if this is the right way to indicate this. -->
-					<p><app><rdg wit="F1854">The subject of the following <title ref="#Foscari_MRMPlay">Play</title> is taken from a domestic tragedy in the history of 	
+					<p><app><rdg wit="#F1854">The subject of the following <title ref="#Foscari_MRMPlay">Play</title> is taken from a domestic tragedy in the history of 	
 						<placeName ref="#Venice">Venice</placeName>, and was suggested to the <persName ref="MRM">Authoress</persName> by an interesting narrative of that 						event in <title ref="#Moore_ViewItaly">Dr. Moore's Travels</title>. It is scarcely, perhaps, necessary to say here in prose, what the Prologue repeats 
 						in verse, that her piece was not only completed, but actually accepted at <placeName ref="#Covent_Garden_Theatre">Covent Garden Theatre</placeName>, 
 						before the publication of <bibl><author ref="#Byron">Lord Byron's</author><title ref="#Two_Foscari">well-known drama</title></bibl>.
@@ -212,8 +212,8 @@
 					<head> 
 						<app> 
 							<rdg wit="#msF">Prologue. to "Foscari"</rdg>
-							<rdg wit="#1826 #1854">PROLOGUE.</rdg>
-							<rdg wit="#F1826 #1854">SPOKEN BY <persName ref="#Serle_TJ">MR. SERLE.</persName></rdg>
+							<rdg wit="#F1826 #F1854">PROLOGUE.</rdg>
+							<rdg wit="#F1826 #F1854">SPOKEN BY <persName ref="#Serle_TJ">MR. SERLE.</persName></rdg>
 						</app>
 					</head>
 
@@ -222,9 +222,9 @@
 					<l>Fair <placeName ref="#Venice">Venice</placeName> now, <app><rdg wit="#msF">fallen</rdg><rdg wit="#F1826 #F1854">fall'n</rdg></app> from her <app><rdg wit="#msF #F1826">"palmy state,"</rdg><rdg wit="#F1854">palmy state,</rdg></app></l>
 					<l>Broods o'er <app><rdg wit="#msF"><add place="above">her</add></rdg><rdg wit="#F1826 #F1854">her</rdg></app> palace-city desolate;</l>
 					<l>Each mart deserted, each Palladian <app><rdg wit="#msF">Hall</rdg><rdg wit="#F1826 #F1854">hall</rdg></app></l>
-					<l>Vacant and <app><rdg wit="#msF">ruinous,</rdg><rdg wit="#F1826 #1854">ruinous</rdg></app> proclaims her fall.</l>
+					<l>Vacant and <app><rdg wit="#msF">ruinous,</rdg><rdg wit="#F1826 #F1854">ruinous</rdg></app> proclaims her fall.</l>
 					<l>Yet still one triumph of her ancient fame</l>
-					<l>Gilds her decay, and lingers round her name<app><rdg wit="#msF">:</rdg><rdg wit="#F1826 #1854">;</rdg></app></l>
+					<l>Gilds her decay, and lingers round her name<app><rdg wit="#msF">:</rdg><rdg wit="#F1826 #F1854">;</rdg></app></l>
 					<l><app><rdg wit="#msF">Tis</rdg><rdg wit="#F1826 #F1854">'Tis</rdg></app> that beneath the proud Venetian dome</l>
 					<l>The <persName type="arch" ref="#Tragic_Muse">Tragic Muse</persName> hath <app><rdg wit="#msF #F1854">fixed</rdg><rdg wit="#F1826">fix'd</rdg></app> her favourite home;</l>
 					<l>'Tis that her very name <app><rdg wit="#msF #F1854">bids</rdg><rdg wit="#F1826">makes</rdg></app> young hearts glow</l>
@@ -232,7 +232,7 @@
 					<l>There <persName ref="#Shylock_O">Shylock</persName> whetted his relentless knife;</l>
 					<l>There poor <persName ref="#Othello_O">Othello</persName> won <rs type="person" ref="#Desdemona_O">his murdered wife</rs>;</l>
 					<l>There <persName ref="#Pierre_V">Pierre</persName>, stout traitor, the awed State defied;</l>
-					<l>There <persName ref="#Jaffier_V">Jaffier</persName> <app><rdg wit="#msF">loved</rdg><rdg wit="#F1826 #F1854">lov'd</rdg></app>, and <persName ref="#Belvidera_V">Belvidera</persName> <app><rdg wit="#msF">died,</rdg><rdg wit="#F1826 #1854">died.</rdg></app></l>
+					<l>There <persName ref="#Jaffier_V">Jaffier</persName> <app><rdg wit="#msF">loved</rdg><rdg wit="#F1826 #F1854">lov'd</rdg></app>, and <persName ref="#Belvidera_V">Belvidera</persName> <app><rdg wit="#msF">died,</rdg><rdg wit="#F1826 #F1854">died.</rdg></app></l>
 					<l>And there <rs type="person" ref="#Byron">the immortal Bard</rs>, who all too soon</l>
 					<l>Fell in the blaze of Fame's effulgent noon,</l>
 					<l>Lamented <persName ref="#Byron">Byron</persName>!<note resp="#err">In the Foscari manuscript, Byron is underlined in a different color (possibly with a pencil and thus was not likely underlined by the scribe.</note> twice a tale hath told</l>
@@ -241,7 +241,7 @@
 					<l>With vengeful hate by their stern doom expired;</l>
 					<l>And <app><rdg wit="#msF"><emph rend="underline">his</emph></rdg><rdg wit="#F1854"><emph rend="italics">his</emph></rdg></app> severer fate, condemned to try</l>
 					<l><rs type="person" ref="#Foscari_Fr">His guiltless son</rs>, the good <persName ref="#Doge_F">Doge Foscari</persName>.</l>
-					<l>That tale of woe, but with <app><rdg wit="#msF">a lower</rdg><rdg wit="#F1854">an humbler</rdg></app> flight<app><rdg wit="#1854">.</rdg></app></l>
+					<l>That tale of woe, but with <app><rdg wit="#msF">a lower</rdg><rdg wit="#F1854">an humbler</rdg></app> flight<app><rdg wit="#F1854">.</rdg></app></l>
 					<l>And weaker wing, our <rs type="person" ref="#MRM">Authoress</rs> of to-night</l>
 					<l>Hath brought before ye. Deem not of it worse</l>
 					<l>That 'tis a theme made <app><rdg wit="#msF">famous</rdg><rdg wit="#F1854">sacred</rdg></app> by <rs type="person" ref="#Byron">his</rs> verse.</l>
@@ -343,7 +343,7 @@
 					<div type="scene" n="1">
 						<head><app><rdg wit="#msF">Scene</rdg><rdg wit="#F1826 #F1854">SCENE I.</rdg></app></head>
 						<stage type="setting"><placeName ref="#St_Marks_Place">St. Mark's Place</placeName>.</stage>
-						<stage type="business"><persName ref="#Erizzo">Count Erizzo</persName> <app><rdg wit="#msF">&amp;</rdg><rdg wit="#1826 #1854">and</rdg></app><persName ref="#Celso_F">Celso</persName> meeting <persName ref="#Donato">Donato</persName>.</stage>
+						<stage type="business"><persName ref="#Erizzo">Count Erizzo</persName> <app><rdg wit="#msF">&amp;</rdg><rdg wit="#F1826 #F1854">and</rdg></app><persName ref="#Celso_F">Celso</persName> meeting <persName ref="#Donato">Donato</persName>.</stage>
 						<sp who="#Donato">
 							<speaker>Don.</speaker>
 							<l><app><rdg wit="#msF #F1826">Good morrow</rdg><rdg wit="#F1854">Good-morrow,</rdg></app> <persName ref="#Erizzo">Count Erizzo</persName>, you are early. </l>
@@ -351,7 +351,7 @@
 						</sp>
 						<sp who="#Erizzo">
 							<speaker>Eriz.</speaker>
-							<l><app><rdg wit="#msF #1826">Aye</rdg><rdg wit="#F1854">Ay</rdg></app>, <persName ref="#Donato">Donato</persName>,</l>
+							<l><app><rdg wit="#msF #F1826">Aye</rdg><rdg wit="#F1854">Ay</rdg></app>, <persName ref="#Donato">Donato</persName>,</l>
 							<l>The common destination; but I go</l>
 							<l>With an old friend.</l>
 						</sp>
@@ -394,7 +394,7 @@
 							<l><app><rdg wit="#msF">Yes</rdg><rdg wit="#F1826 #F1854">Yes,</rdg></app> at one word from me---<app><rdg wit="#msF">The</rdg><rdg wit="#F1826 #F1854">the</rdg></app> <persName ref="#Doge_F">Doge</persName> and I</l>
 							<l>Are friends, old friends, the friends of forty <app><rdg wit="#msF">years<!-- err: It's possible that there is a semicolon at the end of this line in the manuscript version of the play, but it might be cut off in the photo. We should check this against the original. --></rdg><rdg wit="#F1826 #F1854">years;</rdg></app></l>
 							<l>Besides we have a pair of hopeful <app><rdg wit="#msF">Sons</rdg><rdg wit="#F1826 #F1854">sons,</rdg></app></l>
-							<l>Friends from the cradle <app><rdg wit="#msF">upwards</rdg><rdg wit="#F1826 #1854">upwards.</rdg></app></l>
+							<l>Friends from the cradle <app><rdg wit="#msF">upwards</rdg><rdg wit="#F1826 #F1854">upwards.</rdg></app></l>
 						</sp>
 						<sp who="#Erizzo">
 							<speaker>Eriz.</speaker>
@@ -406,7 +406,7 @@
 						<sp who="#Donato">
 							<speaker>Don.</speaker>
 							<l><app><rdg wit="#msF #F1826">Aye</rdg><rdg wit="#F1854">Ay</rdg></app>; he'll return</l>
-							<l>Too soon<app><rdg wit="#msF">;</rdg><rdg wit="#F1826 #1854">,</rdg></app>, whene'er he comes, to steal away</l>
+							<l>Too soon<app><rdg wit="#msF">;</rdg><rdg wit="#F1826 #F1854">,</rdg></app>, whene'er he comes, to steal away</l>
 							<l>My age's darling. Yet is he a <app><rdg wit="#F1826 #F1854">boy</rdg><rdg wit="#msF"><del rend="strikethrough"><handShift resp="#pencil_msF"/>boy</del><add><handShift resp="#pencil_msF"/>youth</add></rdg></app></l>
 							<l>Full of high thoughts, a <app><rdg wit="#msF #F1854">noble,</rdg><rdg wit="#F1826">noble</rdg></app> princely <app><rdg wit="#msF"><del rend="overwritten">boy;</del><add><handShift resp="#pencil_msF"/>youth</add></rdg><rdg wit="#F1826 #F1854">boy,</rdg></app></l>
 							<l>Kindly <app><rdg wit="#msF">&amp;</rdg><rdg wit="#F1826 #F1854">and</rdg></app> generous; one that may deserve</l>
@@ -438,7 +438,7 @@
 							<l>By flattery or anger. Of such tools</l>
 							<l>Are Faction's ranks composed, not <app><rdg wit="#msF">officered</rdg><rdg wit="#F1826 #F1854">officered.</rdg></app></l>
 							<l><persName ref="#Celso_F">Celso</persName>, we'll have this <persName ref="#Doge_F">Doge</persName> <app><rdg wit="#msF">unbonnetted</rdg><rdg wit="#F1826 #F1854">unbonneted</rdg></app>,</l>
-							<l>This <app><rdg wit="#msF"><persName ref="#Doge_F">Doge</persName>,</rdg><rdg wit="#Doge_F">Doge</rdg></app> who wears his load of <app><rdg wit="#msF">fourscore</rdg><rdg wit="#F1826 #F1854">four-score</rdg></app> years</l>
+							<l>This <app><rdg wit="#msF"><persName ref="#Doge_F">Doge</persName>,</rdg><rdg wit="#F1826 #F1854">Doge</rdg></app> who wears his load of <app><rdg wit="#msF">fourscore</rdg><rdg wit="#F1826 #F1854">four-score</rdg></app> years</l>
 							<l>Easier than I my forty. He contemns</l>
 							<l>Me and my brother nobles<app><rdg wit="#msF #F1854">;</rdg><rdg wit="#F1826">:</rdg></app> he may learn</l>
 							<l>To know and fear our power. I tell <app><rdg wit="#msF #F1826">you</rdg><rdg wit="#F1854">thee</rdg></app>, Sir,</l>
@@ -463,7 +463,7 @@
 							<l><app><rdg wit="#msF">Er'e</rdg><rdg wit="#F1826 #F1854">Ere</rdg></app> this news reach the <app><rdg wit="#msF">City</rdg><rdg wit="#F1826 #F1854">city</rdg></app>city; for the people</l>
 							<l>Adore <persName ref="#Doge_F #Foscari_Fr">the Foscari</persName>. Faugh! I am weary</l>
 							<l><app><rdg wit="#msF">of</rdg><rdg wit="#F1826 #F1854">Of</rdg></app> this good <persName ref="#Doge_F">Doge</persName>, this venerable <persName ref="#Doge_F">Doge</persName>,</l>
-							<l>This popular <persName ref="#Doge_F">Doge</persName>, this <persName ref="#Doge_F">Doge</persName> who courts <app><rdg wit="#msF">&amp;</rdg><rdg wit="#F1826 #F1854">and</rdg></app> <app><rdg wit="#msF #1826"><choice><sic>wooes</sic><reg>woos</reg></choice></rdg><rdg wit="#F1854">woos</rdg></app></l>
+							<l>This popular <persName ref="#Doge_F">Doge</persName>, this <persName ref="#Doge_F">Doge</persName> who courts <app><rdg wit="#msF">&amp;</rdg><rdg wit="#F1826 #F1854">and</rdg></app> <app><rdg wit="#msF #F1826"><choice><sic>wooes</sic><reg>woos</reg></choice></rdg><rdg wit="#F1854">woos</rdg></app></l>
 							<l>The noisy rabble, whilst the <persName ref="#Senators_Foscari">Senators</persName></l>
 							<l>He elbows from their seats. And for the <app><rdg wit="#msF"><rs type="person" ref="#Foscari_Fr">Son</rs></rdg><rdg wit="#F1826 #F1854"><rs type="person" ref="#Foscari_Fr">son</rs></rdg></app>,</l>
 							<l>With his hot <choice><sic>valour</sic><reg>valor</reg></choice> <app><rdg wit="#msF">&amp;</rdg><rdg wit="#F1826 #F1854">and</rdg></app> proud lack of pride---</l>
@@ -740,7 +740,7 @@
 						<sp who="#Zeno_F">
 							<speaker>Zeno.</speaker>
 							<l>And they are as different</l>
-							<l>As the bright <app><rdg wit="#ms">Sun &amp;</rdg><rdg wit="#F1826 #F1854">sun and</rdg></app> and gentle moon, the <app><rdg wit="#ms">Sea</rdg><rdg wit="#F1826 #F1854">sea</rdg></app></l>
+							<l>As the bright <app><rdg wit="#msF">Sun &amp;</rdg><rdg wit="#F1826 #F1854">sun and</rdg></app> and gentle moon, the <app><rdg wit="#msF">Sea</rdg><rdg wit="#F1826 #F1854">sea</rdg></app></l>
 							<l>In sparkling motion <app><rdg wit="#msF">&amp;</rdg><rdg wit="#F1826 #F1854">and</rdg></app> the quiet <app><rdg wit="#msF">land</rdg><rdg wit="#F1826 #F1854">land.</rdg></app></l>
 							<l>The one a <app><rdg wit="#msF">stirring</rdg><rdg wit="#F1826 #F1854">stirring,</rdg></app> <app><rdg wit="#msF #F1826">brave</rdg><rdg wit="#F1854">brave,</rdg></app> <app><rdg wit="#msF">&amp;</rdg><rdg wit="#F1826 #F1854">and</rdg></app> honest soldier,</l>
 							<l>The other a pale student.</l>
@@ -824,7 +824,7 @@
 							<l>Over the river--we were at our house</l><!-- err 2017-10-09: would we need to tag "river" as a placeName here? Foscari is talking about the Brenta. -->
 							<l>Upon the <placeName ref="#Brenta">Brenta</placeName> then; it soared <app><rdg wit="#msF #F1854">aloft,</rdg><rdg wit="#F1826">aloft</rdg></app></l>
 							<l>Driven by <app><rdg wit="#msF">the lightsome</rdg><rdg wit="#F1826 #F1854">light vigorous</rdg></app> breezes from the <app><rdg wit="#msF">sea</rdg><rdg wit="#F1826 #F1854">sea,</rdg></app></l>
-							<l>Soared buoyantly, till the diminished <app><rdg wit="msF">speck</rdg><rdg wit="#F1826 #F1854">toy</rdg></app></l>
+							<l>Soared buoyantly, till the diminished <app><rdg wit="#msF">speck</rdg><rdg wit="#F1826 #F1854">toy</rdg></app></l>
 							<l>Grew smaller than the falcon when she stoops</l>
 							<l>To dart upon her prey. I sent for <app><rdg wit="#msF">cord</rdg><rdg wit="#F1826 #F1854">cord,</rdg></app></l>
 							<l>Servant on <app><rdg wit="#msF">Servant</rdg><rdg wit="#F1826 #F1854">servant</rdg></app> <app><rdg wit="#msF">toppling</rdg><rdg wit="#F1826 #F1854">hurrying</rdg></app>, <app><rdg wit="#msF">'till</rdg><rdg wit="#F1826 #F1854">till</rdg></app> the kite</l>
@@ -838,7 +838,7 @@
 							<l>And shouting, <app><rdg wit="#msF">&amp;</rdg><rdg wit="#F1826 #F1854">and</rdg></app> half envying it the flight</l>
 							<l>That made it a companion of the stars,</l>
 							<l>When close beside me a deep voice <app><rdg wit="#msF">exclaimed</rdg><rdg wit="#F1826 #F1854">exclaimed--</rdg></app></l>
-							<l><app><rdg wit="#msF #F1826">Aye</rdg><rdg wit="#F1854">Ay</rdg></app>, <app><rdg wit="#msF">Mount! Mount! Mount!</rdg><rdg wit="#F1826 #F1854">mount! mount! mount!</rdg></app>--I started <app><rdg wit="#msF">back &amp;</rdg><rdg wit="#F1826 #1854">back, and</rdg></app> saw</l>
+							<l><app><rdg wit="#msF #F1826">Aye</rdg><rdg wit="#F1854">Ay</rdg></app>, <app><rdg wit="#msF">Mount! Mount! Mount!</rdg><rdg wit="#F1826 #F1854">mount! mount! mount!</rdg></app>--I started <app><rdg wit="#msF">back &amp;</rdg><rdg wit="#F1826 #F1854">back, and</rdg></app> saw</l>
 							<l>A tall and aged woman, one of the wild</l>
 							<l>Peculiar <app><rdg wit="#msF">people,</rdg><rdg wit="#F1826 #F1854">people</rdg></app> whom wild <placeName ref="#Hungary">Hungary</placeName> sends</l>
 							<l>Roving <app><rdg wit="#msF">thro'</rdg><rdg wit="#F1826 #F1854">through</rdg></app> every land. She drew her cloak</l>
@@ -892,7 +892,7 @@
 							<l>She must be dead! Full seventy years ago--</l>
 							<l>And then her locks were grizzled<app><rdg wit="#msF">!</rdg><rdg wit="#F1826 #F1854">!--</rdg></app>She is dead.</l>
 							<l>And <app><rdg wit="#msF">what</rdg><rdg wit="#F1826 #F1854">what,</rdg></app> at fourscore <app><rdg wit="#msF">years</rdg><rdg wit="#F1826 #F1854">years,</rdg></app> have I to do</l>
-							<l>With fate or fortune! My long race is run<app><rdg wit="#msF">:</rdg><rdg wit="#F1826 #1854">.</rdg></app></l>
+							<l>With fate or fortune! My long race is run<app><rdg wit="#msF">:</rdg><rdg wit="#F1826 #F1854">.</rdg></app></l>
 						</sp>
 						<sp who="#Zeno_F">
 							<speaker>Zeno.</speaker>
@@ -937,7 +937,7 @@
 						<stage type="business">Exeunt.</stage>
 					</div>
 					<div type="scene">
-						<head><app><rdg wit="#msF">SCENE</rdg><rdg wit="#F1826 #1854">SCENE III.</rdg></app></head>
+						<head><app><rdg wit="#msF">SCENE</rdg><rdg wit="#F1826 #F1854">SCENE III.</rdg></app></head>
 						<stage type="setting">An Apartment in the Donato <app><rdg wit="#msF">Palace</rdg><rdg wit="#F1826 #F1854">Palace.</rdg></app></stage><!-- 2017-11-03 err: Is the Donato Palace a real place that we should tag with a placeName? -->
 						<stage type="business"><persName ref="#Camilla">Camilla</persName> <app><rdg wit="#msF">&amp;</rdg><rdg wit="#F1826 #F1854">and</rdg></app> <persName ref="#Laura_F">Laura</persName>.</stage>
 						<sp who="#Camilla">
@@ -951,7 +951,7 @@
 						<sp who="#Camilla">
 							<speaker>Cam.</speaker>
 							<l><app><rdg wit="#msF #F1826">Sure</rdg><rdg wit="#F1854">Sure,</rdg></app> he'll not cheat us of his early smiles,</l>
-							<l>His gay <app><rdg wit="msF">goodmorrow</rdg><rdg wit="#F1826 #F1854">good-morrow</rdg></app>, that best joy of home</l>
+							<l>His gay <app><rdg wit="#msF">goodmorrow</rdg><rdg wit="#F1826 #F1854">good-morrow</rdg></app>, that best joy of home</l>
 							<l>When dear friends meet in morning cheerfulness.</l>
 						</sp>
 						<sp who="#Laura_F">
@@ -1084,10 +1084,10 @@
 							<l><app><rdg wit="#msF #F1826">Aye</rdg><rdg wit="#F1854">Ay,</rdg></app> come <app><rdg wit="#msF #F1854">thyself,</rdg><rdg wit="#F1826">thyself</rdg></app></l>
 							<l>Dear <persName ref="#Cosmo">Cosmo</persName>, <app><rdg wit="#msF">&amp; Farewell</rdg><rdg wit="#F1826 #F1854">and farewell.</rdg></app></l>
 							<stage type="business">Exit <persName ref="#Cosmo">Cosmo</persName>.</stage>
-							<l><app><rdg wit="#msF #1854">Now,</rdg><rdg wit="#F1826">Now</rdg></app> <persName ref="#Laura_F">Laura</persName> <app><rdg wit="#msF #F1854">mine,</rdg><rdg wit="#F1826">mine</rdg></app></l>
+							<l><app><rdg wit="#msF #F1854">Now,</rdg><rdg wit="#F1826">Now</rdg></app> <persName ref="#Laura_F">Laura</persName> <app><rdg wit="#msF #F1854">mine,</rdg><rdg wit="#F1826">mine</rdg></app></l>
 							<l>Let us to the high balcony. I need</l>
 							<l>Fresh air <app><rdg wit="#msF">&amp;</rdg><rdg wit="#F1826 #F1854">and</rdg></app> sun <app><rdg wit="#msF">&amp;</rdg><rdg wit="#F1826 #F1854">and</rdg></app> sparkling sights <app><rdg wit="#msF">&amp;</rdg><rdg wit="#F1826 #F1854">and</rdg></app> sounds</l>
-							<l>To help sustain this happiness, this <app><rdg wit="msF">hope</rdg><rdg wit="#F1826 #F1854">hope,</rdg></app></l>
+							<l>To help sustain this happiness, this <app><rdg wit="#msF">hope</rdg><rdg wit="#F1826 #F1854">hope,</rdg></app></l>
 							<l>Which weighs almost like fear. My <app><rdg wit="#msF">Dearest Come</rdg><rdg wit="#F1826 #F1854">dearest, come.</rdg></app></l>
 						</sp>
 						<stage type="business">Exeunt.</stage>
@@ -1107,9 +1107,9 @@
 						<sp who="#Erizzo">
 							<speaker>Eriz.</speaker>
 							<l>He rules us as a <app><rdg wit="#msF">King; </rdg><rdg wit="#F1826 #F1854">king--</rdg></app>this <persName ref="#Doge_F">Foscari</persName><app><rdg wit="#msF">--</rdg><rdg wit="#F1826 #F1854">,</rdg></app></l>
-							<l>An absolute <app><rdg wit="#msF">King!</rdg><rdg wit="#1826 #1854">king,</rdg></app> <app><rdg wit="#msF">Haughty &amp;</rdg><rdg wit="#1826 #1854">haughty and</rdg></app> imbecile</l>
+							<l>An absolute <app><rdg wit="#msF">King!</rdg><rdg wit="#F1826 #F1854">king,</rdg></app> <app><rdg wit="#msF">Haughty &amp;</rdg><rdg wit="#F1826 #F1854">haughty and</rdg></app> imbecile</l>
 							<l>As any Eastern sovereign! He degrades</l>
-							<l>The old <app><rdg wit="#msF #1826">Nobility</rdg><rdg wit="#1854">nobility</rdg></app>, contemns the <orgName ref="#Senate_Venetian_F">Senate</orgName><app><rdg wit="#msF">;</rdg><rdg wit="#F1826 #F1854">,</rdg></app></l>
+							<l>The old <app><rdg wit="#msF #F1826">Nobility</rdg><rdg wit="#F1854">nobility</rdg></app>, contemns the <orgName ref="#Senate_Venetian_F">Senate</orgName><app><rdg wit="#msF">;</rdg><rdg wit="#F1826 #F1854">,</rdg></app></l>
 							<l>And cringes to the people--a mob courtier!</l>
 							<l>A greedy swallower of popular praise!</l>
 						</sp>
@@ -1307,7 +1307,7 @@
 							<l>But is a link in the <app><rdg wit="#msF"><sic>resplendant</sic></rdg><rdg wit="#F1826 #F1854"><reg resp="#err">resplendent</reg></rdg></app> chain</l>
 							<l>Of old Venetian <app><rdg wit="#msF">Story</rdg><rdg wit="#F1826 #F1854">story</rdg></app>. We are born</l>
 							<l>Lords of the <app><rdg wit="#msF"><placeName ref="#Adriatic_Sea">Adriatic</placeName>--</rdg><rdg wit="#F1826 #F1854"><placeName ref="#Adriatic_Sea">Adriatic</placeName>;</rdg></app> not a name</l>
-							<l>But hath been vowed her spouse<app><rdg wit="#msF">!</rdg><rdg wit="#F1826 #F1854">.</rdg></app> Think not <app><rdg wit="msF"><add place="above">such names</add></rdg><rdg wit="#F1826 #F1854">such names</rdg></app>such names</l>
+							<l>But hath been vowed her spouse<app><rdg wit="#msF">!</rdg><rdg wit="#F1826 #F1854">.</rdg></app> Think not <app><rdg wit="#msF"><add place="above">such names</add></rdg><rdg wit="#F1826 #F1854">such names</rdg></app>such names</l>
 							<l>Are common sounds; they have a music in them,</l>
 							<l>An odorous recollection<app><rdg wit="#msF">;</rdg><rdg wit="#F1826 #F1854">,</rdg></app> they are part</l>
 							<l>Of the old glorious <app><rdg wit="#msF">Past</rdg><rdg wit="#F1826 #F1854">past</rdg></app>. Their country knows</l>
