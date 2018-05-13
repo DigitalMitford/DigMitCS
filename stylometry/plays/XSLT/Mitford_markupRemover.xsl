@@ -10,5 +10,7 @@
     <xsl:template match="/">
         <xsl:value-of select="//text/body//text()"/>
     </xsl:template>
+    
+    <xsl:template match="note"/>
         
 </xsl:stylesheet>

@@ -3,6 +3,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <!-- <?xml-model href="http://ebeshero.github.io/MRMValidate.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> -->
+<?xml-model href="http://ebeshero.github.io/MRM_RdgWitValidate.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
@@ -343,7 +344,7 @@
 					<div type="scene" n="1">
 						<head><app><rdg wit="#msF">Scene</rdg><rdg wit="#F1826 #F1854">SCENE I.</rdg></app></head>
 						<stage type="setting"><placeName ref="#St_Marks_Place">St. Mark's Place</placeName>.</stage>
-						<stage type="business"><persName ref="#Erizzo">Count Erizzo</persName> <app><rdg wit="#msF">&amp;</rdg><rdg wit="#F1826 #F1854">and</rdg></app><persName ref="#Celso_F">Celso</persName> meeting <persName ref="#Donato">Donato</persName>.</stage>
+						<stage type="business"><persName ref="#Erizzo">Count Erizzo</persName> <app><rdg wit="#msF"> &amp; </rdg><rdg wit="#F1826 #F1854"> and </rdg></app> <persName ref="#Celso_F">Celso</persName> meeting <persName ref="#Donato">Donato</persName>.</stage>
 						<sp who="#Donato">
 							<speaker>Don.</speaker>
 							<l><app><rdg wit="#msF #F1826">Good morrow</rdg><rdg wit="#F1854">Good-morrow,</rdg></app> <persName ref="#Erizzo">Count Erizzo</persName>, you are early. </l>
@@ -946,7 +947,7 @@
 						</sp>
 						<sp who="#Laura_F">
 							<speaker>Laura.</speaker>
-							<l>Not <app><rdg wit="#msF F1826">to day</rdg><rdg wit="#F1854">to-day</rdg></app>.</l>
+							<l>Not <app><rdg wit="#msF #F1826">to day</rdg><rdg wit="#F1854">to-day</rdg></app>.</l>
 						</sp>
 						<sp who="#Camilla">
 							<speaker>Cam.</speaker>
@@ -1201,7 +1202,7 @@
 							<l>Honours her <app><rdg wit="#msF"><persName ref="#Senators_Foscari">Senators</persName>,</rdg><rdg wit="#F1826 #F1854"><persName ref="#Senators_Foscari">senators</persName>.</rdg></app> <persName ref="#Donato">Signor Donato</persName>--</l>
 							<l>Nay shun me not--<app><rdg wit="#msF #F1826">That</rdg><rdg wit="#F1854">that</rdg></app> post was promised to--</l>
 							<l>Thou wilt not hear<app><rdg wit="#msF">--</rdg><rdg wit="#F1826 #F1854">!</rdg></app> I have too often borne</l>
-							<l>With thy infirmity. Forget not, <app><rdg wit="#msF #F8154"><persName ref="#Donato">Sir</persName></rdg><rdg wit="#F1826"><persName ref="#Donato">sir</persName></rdg></app>,</l>
+							<l>With thy infirmity. Forget not, <app><rdg wit="#msF #F1854"><persName ref="#Donato">Sir</persName></rdg><rdg wit="#F1826"><persName ref="#Donato">sir</persName></rdg></app>,</l>
 							<l>That <app><rdg wit="#msF">thou'st</rdg><rdg wit="#F1826 #F1854">thou'rt</rdg></app> my friend, or I must needs remember</l>
 							<l>That I'm thy <app><rdg wit="#msF">Prince</rdg><rdg wit="#F1826 #F1854">prince</rdg></app>. Now to our <app><rdg wit="#msF">business <persName ref="#Senators_Foscari">lords</persName>!</rdg><rdg wit="#F1826 #F1854">business, <persName ref="#Senators_Foscari">lords</persName>.</rdg></app></l>
 						</sp>
@@ -1223,7 +1224,7 @@
 						</sp>
 						<sp who="#Doge_F">
 							<speaker>Doge.</speaker>
-							<l>Think'st <app><rdg wit="#msF">thou<persName ref="#Erizzo">Count</persName></rdg><rdg wit="#F1826">thou, <persName ref="#Erizzo">count</persName>,</rdg><rdg wit="#F1854">thou, <persName ref="#Erizzo">Count</persName>,</rdg></app></l>
+							<l>Think'st <app><rdg wit="#msF">thou <persName ref="#Erizzo">Count</persName></rdg><rdg wit="#F1826">thou, <persName ref="#Erizzo">count</persName>,</rdg><rdg wit="#F1854">thou, <persName ref="#Erizzo">Count</persName>,</rdg></app></l>
 							<l>That my old heart is quiet in this pause?</l>
 							<l>Thou hast no boy in yonder <app><rdg wit="#msF #F1826">battle field</rdg><rdg wit="#F1854">battle-field</rdg></app>,</l>
 							<l>Or thou would'st know how thirstily the <app><rdg wit="#msF">Soul</rdg><rdg wit="#F1826 #F1854">soul</rdg></app></l>
@@ -1318,7 +1319,7 @@
 							<l>To <app><rdg wit="#msF">virtue</rdg><rdg wit="#F1826 #F1854">goodness</rdg></app> <app><rdg wit="#msF">&amp;</rdg><rdg wit="#F1826 #F1854">and</rdg></app> to freedom. This hast thou</l>
 							<l>Forgotten. Every creeping <app><rdg wit="#msF #F1854"><sic>artizan</sic></rdg><rdg wit="#F1826"><reg resp="#err">artisan</reg></rdg></app>,</l>
 							<l>Every <app><rdg wit="#msF">hard-handed,</rdg><rdg wit="#F1826 #F1854">hard-handed</rdg></app> smoky slave is nearer</l>
-							<l>To our great <persName ref="#Doge_F">Doge</persName> than we<app><rdg wit="#msF">.</rdg><rdg wit="#F1826 #F1854">:</rdg></app> <app><rdg wit="#msF">To</rdg><rdg wit="#F1826 #F1854">to</rdg></app> them all smiles</l>
+							<l>To our great <persName ref="#Doge_F">Doge</persName> than we<app><rdg wit="#msF">.</rdg><rdg wit="#F1826 #F1854">:</rdg></app> <app><rdg wit="#msF"> To</rdg><rdg wit="#F1826 #F1854"> to</rdg></app> them all smiles</l>
 							<l>And princely graciousness<app><rdg wit="#msF">;</rdg><rdg wit="#F1826 #F1854">--</rdg></app>to us all frowns</l>
 							<l>And kingly pride. Fitter for us a Doge</l>
 							<l>Of a congenial <app><rdg wit="#msF">spirit</rdg><rdg wit="#F1826 #F1854">spirit,</rdg></app> to preside</l>

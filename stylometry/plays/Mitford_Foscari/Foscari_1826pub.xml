@@ -3,6 +3,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <!-- <?xml-model href="http://ebeshero.github.io/MRMValidate.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> -->
+<?xml-model href="http://ebeshero.github.io/MRM_RdgWitValidate.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -359,7 +360,7 @@
                <stage type="setting">
                   <placeName ref="#St_Marks_Place">St. Mark's Place</placeName>.</stage>
                <stage type="business">
-                  <persName ref="#Erizzo">Count Erizzo</persName>and<persName ref="#Celso_F">Celso</persName> meeting <persName ref="#Donato">Donato</persName>.</stage>
+                  <persName ref="#Erizzo">Count Erizzo</persName> and <persName ref="#Celso_F">Celso</persName> meeting <persName ref="#Donato">Donato</persName>.</stage>
                <sp who="#Donato">
                   <speaker>Don.</speaker>
                   <l>Good morrow<persName ref="#Erizzo">Count Erizzo</persName>, you are early. </l>
@@ -999,7 +1000,7 @@
                </sp>
                <sp who="#Laura_F">
                   <speaker>Laura.</speaker>
-                  <l>Not .</l>
+                  <l>Not to day.</l>
                </sp>
                <sp who="#Camilla">
                   <speaker>Cam.</speaker>
@@ -1377,7 +1378,7 @@
                   <l>To goodnessand to freedom. This hast thou</l>
                   <l>Forgotten. Every creeping <reg resp="#err">artisan</reg>,</l>
                   <l>Every hard-handed smoky slave is nearer</l>
-                  <l>To our great <persName ref="#Doge_F">Doge</persName> than we:to them all smiles</l>
+                  <l>To our great <persName ref="#Doge_F">Doge</persName> than we: to them all smiles</l>
                   <l>And princely graciousness--to us all frowns</l>
                   <l>And kingly pride. Fitter for us a Doge</l>
                   <l>Of a congenial spirit, to preside</l>
