@@ -1,0 +1,4315 @@
+<xml>
+	<head>
+		<title>Virginius</title>
+		<author>James Sheridan Knowles</author>
+		<pubInfo>Date first published: <date>1820</date>.</pubInfo>
+		<perfInfo>Date first performed: <date when="1820-05-17">17 May 1820</date>.</perfInfo>
+	</head>
+	<play>
+		<stage>SCENE, CHIEFLY ROME.</stage>
+		<div type="act">
+			<head>ACT I.</head>
+			<div type="scene">
+				<head>SCENE I.</head>
+				<stage>---A Street in Rome.</stage>
+				<stage> Enter <strong>Servius</strong> and <strong>Cneius</strong>. </stage>
+				<sp>
+					<speaker>Ser.</speaker>
+					<line>Carbo denied a hearing!</line>
+				</sp>
+				<sp>
+					<speaker>Cne.</speaker>
+					<line>Ay, and Marcellus cast into prison, because he sued a friend of one of the
+						decemvirs for a sum of money he had lent him.</line>
+				</sp>
+				<sp>
+					<speaker>Ser.</speaker>
+					<line>And Appius resisted not? Appius, that in the first decemvirate was a god
+						to the people!</line>
+				</sp>
+				<sp>
+					<speaker>Cne.</speaker>
+					<line>Resisted not! Nay, was most loud in favour of the decree; but hither comes
+						Virginius, who interested himself so much in Carbo's affair. He looks a
+						little heated. Is not that Titus he is speaking to? Stand aside, master, and
+						listen.</line>
+					<stage> Enter <strong>Virginius</strong> and <strong>Titus</strong> . </stage>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>Why did you make him decemvir, and first decemvir too?</line>
+				</sp>
+				<sp>
+					<speaker>Tit.</speaker>
+					<line>We had tried him, and found him honest.</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>And could you not have remained content? Why try him again to find him
+						dishonest? Knew ye not he was a patrician, and of the Claudian
+						family?</line>
+				</sp>
+				<sp>
+					<speaker>Tit.</speaker>
+					<line>He laid down the consulate---</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>Ha! ha! ha!---to be elected into the decemvirate, and he was so; and he
+						laid down his office of decemvir to be re-elected into the decemvirate, and
+						he is so; ay, by Jupiter! and to the exclusion of his late colleagues! Did
+						not Titus Genutius lay down the consulate?</line>
+				</sp>
+				<sp>
+					<speaker>Tit.</speaker>
+					<line>He did.</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>Was he not next to Appius in the decemvirate?</line>
+				</sp>
+				<sp>
+					<speaker>Tit.</speaker>
+					<line> He was.</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>Did you not find him honest?</line>
+				</sp>
+				<sp>
+					<speaker>Tit.</speaker>
+					<line>We did find him honest.</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>As honest as Appius Claudius?</line>
+				</sp>
+				<sp>
+					<speaker>Tit.</speaker>
+					<line>Quite as honest.</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>Quite as honest!---and why not re-elect him decemvir? Most sapient people!
+						You re-elect Appius into the decemvirate for his honesty, and you thrust
+						Titus out of the decemvirate---I suppose for his honesty also! Why, Appius
+						was sick of the decemvirate.</line>
+				</sp>
+				<sp>
+					<speaker>Ser.</speaker>
+					<line>I never heard him say so.</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>But he did say so---say so in my hearing; in presence of the senators
+						Valerius and Caius Claudius, and I don't know how many others. 'Twas known
+						to the whole body of the senate---not that he was sick, but that he said so.
+						Yes, yes; he and his colleagues, he said, had done the work of the republic
+						for a whole year, and it was now but just to grant them a little repose, and
+						appoint others to succeed them.</line>
+				</sp>
+				<sp>
+					<speaker>Tit.</speaker>
+					<line>Well, well, we can only say he changed his mind.</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>No, no, we needn't say that neither! As he had laboured in the
+						decemvirate, perhaps he thought he might as well repose in the
+						decemvirate.</line>
+				</sp>
+				<sp>
+					<speaker>Tit.</speaker>
+					<line>I know not what he thought. He is decemvir, and we made him so, and cannot
+						help ourselves. Fare you well, Virginius. Come, let's to the Forum.</line>
+					<stage><strong>Titus, Servius</strong> , and <strong>Cneius</strong> go out.
+					</stage>
+				</sp>
+				<sp><speaker>Virginius.</speaker>
+					<line> </line> You cannot help yourselves! Indeed you cannot: <line>You help'd
+						to put your masters on your backs: </line>
+					<line>They like their seat, and make you show your paces. </line>
+					<line>They ride you---sweat you---curb you---lash you---and </line>
+					<line>You cannot throw them off with all your mettle! </line>
+					<line>But here comes one, whose share in giving you </line>
+					<line>To such unsparing riders, touches me </line>
+					<line>More nearly, for that I've an interest </line>
+					<line>In proving him a man of fair and most </line>
+					<line>Erect integrity. Good day, Icilius.</line>
+					<stage> Enter <strong>Icilius</strong> . </stage>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>Worthy Virginius! 'tis an evil day </line>
+					<line>For Rome, that gives her more convincing proof, </line>
+					<line>The thing, she took for hope, is but a base </line>
+					<line>And wretched counterfeit! Our new decemvirs </line>
+					<line>Are anything but friends to justice and </line>
+					<line>Their country.</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>You, Icilius, had a hand </line>
+					<line>In their election. You applied to me </line>
+					<line>To aid you with my vote in the comitia: </line>
+					<line>I told you then, and tell you, now, again, </line>
+					<line>I am not pleased when a patrician bends </line>
+					<line>His head to a plebeian's girdle. Mark me! </line>
+					<line>I'd rather he should stand aloof, and wear </line>
+					<line>His shoulder high---especially the nephew </line>
+					<line>Of Caius Claudius.</line>
+				</sp>
+				<sp><speaker>Icil.</speaker>
+					<line> </line> I would have pledged my life--- </sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>'Twas a high gage, and men have staked a higher </line>
+					<line>On grounds as poor as yours---their honour, boy! </line>
+					<line>Icilius, I have heard it all---your plans--- </line>
+					<line>The understanding 'twixt the heads of the people--- </line>
+					<line>Of whom, Icilius, you are reckon'd one, and </line>
+					<line>Worthily---and Appius Claudius---all!--- </line>
+					<line>'Twas every jot disclosed to me.</line>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>By whom?</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>Siccius Dentatus.</line>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>He disclosed it to you? </line>
+					<line>Siccius Dentatus is a crabbéd man.</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>Siccius Dentatus is an honest man! </line>
+					<line>There's not a worthier in Rome! How now! </line>
+					<line>Has he deceived me? Do you call him liar? </line>
+					<line>My friend! my comrade! honest Siccius, </line>
+					<line>That fought in six-score battles!</line>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>Good Virginius, </line>
+					<line>Siccius Dentatus is my friend---the friend </line>
+					<line>Of every honest man in Rome---a brave man--- </line>
+					<line>A most brave man. Except yourself, Virginius, </line>
+					<line>I do not know the man I prize above </line>
+					<line>Siccius Dentatus---yet he's a crabbéd man.</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>Yes, yes; he is a crabbéd man.</line>
+				</sp>
+				<sp><speaker>Icil.</speaker>
+					<line>A man </line>
+					<line> </line> Who loves too much to wear a jealous eye </sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>No, not a whit, where he sees double dealing. </line>
+					<line>You are the best judge of your own concerns; </line>
+					<line>Yet, if it please you to communicate </line>
+					<line>With me upon this subject, come and see me. </line>
+					<line>I told you, boy, I favour'd not this stealing </line>
+					<line>And winding into place. What he deserves, </line>
+					<line>An honest man dares challenge 'gainst the world--- </line>
+					<line>But come and see me. Appius Claudius, chosen </line>
+					<line>Decemvir, and his former colleagues, that </line>
+					<line>Were quite as honest as himself, not chosen--- </line>
+					<line>No, not so much as named by him, who named </line>
+					<line>Himself, and his new associates! Well, 'tis true, </line>
+					<line>Dog fights with dog, but honesty is not </line>
+					<line>A cur, that baits his fellow---and e'en dogs, </line>
+					<line>By habit of companionship, abide </line>
+					<line>In terms of faith and cordiality--- </line>
+					<line>But come and see me.</line>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>Appius comes! </line>
+					<line>The people still throng after him with shouts, </line>
+					<line>Unwilling to believe their Jupiter </line>
+					<line>Has mark'd them for his thunder. Will you stay, </line>
+					<line>And see the homage that they render him?</line>
+				</sp>
+				<sp><speaker>Virginius.</speaker>
+					<line>Not I! Stay you; and, as you made him, hail him; </line>
+					<line>And shout, and wave your hand, and cry, "Long live </line>
+					<line> </line> Our first and last decemvir, Appius Claudius!" <line>For he is
+						first and last, and every one! </line>
+					<line>Rome owes you much, Icilius---Fare you well--- </line>
+					<line>I shall be glad to see you at my house.</line>
+					<stage><strong>Virginius</strong> goes out. </stage>
+					<stage> Enter <strong>Appius Claudius, Siccius Dentatus, Lucius, Titus, Servius,
+							Marcus</strong> , and Citizens , shouting. </stage>
+				</sp>
+				<sp>
+					<speaker>Tit.</speaker>
+					<line>Long live our first decemvir! </line>
+					<line>Long live Appius Claudius! </line>
+					<line>Most noble Appius! Appius and the decemvirate for ever!</line>
+					<stage>Citizens shout. </stage>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>My countrymen and fellow-citizens, </line>
+					<line>We shall deserve your favour.</line>
+				</sp>
+				<sp>
+					<speaker>Tit.</speaker>
+					<line>You have deserved it, </line>
+					<line>And will deserve it.</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>For that end we named </line>
+					<line>Ourself decemvir.</line>
+				</sp>
+				<sp>
+					<speaker>Tit.</speaker>
+					<line>You could not have named a better man.</line>
+				</sp>
+				<sp>
+					<speaker>Den.</speaker>
+					<line>For his own purpose</line>
+					<stage>Aside.</stage>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Be assured, we hold </line>
+					<line>Our power but for your good. Your gift it was: </line>
+					<line>And gifts make surest debtors. Fare you well--- </line>
+					<line>And, for your salutations, pardon me </line>
+					<line>If I repay you only with an echo--- </line>
+					<line>Long live the worthy citizens of Rome!</line>
+					<stage><strong>Appius</strong> and friends go out. </stage>
+				</sp>
+				<sp>
+					<speaker>Den.</speaker>
+					<line> ---especially that of Appius Claudius! A most delicate echo!</line>
+				</sp>
+				<sp>
+					<speaker>Tit.</speaker>
+					<line>What means Dentatus?</line>
+				</sp>
+				<sp>
+					<speaker>Ser.</speaker>
+					<line>He's ever carping---nothing pleases him.</line>
+				</sp>
+				<sp>
+					<speaker>Den.</speaker>
+					<line>Oh! yes---you please me---please me mightily, I assure you.---You are
+						noble legislators, take most especial care of your own interests, bestow
+						your votes most wisely too---on him who has the wit to get you into the
+						humour; and, withal, have most musical voices---most musical---if one may
+						judge by their echo.</line>
+				</sp>
+				<sp>
+					<speaker>Tit.</speaker>
+					<line>Why, what quarrel have you with our choice? Could we have chosen
+						better?---I say they are ten honest decemvirs we have chosen.</line>
+				</sp>
+				<sp>
+					<speaker>Den.</speaker>
+					<line>I pray you name them me.</line>
+				</sp>
+				<sp>
+					<speaker>Tit.</speaker>
+					<line>There's Appius Claudius, first decemvir---</line>
+				</sp>
+				<sp>
+					<speaker>Den.</speaker>
+					<line>Ay, call him the head. You are right. Appius Claudius, the head. Go
+						on!</line>
+				</sp>
+				<sp>
+					<speaker>Tit.</speaker>
+					<line>And Quintus Fabius Vibulanus---</line>
+				</sp>
+				<sp>
+					<speaker>Den.</speaker>
+					<line>The body, that eats and drinks while the head thinks. Call him Appius's
+						stomach. Fill him, and keep him from cold and indigestion, and he'll never
+						give Appius the headache! Well?---There's excellent comfort in having a good
+						stomach! ---Well?</line>
+				</sp>
+				<sp>
+					<speaker>Tit.</speaker>
+					<line>There's Cornelius, Marcus Servilius, Minucius, and Titus
+						Antonius---</line>
+				</sp>
+				<sp>
+					<speaker>Den.</speaker>
+					<line>Arms, legs, and thighs!</line>
+				</sp>
+				<sp>
+					<speaker>Tit.</speaker>
+					<line> And Marcus Rabuleius---</line>
+				</sp>
+				<sp>
+					<speaker>Den.</speaker>
+					<line>He'll do for a hand, and, as he's a senator, we'll call him the
+						right-hand. We couldn't do less, you know, for a senator! Well?</line>
+				</sp>
+				<sp>
+					<speaker>Luc.</speaker>
+					<line>At least, you'll say we did well in electing Quintius Petilius, Caius
+						Duellius, and Spurius Oppius---men of our order!---sound men!---known
+						sticklers for the people.---At least you'll say we did well in that!</line>
+				</sp>
+				<sp>
+					<speaker>Den.</speaker>
+					<line>And who dares say otherwise? "Well!" one might as well say "ill" as
+						"well." "Well" is the very skirt of commendation; next neighbour to that
+						mire and gutter, "ill." "Well" indeed! you acted like yourselves. Nay, e'en
+						yourselves could not have acted better. Why, had you not elected them,
+						Appius would have gone without his left hand, and each of his two
+						feet!</line>
+				</sp>
+				<sp>
+					<speaker>Ser.</speaker>
+					<line>Out! you are dishonest!</line>
+				</sp>
+				<sp>
+					<speaker>Den.</speaker>
+					<line>Ha!</line>
+				</sp>
+				<sp>
+					<speaker>Ser.</speaker>
+					<line>What would content you?</line>
+				</sp>
+				<sp>
+					<speaker>Den.</speaker>
+					<line>A post in a hot battle. Out, you cur! Do you talk to me?</line>
+				</sp>
+				<sp>
+					<speaker>Citizen</speaker>
+					<stage>from behind.</stage>
+					<line>Down with him, he does nothing but insult the people.</line>
+				</sp>
+				<stage>The crowd approach <strong>Dentatus</strong>, threateningly.</stage>
+				<sp>
+					<speaker>Icil.</speaker>
+					<stage>Entering.</stage>
+					<line> uttered that dishonest word? Who uttered it, I say? Let him answer a
+						fitter, though less worthy, mate---Lucius Icilius.</line>
+				</sp>
+				<sp>
+					<speaker>Citizen.</speaker>
+					<line>Stand back, and hear Icilius.</line>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>What! haven't I voted for the decemvirs, and do I snarl at his jests? Has
+						he not a right to jest? the good, honest Siccius Dentatus, that, alone, at
+						the head of the veterans, vanquished the AEqui for you. Has he not a right
+						to jest? For shame!---Get to your houses! The worthy Dentatus! Cheer for
+						him, if you are Romans! Cheer for him before you go! Cheer for him, I
+						say!</line>
+					<stage>Citizens go out, shouting. </stage>
+				</sp>
+				<sp>
+					<speaker>Den.</speaker>
+					<line>And now, what thanks do you expect from me, Icilius?</line>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>None.</line>
+				</sp>
+				<sp>
+					<speaker>Den.</speaker>
+					<line>By Jupiter, young man, had you thus stepped before me in the heat of
+						battle, I should have cloven you down---but I'm obliged to you,
+						Icilius---and hark you! There's a piece of furniture in the house of a
+						friend of mine, that's called Virginius, I think you've set your heart
+						upon---dainty enough; yet not amiss for a young man to covet. Ne'er lose
+						your hopes! He may be brought into the mind to part with it. As to these
+						curs, I question which I value less, their fawnings or their snarlings. I
+						thank you, boy! Do you walk this way? I am glad of it. Come! 'Tis a noble
+						decemvirate you have chosen for us! Come!</line>
+				</sp>
+				<stage>They go out.</stage>
+			</div>
+			<div type="scene">
+				<head>SCENE II.</head>
+				<stage>---Virginius's House.</stage>
+				<stage> Enter <strong>Virginius</strong> and <strong>Servia</strong> . </stage>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>And is this all you have observed? I think </line>
+					<line>There's nothing strange in that. An L and an I </line>
+					<line>Twined with a V. Three very innocent letters </line>
+					<line>To have bred such mischief in thy brain, good Servia. </line>
+					<line>Come, read this riddle to me.</line>
+				</sp>
+				<sp>
+					<speaker>Servia.</speaker>
+					<line>You may laugh, </line>
+					<line>Virginius; but I'll read the riddle right. </line>
+					<line>The L doth stand for Lucius; and the I, </line>
+					<line>Icilius; which, I take it, will compose, </line>
+					<line>"Lucius Icilius."</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>So it will, good Servia.</line>
+				</sp>
+				<sp>
+					<speaker>Servia.</speaker>
+					<line>Then, for the V; why, that is plain, "Virginia."</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>And now, what conjuration find you here?</line>
+				</sp>
+				<sp>
+					<speaker>Servia.</speaker>
+					<line>What should I find, but love? The maid's in love; </line>
+					<line>In love, and it is with Icilius. Look, the wreath </line>
+					<line>Is made of roses, that entwines the letters.</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>And this is all?</line>
+				</sp>
+				<sp>
+					<speaker>Servia.</speaker>
+					<line>And is it not enough? </line>
+					<line>You'll find this figuring where'er you look: </line>
+					<line>There's not a piece of dainty work she does--- </line>
+					<line>Embroidery, or painting---not a task </line>
+					<line>She finishes, but on the skirt, or border, </line>
+					<line>In needle-work, or pencil, this, her secret, </line>
+					<line>The silly wench betrays.</line>
+				</sp>
+				<sp><speaker>Virginius.</speaker>
+					<line> </line> Go, send her to me--- <line>Stay! Have you spoken to her of
+						it?</line>
+				</sp>
+				<sp>
+					<speaker>Servia.</speaker>
+					<line>I! </line>
+					<line>Not I, indeed; I left that task to you--- </line>
+					<line>Though once I ask'd her what the letters meant. </line>
+					<line>She laugh'd, and drew a scratch across them; but </line>
+					<line>Had scarce done so, ere her fair visage fell, </line>
+					<line>For grief that she had spoil'd the ciphers---and </line>
+					<line>A sigh came out, and then almost a tear; </line>
+					<line>And then she look'd as piteous on the harm </line>
+					<line>That she had done, as she had done it to </line>
+					<line>A thing had sense to feel it. Never after </line>
+					<line>She let me note her at her work again. </line>
+					<line>She had good reason!</line>
+				</sp>
+				<sp><speaker>Virginius.</speaker>
+					<line>Send her to me, Servia. </line>
+					<stage><strong>Servia</strong> goes out. </stage>
+					<line>There's something here, that promises to bring me </line>
+					<line>Anticipation of my wish. I think </line>
+					<line>Icilius loves my daughter---nay, I know it; </line>
+					<line>And such a man would challenge for her husband;--- </line>
+					<line>And only waited, till her forward spring </line>
+					<line>Put on, a little more, the genial likeness </line>
+					<line>Of colouring into summer, ere I sought </line>
+					<line>To nurse a flower, which, blossoming too early, </line>
+					<line>Too early often dies; but if it springs </line>
+					<line>Spontaneous, and, unlook'd for, woos our hand </line>
+					<line> </line> To tend and cherish it, the growth is healthful; <line>And 'twere
+						untimely, as unkind, to check it. </line>
+					<line>I'll ascertain it shortly---soft, she comes.</line>
+					<stage> Enter <strong>Virginia</strong> . </stage>
+				</sp>
+				<sp>
+					<speaker>Virginia.</speaker>
+					<line>Well, father, what's your will?</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>I wish'd to see you, </line>
+					<line>To ask you of your tasks---how they go on--- </line>
+					<line>And what your masters say of you---what last </line>
+					<line>You did. I hope you never play </line>
+					<line>The truant?</line>
+				</sp>
+				<sp>
+					<speaker>Virginia.</speaker>
+					<line>The truant! No, indeed, Virginius.</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>I am sure you do not---kiss me!</line>
+				</sp>
+				<sp>
+					<speaker>Virginia.</speaker>
+					<line>O my father! </line>
+					<line>I am so happy when you're kind to me!</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>You are so happy when I'm kind to you! </line>
+					<line>Am I not always kind? I never spoke </line>
+					<line>An angry word to you in all my life, </line>
+					<line>Virginia! You are happy when I'm kind! </line>
+					<line>That's strange; and makes me think you have some reason </line>
+					<line>To fear I may be otherwise than kind--- </line>
+					<line>Is't so, my girl?</line>
+				</sp>
+				<sp>
+					<speaker>Virginia.</speaker>
+					<line>Indeed, I did not know </line>
+					<line>What I was saying to you!</line>
+				</sp>
+				<sp><speaker>Virginius.</speaker>
+					<line>Why, that's worse </line>
+					<line>And worse! What! when you said your father's kindness </line>
+					<line>Made you so happy, am I to believe </line>
+					<line> </line> You were not thinking of him? </sp>
+				<sp>
+					<speaker>Virginia.</speaker>
+					<line>I---</line>
+					<stage>Greatly confused.</stage>
+				</sp>
+				<sp><speaker>Virginius.</speaker>
+					<line>Go fetch me </line>
+					<line>The latest task you did. </line>
+					<stage><strong>Virginia</strong> goes out. </stage>
+					<line> </line> It is enough <line>Her artless speech, like crystal, shows the
+						thing </line>
+					<line>'Twould hide, but only covers. 'Tis enough! </line>
+					<line>She loves, and fears her father may condemn!</line></sp>
+				<sp>
+					<speaker>Virginia.</speaker>
+					<stage>Re-entering with a painting.</stage>
+					<line>Here, Sir.</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>What's this?</line>
+				</sp>
+				<sp>
+					<speaker>Virginia.</speaker>
+					<line>'Tis Homer's story, father, </line>
+					<line>Of brave Achilles parting from Briseis.</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>You have done it well. The colouring is good, </line>
+					<line>The figures well design'd. 'Tis very well!--- </line>
+					<line>Whose face is this you've given to Achilles?</line>
+				</sp>
+				<sp>
+					<speaker>Virginia.</speaker>
+					<line>Whose face?</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>I've seen this face! Tut! tut! I know it </line>
+					<line>As well as I do my own, yet can't bethink me </line>
+					<line>Whose face it is!</line>
+				</sp>
+				<sp>
+					<speaker>Virginia.</speaker>
+					<line>You mean Achilles' face?</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>Did I not say so! 'Tis the very face </line>
+					<line>Of---No! no! Not of him. There's too much youth </line>
+					<line>And comeliness, and too much fire, to suit </line>
+					<line>The face of Siccius Dentatus.</line>
+				</sp>
+				<sp><speaker>Virginia.</speaker>
+					<line>Oh! </line>
+					<line> </line> You surely never took it for his face! </sp>
+				<sp><speaker>Virginius.</speaker>
+					<line>Why, no; for now I look again, I'd swear </line>
+					<line>You lost the copy, ere you drew the head; </line>
+					<line>And, to requite Achilles for the want </line>
+					<line>Of his own face, contrived to borrow one </line>
+					<line> From Lucius Icilius.</line>
+					<stage>Enter <strong>Dentatus</strong> .] </stage> My Dentatus, <line>I am glad
+						to see you!</line>
+				</sp>
+				<sp>
+					<speaker>Den.</speaker>
+					<line>'Tis not for my news, then.</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>Your news! What news?</line>
+				</sp>
+				<sp>
+					<speaker>Den.</speaker>
+					<line>More violence and wrong from these new masters of ours---our noble
+						decemvirs---these demi-gods of the good people of Rome! No man's property is
+						safe from them. Nay, it appears we hold our wives and daughters but by the
+						tenure of their will. Their liking is the law. The senators themselves,
+						scared at their audacious rule, withdraw themselves to their villas, and
+						leave us to our fate. There are rumours, also, of new incursions by the
+						Sabines.</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>Rome never saw such days!</line>
+				</sp>
+				<sp>
+					<speaker>Den.</speaker>
+					<line>And she'll see worse, unless I fail in my reckoning. Is that Virginia? I
+						saw her not before. How does the fair Virginia? Why, she is quite a woman. I
+						was just now wishing for a daughter.</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>A plague, you mean.</line>
+				</sp>
+				<sp>
+					<speaker>Den.</speaker>
+					<line>I am sure you should not say so.</line>
+				</sp>
+				<sp><speaker>Virginia.</speaker>
+					<line>Indeed he should not; and he does not say so, </line>
+					<line> </line> Dentatus---not that I am not a plague, <line>But that he does not
+						think me one, for all </line>
+					<line>I do to weary him. I am sure, Dentatus, </line>
+					<line>If to be thought to do well is to do well, </line>
+					<line>There's nothing I do ill; but it is far </line>
+					<line>From that! for few things do I as I ought--- </line>
+					<line>Yet everything is well done with my father, </line>
+					<line>Dentatus.</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>That's well done, is it not, my friend? </line>
+					<stage>Aside.</stage>
+					<line>But if you had a daughter, what would you do with her?</line>
+				</sp>
+				<sp>
+					<speaker>Den.</speaker>
+					<line>I'd give her to Icilius. I should have been just now torn to pieces, but
+						for his good offices. The gentle citizens--- that are driven about by the
+						decemvirs' lictors, like a herd of tame oxen, and, with most beast-like
+						docility, only low applauses to them in return---would have done me the
+						kindness to knock my brains out; but the noble Icilius bearded them singly,
+						and railed them into temper. Had I a daughter worthy of such a husband, he
+						should have such a wife, and a patrician's dower along with her.</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line> touching the views of these new tyrants, that we are cursed withal, I
+						disclaim him as my friend! I cast him off for ever!</line>
+					<stage><strong>Virginius</strong> and <strong>Dentatus</strong> go out. </stage>
+				</sp>
+				<sp><speaker>Virginia.</speaker>
+					<line>How is it with my heart? I feel as one </line>
+					<line>That has lost everything, and just before </line>
+					<line>Had nothing left to wish for! He will cast </line>
+					<line>Icilius off!---I never told it yet; </line>
+					<line>But take of me, thou gentle air, the secret--- </line>
+					<line>And ever after breathe more balmy sweet--- </line>
+					<line>I love Icilius! Yes, although to thee </line>
+					<line>I fear to tell it, that hast neither eye </line>
+					<line>To scan my looks, nor voice to echo me, </line>
+					<line>Nor e'en an o'er-apt ear to catch my words; </line>
+					<line>Yet, sweet invisible confidant, my secret </line>
+					<line>Once being thine---I tell thee, and I'll tell thee </line>
+					<line>Again---and yet again. I love Icilius! </line>
+					<line>He'll cast Icilius off!---not if Icilius </line>
+					<line>Approve his honour. That he's sure to do; </line>
+					<line>He speaks, and looks, and moves a thing of honour, </line>
+					<line>Or honour never yet spoke, look'd, or moved, </line>
+					<line>Or was a thing of earth! O come, Icilius! </line>
+					<line>Do but appear, and thou art vindicated. </line>
+					<stage>
+						<strong>Icilius</strong> , entering. </stage>
+					<line>Virginia! sweet Virginia! Sure I heard </line>
+					<line>My name pronounced. Was it by thee, Virginia? </line>
+					<line> Thou dost not answer! Then it</line>
+					<em>was</em> by thee--- <line> </line> O! wouldst thou tell me why thou namedst
+					Icilius! </sp>
+				<sp>
+					<speaker>Virginia.</speaker>
+					<line>My father is incensed with thee. Dentatus </line>
+					<line>Has, told him of the new decemvirate, </line>
+					<line>How they abuse their office. You, he knows, </line>
+					<line>Have favour'd their election, and he fears </line>
+					<line>May have some understanding of their plans.</line>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>He wrongs me then!</line>
+				</sp>
+				<sp>
+					<speaker>Virginia.</speaker>
+					<line>I thank the gods!</line>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>For me! </line>
+					<line>Virginia? Do you thank the gods for me? </line>
+					<line>Your eye is moist---yet that may be for pity. </line>
+					<line>Your hand doth tremble---that may be for fear; </line>
+					<line>Your cheek is cover'd o'er with blushes! What, </line>
+					<line>O what can that be for?</line>
+				</sp>
+				<sp>
+					<speaker>Virginia.</speaker>
+					<line>Icilius, leave me!</line>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>Leave thee, Virginia! O, a word---a word </line>
+					<line>Trembles upon my tongue, which, if it match </line>
+					<line>The thought that moves thee, now, and thou wilt let me </line>
+					<line>Pronounce that word, to speak that thought for thee, </line>
+					<line>I'll breathe, though I expire in the ecstasy </line>
+					<line>Of uttering it.</line>
+				</sp>
+				<sp>
+					<speaker>Virginia.</speaker>
+					<line>Icilius, will you leave me?</line>
+				</sp>
+				<sp><speaker>Icil.</speaker>
+					<line>Love! Love! Virginia! Love!---If I have spoken </line>
+					<line>Thy thought aright, ne'er be it said again, </line>
+					<line>The heart requires more service than the tongue </line>
+					<line> </line> Can, at its best, perform. My tongue hath served <line>Two
+						hearts---but lest it should o'erboast itself, </line>
+					<line>Two hearts with but one thought! Virginia! </line>
+					<line>Virginia, speak! </line>
+					<stage><strong>Virginia</strong> covers her face with her hands. </stage>
+					<line> </line> O, I have loved thee long; <line>So much the more ecstatic my
+						delight, </line>
+					<line>To find thee mine at length.</line>
+				</sp>
+				<sp>
+					<speaker>Virginia.</speaker>
+					<line>My secret's yours. </line>
+					<line>Keep it and honour it, Icilius.</line>
+					<stage> Enter <strong>Virginius</strong> and <strong>Dentatus</strong> behind.
+					</stage>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>Icilius here!</line>
+				</sp>
+				<sp>
+					<speaker>Virginia.</speaker>
+					<line>I ask thee now to leave me!</line>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>Leave thee! who leaves a treasure he has coveted </line>
+					<line>So long, and found so newly, ere he scans it </line>
+					<line>Again, and yet again; and asks and answers, </line>
+					<line>Repeats and answers, answers and repeats, </line>
+					<line>The half-mistrustful half-assured question--- </line>
+					<line>And is it mine, indeed?</line>
+				</sp>
+				<sp>
+					<speaker>Virginia.</speaker>
+					<line>Indeed! indeed! </line>
+					<line>Now leave me!</line>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>I must see thy father first, </line>
+					<line>And lay my soul before him.</line>
+				</sp>
+				<sp>
+					<speaker>Virginia.</speaker>
+					<line>Not to-night!</line>
+				</sp>
+				<sp><speaker>Icil.</speaker>
+					<line>Now worse than ever, dear Virginia! </line>
+					<line>Can I endure his doubts; I'll lay my soul </line>
+					<line>Naked before him---win his friendship quite, </line>
+					<line> </line> Or lose myself for ever. <stage>Going, is met by
+							<strong>Virginius</strong> . </stage>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>Stop, Icilius! </line>
+					<line>Thou seest that hand? It is a Roman's, boy; </line>
+					<line>'Tis sworn to liberty---It is the friend </line>
+					<line>Of honour. Dost thou think so?</line>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>Do I think Virginius owns that hand!</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>Then you'll believe </line>
+					<line>It has an oath deadly to tyranny, </line>
+					<line>And is the foe of falsehood! By the gods, </line>
+					<line>Knew it the lurking-place of treason, though </line>
+					<line>It were a brother's heart, 'twould drag the caitiff </line>
+					<line>Forth. Darest thou take that hand?</line>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>I dare, Virginius.</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>Then take it! Is it weak in thy embrace? </line>
+					<line>Returns it not thy gripe? Thou wilt not hold </line>
+					<line>Faster by it than it will hold by thee! </line>
+					<line>I overheard thee say, thou wast resolved </line>
+					<line>To win my friendship quite---Thou canst not win </line>
+					<line>What's thine already! You will stay, my boy, </line>
+					<line>And sup with us to-night?</line>
+				</sp>
+				<sp>
+					<speaker>Den.</speaker>
+					<line>To be sure he will!</line>
+				</sp>
+				<sp><speaker>Virginius.</speaker>
+					<line>And, hark you, Sir, </line>
+					<line>At your convenient time, appoint a day </line>
+					<line>Your friends and kinsmen may confer with me--- </line>
+					<line>There is a bargain I would strike with you. </line>
+					<line> </line> Come, to the supper-room. Do you wait for me <line>To lead
+						Virginia in, or will you do it? </line>
+					<line>Come on, I say; come on. Your hand, Dentatus.</line></sp>
+				<stage>They go out.</stage>
+			</div>
+		</div>
+		<div type="act">
+			<head>ACT II.</head>
+			<div type="scene">
+				<head>SCENE I.</head>
+				<stage>---A Street.</stage>
+				<stage> Enter <strong>Publius</strong> and <strong>Sextus</strong> . </stage>
+				<sp>
+					<speaker>Pub.</speaker>
+					<line>This way! We muster at the Flaminian gate.</line>
+				</sp>
+				<sp>
+					<speaker>Sext.</speaker>
+					<line>Shall we not wait for Decius?</line>
+				</sp>
+				<sp>
+					<speaker>Pub.</speaker>
+					<line>No; were he ten times Decius.---They'll have already begun their march.
+						Come on!</line>
+					<stage> Enter <strong>Numitorius</strong> . </stage>
+				</sp>
+				<sp>
+					<speaker>Num.</speaker>
+					<line>Do you belong to the fourth legion?</line>
+				</sp>
+				<sp>
+					<speaker>Pub.</speaker>
+					<line>We do.</line>
+				</sp>
+				<sp>
+					<speaker>Num.</speaker>
+					<line>They are upon their march, then?</line>
+				</sp>
+				<sp>
+					<speaker>Pub.</speaker>
+					<line>I told you so---Come on! come on!</line>
+					<stage>Soldiers go out.</stage>
+					<stage> Enter <strong>Lucius</strong> . </stage>
+				</sp>
+				<sp>
+					<speaker>Luc.</speaker>
+					<line>Numitorius, what soldiers were those that just now parted from you?</line>
+				</sp>
+				<sp>
+					<speaker>Num.</speaker>
+					<line>Soldiers hastening to overtake the army, that's now upon its march.</line>
+				</sp>
+				<sp>
+					<speaker>Luc.</speaker>
+					<line>'Tis all confirmed, then; the Sabines are in force upon our
+						borders.</line>
+				</sp>
+				<sp>
+					<speaker>Num.</speaker>
+					<line>I pray you tell me something new! Know you not that the senate has met,
+						and that the decemvirs have come off triumphant, in spite of all
+						opposition?</line>
+				</sp>
+				<sp>
+					<speaker>Luc.</speaker>
+					<line>Should they have been opposed in such a strait as this?</line>
+				</sp>
+				<sp>
+					<speaker>Num.</speaker>
+					<line>Ay, should they! They dared not have armed a single citizen without the
+						order of the senate; which, had they not obtained, the country would have
+						been left naked to the foe; and, then, they had been forced to make room for
+						more popular magistrates.</line>
+				</sp>
+				<sp>
+					<speaker>Luc.</speaker>
+					<line>Why were they not opposed, then?</line>
+				</sp>
+				<sp>
+					<speaker>Num.</speaker>
+					<line> Appius's own uncle, and Honorius, that noble senator, opposed them; and
+						it was like to go against them, but for the brawling insolence of Spurius
+						Oppius, and the effrontery of the head decemvir, backed by the young
+						patricians.</line>
+				</sp>
+				<sp>
+					<speaker>Luc.</speaker>
+					<line>So they are empowered to take up arms?</line>
+				</sp>
+				<sp>
+					<speaker>Num.</speaker>
+					<line>To be sure they are; and they have done so. One body has already marched,
+						and by this time, no doubt, has come to blows with the enemy. The levy is
+						still proceeding. All the decemvirs, but Appius, take the field. He remains
+						in Rome to keep good order, that is the violator of all order. Why, where
+						have you been, Lucius, to have felt no movement of so great and wide a stir?
+						Your brother meets Virginius at his house to-day. Come with me thither, for
+						you I know are bid. Lucius, there's no huzzaing for your decemvirs now. Come
+						on! 'Tis close upon the hour.</line>
+				</sp>
+				<stage>They go out.</stage>
+			</div>
+			<div type="scene">
+				<head>SCENE II.</head>
+				<stage>---Virginius's House.</stage>
+				<stage> Enter <strong>Virginius, Icilius, Numitorius, Lucius</strong> , and others. </stage>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>Welcome, Icilius! Welcome, friends! Icilius, </line>
+					<line>I hoped to speak with you, to-day, of feasting </line>
+					<line>And merriment, but war is now the word; </line>
+					<line>One that unlovingly keeps time with mirth, </line>
+					<line>Unless war's own---when the fierce fight is won, </line>
+					<line>And, safe carousing, comrades drink to victory!</line>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>Virginius! have you changed your mind?</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>My mind? </line>
+					<line>What mind? How now! Are you that boy, Icilius, </line>
+					<line>You set your heart so earnestly upon </line>
+					<line>A dish of poor confections, that to balk you </line>
+					<line>Makes you look blank! I did design to feast you </line>
+					<line>Together with your friends. The times are changed--- </line>
+					<line>The march, the tent, the fight becomes us now!</line>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>Virginius!</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>Well!</line>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>Virginius!</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>How the boy </line>
+					<line>Reiterates my name!</line>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>There's not a hope </line>
+					<line>I have but is the client of Virginius!</line>
+				</sp>
+				<sp><speaker>Virginius.</speaker>
+					<line>Well, well! I only meant to put it off! </line>
+					<line>We'll have the revel yet! the board shall smoke! </line>
+					<line>The cup shall sparkle, and the jest shall soar </line>
+					<line> </line> And mock us from the roof! Will that content you? <line>Not till
+						the war be done, though---Yet, ere then, </line>
+					<line>Some tongue, that now needs only wag to make </line>
+					<line>The table ring, may have a tale to tell </line>
+					<line>So petrifying, that it cannot utter it! </line>
+					<line>I'll make all sure, that you may be my guest </line>
+					<line>At any rate---although you should be forced </line>
+					<line>To play the host for me and feast yourself. </line>
+					<line> Look here,</line>
+					<stage>shows a parchment to <strong>Icilius</strong> ] </stage>
+					<line>How think you?---Will it meet the charge? </line>
+					<line>Will it not do? We want a witness, though! </line>
+					<line>I'll bring one; of whom if you approve, I'll sign </line>
+					<line>The bond. I'll wait upon you instantly.</line>
+					<stage>Goes out.</stage>
+				</sp>
+				<sp>
+					<speaker>Luc.</speaker>
+					<line>How feel you now, Icilius?</line>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>Like a man </line>
+					<line>Whom the next moment makes or quite unmakes. </line>
+					<line>With the intensity of exquisite </line>
+					<line>Suspense, my breathing thickens, and my heart </line>
+					<line>Beats heavily, and with remittent throb, </line>
+					<line>As like to lose its action---See! my hope </line>
+					<line>Is bless'd! I live! I live!</line>
+					<stage> Enter <strong>Virginius</strong> , conducting <strong>Virginia</strong>
+						, with <strong>Numitorius</strong> . </stage>
+				</sp>
+				<sp><speaker>Virginius.</speaker>
+					<line>You are my witnesses, </line>
+					<line>That this young creature I present to you, </line>
+					<line>I boast of, as my profitably cherish'd, </line>
+					<line>And most deservedly belovéd child; </line>
+					<line> </line> My daughter truly filial---both in word <line>And act---yet even
+						more in act than word; </line>
+					<line>And---for the man who hopes to win her hand--- </line>
+					<line>A virgin, from whose lips a soul as pure </line>
+					<line>Exhales, as e'er responded to the blessing </line>
+					<line> Breathed in a parent's kiss.</line>
+					<stage>Kissing her.]</stage> Icilius! <stage><strong>Icilius</strong> rushes
+						towards <strong>Virginius</strong> , and kneels. </stage>
+					<line> </line> Since <line>You are upon your knee, young man, look up; </line>
+					<line>And lift your hand to heaven---You will be all </line>
+					<line>Her father has been---added unto all </line>
+					<line>A lover would be!</line>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>All that man should be </line>
+					<line>To woman, I will be to her!</line>
+				</sp>
+				<sp><speaker>Virginius.</speaker>
+					<line>The oath </line>
+					<line>Is register'd! Didst thou but know, young man, </line>
+					<line>How fondly I have watch'd her, since the day </line>
+					<line>Her mother died, and left me to a charge </line>
+					<line>Of double duty bound---how she hath been </line>
+					<line>My ponder'd thought by day, my dream by night, </line>
+					<line>My prayer, my vow, my offering, my praise, </line>
+					<line>My sweet companion, pupil, tutor, child!--- </line>
+					<line>Thou wouldst not wonder that my drowning eye, </line>
+					<line>And choking utterance, upbraid my tongue </line>
+					<line>That tells thee, she is thine!---Icilius, </line>
+					<line>I now betroth her to thee! When the war </line>
+					<line> </line> Is done---you shall espouse her. Friends, a word!
+							<stage><strong>Virginius</strong> and the rest retire. </stage>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>Virginia! my Virginia! I am all </line>
+					<line>Dissolved---o'erpower'd with the munificence </line>
+					<line>Of this auspicious hour---and thou, nor movest--- </line>
+					<line>Nor look'st---nor speak'st---to bless me with a sign </line>
+					<line>Of sweet according joy!---I love thee, but </line>
+					<line>To make thee happy! If to make thee so </line>
+					<line>Be bliss denied to me---lo, I release </line>
+					<line>The gifted hand---that I would faster hold, </line>
+					<line>Than wretches, bound for death, would cling to life. </line>
+					<line>If thou wouldst take it back---then take it back.</line>
+				</sp>
+				<sp>
+					<speaker>Virginia.</speaker>
+					<line>I take it back---to give it thee again!</line>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>O help me to a word to speak my bliss, </line>
+					<line>Or I am beggar'd---No! There's no such word! </line>
+					<line>There cannot be; for never man had bliss </line>
+					<line>Like mine to name!</line>
+				</sp>
+				<sp>
+					<speaker>Virginia.</speaker>
+					<line>Thou dost but beggar me, </line>
+					<line>Icilius, when thou makest thyself a bankrupt; </line>
+					<line>Placing a value on me far above </line>
+					<line>My real little worth.---I'd help thee to </line>
+					<line>A hundred words; each one of which would far </line>
+					<line>O'er-rate thy gain, and yet no single one </line>
+					<line>Rate over high!</line>
+				</sp>
+				<sp><speaker>Icil.</speaker>
+					<line>Thou couldst not do it! No; </line>
+					<line>Thou couldst not do it! Every term of worth </line>
+					<line> </line> Writ down and doubled, then the whole summ'd up, <line>Would
+						leave with thee a rich remainder still!--- </line>
+					<line>Pick from each rarer pattern of thy sex </line>
+					<line>Her rarest charm, till thou hast every charm </line>
+					<line>Of soul and body that can blend in woman, </line>
+					<line>I would out-paragon the paragon </line>
+					<line>With thee!</line>
+				</sp>
+				<sp>
+					<speaker>Virginia.</speaker>
+					<line>And if thou wouldst, I'd find thee, for </line>
+					<line>Thy paragon, a mate---if that can be </line>
+					<line>A mate which beats the thing 'tis ta'en to match--- </line>
+					<line>One that would make thy paragon look poor--- </line>
+					<line>And I would call that so o'ermatching mate </line>
+					<line>"Icilius."</line>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>No! I will not let thee win </line>
+					<line>On such a theme as this!</line>
+				</sp>
+				<sp>
+					<speaker>Virginia.</speaker>
+					<line>Nor will I drop </line>
+					<line>The controversy, that the richer makes me </line>
+					<line>The more I lose!</line>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>My sweet Virginia, </line>
+					<line>We do but lose and lose, and win and win; </line>
+					<line>Playing for nothing but to lose and win. </line>
+					<line>Then let us drop the game---and thus I stop it.</line>
+					<stage>Kisses her.</stage>
+					<stage> Re-enter <strong>Virginius</strong> , and the others. </stage>
+				</sp>
+				<sp><speaker>Virginius.</speaker>
+					<line>Witness, my friends, that seal! Observe, it is </line>
+					<line>A living one! It is Icilius' seal; </line>
+					<line>And stamp'd upon as true and fair a bond--- </line>
+					<line> </line> Though it receive the impress blushingly--- <line>As ever signet
+						kiss'd! Are all content? </line>
+					<line>Speak else! She is thy free affianced wife, </line>
+					<line>Thou art her free affianced husband! Come, </line>
+					<line>We have o'erdrawn our time---Farewell, Virginia; </line>
+					<line>Thy future husband for a time must be </line>
+					<line>Bellona's. To thy tasks, again, my child; </line>
+					<line>Be thou the bride of study for a time. </line>
+					<line>Farewell!</line>
+				</sp>
+				<sp>
+					<speaker>Virginia.</speaker>
+					<line>My father!</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>May the gods protect thee!</line>
+				</sp>
+				<sp>
+					<speaker>Virginia.</speaker>
+					<line>My father!</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>Does the blood forsake thy cheek? </line>
+					<line>Come to my arms once more! Remember, girl, </line>
+					<line>The first and foremost debt a Roman owes </line>
+					<line>Is to his country; and it must be paid, </line>
+					<line>If need be, with his life.---Why, how you hold me! </line>
+					<line>Icilius, take her from me! Servia! </line>
+					<line>Come, boy.</line>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>Farewell, Virginia!</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<stage>To <strong>Servia</strong> .</stage>
+					<line>Take her in!</line>
+				</sp>
+				<sp>
+					<speaker>Virginia.</speaker>
+					<line>The gods be with thee, my Icilius! Father, </line>
+					<line>The gods be with thee---and Icilius.</line>
+				</sp>
+				<sp><speaker>Virginius.</speaker>
+					<line>Come! I swear a battle might be fought and won </line>
+					<line>In half the time! Now, once for all, farewell! </line>
+					<line> </line> Your sword and buckler, boy! The foe! the foe! <line>Does he not
+						tread on Roman ground! Come on! </line>
+					<line>Come on!---Charge on him!---Drive him back, or die!</line></sp>
+				<stage>They go out.</stage>
+			</div>
+			<div type="scene">
+				<head>SCENE III.</head>
+				<stage>---Appius's House.</stage>
+				<stage> Enter <strong>Appius.</strong>
+				</stage>
+				<sp>
+					<speaker>Appius.</speaker>
+					<line>It was a triumph, the achieving which </line>
+					<line>O'erpaid the hazard that we ran---though great. </line>
+					<line>They have made trial of their strength, and learn'd </line>
+					<line>Its value from defeat. The senate knows </line>
+					<line>Its masters now; and the decemvirate, </line>
+					<line>To make its reign eternal, only needs </line>
+					<line>Its own decree. Ere this the saucy foe </line>
+					<line>Has met the chastisement he merited; </line>
+					<line>Which turns his bold assault to shameful flight, </line>
+					<line>Leaving us, henceforth, leisure to enjoy </line>
+					<line>The boundless harvest of our glorious daring! </line>
+					<line>Tyranny thrives in Rome! O Tyranny! </line>
+					<line>How godlike is thy port! Thou givest and takest, </line>
+					<line>And ask'st no other leave, than what thy own </line>
+					<line>Imperial will accords. Jove does no more! </line>
+					<line>Now, Claudius---</line>
+				</sp>
+				<stage> Enter <strong>Claudius.</strong>
+				</stage>
+				<sp>
+					<speaker>Claud.</speaker>
+					<line>We have suffer'd a defeat!</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>What! The decemvirs fly!</line>
+				</sp>
+				<sp>
+					<speaker>Claud.</speaker>
+					<line>The soldiers fight </line>
+					<line>With only half a heart. The other half </line>
+					<line>Looks on, and cares not which side proves the winner.</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Then decimate them. Traitors! Recreants! </line>
+					<line>Why, we shall have them at our very doors! </line>
+					<line>Have we lost ground, my Claudius?</line>
+				</sp>
+				<sp><speaker>Claud.</speaker>
+					<line> </line> None, except <line>What we've retraced in fame. We strove to
+						teach </line>
+					<line>The enemy their road lay backwards, but </line>
+					<line>They would not turn their faces for us. Each </line>
+					<line>Retains his former line.</line>
+					<stage> Enter <strong>Marcus</strong> . </stage>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>What news?</line>
+				</sp>
+				<sp>
+					<speaker>Mar.</speaker>
+					<line>The AEqui </line>
+					<line>Still press upon us. Rumours are afloat </line>
+					<line>Of new disasters, which the common cry, </line>
+					<line>Be sure, still multiplies and swells. Dentatus, </line>
+					<line>That over-busy, crabbéd veteran, </line>
+					<line>Walks up and down among the people, making </line>
+					<line>Your plans his theme of laughter. Nought he stints </line>
+					<line>That may reflect you in an odious light, </line>
+					<line>And lower the decemvirate.</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>A dungeon </line>
+					<line>Would do good service to him! Once within, </line>
+					<line>Strangling were easy! We must stop his mouth--- </line>
+					<line>Unwholesome food---or liquor---Where was he </line>
+					<line>When last you heard him?</line>
+				</sp>
+				<sp>
+					<speaker>Marc.</speaker>
+					<line>In the Forum.</line>
+				</sp>
+				<sp><speaker>App.</speaker>
+					<line>So! </line>
+					<line>He is past service, is he not? Some way </line>
+					<line>To clear the city of him. Come, we'll hear him, </line>
+					<line>And answer him, and silence him! 'Tis well </line>
+					<line> </line> The dog barks forth his spleen! It puts us on <line>Our guard
+						against his bite. Come to the Forum!</line></sp>
+				<stage>They go out.</stage>
+			</div>
+			<div type="scene">
+				<head>SCENE IV.</head>
+				<stage>---The Forum.</stage>
+				<stage> Enter <strong>Dentatus</strong> , with <strong>Titus, Servius</strong> , and
+					Citizens . </stage>
+				<sp>
+					<speaker>Tit.</speaker>
+					<line>What's to be done?</line>
+				</sp>
+				<sp>
+					<speaker>Den.</speaker>
+					<line>We'll be undone---that's to be done.</line>
+				</sp>
+				<sp>
+					<speaker>Ser.</speaker>
+					<line>We'll do away with the decemvirate.</line>
+				</sp>
+				<sp>
+					<speaker>Den.</speaker>
+					<line>You'll do away with the decemvirate?---The decemvirate will do away with
+						you! You'll do away with yourselves! Do nothing!---The enemy will do away
+						with both of you. In another month a Roman will be a stranger in Rome. A
+						fine pass we are come to, masters!</line>
+				</sp>
+				<sp>
+					<speaker>Tit.</speaker>
+					<line>But something must be done.</line>
+				</sp>
+				<sp>
+					<speaker>Den.</speaker>
+					<line>Why, what would you have? You shout and clap your hands, as if it were a
+						victory you heard of; and yet you cry--- Something must be done! Truly, I
+						know not what that something is, unless it be to make you General. How say
+						you, masters?</line>
+				</sp>
+				<sp>
+					<speaker>Ser.</speaker>
+					<line>We'd follow any man that knew how to lead us, and would rid us of our
+						foes, and the decemvirate together.</line>
+				</sp>
+				<sp>
+					<speaker>Den.</speaker>
+					<line> faces you make at it!</line>
+				</sp>
+				<sp>
+					<speaker>Tit.</speaker>
+					<line>But tell us the news again.</line>
+				</sp>
+				<sp>
+					<speaker>Den.</speaker>
+					<line>Is it so good? Does it so please you? Then prick your ears again, and
+						listen. We have been beaten again--- beaten back on our own soil. Rome has
+						seen its haughty masters fly before chastisement, like slaves---returning
+						cries for blows---and all this of your decemvirs, gentlemen!</line>
+				</sp>
+				<sp>
+					<speaker>1st Cit.</speaker>
+					<line>Huzza for it again!</line>
+				</sp>
+				<stage>The people shout.</stage>
+				<sp>
+					<speaker>2nd Cit.</speaker>
+					<line>Hush! Appius comes.</line>
+				</sp>
+				<sp>
+					<speaker>Den.</speaker>
+					<line> ---I say, to the eternal infamy of Rome, the foe has chased her sons,
+						like hares, on their own soil, where they should prey like lions---and so
+						they would, had they not keepers to tame them.</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>What's that you are saying to the people, Siccius Dentatus?</line>
+				</sp>
+				<sp>
+					<speaker>Den.</speaker>
+					<line>I am regaling them with the news.</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>The news?</line>
+				</sp>
+				<sp>
+					<speaker>Den.</speaker>
+					<line> eagle in the talons of the kite?</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>It is not well done in you, Dentatus, to chafe a sore. It makes it rankle.
+						If your surgery has learned no better, it should keep its hands to itself!
+						You have very little to do, to busy yourself after this fashion.</line>
+				</sp>
+				<sp>
+					<speaker>Den.</speaker>
+					<line>I busy myself as I like, Appius Claudius.</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>I know you do, when you labour to spread disaffection among the people,
+						and bring the decemvirs into contempt.</line>
+				</sp>
+				<sp>
+					<speaker>Den.</speaker>
+					<line>The decemvirs bring themselves into contempt.</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Ha! dare you say so?</line>
+				</sp>
+				<sp>
+					<speaker>Den.</speaker>
+					<line>Dare! I have dared cry "Come on!" to a cohort of bearded warriors---Is it
+						thy smooth face should appal me? Dare!---It never yet flurried me to use my
+						arm---Shall I not, think you, be at my ease when I but wag my tongue? Dare,
+						indeed!</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Your grey hairs should keep company with honester speech!</line>
+				</sp>
+				<sp>
+					<speaker>Den.</speaker>
+					<line> These are the vouchers of honest deeds---Such is the speech with which my
+						grey hairs keep company. I tell you, to your teeth, the decemvirs bring
+						themselves into contempt.</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>What, are they not serving their country at the head of her armies?</line>
+				</sp>
+				<sp>
+					<speaker>Den.</speaker>
+					<line> I'd name for thee a hundred centurions would make better generals! A
+						common soldier of a year's active service would take his measures better!
+						Generals! Our generals were wont to teach us how to win battles.---Tactics
+						are changed; your generals instruct us how to lose them.</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Do you see my lictors?</line>
+				</sp>
+				<sp>
+					<speaker>Den.</speaker>
+					<line>There are twelve of them.</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>What if I bid them seize thee?</line>
+				</sp>
+				<sp>
+					<speaker>Den.</speaker>
+					<line>They'd blush to do it.</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Why now, Dentatus, I begin to know you; </line>
+					<line>I fancied you a man that loved to vent </line>
+					<line>His causeless anger in an under-breath, </line>
+					<line>And speak it in the ear---and only then </line>
+					<line>When there was safety! Such a one, you'll own, </line>
+					<line>Is dangerous; and to be trusted, as </line>
+					<line>A friend or foe, unworthy. But I see </line>
+					<line>You rail to faces! Have you not so much </line>
+					<line>Respect for Appius as to take him by </line>
+					<line>The hand, when he confesses you have some </line>
+					<line>Pretence to quarrel with his colleagues' plans, </line>
+					<line>And find fault with himself?---which yet, you'll own, </line>
+					<line>May quite as well be kindly done, Dentatus, </line>
+					<line>As harshly. Had you only to myself </line>
+					<line>Declared your discontents, the more you had rail'd, </line>
+					<line>The more I should have thank'd you.</line>
+				</sp>
+				<sp><speaker>Den.</speaker>
+					<line> </line> Had I thought--- </sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>And have you been campaigning, then, so long, </line>
+					<line>And prosperously---and mistrust you, Siccius, </line>
+					<line>That a young scarless soldier, like myself, </line>
+					<line>Would listen to your tutoring? See, now, </line>
+					<line>How much you have mistaken me! Dentatus, </line>
+					<line>In a word---Can you assist the generals, </line>
+					<line>And will you?</line>
+				</sp>
+				<sp>
+					<speaker>Den.</speaker>
+					<line>I have all the will---but as </line>
+					<line>For the ability---</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Tut! tut! Dentatus, </line>
+					<line>You vex me now. This coyness sits not well on you! </line>
+					<line>You know as well as I, you have as much </line>
+					<line>Ability as will. I would not think you </line>
+					<line>A man that loved to find fault, but to find it! </line>
+					<line>Surely the evil you complain of, you </line>
+					<line>Would lend a hand to remedy! See, now, </line>
+					<line>'Tis fairly put to you---what say you?</line>
+				</sp>
+				<sp>
+					<speaker>Den.</speaker>
+					<line>Appius, </line>
+					<line>You may use me as you please.</line>
+				</sp>
+				<sp><speaker>App.</speaker>
+					<line>And that will be, </line>
+					<line>As you deserve. I'll send you, as my legate, </line>
+					<line> To the army.</line>
+					<stage>Shouts from the people.]</stage> Do you hear your friends, Dentatus?
+						<line>A lucky omen, that! Away! away! </line>
+					<line>Apprise your house---Prepare for setting out. </line>
+					<line> </line> I'll hurry your credentials. Minutes now <line>Rate high as
+						hours! Assist my colleagues with </line>
+					<line>Your counsel; if their plans displease you, why </line>
+					<line>Correct them---change them---utterly reject them. </line>
+					<line>And if you meet obstruction, notice me, </line>
+					<line>And I will push it by. There, now! Your hand! </line>
+					<line>Again! Away! All the success attend you </line>
+					<line>That Appius wishes you!</line>
+				</sp>
+				<sp>
+					<speaker>Den.</speaker>
+					<line>Success is from </line>
+					<line>The gods, whose hand soe'er it pleases them </line>
+					<line>To send it by. I know not what success </line>
+					<line>'Tis Appius' wish they send; but this I know </line>
+					<line>I am a soldier; and, as a soldier, I </line>
+					<line>Am bound to serve. All the success I ask, </line>
+					<line>Is that which benefits my country, Appius.</line>
+					<stage><strong>Dentatus</strong> goes out. </stage>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line> You've served her over long!</line>
+					<stage>Aside.</stage>
+					<line>Now for our causes.</line>
+				</sp>
+				<stage><strong>Appius</strong> ascends the tribunal. </stage>
+				<sp>
+					<speaker>Claud.</speaker>
+					<stage>To <strong>Marcus</strong> .</stage>
+					<line>Do you see the drift of this?</line>
+				</sp>
+				<sp>
+					<speaker>Marc.</speaker>
+					<line>I cannot guess it.</line>
+				</sp>
+				<sp>
+					<speaker>Claud.</speaker>
+					<line>Nor I.</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<stage>To a Plebeian.</stage>
+					<line>Are you the suitor in this cause? </line>
+					<line>Speak!</line>
+				</sp>
+				<sp>
+					<speaker>Plebeian.</speaker>
+					<line>Noble Appius, if there's law in Rome, </line>
+					<line>To right a man most injured, to that law </line>
+					<line>Against you proud patrician I appeal.</line>
+				</sp>
+				<sp><speaker>App.</speaker>
+					<line>No more of that, I say! Because he's rich </line>
+					<line> </line> And great, you call him proud! 'Tis not unlike <line>Because
+						you're poor and mean, you call yourself </line>
+					<line>Injured. Relate your story; and, so please you, </line>
+					<line>Spare epithets.</line>
+				</sp>
+				<sp>
+					<speaker>Plebeian.</speaker>
+					<line>Grant me a minute's pause, </line>
+					<line>And I'll begin.</line>
+					<stage><strong>Virginia</strong> at this moment crosses the stage with her
+						Nurse, and is met by <strong>Numitorius</strong> , who holds her in
+						conversation: <strong>Appius</strong> rivets his eyes upon her. </stage>
+				</sp>
+				<sp>
+					<speaker>Num.</speaker>
+					<line>You have heard the news?</line>
+				</sp>
+				<sp>
+					<speaker>Virginia.</speaker>
+					<line>What news, dear uncle?</line>
+				</sp>
+				<sp>
+					<speaker>Num.</speaker>
+					<line>Step </line>
+					<line>Aside with me, I'll tell you.</line>
+					<stage>Takes her a little farther from the tribunal.</stage>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Can it be </line>
+					<line>A mortal that I look upon?</line>
+				</sp>
+				<sp>
+					<speaker>Virginia.</speaker>
+					<line>They are safe! </line>
+					<line>I thank the gods!</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Her eyes look up to heaven </line>
+					<line>Like something kindred to it---rather made </line>
+					<line>To send their glances down, and fill the earth </line>
+					<line>With worship and with gratulation. What </line>
+					<line>A thrill runs up and down my veins, and all </line>
+					<line>Throughout me!</line>
+				</sp>
+				<sp>
+					<speaker>Plebeian.</speaker>
+					<line>Now, most noble Appius---</line>
+				</sp>
+				<sp><speaker>App.</speaker>
+					<line>Stop! </line>
+					<line>Put off the cause; I cannot hear it, now. </line>
+					<line>Attend to-morrow. An oppressive closeness </line>
+					<line>Allows me not to breathe. Lictors! make clear </line>
+					<line> </line> The ground about the rostrum! <stage>Descends, and approaches
+							<strong>Claudius</strong> with precipitation. </stage>
+					<line>Claudius! Claudius!--- </line>
+					<line>Marcus, go you and summon my physician </line>
+					<line>To be at home before me. </line>
+					<stage><strong>Marcus</strong> goes out. </stage>
+					<line>Claudius, look!</line>
+				</sp>
+				<sp>
+					<speaker>Virginia.</speaker>
+					<line>You send a messenger to-night?</line>
+				</sp>
+				<sp>
+					<speaker>Num.</speaker>
+					<line>I do.</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Paint me that smile! I never saw a smile </line>
+					<line>Till now. My Claudius, is she not a wonder? </line>
+					<line>I know not whether in the state of girlhood </line>
+					<line>Or womanhood to call her. 'Twixt the two </line>
+					<line>She stands, as that were loath to lose her, this </line>
+					<line>To win her most impatient. The young year </line>
+					<line>Trembling and blushing 'twixt the striving kisses </line>
+					<line>Of parting spring and meeting summer, seems </line>
+					<line>Her only parallel!</line>
+				</sp>
+				<sp>
+					<speaker>Num.</speaker>
+					<line>'Tis well! I'll send </line>
+					<line>Your father word of this. But have you not </line>
+					<line>A message to Icilius?</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Mark you, Claudius? </line>
+					<line><em>There</em> is a blush! I must possess her.</line>
+				</sp>
+				<sp>
+					<speaker>Virginia.</speaker>
+					<line>Tell him, </line>
+					<line>I think upon him. Farewell, Numitorius!</line>
+					<stage>Goes out with <strong>Servia</strong> . </stage>
+				</sp>
+				<sp>
+					<speaker>Num.</speaker>
+					<line>Farewell, Virginia.</line>
+				</sp>
+				<sp><speaker>Claud.</speaker>
+					<line>Master, will you tell me </line>
+					<line> </line> The name of that young maiden? </sp>
+				<sp>
+					<speaker>Num.</speaker>
+					<line>She is call'd </line>
+					<line>Virginia, daughter of Virginius; </line>
+					<line>A Roman citizen, and a centurion </line>
+					<line>Now with the army.</line>
+				</sp>
+				<sp>
+					<speaker>Claud.</speaker>
+					<line>She is very like </line>
+					<line>The daughter of a friend of mine. Farewell.</line>
+					<stage><strong>Numitorius</strong> goes out. </stage>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>I burn, my Claudius! brain and heart---there's not </line>
+					<line>A fibre in my body but's on fire! </line>
+					<line>With what a gait she moves! Such was not Hebe, </line>
+					<line>Or Jupiter had sooner lost his heaven, </line>
+					<line>Than changed his cupbearer! A step like that </line>
+					<line>The rapture-glowing clouds might well bear up, </line>
+					<line>And never take for human! Find me, Claudius, </line>
+					<line>Some way to compass the possession of her!</line>
+				</sp>
+				<sp>
+					<speaker>Claud.</speaker>
+					<line>'Tis difficult---her father's of repute; </line>
+					<line>The highest of his class.</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>I guess'd it! Friends </line>
+					<line>Are ever friends, except when they are needed.</line>
+				</sp>
+				<sp>
+					<speaker>Claud.</speaker>
+					<line>Nay, Appius!</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>If thou canst not give me hope, </line>
+					<line>Be dumb!</line>
+				</sp>
+				<sp>
+					<speaker>Claud.</speaker>
+					<line>A female agent may be used </line>
+					<line>With some success.</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>How? How?</line>
+				</sp>
+				<sp><speaker>Claud.</speaker>
+					<line> </line> To tamper with <line>That woman who attends her.</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Set about it.</line>
+				</sp>
+				<sp>
+					<speaker>Claud.</speaker>
+					<line>Could she but be induced to help you to </line>
+					<line>A single meeting with her---</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Claudius! Claudius! </line>
+					<line>Effect but that!</line>
+				</sp>
+				<sp>
+					<speaker>Claud.</speaker>
+					<line>I'll instantly about it.</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Spare not my gold---nor stop at promises. </line>
+					<line>I will fulfil them fast as thou canst make them. </line>
+					<line>To purchase such a draught of ecstasy </line>
+					<line>I'd drain a kingdom---Set about it, Claudius! </line>
+					<line>Away! I will not eat, nor drink, nor sleep, </line>
+					<line>Until I hear from thee!</line>
+				</sp>
+				<sp>
+					<speaker>Claud.</speaker>
+					<line>Depend upon me!</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>I do, my Claudius, for my life---my life!</line>
+				</sp>
+				<stage>They go out severally.</stage>
+			</div>
+		</div>
+		<div type="act">
+			<head>ACT III.</head>
+			<div type="scene">
+				<head>SCENE I.</head>
+				<stage>---Appius's House.</stage>
+				<sp>
+					<speaker>Appius</speaker>
+					<stage>entering.</stage>
+					<line>It is not love, if what I've felt before </line>
+					<line>And call'd by such a name be love---a thing </line>
+					<line>That took its turn---that I could entertain, </line>
+					<line>Put off, or humour. 'Tis some other thing; </line>
+					<line>Or if the same, why in some other state--- </line>
+					<line>Or I am not the same---or it hath found </line>
+					<line>Some other part of sensibility </line>
+					<line>More quick, whereon to try its power, and there </line>
+					<line>Expends it all! Now, Claudius, your success?</line>
+				</sp>
+				<stage>Enter <strong>Claudius</strong>.</stage>
+				<sp>
+					<speaker>Claud.</speaker>
+					<line>Nothing would do, yet nothing left undone! </line>
+					<line>She was not to be purchased.</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Did she guess---</line>
+				</sp>
+				<sp>
+					<speaker>Claud.</speaker>
+					<line>She could not. </line>
+					<line>So guarded was my agent; who described you </line>
+					<line>A man of power, of noble family, </line>
+					<line>And regal fortune---one that ask'd not what </line>
+					<line>His pleasures cost---no further made disclosure.</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>And did it nothing move her, Claudius?</line>
+				</sp>
+				<sp><speaker>Claud.</speaker>
+					<line>Nothing. </line>
+					<line>The more my agent urged, the more the shrunk </line>
+					<line>And wither'd hag grew callous. Further press'd </line>
+					<line>And with more urgent importuning; ire </line>
+					<line>And scorn, in imprecations and invectives, </line>
+					<line>Vented upon the monster---as she call'd him--- </line>
+					<line> </line> That would pollute her child, compell'd my advocate <line>To drop
+						the suit she saw was hopeless.</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Now </line>
+					<line>Had I a friend indeed!</line>
+				</sp>
+				<sp>
+					<speaker>Claud.</speaker>
+					<line>Has Appius need </line>
+					<line>To search for such a friend, and Claudius by him?</line>
+				</sp>
+				<sp><speaker>App.</speaker>
+					<line>Friends ever are provisionally friends--- </line>
+					<line>Friends for so far---friends just to such a point, </line>
+					<line>And then "farewell!"---friends with an understanding--- </line>
+					<line>As "should the road be pretty safe"---"the sea </line>
+					<line> Not over-rough," and so on---friends of</line>
+					<em>ifs</em>
+					<line> And</line>
+					<em>buts</em> ---no friends! O could I find the man <line>Would be a simple
+						thorough-going friend!</line>
+				</sp>
+				<sp>
+					<speaker>Claud.</speaker>
+					<line>I thought you had one, Appius.</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>So thought Appius, </line>
+					<line>Till Appius thought upon a test of friendship, </line>
+					<line>He fears he would not render to himself, </line>
+					<line>Could he be Appius' friend.</line>
+				</sp>
+				<sp>
+					<speaker>Claud.</speaker>
+					<line>Then Appius has </line>
+					<line>A truer friend than Appius is to Appius. </line>
+					<line>I'll give that test!</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>What! you'd remove her father </line>
+					<line>And that Icilius whom you told me of?</line>
+				</sp>
+				<sp>
+					<speaker>Claud.</speaker>
+					<line>Count it a thing already done.</line>
+				</sp>
+				<sp><speaker>App.</speaker>
+					<line>My Claudius! </line>
+					<line> </line> Can I believe it? Art thou such a friend, <line>That, when I
+						look'd for thee to stop and leave me, </line>
+					<line>I find thee, keeping with me, step by step; </line>
+					<line>And even in thy loving eagerness </line>
+					<line>Outstriding me?---I do not want thee, Claudius, </line>
+					<line>To soil thy hand with their plebeian blood.</line>
+				</sp>
+				<sp>
+					<speaker>Claud.</speaker>
+					<line>What wouldst thou, then?</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>I was left guardian to thee---</line>
+				</sp>
+				<sp>
+					<speaker>Claud.</speaker>
+					<line>Thou wast.</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Among the various property </line>
+					<line>Thy father left were many female slaves.</line>
+				</sp>
+				<sp>
+					<speaker>Claud.</speaker>
+					<line>Well?</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>It were easy for thee, were it not, </line>
+					<line>To invent a tale that one of them confess'd </line>
+					<line>She had sold a female infant (and, of course, </line>
+					<line>Thy slave) unto Virginius' wife, who pass'd it </line>
+					<line>Upon Virginius as his daughter, which </line>
+					<line>Supposititious offspring is this same </line>
+					<line>Virginia.</line>
+				</sp>
+				<sp>
+					<speaker>Claud.</speaker>
+					<line>I conceive you.</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>To induce </line>
+					<line>Your agent to confirm your tale would cost </line>
+					<line>But small persuasion. Is it done?</line>
+				</sp>
+				<sp><speaker>Claud.</speaker>
+					<line>This hour! </line>
+					<line>I'll find the school, my Appius, where Virginia </line>
+					<line> </line> Pursues her studies. Thither I'll repair, <line>And seize her as
+						my slave, at once. Do thou </line>
+					<line>Repair to thy tribunal, whither, should </line>
+					<line>Her friends molest me in the attempt, I'll bring her, </line>
+					<line>And plead my cause before thee.</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Claudius! Claudius! </line>
+					<line>How shall I pay thee? O, thou noble friend! </line>
+					<line>Power, fortune, life, whate'er belongs to Appius, </line>
+					<line>Reckon as thine! Away, away, my Claudius!</line>
+				</sp>
+				<stage>They go out severally.</stage>
+			</div>
+			<div type="scene">
+				<head>SCENE II.</head>
+				<stage>---A Street in Rome.</stage>
+				<stage> Enter <strong>Lucius</strong> , meeting <strong>Titus, Servius</strong> ,
+					and <strong>Cneius</strong> . </stage>
+				<sp>
+					<speaker>Luc.</speaker>
+					<line>Well, masters, any news of Siccius Dentatus from the camp, how he was
+						received by the decemvirs?</line>
+				</sp>
+				<sp>
+					<speaker>Tit.</speaker>
+					<line>He was received well by the decemvirs.</line>
+				</sp>
+				<sp>
+					<speaker>Cne.</speaker>
+					<line>It wasn't then for the love they bear him.</line>
+				</sp>
+				<sp>
+					<speaker>Tit.</speaker>
+					<line>But they expect he'll help them to return the cuffs they have gotten from
+						the enemy.</line>
+				</sp>
+				<sp>
+					<speaker>Ser.</speaker>
+					<line>Do you wish for a victory?</line>
+				</sp>
+				<sp>
+					<speaker>Luc.</speaker>
+					<line>Yes, if Dentatus wins it. 'Tis to our credit, masters ---He's one of
+						us.</line>
+				</sp>
+				<sp>
+					<speaker>Ser.</speaker>
+					<line>And is not Spurius Oppius one of us?</line>
+				</sp>
+				<sp>
+					<speaker>Luc.</speaker>
+					<line>He is; but he's in league with the patricians---that is, the patrician
+						decemvirs. He is but half a plebeian, and that is the worst half. The better
+						half he threw away when he became half a patrician. I never liked your
+						half-and-half gentry; they generally combine the bad of both kinds, without
+						the good of either.</line>
+				</sp>
+				<sp>
+					<speaker>Ser.</speaker>
+					<line>Well, we shall have news presently. Your brother, Icilius, has just
+						arrived with despatches from the camp. I met him passing through the Forum,
+						and asked him what news he brought. He answered, none; but added, we might
+						look for news of another kind than what we had been lately accustomed to
+						hear.</line>
+					<stage>A shriek without.</stage>
+				</sp>
+				<sp>
+					<speaker>Cne.</speaker>
+					<line>What's that!</line>
+				</sp>
+				<sp>
+					<speaker>Tit.</speaker>
+					<line>Look yonder, masters! See!</line>
+				</sp>
+				<sp>
+					<speaker>Ser.</speaker>
+					<line> 'Tis Appius's client dragging a young woman along with him.</line>
+				</sp>
+				<sp>
+					<speaker>Tit.</speaker>
+					<line>Let us stand by each other, masters, and prevent him.</line>
+					<stage> Enter <strong>Claudius</strong> , dragging along
+							<strong>Virginia</strong> , followed by <strong>Servia</strong> and
+						others. </stage>
+				</sp>
+				<sp>
+					<speaker>Servia.</speaker>
+					<line>Help! help! help!</line>
+				</sp>
+				<sp>
+					<speaker>Luc.</speaker>
+					<line>Let go your hold!</line>
+				</sp>
+				<sp>
+					<speaker>Claud.</speaker>
+					<line>Stand by! </line>
+					<line>She is my slave!</line>
+				</sp>
+				<sp>
+					<speaker>Servia.</speaker>
+					<line>His slave? Help! help! His slave?--- </line>
+					<line>He looks more like a slave than she! Good masters! </line>
+					<line>Protect the daughter of Virginius!</line>
+				</sp>
+				<sp>
+					<speaker>Luc.</speaker>
+					<line>Release the maid.</line>
+				</sp>
+				<sp>
+					<speaker>Tit.</speaker>
+					<line>Forbear this violence.</line>
+				</sp>
+				<sp>
+					<speaker>Claud.</speaker>
+					<line>I call for the assistance of the laws; </line>
+					<line>She is my slave.</line>
+				</sp>
+				<sp>
+					<speaker>Servia.</speaker>
+					<line>She is my daughter, masters, </line>
+					<line>My foster-daughter; and her mother was </line>
+					<line>A free-born woman---and her father is </line>
+					<line>A citizen!---a Roman!---good Virginius, </line>
+					<line>As I said before---Virginius, the centurion, </line>
+					<line>Whom all of you must know.---Help! help! I say. </line>
+					<line>You see she cannot speak to help herself; </line>
+					<line>Speak for her, masters---help her, if you're men!</line>
+				</sp>
+				<sp>
+					<speaker>Tit.</speaker>
+					<line>Let go your hold!</line>
+				</sp>
+				<sp>
+					<speaker>Claud.</speaker>
+					<line>Obstruct me at your peril!</line>
+				</sp>
+				<sp>
+					<speaker>Luc.</speaker>
+					<line>We'll make you, if you will not!</line>
+				</sp>
+				<sp><speaker>Claud.</speaker>
+					<line> </line> Let me pass! </sp>
+				<sp>
+					<speaker>Ser.</speaker>
+					<line>Let go your hold, once more!</line>
+				</sp>
+				<sp>
+					<speaker>Claud.</speaker>
+					<line>Good masters! patience--- </line>
+					<line>Hear me, I say---She is my slave---I wish not </line>
+					<line>To use this violence, my friends; but may not </line>
+					<line>A master seize upon his slave?---Make way, </line>
+					<line>Or such of you as are dissatisfied, </line>
+					<line>Repair with me to the decemvir.---Come, </line>
+					<line>I only want my right!</line>
+				</sp>
+				<sp>
+					<speaker>Tit.</speaker>
+					<line>Come on, then!</line>
+				</sp>
+				<sp>
+					<speaker>Ser.</speaker>
+					<line>Ay, </line>
+					<line>To the decemvir!</line>
+				</sp>
+				<sp>
+					<speaker>Servia.</speaker>
+					<line>Run, run for Numitorius!---Alarm our neighbours! ---Call out Icilius'
+						friends!---I shall go mad! Help! help! help!</line>
+				</sp>
+				<stage>They go out.</stage>
+			</div>
+			<div type="scene">
+				<head>SCENE III.</head>
+				<stage>---The Forum.</stage>
+				<stage> Enter <strong>Appius</strong>, preceded by Lictors. </stage>
+				<sp><speaker>App.</speaker>
+					<line>Will he succeed?---Will he attempt it?---Will he </line>
+					<line> Go through with it?---</line>
+					<stage>Looking out]</stage> ---No sign---I almost wish <line>He had not
+						undertaken it; yet wish, </line>
+					<line>More than I wish for life, he may accomplish </line>
+					<line>What he has undertaken. O! the pause </line>
+					<line>That precedes action! It is vacancy </line>
+					<line>That o'erweighs action's substance. What I fear </line>
+					<line>Most is the hour. My blind impatience saw not </line>
+					<line>'Twas day! Her all-persuasive charms, alone </line>
+					<line>Will gather round her, from the passers-by </line>
+					<line>Troops to her succour!---What, then, with the aid </line>
+					<line>Of cries and tears, enforcing their appeal? </line>
+					<stage>Listens.</stage>
+					<line>That sound brings feet in haste!---He brings her, but </line>
+					<line>Behemm'd with friends!---Now, play for love, </line>
+					<line>As boldly as for power! I must prepare </line>
+					<line>For his reception.</line>
+					<stage><strong>Appius</strong> ascends the tribunal--- <strong>Claudius</strong>
+						enters, still holding <strong>Virginia</strong> , followed by
+							<strong>Servia</strong> , Women, and Citizens . </stage>
+				</sp>
+				<sp>
+					<speaker>Claud.</speaker>
+					<line>Do not press upon me; </line>
+					<line>Here's the decemvir---he will satisfy you, </line>
+					<line>Whether a master has a right, or not, </line>
+					<line>To seize his slave whene'er he finds her.</line>
+				</sp>
+				<sp><speaker>Servia.</speaker>
+					<line>Slave! </line>
+					<line>She is no slave. Thou liest to call her so! </line>
+					<line>She never was a slave! Thou worse than slave! </line>
+					<line>To give her such a name---Ay! threaten me! </line>
+					<line> </line> She is a free-born maid, and not a slave, <line>Or never was a
+						free-born maid in Rome! </line>
+					<line>O! you shall dearly answer for it!</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Peace! </line>
+					<line>What quarrel's this? Speak, those who are aggrieved.</line>
+					<stage> Enter <strong>Numitorius</strong> . </stage>
+				</sp>
+				<sp>
+					<speaker>Num.</speaker>
+					<line>Where is Virginia---Wherefore do you hold </line>
+					<line>That maiden's hand?</line>
+				</sp>
+				<sp>
+					<speaker>Claud.</speaker>
+					<line>Who asks the question?</line>
+				</sp>
+				<sp>
+					<speaker>Num.</speaker>
+					<line>I! </line>
+					<line>Her uncle Numitorius!</line>
+				</sp>
+				<sp><speaker>Claud.</speaker>
+					<line>Numitorius, </line>
+					<line>You think yourself her uncle---Numitorius, </line>
+					<line>No blood of yours flows in her veins, to give you </line>
+					<line>The title that you claim. Most noble Appius! </line>
+					<line>If you sit here for justice, as I hope </line>
+					<line>You do, attend not to the clamour of </line>
+					<line> This man, who calls himself this damsel's</line>
+					<em>uncle</em> . <line>She is my property---was born beneath </line>
+					<line>My father's roof, whose slave her mother was, </line>
+					<line>Who---as I can establish past dispute--- </line>
+					<line>Sold her, an infant, to Virginius' wife, </line>
+					<line>Who never had a child, and heavily </line>
+					<line>Revolved her barrenness. My slave I have found </line>
+					<line>And scized---as who that finds his own (no matter </line>
+					<line>How long so ever miss'd) should fear to take it? </line>
+					<line> </line> If they oppose my claim, let them produce <line>Their
+						counter-proofs, and bring the cause to trial! </line>
+					<line>But till they prove I know not what's mine own--- </line>
+					<line>An undertaking somewhat perilous--- </line>
+					<line>Mine own I shall retain---yet giving them, </line>
+					<line>Should they demand it, what security </line>
+					<line>They please for re-producing her.</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Why that </line>
+					<line>Would seem but reasonable.</line>
+				</sp>
+				<sp><speaker>Num.</speaker>
+					<line>Reasonable! </line>
+					<line>Claudius! </line>
+					<stage>With much vehemence---recollects himself.]</stage>
+					<line> </line> He's but a mask upon the face <line> Of some more powerful
+						contriver.</line>
+					<stage>Aside.]</stage> Appius, <line>My niece's father is from Rome, thou
+						know'st, </line>
+					<line>Serving his country. Is it not unjust, </line>
+					<line>In the absence of a citizen, to suffer </line>
+					<line>His right to his own child to be disputed? </line>
+					<line>Grant us a day to fetch Virginius, </line>
+					<line>That he himself may answer this most foul </line>
+					<line>And novel suit---Meanwhile, to me belongs </line>
+					<line>The custody of the maid. Her uncle's house </line>
+					<line>Can better answer for her honour than </line>
+					<line>The house of Claudius. 'Tis the law of Rome, </line>
+					<line>Before a final sentence, the defendant </line>
+					<line>May not sustain in what he still possesses </line>
+					<line> </line> Disturbance from the plaintiff. </sp>
+				<sp>
+					<speaker>Tit.</speaker>
+					<line>A just law.</line>
+				</sp>
+				<sp>
+					<speaker>Ser.</speaker>
+					<line>And a most reasonable demand.</line>
+				</sp>
+				<sp>
+					<speaker>All the Citizens.</speaker>
+					<line>Ay! Ay! Ay!</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Silence, you citizens! Will you restrain </line>
+					<line>Your tongues, and give your magistrate permission </line>
+					<line>To speak? The law is just---most reasonable--- </line>
+					<line>I framed that law myself---I will maintain </line>
+					<line>That law!</line>
+				</sp>
+				<sp>
+					<speaker>Tit.</speaker>
+					<line>Most noble Appius!</line>
+				</sp>
+				<sp>
+					<speaker>Ser.</speaker>
+					<line>A most just decree!</line>
+				</sp>
+				<sp>
+					<speaker>All the Citizens.</speaker>
+					<line>Ay! Ay!</line>
+				</sp>
+				<sp><speaker>App.</speaker>
+					<line>Will you be silent? Will you please to wait </line>
+					<line>For my decree, you most untractable </line>
+					<line>And boisterous citizens! Yes; I repeat, </line>
+					<line>I framed that law myself, and will maintain it. </line>
+					<line>But are you, Numitorius, here defendant? </line>
+					<line>That title none but the reputed father </line>
+					<line>Of the young woman has a right to---How </line>
+					<line>Can I commit to thee what may appear </line>
+					<line>The plaintiff's property; and, if not his, </line>
+					<line>Still, is not thine? I'll give thee till to-morrow </line>
+					<line>Ere I pass a final judgment---But the girl </line>
+					<line>Remains with Claudius, who shall bind himself </line>
+					<line>In such security as you require, </line>
+					<line> </line> To re-produce her at the claim of him <line>Who calls her
+						daughter---This is my decree.</line>
+				</sp>
+				<sp>
+					<speaker>Num.</speaker>
+					<line>A foul decree.---Shame! Shame!</line>
+				</sp>
+				<sp>
+					<speaker>Ser.</speaker>
+					<line>Ay, a most foul decree.</line>
+				</sp>
+				<sp>
+					<speaker>Cne.</speaker>
+					<line>A villanous decree.</line>
+				</sp>
+				<sp>
+					<speaker>Ser.</speaker>
+					<line>Most villanous.</line>
+				</sp>
+				<sp><speaker>Servia.</speaker>
+					<line>Good citizens, what do you with our weapons, </line>
+					<line>When you should use your own? Your hands!---your hands! </line>
+					<line>He shall not take her from us! </line>
+					<line>Gather round her, </line>
+					<line>And if he touch her, be it to his cost! </line>
+					<line>And if ye see him touch her, never more </line>
+					<line>Expect from us your titles---never more </line>
+					<line>Be husbands, brothers, lovers, at our mouths, </line>
+					<line>Or anything that doth imply the name </line>
+					<line> Of men---except such men as</line>
+					<em>men</em> should blush for. </sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Command your wives and daughters, citizens, </line>
+					<line>They quit the Forum!</line>
+				</sp>
+				<sp>
+					<speaker>Servia.</speaker>
+					<line>They shall not command us, </line>
+					<line>That care not to protect us!</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Take the girl, </line>
+					<line>If she is yours.</line>
+				</sp>
+				<sp>
+					<speaker>Claud.</speaker>
+					<line>Stand by!</line>
+				</sp>
+				<sp>
+					<speaker>Virginia.</speaker>
+					<line>O save me! save me!</line>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<stage>entering</stage>. <line>Virginia's voice!---Virginia!</line>
+					<stage>Rushes to her.</stage>
+				</sp>
+				<sp><speaker>Virginia.</speaker>
+					<line> </line> O, Icilius! <stage>Falls fainting in his arms.</stage>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>Take her, good Numitorius.</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>You had better </line>
+					<line>Withdraw, Icilius; the affair is judged.</line>
+				</sp>
+				<sp>
+					<speaker>Claud.</speaker>
+					<line>I claim my slave.</line>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>Stand back, thou double slave! </line>
+					<line>Touch her, and I will tear thee limb from limb, </line>
+					<line>Before thy master's face.---She is my wife, </line>
+					<line>My life, my heart, my heart's blood.---Touch her </line>
+					<line>With but a look---</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>My lictors, there, advance! </line>
+					<line>See that Icilius quits the Forum.---Claudius, </line>
+					<line>Secure your slave.</line>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>Lictors, a moment pause </line>
+					<line>For your own sakes! Do not mistake these arms! </line>
+					<line>Think not the strength of any common man </line>
+					<line>Is that they feel! They serve a charméd frame, </line>
+					<line>The which a power pervades, that ten times trebles </line>
+					<line>The natural energy of each single nerve </line>
+					<line>To sweep you down as reeds.</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Obey my orders!</line>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>Appius! before I quit the Forum, let me </line>
+					<line>Address a word to you.</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Be brief, then!</line>
+				</sp>
+				<sp><speaker>Icil.</speaker>
+					<line>Brief! </line>
+					<line> </line> Is't not enough you have deprived us, Appius, <line>Of the two
+						strongest bulwarks to our liberties, </line>
+					<line>Our tribunes and our privilege of appeal </line>
+					<line>To the assembly of the people? Cannot </line>
+					<line>The honour of the Roman maids be safe? </line>
+					<line>Know, then, this virgin is betroth'd to me, </line>
+					<line>Wife of my hope---Thou shalt not cross my hope </line>
+					<line>And I retain my life---Attempt it not! </line>
+					<line>I stand among my fellow-citizens--- </line>
+					<line>His fellow-soldiers hem Virginius round, </line>
+					<line>Both men and gods are on our side! But grant </line>
+					<line>I stood alone, with nought but virtuous love </line>
+					<line>To hearten me---alone would I defeat </line>
+					<line>The execution of thy infamous </line>
+					<line>Decree! I'll quit the Forum now, but not </line>
+					<line>Alone!---My love! my wife! my free-born maid--- </line>
+					<line>The virgin standard of my pride and manhood, </line>
+					<line>Of peerless motto! rich, and fresh, and shining, </line>
+					<line>And of device most rare and glorious! </line>
+					<line>I'll bear off safe with me---unstain'd---untouch'd!</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Your duty, lictors---Claudius, look to your right!</line>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>True citizens!</line>
+				</sp>
+				<sp>
+					<speaker>Tit.</speaker>
+					<line>Down with the traitor!</line>
+				</sp>
+				<sp>
+					<speaker>Ser.</speaker>
+					<line>Down with him---Slay him!</line>
+					<stage>The Lictors and <strong>Claudius</strong> are driven back;
+							<strong>Claudius</strong> takes refuge at <strong>Appius's</strong>
+						feet, who has descended, and throws up his arms as a signal to both parties
+						to desist ---whereupon the people retire a little. </stage>
+				</sp>
+				<sp><speaker>App.</speaker>
+					<line>So, friends! we thank you that you don't deprive us </line>
+					<line> </line> Of everything; but leave your magistrates <line>At least their
+						persons sacred---Their decrees, </line>
+					<line>It seems, you value as you value straws, </line>
+					<line>And in like manner break them. Wherefore stop </line>
+					<line>When you have gone so far? You might, methinks, </line>
+					<line>As well have kill'd my client, at my feet; </line>
+					<line>As threaten'd him with death before my face! </line>
+					<line>Rise, Claudius! I perceive Icilius' aim:--- </line>
+					<line>He labours to restore the tribuneship </line>
+					<line>By means of a sedition! We'll not give him </line>
+					<line>The least pretence of quarrel. We shall wait </line>
+					<line>Virginius's arrival till to-morrow. </line>
+					<line>His friends take care to notice him---The camp's </line>
+					<line>But four hours' journey from the city. Till </line>
+					<line>To-morrow, then, let me prevail with you </line>
+					<line>To yield up something of your right, and let </line>
+					<line>The girl remain at liberty.</line>
+				</sp>
+				<sp>
+					<speaker>Claud.</speaker>
+					<line>If they </line>
+					<line>Produce security for her appearance, </line>
+					<line>I am content.</line>
+				</sp>
+				<sp>
+					<speaker>Tit.</speaker>
+					<line>I'll be your security.</line>
+				</sp>
+				<sp>
+					<speaker>Ser.</speaker>
+					<line>And I.</line>
+				</sp>
+				<sp>
+					<speaker>Cit.</speaker>
+					<line>We'll all be your security.</line>
+					<stage>They hold up their hands.</stage>
+				</sp>
+				<sp><speaker>Icil.</speaker>
+					<line>My friends, </line>
+					<line>And fellow-citizens, I thank you; but </line>
+					<line> </line> Reserve your kindness for to-morrow, friends, <line>If Claudius
+						still persist---To-day I hope </line>
+					<line>He will remain content with my security, </line>
+					<line>And that of Numitorius, for the maid's </line>
+					<line>Appearance.</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>See she do appear!---and come </line>
+					<line>Prepared to pay the laws more reverence, </line>
+					<line>As I shall surely see that they receive it.</line>
+					<stage><strong>Appius, Claudius</strong> , and Lictors go out. </stage>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>Look up! look up! my sweet Virginia, </line>
+					<line>Look up! look up! You will see none but friends. </line>
+					<line>O that such eyes should e'er meet other object!</line>
+				</sp>
+				<sp>
+					<speaker>Virginia.</speaker>
+					<line>Icilius! Uncle! lead me home! Icilius, </line>
+					<line>You did not think to take a slave to wife?</line>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>I thought, and think to wed a free-born maid; </line>
+					<line>And thou, and thou alone, art she, Virginia!</line>
+				</sp>
+				<sp>
+					<speaker>Virginia.</speaker>
+					<line>I feel as I were so---I do not think </line>
+					<line>I am his slave! Virginius not my father! </line>
+					<line>Virginius, my dear father, not my father! </line>
+					<line>It cannot be; my life must come from him; </line>
+					<line>For, make him not my father, it will go </line>
+					<line>From me.---I could not live an he were not </line>
+					<line>My father.</line>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>Dear Virginia, calm thy thoughts--- </line>
+					<line>But who shall warn Virginius?</line>
+				</sp>
+				<sp><speaker>Num.</speaker>
+					<line>I've ta'en care </line>
+					<line> </line> Of that; no sooner heard I of this claim, <line>Than I despatch'd
+						thy brother Lucius, </line>
+					<line>Together with my son, to bring Virginius, </line>
+					<line>With all the speed they could; and caution'd them--- </line>
+					<line>As he is something over-quick of temper, </line>
+					<line>And might snatch justice, rather than sue for it--- </line>
+					<line>To evade communication of the cause, </line>
+					<line>And merely say his presence was required, </line>
+					<line>Till we should have him with us. Come, Virginia; </line>
+					<line>Thy uncle's house shall guard thee, till thou find'st </line>
+					<line>Within thy father's arms a citadel, </line>
+					<line>Whence Claudius cannot take thee!</line>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>He shall take </line>
+					<line>A thousand lives first.</line>
+				</sp>
+				<sp>
+					<speaker>Tit.</speaker>
+					<line>Ay, ten thousand lives.</line>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>Hear you, Virginia! Do you hear your friends?</line>
+				</sp>
+				<sp><speaker>Virginia.</speaker>
+					<line> Let him take</line>
+					<em>my</em> life first! I am content <line>To be his slave then---if I am his
+						slave!</line>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>Thou art a free-born Roman maid, Virginia; </line>
+					<line>All Rome doth know thee so, Virginia--- </line>
+					<line>All Rome will see thee so.</line>
+				</sp>
+				<sp>
+					<speaker>Cit.</speaker>
+					<line>We will! We will!</line>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>You'll meet us here to-morrow?</line>
+				</sp>
+				<sp>
+					<speaker>Cit.</speaker>
+					<line>Every man!</line>
+				</sp>
+				<sp><speaker>Icil.</speaker>
+					<line>Cease not to clamour 'gainst this outrage. Tell it </line>
+					<line> </line> In every corner of the city; and <line>Let no man call himself a
+						son of Rome </line>
+					<line>Who stands aloof, when tyranny assails </line>
+					<line>Her fairest daughter. Come, Virginia, </line>
+					<line>'Tis not a private, but a common wrong; </line>
+					<line>'Tis every father's, lover's, freeman's cause; </line>
+					<line>To-morrow, fellow-citizens! to-morrow!</line>
+				</sp>
+				<sp>
+					<speaker>Cit.</speaker>
+					<line>To-morrow!</line>
+				</sp>
+				<stage>They go out severally.</stage>
+			</div>
+			<div type="scene">
+				<head>SCENE IV.</head>
+				<stage>---The Camp.</stage>
+				<stage> Enter <strong>S. Oppius</strong> and <strong>Q. F. Vibulanus</strong> . </stage>
+				<sp>
+					<speaker>Opp.</speaker>
+					<line>Has he set out?</line>
+				</sp>
+				<sp>
+					<speaker>Vibul.</speaker>
+					<line>He has, my Oppius, </line>
+					<line>And never to return; his guard, instructed </line>
+					<line>To take good care of him. There's not a man </line>
+					<line>But's ten times sold to us, and of our wishes </line>
+					<line>Fully possess'd. Dentatus will no more </line>
+					<line>Obstruct us in our plans. He did not like </line>
+					<line>The site of our encampment. He will find </line>
+					<line>At least the air of it was wholesome.</line>
+				</sp>
+				<sp>
+					<speaker>Opp.</speaker>
+					<line>What </line>
+					<line>Report are they instructed to bring back?</line>
+				</sp>
+				<sp>
+					<speaker>Vibul.</speaker>
+					<line>They fell into an ambush---He was slain.</line>
+				</sp>
+				<sp>
+					<speaker>Opp.</speaker>
+					<line>But should the truth by any means ooze out?</line>
+				</sp>
+				<sp>
+					<speaker>Vibul.</speaker>
+					<line>Imprison them, and secretly despatch them, </line>
+					<line>Or ope the dungeon-doors, and let them 'scape.</line>
+				</sp>
+				<sp>
+					<speaker>Opp.</speaker>
+					<line>I should prefer the latter method.</line>
+				</sp>
+				<sp><speaker>Vibul.</speaker>
+					<line>Well, </line>
+					<line>That be our choice. But when it is determined </line>
+					<line>To spill blood otherwise than as it may </line>
+					<line>Be spill'd, to hesitate about some drops </line>
+					<line>Is weakness, may be fatal.---Come, my friend, </line>
+					<line>Let us be seen about the camp, and ready, </line>
+					<line>With most admiring ear, to catch the tidings, </line>
+					<line>Which all ears, save our own, will wonder at. </line>
+					<line> </line> Here's one that went with him! <stage> Enter
+							<strong>Marcus</strong> . </stage>
+					<line>Well, friend, your news?</line>
+				</sp>
+				<sp>
+					<speaker>Marc.</speaker>
+					<line>Dentatus is no more; but he has dearly sold his life. The matter has been
+						reported as you directed. By few it is received with credence---by many with
+						doubt; while some bold spirits stop not at muttering, but loudly speak
+						suspicion of foul play. A party that we met, a mile beyond the lines, no
+						sooner heard our story, than they set off to bring the body to the camp.
+						Others have followed them. Fabius, we have your gage for safety.</line>
+				</sp>
+				<sp>
+					<speaker>Vibul.</speaker>
+					<line>You have.---Come, let us show ourselves.---Guilt hides, </line>
+					<line>And we must wear the port of innocence, </line>
+					<line>That walks abroad and looks its foes in the face.</line>
+				</sp>
+				<stage>They go out.</stage>
+			</div>
+			<div type="scene"><head>SCENE V.</head>
+				<stage>---A Mountainous Pass.</stage>
+				<stage> The body of <strong>Dentatus</strong> discovered on a bier--- Soldiers
+					mourning over it. </stage>
+				<stage> Trumpets---Enter <strong>Virginius</strong> and Soldiers . </stage>
+				<sp><speaker>Virginius.</speaker>
+					<line>Where is Dentatus? Where is the gallant soldier? </line>
+					<line>Ah, comrade! comrade! warm! yet warm! So lately </line>
+					<line>Gone, when I would have given the world, only </line>
+					<line>To say farewell to thee, or even get </line>
+					<line>A parting look! O gallant, gallant soldier, </line>
+					<line>The god of war might sure have spared a head </line>
+					<line>Grown grey in serving him! My brave old comrade! </line>
+					<line>The father of the field! Thy silver locks </line>
+					<line>Other anointing should receive, than what </line>
+					<line>Their master's blood could furnish!</line></sp>
+				<sp><speaker>1st Soldier.</speaker>
+					<line>There has been treachery here!</line></sp>
+				<sp><speaker>Virginius.</speaker>
+					<line>What!</line></sp>
+				<sp><speaker>1st Soldier.</speaker><line>The slain are all our own. None of the
+						bodies are stripp'd---These are all Romans. There is not the slightest trace
+						of an enemy's retreat---And, now, that I remember, they made a sudden halt,
+						when we came in sight of them at the foot of the mountain---Mark'd you not,
+						too, with what confused haste they told their story, directed us, and
+						hurried on to the camp?</line>
+				</sp><sp><speaker>Virginius.</speaker>
+					<line>Revenge! The decemvirs! Ay, the decemvirs! </line>
+					<line>For every drop of blood thou shalt have ten, </line>
+					<line>Dentatus!</line></sp>
+				<sp><speaker>Luc.</speaker>
+					<stage>without</stage>. <line>Hoa! Virginius!</line>
+				</sp><sp><speaker>Virginius.</speaker>
+					<line>Here! Who calls?</line></sp>
+				<stage>Luc. entering</stage>. <sp><speaker>Virginius.</speaker>
+					<line>What then? What then? Tell me the matter, Lucius.</line>
+				</sp><sp><speaker>Luc.</speaker>
+					<line>I have said </line>
+					<line>It shall be told you.</line>
+				</sp><sp><speaker>Virginius.</speaker>
+					<line>Shall! I stay not for </line>
+					<line>That "shall," unless it be so close at hand </line>
+					<line>It stop me not a moment.---'Tis too long </line>
+					<line>A coming! Fare you well, my Lucius.</line>
+				</sp><sp><speaker>Luc.</speaker>
+					<line>Stay, </line>
+					<line>Virginius; hear me then with patience.</line>
+				</sp><sp><speaker>Virginius.</speaker>
+					<line>Well, </line>
+					<line>I am patient.</line>
+				</sp><sp><speaker>Luc.</speaker>
+					<line>Your Virginia---</line>
+				</sp><sp><speaker>Virginius.</speaker>
+					<line>Stop, my Lucius! </line>
+					<line>I'm cold in every member of my frame! </line>
+					<line> </line> If 'tis prophetic, Lucius, of thy news, <line>Give me such token
+						as her tomb would, Lucius--- </line>
+					<line>I'll bear it better---Silence.</line>
+				</sp><sp><speaker>Luc.</speaker>
+					<line>You are still---</line>
+				</sp><sp><speaker>Virginius.</speaker>
+					<line>I thank thee, Jupiter! I am still a father!</line>
+				</sp><sp><speaker>Luc.</speaker>
+					<line>You are, Virginius; yet---</line>
+				</sp><sp><speaker>Virginius.</speaker>
+					<line>What, is she sick?</line>
+				</sp><sp><speaker>Luc.</speaker>
+					<line>No.</line>
+				</sp><sp><speaker>Virginius.</speaker>
+					<line>Neither dead nor sick! All well! No harm! </line>
+					<line>Nothing amiss! Each guarded quarter safe, </line>
+					<line>That Fear may lay him down and sleep, and yet </line>
+					<line>Still sounding the alarm! I swear thou tell'st </line>
+					<line>A story strangely. Out with't! I have patience </line>
+					<line>For anything, since my Virginia lives, </line>
+					<line>And lives in health!</line>
+				</sp><sp><speaker>Luc.</speaker>
+					<line>You are required in Rome, </line>
+					<line>To answer a most novel suit.</line>
+				</sp><sp><speaker>Virginius.</speaker>
+					<line>Whose suit?</line>
+				</sp><sp><speaker>Luc.</speaker>
+					<line>The suit of Claudius.</line>
+				</sp><sp><speaker>Virginius.</speaker>
+					<line>Claudius!</line>
+				</sp><sp><speaker>Luc.</speaker>
+					<line>Him that's client </line>
+					<line>To Appius Claudius, the decemvir.</line>
+				</sp><sp><speaker>Virginius.</speaker>
+					<line>What! </line>
+					<line>That pander!---Ha!---Virginia!---You appear </line>
+					<line>To couple them! What makes my fair Virginia </line>
+					<line> </line> In company with Claudius? Innocence <line>Beside lasciviousness!
+						His suit! What suit?--- </line>
+					<line>Answer me quickly!---Quickly! lest suspense, </line>
+					<line>Beyond what patience can endure, coercing, </line>
+					<line>Drive reason from her seat!</line>
+				</sp><sp><speaker>Luc.</speaker>
+					<line>He has claim'd Virginia.</line>
+				</sp><sp><speaker>Virginius.</speaker>
+					<line>Claim'd her!---Claim'd her!--- </line>
+					<line>On what pretence?</line>
+				</sp><sp><speaker>Luc.</speaker>
+					<line>He says she is the child </line>
+					<line>Of a slave of his, who sold her to thy wife.</line>
+				</sp><sp><speaker>Virginius.</speaker>
+					<line>Go on, you see I'm calm.</line>
+				</sp><sp><speaker>Luc.</speaker>
+					<line>He seized her in </line>
+					<line>The school, and dragg'd her to the Forum, where </line>
+					<line>Appius was giving judgment.</line>
+				</sp><sp><speaker>Virginius.</speaker>
+					<line>Dragg'd her to </line>
+					<line>The Forum! Well! I told you, Lucius, </line>
+					<line>I would be patient.</line>
+				</sp><sp><speaker>Luc.</speaker>
+					<line>Numitorius there </line>
+					<line>Confronted him.</line>
+				</sp><sp><speaker>Virginius.</speaker>
+					<line>Did he not strike him dead?--- </line>
+					<line>True, true, I know it was in presence of </line>
+					<line>The decemvir.---O! had I confronted him!--- </line>
+					<line>Well? well? The issue?---Well?---O'erleap all else, </line>
+					<line>And light upon the issue! Where is she?</line>
+				</sp><sp><speaker>Luc.</speaker>
+					<line>I was despatch'd to fetch thee, ere I could learn.</line>
+				</sp><sp><speaker>Virginius.</speaker>
+					<line> </line> The claim of Claudius, Appius' client---Ha! <line>I see the
+						master cloud!---This ragged one, </line>
+					<line>That lowers before, moves only in subservience </line>
+					<line>To the ascendant of the other---Jove, </line>
+					<line>With its own mischief break it and disperse it, </line>
+					<line>And that be all the ruin! Patience! Prudence! </line>
+					<line>Nay, prudence, but no patience. Come!---A slave--- </line>
+					<line>Dragg'd through the streets in open day! My child! </line>
+					<line>My daughter! my fair daughter, in the eyes </line>
+					<line>Of Rome! O, I'll be patient!---Come!---The essence </line>
+					<line>Of my best blood in the free common ear </line>
+					<line>Condemn'd as vile!---O, I'll be patient!---Come! </line>
+					<line>O, they shall wonder---I will be so patient!</line></sp>
+				<stage><strong>Virginius</strong> rushes out, followed by
+					<strong>Lucius</strong>.</stage>
+			</div>
+		</div>
+		<div type="act">
+			<head>ACT IV.</head>
+			<div type="scene">
+				<head>SCENE I.</head>
+				<stage>---Numitorius's House.</stage>
+				<stage>
+					<strong>Virginia</strong> discovered, supported by <strong>Servia</strong> . </stage>
+				<sp>
+					<speaker>Virginia.</speaker>
+					<line>Is he not yet arrived? Will he not come?</line>
+				</sp>
+				<sp>
+					<speaker>Servia.</speaker>
+					<line>He surely will.</line>
+				</sp>
+				<sp>
+					<speaker>Virginia.</speaker>
+					<line>He surely will! More surely </line>
+					<line>He had arrived already, had he known </line>
+					<line>How he is wanted---They have miss'd him, Servia! </line>
+					<line>Don't tell me, but I know they have, or surely </line>
+					<line>We had not now been looking for him. Where's </line>
+					<line>My uncle?</line>
+				</sp>
+				<sp>
+					<speaker>Servia.</speaker>
+					<line>Finding you had fallen asleep </line>
+					<line>After such watching, he went forth to hear </line>
+					<line>If there were any tidings of Virginius. </line>
+					<line>He's here.</line>
+					<stage> Enter <strong>Numitorius; Virginia</strong> looks at him inquisitively
+						for some time. </stage>
+				</sp>
+				<sp>
+					<speaker>Virginia.</speaker>
+					<line>Not come! not come! I am sure of it! </line>
+					<line>He will not come! Do you not think he'll come? </line>
+					<line>Will not my father come? What think you, uncle? </line>
+					<line>Speak to me, speak---O give me any words, </line>
+					<line>Rather than what looks utter!</line>
+				</sp>
+				<sp>
+					<speaker>Num.</speaker>
+					<line>Be composed! </line>
+					<line>I hope he'll come!</line>
+				</sp>
+				<sp><speaker>Virginia.</speaker>
+					<line>A little while ago </line>
+					<line>You were sure of it---from certainty to hope </line>
+					<line>Is a poor step. You hope he'll come---One hope, </line>
+					<line>One little hope to face a thousand fears! </line>
+					<line>Do you not know he'll come? O uncle, wherefore </line>
+					<line> </line> Do you not know he'll come? Had I been you, <line>I had made sure
+						of it!</line>
+				</sp>
+				<sp>
+					<speaker>Num.</speaker>
+					<line>All has been done </line>
+					<line>That could be done.</line>
+				</sp>
+				<sp>
+					<speaker>Virginia.</speaker>
+					<line>Poor all, that does so little! </line>
+					<line>One would imagine little needs be done </line>
+					<line>To bring a father to the succour of </line>
+					<line>His child! 'Tis near the time!</line>
+				</sp>
+				<sp>
+					<speaker>Num.</speaker>
+					<line>It is indeed!</line>
+				</sp>
+				<sp>
+					<speaker>Virginia.</speaker>
+					<line>Must I go forth with you? Must I again </line>
+					<line>Be dragg'd along by Claudius, as his slave, </line>
+					<line>And none again to succour me? Icilius! </line>
+					<line>Icilius! Does your new betrothéd wife </line>
+					<line>Call on you, and you hear not? My Icilius! </line>
+					<line>Am I to be your wife, or Claudius' slave? </line>
+					<line>Where---where are you, Icilius!</line>
+				</sp>
+				<sp><speaker>Icilius</speaker>
+					<stage>entering</stage>. <line>My Virginia! </line>
+					<line>What's to be done, my friend? 'tis almost time.</line>
+					<stage>To <strong>Numitorius</strong>
+					</stage></sp>
+				<sp><speaker>Virginia.</speaker>
+					<line>I hear what you are saying---it is time--- </line>
+					<line>O, who could have believed it, that Icilius </line>
+					<line>Should ever say 'twas time to yield me to </line>
+					<line>Another's claim---And will you give me up? </line>
+					<line>Can you devise no means to keep me from him? </line>
+					<line>Could we not fly? </line>
+					<stage><strong>Icilius</strong> looks earnestly at <strong>Numitorius</strong> ,
+						who fixes his eyes steadfastly on the ground: <strong>Icilius</strong>
+						droops his head. </stage>
+					<line>I see!---your pledge </line>
+					<line> </line> Must be redeem'd, although it cost you your
+						<line>Virginia!</line></sp>
+				<sp><speaker>Virginius</speaker>
+					<stage>without</stage>. <line>Is she here?</line>
+				</sp>
+				<sp>
+					<speaker>Virginia.</speaker>
+					<line>Ah!</line>
+					<stage>Shrieks and rushes into her father's arms, who enters at the
+						moment.</stage>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>My child! My child!</line>
+				</sp>
+				<sp>
+					<speaker>Virginia.</speaker>
+					<line>I am! I feel I am! I know I am! </line>
+					<line>My father! my dear father. I despair'd </line>
+					<line>Of seeing you! You're come! and come in time. </line>
+					<line>And, O! how much the more in time, when hope </line>
+					<line>Had given you up. O! welcome, welcome foot, </line>
+					<line>Whose wishéd step is heard when least expected!</line>
+				</sp>
+				<sp><speaker>Virginius.</speaker>
+					<line>Brother! Icilius! thank you! thank you---All </line>
+					<line>Has been communicated to me. Ay! </line>
+					<line>And would they take thee from me? Let them try it! </line>
+					<line>You've ta'en your measures well---I scarce could pass </line>
+					<line>Along, so was I check'd by loving hands </line>
+					<line>Ready to serve me---Hands with hearts in them! </line>
+					<line>So thou art Claudius' slave? And if thou art, </line>
+					<line>I'm surely not thy father! Blister'd villain! </line>
+					<line>You have warn'd our neighbours, have you not, to attend </line>
+					<line>As witnesses? To be sure you have! A fool </line>
+					<line>To ask the question. Dragg'd along the streets too! </line>
+					<line>'Twas very kind in him to go himself </line>
+					<line>And fetch thee---such an honour should not pass </line>
+					<line>Without acknowledgment. I shall return it </line>
+					<line> </line> In full! In full! </sp>
+				<sp>
+					<speaker>Num.</speaker>
+					<line>Pray you be prudent, brother.</line>
+				</sp>
+				<sp>
+					<speaker>Virginia.</speaker>
+					<line>Dear father, be advised---Will you not, father?</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>I never saw you look so like your mother </line>
+					<line>In all my life!</line>
+				</sp>
+				<sp>
+					<speaker>Virginia.</speaker>
+					<line>You'll be advised, dear father?</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>It was her soul---her soul, that play'd just then </line>
+					<line>About the features of her child, and lit them </line>
+					<line>Into the likeness of her own. When first </line>
+					<line>She placed thee in my arms---I recollect it </line>
+					<line>As a thing of yesterday!---she wish'd, she said, </line>
+					<line>That it had been a man. I answer'd her, </line>
+					<line>It was the mother of a race of men, </line>
+					<line>And paid her for thee with a kiss. Her lips </line>
+					<line>Are cold now---could they be but warm'd again, </line>
+					<line>How they would clamour for thee!</line>
+				</sp>
+				<sp>
+					<speaker>Virginia.</speaker>
+					<line>My dear father! </line>
+					<line>You do not answer me! Will you not be advised?</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>I will not take him by the throat and strangle him! </line>
+					<line>But I could do it! I could do it! Fear not: </line>
+					<line>I will not strike while any head I love </line>
+					<line>Is in the way. It is not now a time </line>
+					<line>To tell thee---but, wouldst thou believe it!---Honest </line>
+					<line>Siccius Dentatus has been murder'd by them!</line>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>Murder'd!</line>
+				</sp>
+				<sp><speaker>Num.</speaker>
+					<line> </line> Dentatus murder'd! </sp>
+				<sp>
+					<speaker>Virginia.</speaker>
+					<line>O! how much </line>
+					<line>Have we to fear!</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>We have the less to fear! </line>
+					<line>I spread the news at every step---A fire </line>
+					<line>Is kindled, that will blaze at but a breath </line>
+					<line>Into the fiercest flame!</line>
+				</sp>
+				<sp>
+					<speaker>Num.</speaker>
+					<line>'Tis time. Let's haste </line>
+					<line>To the Forum.</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>Let the Forum wait for us! </line>
+					<line>Put on no show of fear, when villany </line>
+					<line>Would wrestle with you! It can keep its feet </line>
+					<line>Only with cowards! I shall walk along </line>
+					<line>Slowly and calmly, with my daughter thus </line>
+					<line>In my hand---though with another kind of gripe </line>
+					<line>Than that which Claudius gave her---Well, I say, </line>
+					<line>I'll walk along thus, in the eyes of Rome. </line>
+					<line>Go you before, and what appeal soe'er </line>
+					<line>You please, make you to rouse up friends. For me, </line>
+					<line>I shall be mute---my eloquence is here--- </line>
+					<line>Her tears---her youth---her innocence---her beauty! </line>
+					<line>If orators like these can't move the heart, </line>
+					<line>Tongues surely may be dumb.</line>
+				</sp>
+				<sp>
+					<speaker>Icilius.</speaker>
+					<line>A thousand hearts </line>
+					<line>Have spoke already in her cause!</line>
+				</sp>
+				<sp><speaker>Virginius.</speaker>
+					<line> </line> Come on! <line>Fear not! it is your father's grasp you feel. </line>
+					<line>O he'll be strong as never man was yet, </line>
+					<line>That takes thee from it. Come, Virginia; </line>
+					<line>We trust our cause to Rome and to the gods!</line></sp>
+				<stage>They go out.</stage>
+			</div>
+			<div type="scene">
+				<head>SCENE II.</head>
+				<stage>---The Forum.</stage>
+				<stage> Enter <strong>Appius</strong> and Lictors . </stage>
+				<sp>
+					<speaker>App.</speaker>
+					<line>See you keep back the people! Use your fasces </line>
+					<line>With firmer hands, or hearts. Your hands are firm </line>
+					<line>Enough, would but your hearts perform their office, </line>
+					<line>And leave your hands at liberty; not hang </line>
+					<line>Upon them with unseemly fears and clamours! </line>
+					<line>Look to it! Time! hadst thou the theme that I have </line>
+					<line>For speed, thou wouldst not move this cripple's gait: </line>
+					<line>But there's no urging thee, and thou wast ever </line>
+					<line>Dull fellow-traveller to young Impatience, </line>
+					<line>Dragging him back upon the road he pants </line>
+					<line>To end, but cannot run without thee. </line>
+					<stage> Enter <strong>Marcus</strong> . </stage>
+					<line>Well?</line>
+				</sp>
+				<sp>
+					<speaker>Marc.</speaker>
+					<line>News has arrived, that speaks as if Dentatus </line>
+					<line>Was murder'd by the order of your colleagues! </line>
+					<line>There's not a face I meet but lowers with it: </line>
+					<line>The streets are fill'd with thronging groups, that, as </line>
+					<line>I pass'd, grew silent, and look'd sullen round, </line>
+					<line>Then fell again to converse.</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>'Tis ill-timed.</line>
+				</sp>
+				<sp>
+					<speaker>Marc.</speaker>
+					<line>What say you, Appius?</line>
+				</sp>
+				<sp><speaker>App.</speaker>
+					<line>Murder's ill-timed, I say, </line>
+					<line>Happen when 'twill: but now is most ill timed, </line>
+					<line>When Rome is in a ferment, on account </line>
+					<line>Of Claudius, and this girl, he calls his slave; </line>
+					<line> </line> For come when evil will, or how it will, <line>All's laid to our
+						account! Look out and see </line>
+					<line>If Claudius be approaching yet. </line>
+					<stage><strong>Marcus</strong> goes out. </stage>
+					<line>My wish, </line>
+					<line>Like an officious friend, comes out of time </line>
+					<line>To tell me of success. I had rather far </line>
+					<line>The plot had fail'd. The waves run high enough; </line>
+					<line>There needed not this squall on squall to raise them </line>
+					<line>Above the present swell: </line>
+					<line>But such a haven, </line>
+					<line>If won, can never be too dearly won!</line></sp>
+				<sp><speaker>Marc.</speaker>
+					<stage>entering</stage>. <line>Claudius is here!</line></sp>
+				<stage> Enter <strong>Claudius</strong> . </stage>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Well, Claudius, are the forces </line>
+					<line>At hand?</line>
+				</sp>
+				<sp>
+					<speaker>Claud.</speaker>
+					<line>They are, and timely too! The people </line>
+					<line>Are in unwonted ferment.</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Marcus says </line>
+					<line>That news has come of old Dentatus' death; </line>
+					<line>Which, as I hear, and wonder not to hear it, </line>
+					<line>The mutinous citizens lay to our account!</line>
+				</sp>
+				<sp>
+					<speaker>Claud.</speaker>
+					<line>That's bad enough; yet---</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Ha! what's worse?</line>
+				</sp>
+				<sp>
+					<speaker>Claud.</speaker>
+					<line>'Tis best </line>
+					<line>At once to speak what you must learn at last, </line>
+					<line>Yet last of all would learn.</line>
+				</sp>
+				<sp><speaker>App.</speaker>
+					<line> </line> Virginius! </sp>
+				<sp>
+					<speaker>Claud.</speaker>
+					<line>Yes! </line>
+					<line>He has arrived in Rome.</line>
+				</sp>
+				<sp>
+					<speaker>Marc.</speaker>
+					<line>They are coming, Appius!</line>
+				</sp>
+				<sp><speaker>Claud.</speaker>
+					<line> Fly, Marcus, hurry down the forces!</line>
+					<stage><strong>Marcus</strong> goes out.] </stage> Appius, <line>Be not
+						o'erwhelm'd!</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>There's something awes me at </line>
+					<line>The thought of looking on her father!</line>
+				</sp>
+				<sp>
+					<speaker>Claud.</speaker>
+					<line>Look </line>
+					<line>Upon her, my Appius! Fix your gaze upon </line>
+					<line>The treasures of her beauty, nor avert it </line>
+					<line>Till they are thine. Haste! Your tribunal! Haste!</line>
+					<stage><strong>Appius</strong> ascends his tribunal. </stage>
+					<stage> Enter <strong>Numitorius, Icilius, Lucius</strong> , Citizens ,
+							<strong>Virginius</strong> leading his Daughter, <strong>Servia</strong>
+						, and Citizens .---A dead silence prevails. </stage>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>Does no one speak? I am defendant here. </line>
+					<line>Is silence my opponent? Fit opponent </line>
+					<line>To plead a cause too foul for speech! What brow, </line>
+					<line>In blank defiance both of gods and men, </line>
+					<line>Is bold enough to back the knave, whose tongue </line>
+					<line>Advanced the forgéd claim that stirs this suit </line>
+					<line>To compass the dishonour of my child--- </line>
+					<line>For that's the game!---and now the trial's come, </line>
+					<line>Through shame or fear, has lost the power to wage </line>
+					<line>And ope the villain pleadings!</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>You had better, </line>
+					<line>Virginius, wear another kind of carriage: </line>
+					<line>This is not of the fashion that will serve you.</line>
+				</sp>
+				<sp><speaker>Virginius.</speaker>
+					<line> </line> The fashion, Appius! Appius Claudius, tell me <line>The fashion
+						it becomes a man to speak in, </line>
+					<line>Whose property in his own child---the offspring </line>
+					<line>Of his own body, near to him as is </line>
+					<line>His hand, his arm---yea, nearer---closer far, </line>
+					<line>Knit to his heart---I say, who has his property </line>
+					<line>In such a thing, the very self of himself, </line>
+					<line>Disputed---and I'll speak so, Appius Claudius; </line>
+					<line>I'll speak so.---Pray you, tutor me!</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Stand forth, </line>
+					<line>Claudius! If you lay claim to any interest </line>
+					<line>In the question now before us, speak; if not </line>
+					<line>Bring on some other cause.</line>
+				</sp>
+				<sp>
+					<speaker>Claud.</speaker>
+					<line>Most noble Appius---</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>And are you the man </line>
+					<line>That claims my daughter for his slave?---Look at me, </line>
+					<line>And I will give her to thee.</line>
+				</sp>
+				<sp>
+					<speaker>Claud.</speaker>
+					<line>She is mine, then: </line>
+					<line>Do I not look at you?</line>
+				</sp>
+				<sp><speaker>Virginius.</speaker>
+					<line>Your eye does, truly, </line>
+					<line>But not your soul.---I see it through your eye </line>
+					<line>Shifting and shrinking---turning every way </line>
+					<line>To shun me. You surprise me, that your eye, </line>
+					<line>So long the bully of its master, knows not </line>
+					<line>To put a proper face upon a lie, </line>
+					<line> </line> But gives the port of impudence to falsehood, <line>When it would
+						pass it off for truth. Your soul </line>
+					<line>Dares as soon show its face to me.---Go on, </line>
+					<line>I had forgot; the fashion of my speech </line>
+					<line>May not please Appius Claudius.</line>
+				</sp>
+				<sp>
+					<speaker>Claud.</speaker>
+					<line>I demand </line>
+					<line>Protection of the decemvir!</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>You shall have it.</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>Doubtless!</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Keep back the people, lictors! What's </line>
+					<line>Your plea? You say the girl 's your slave---Produce </line>
+					<line>Your proofs.</line>
+				</sp>
+				<sp>
+					<speaker>Claud.</speaker>
+					<line>My proof is here, which, if they can, </line>
+					<line>Let them confront. The mother of the girl---</line>
+					<stage><strong>Virginius</strong> , stepping forward to speak, is withheld by
+							<strong>Numitorius</strong> . </stage>
+				</sp>
+				<sp>
+					<speaker>Num.</speaker>
+					<line>Hold, brother! Hear them out, or suffer me </line>
+					<line>To speak.</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>Man, I must speak, or else go mad! </line>
+					<line>And if I do go mad, what then will hold me </line>
+					<line>From speaking? Wer't not better, brother, think you, </line>
+					<line>To speak and not go mad, than to go mad </line>
+					<line>And then to speak? She was thy sister, too! </line>
+					<line>Well, well, speak thou. I'll try, and, if I can, </line>
+					<line>Be silent.</line>
+					<stage>Retires.</stage>
+				</sp>
+				<sp>
+					<speaker>Num.</speaker>
+					<line>Will she swear she is her child?</line>
+				</sp>
+				<sp><speaker>Virginius</speaker>
+					<stage>starting forward</stage>. <line>To be sure she will---a most wise
+						question that! </line>
+					<line> Is she not his slave! Will his tongue lie for him---</line>
+					<line>Or his hand steal---or the finger of his hand </line>
+					<line>Beckon, or point, or shut, or open for him? </line>
+					<line>To ask him if she'll swear---Will she walk or run, </line>
+					<line>Sing, dance, or wag her head; do anything </line>
+					<line>That is most easy done? She'll as soon swear! </line>
+					<line>What mockery it is to have one's life </line>
+					<line>In jeopardy by such a barefaced trick! </line>
+					<line>Is it to be endured? I do protest </line>
+					<line>Against her oath!</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>No law in Rome, Virginius, </line>
+					<line>Seconds you. If she swear the girl's her child, </line>
+					<line>The evidence is good, unless confronted </line>
+					<line>By better evidence. Look you to that, </line>
+					<line>Virginius. I shall take the woman's oath.</line>
+				</sp>
+				<sp>
+					<speaker>Virginia.</speaker>
+					<line>Icilius!</line>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>Fear not, love; a thousand oaths </line>
+					<line>Will answer her.</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>You swear the girl's your child, </line>
+					<line>And that you sold her to Virginius' wife, </line>
+					<line>Who pass'd her for her own. Is that your oath?</line>
+				</sp>
+				<sp>
+					<speaker>Slave.</speaker>
+					<line>It is my oath.</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Your answer now, Virginius.</line>
+				</sp>
+				<sp><speaker>Virginius.</speaker>
+					<line>Here it is! </line>
+					<stage>Brings <strong>Virginia</strong> forward. </stage>
+					<line>Is this the daughter of a slave? I know </line>
+					<line> </line> 'Tis not with men, as shrubs and trees, that by <line>The shoot
+						you know the rank and order of </line>
+					<line>The stem. Yet who from such a stem would look </line>
+					<line>For such a shoot? My witnesses are these--- </line>
+					<line>The relatives and friends of Numitoria, </line>
+					<line>Who saw her, ere Virginia's birth, sustain </line>
+					<line>The burden which a mother bears, nor feels </line>
+					<line>The weight, with longing for the sight of it! </line>
+					<line>Here are the ears that listen'd to her sighs </line>
+					<line>In nature's hour of labour, which subsides </line>
+					<line>In the embrace of joy!---the hands, that when </line>
+					<line>The day first look'd upon the infant's face, </line>
+					<line>And never look'd so pleased, help'd her up to it, </line>
+					<line>And thank'd the gods for her, and pray'd them send </line>
+					<line>Blessing on blessing on her.---Here, the eyes </line>
+					<line>That saw her lying at the generous </line>
+					<line>And sympathetic fount, that at her cry </line>
+					<line>Sent forth a stream of liquid living pearl </line>
+					<line>To cherish her enamell'd veins. The lie </line>
+					<line>Is most abortive then, that takes the flower--- </line>
+					<line>The very flower our bed connubial grew--- </line>
+					<line>To prove its barrenness! Speak for me, friends; </line>
+					<line>Have I not spoke the truth?</line>
+				</sp>
+				<sp>
+					<speaker>Women and Citizens.</speaker>
+					<line>You have, Virginius.</line>
+				</sp>
+				<sp><speaker>App.</speaker>
+					<line>Silence!---Keep silence there! No more of that! </line>
+					<line> </line> You're ever ready for a tumult, citizens. <stage>Troops appear
+						behind.</stage>
+					<line>Lictors, make way to let these troops advance. </line>
+					<line>We've had a taste of your forbearance, masters, </line>
+					<line>And wish not for another!</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>Troops in the Forum!</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Virginius, have you spoken?</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>If you have heard me, </line>
+					<line>I have: if not, I'll speak again.</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>You need not, </line>
+					<line>Virginius; I have evidence to give, </line>
+					<line>Which, should you speak a hundred times again, </line>
+					<line>Would make your pleading vain.</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>Your hand, Virginia! </line>
+					<line>Stand close to me.</line>
+					<stage>Aside.</stage>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>My conscience will not let me </line>
+					<line>Be silent. 'Tis notorious to you all, </line>
+					<line>That Claudius' father, at his death, declared me </line>
+					<line>The guardian of his son. This cheat has long </line>
+					<line>Been known to me. I know the girl is not </line>
+					<line>Virginius' daughter.</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>Join your friends, Icilius, </line>
+					<line>And leave Virginia to my care.</line>
+					<stage>Aside.</stage>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>The justice </line>
+					<line>I should have done my client unrequired, </line>
+					<line>Now cited by him, how shall I refuse?</line>
+				</sp>
+				<sp><speaker>Virginius.</speaker>
+					<line> </line> Don't tremble, girl! don't tremble. <stage>Aside.</stage>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Nay, Virginius, </line>
+					<line>I feel for you; but, though you were my father, </line>
+					<line>The majesty of justice should be sacred--- </line>
+					<line>Claudius must take Virginia home with him.</line>
+				</sp>
+				<sp><speaker>Virginius.</speaker>
+					<line>And if he must, I should advise him, Appius, </line>
+					<line>To take her home in time, before his guardian </line>
+					<line>Complete the violation, which his eyes </line>
+					<line>Already have begun---Friends! Fellow-citizens! </line>
+					<line>Look not on Claudius---Look on your decemvir! </line>
+					<line>He is the master claims Virginia! </line>
+					<line>The tongues that told him she was not my child </line>
+					<line>Are these---the costly charms he cannot purchase, </line>
+					<line>Except by making her the slave of Claudius--- </line>
+					<line>His client!---purveyor!---that caters for </line>
+					<line>His pleasures---markets for him---picks, and scents, </line>
+					<line>And tastes, that he may banquet---serves him up </line>
+					<line>His sensual feast, and is not now ashamed, </line>
+					<line>In the open, common street, before your eyes--- </line>
+					<line>Frighting your daughters' and your matrons' cheeks </line>
+					<line>With blushes they ne'er thought to meet---to help him </line>
+					<line>To the honour of a Roman maid!---my child! </line>
+					<line>Who now clings to me, as you see, as if </line>
+					<line>This second Tarquin had already coil'd </line>
+					<line>His arms around her. Look upon her, Romans! </line>
+					<line> </line> Befriend her! Succour her! See her not polluted <line>Before her
+						father's eyes!---He is but one! </line>
+					<line>Tear her from Appius and his lictors, while </line>
+					<line>She is unstain'd. Your hands! your hands! your hands!</line>
+				</sp>
+				<sp>
+					<speaker>Cit.</speaker>
+					<line>They're yours, Virginius.</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Keep the people back! </line>
+					<line>Support my lictors, soldiers! Seize the girl, </line>
+					<line>And drive the people back.</line>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>Down with the slaves! </line>
+					<stage>The people make a show of resistance, but, upon the advancing of the
+						soldiers, retreat, and leave <strong>Icilius, Virginius</strong> , and his
+						daughter, &amp;c. in the hands of <strong>Appius</strong> and his party. </stage>
+					<line>Deserted!---Cowards! Traitors! Let me free </line>
+					<line>But for a moment! I relied on you! </line>
+					<line>Had I relied upon myself alone, </line>
+					<line>I had kept them all at bay! I kneel to you--- </line>
+					<line>Let me but loose a moment, if 'tis only </line>
+					<line>To rush upon your swords!</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>Icilius, peace! </line>
+					<line>You see how 'tis! We are deserted, left </line>
+					<line>Alone by our friends, surrounded by our enemies. </line>
+					<line>Nerveless and helpless.</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Take Icilius hence; </line>
+					<line>Away with him!</line>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>Tyrant!---Virginia!</line>
+					<stage><strong>Icilius</strong> is forced off. </stage>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Separate </line>
+					<line>Virginius and the girl!---Delay not, slaves.</line>
+				</sp>
+				<sp><speaker>Virginius.</speaker>
+					<line>Let them forbear awhile, I pray you, Appius: </line>
+					<line> </line> It is not very easy. Though her arms <line>Are tender, yet the
+						hold is strong, by which </line>
+					<line>She grasps me, Appius. Forcing them will hurt them. </line>
+					<line>They'll soon unclasp themselves. Wait but a little: </line>
+					<line>You know you're sure of her!</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>I have not time </line>
+					<line>To idle with thee; give her to my lictors.</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>Appius, I pray you, wait! If she is not </line>
+					<line>My child, she hath been like a child to me </line>
+					<line>For fifteen years. If I am not her father, </line>
+					<line>I have been like a father to her, Appius, </line>
+					<line>For e'en so long a time. They that have lived </line>
+					<line>For such a space together, in so near </line>
+					<line>And dear society, may be allow'd </line>
+					<line>A little time for parting! Let me take </line>
+					<line>The maid aside, I pray you, to confer </line>
+					<line>A moment with her nurse; perhaps she'll give me </line>
+					<line>Some token, will unloose a tie, so twined </line>
+					<line>And knotted round my heart, that if you break it </line>
+					<line>So suddenly, my heart breaks with it!</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Well! </line>
+					<line>Look to them, lictors!</line>
+				</sp>
+				<sp>
+					<speaker>Virginia.</speaker>
+					<line>Do you go from me! </line>
+					<line>Do you leave! Father! Father!</line>
+				</sp>
+				<sp><speaker>Virginius.</speaker>
+					<line>No, my child; </line>
+					<line> </line> No, my Virginia---come along with me. </sp>
+				<sp>
+					<speaker>Virginia.</speaker>
+					<line>Will you not leave me? Will you take me with you? </line>
+					<line>Will you take me home again? O, bless you, bless you! </line>
+					<line>My father! my dear father! Art thou not </line>
+					<line>My father?</line>
+					<stage><strong>Virginius</strong> , perfectly at a loss what to do, looks
+						anxiously around the Forum; at length his eye falls on a butcher's stall
+						with a knife upon it. </stage>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>This way, my Virginia! This way!</line>
+				</sp>
+				<sp>
+					<speaker>Virginia.</speaker>
+					<line>Go </line>
+					<line>We home?</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>Don't fear! Don't fear, I am not going </line>
+					<line>To leave thee, my Virginia! I'll not leave thee.</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Keep back the people, soldiers! Let them not </line>
+					<line>Approach Virginius! Keep the people back! </line>
+					<stage><strong>Virginius</strong> secures the knife. </stage>
+					<line>Well, have you done?</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>Short time for converse, Appius; </line>
+					<line>But I have.</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>I hope you are satisfied.</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>I am--- </line>
+					<line>I am---that she is my daughter!</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Take her, lictors!</line>
+					<stage><strong>Virginia</strong> shrieks, and falls half-dead upon her father's
+						shoulder. </stage>
+				</sp>
+				<sp><speaker>Virginius.</speaker>
+					<line>Another moment, pray you. Bear with me </line>
+					<line>A little---'Tis my last embrace. 'Twon't try </line>
+					<line>Your patience beyond bearing, if you're a man! </line>
+					<line>Lengthen it as I may, I cannot make it </line>
+					<line>Long! My dear child! My dear Virginia! </line>
+					<stage>Kissing her.</stage>
+					<line>There is one only way to save thine honour--- </line>
+					<line> </line> 'Tis this!--- <stage>Stabs her, and draws out the knife.
+							<strong>Icilius</strong> breaks from the Soldiers that held him, and
+						catches her. </stage>
+					<line>Lo! Appius! with this innocent blood, </line>
+					<line>I do devote thee to th' infernal gods! </line>
+					<line>Make way there!</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Stop him! Seize him!</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>If they dare </line>
+					<line>To tempt the desperate weapon, that is madden'd </line>
+					<line>With drinking my daughter's blood, why let them: thus </line>
+					<line>It rushes in amongst them. Way there! Way!</line>
+				</sp>
+				<stage>Goes out through the Soldiers.</stage>
+			</div>
+		</div>
+		<div type="act">
+			<head>ACT V.</head>
+			<div type="scene">
+				<head>SCENE I.</head>
+				<stage>---A Street.</stage>
+				<stage> Enter <strong>Appius</strong> and <strong>Marcus</strong> . </stage>
+				<sp>
+					<speaker>App.</speaker>
+					<line>I do abjure all further league with them: </line>
+					<line>They have most basely yielded up their power, </line>
+					<line>And compromised their glory. Had they died </line>
+					<line>In their high seats, they had lived demi-gods; </line>
+					<line>But now they live to die like basest men! </line>
+					<line>Power gone, life follows! Well! 'tis well we know </line>
+					<line>The worst! The worst?---The worst is yet to come; </line>
+					<line>And, if I err not, hither speeds a messenger </line>
+					<line>Whose heel it treads upon! Well, Vibulanus?</line>
+					<stage> Enter <strong>Vibulanus</strong> , hastily, and other Decemvirs, with
+							<strong>Marcus</strong> . </stage>
+				</sp>
+				<sp>
+					<speaker>Vibul.</speaker>
+					<line>Honorius and Valerius are elected </line>
+					<line>To the consulate.---Virginius is made tribune.</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>No doubt they'd snatch their offices, when ours </line>
+					<line>Were laid so poorly down. You have acted wisely!</line>
+				</sp>
+				<sp>
+					<speaker>Vibul.</speaker>
+					<line>Who could resist Virginius, raving at </line>
+					<line>The head of the revolted troops, with all </line>
+					<line>The commons up in arms? Waste not dear time! </line>
+					<line>Look to your safety, Appius. 'Tis resolved </line>
+					<line>To cite you instantly before the consuls.</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Look to my safety, say you? You would bid </line>
+					<line>A man, that's tumbling from a precipice </line>
+					<line>A hundred fathoms high, and midway down, </line>
+					<line>Look to his safety! What has he to snatch at? </line>
+					<line>Air!---E'en so much have I.</line>
+				</sp>
+				<sp><speaker>Vibul.</speaker>
+					<line>Withdraw awhile </line>
+					<line> </line> From Rome. We shall recall you with applause <line>And
+						honours.</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Yes! You saw me on the brink--- </line>
+					<line>Beheld it giving way beneath my feet--- </line>
+					<line>And saw me tottering o'er the hideous leap, </line>
+					<line>Whose sight sent round the brain with madd'ning whirl, </line>
+					<line>With but a twig to stay me, which you cut, </line>
+					<line>Because it was your friend that hung by it--- </line>
+					<line>Most kindly!</line>
+				</sp>
+				<sp>
+					<speaker>Vibul.</speaker>
+					<line>Nay, employ the present time </line>
+					<line>In looking to your safety---that secured, </line>
+					<line>Reproach us as you will.</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>I am in your hands, </line>
+					<line>Lead me which way you please.</line>
+				</sp>
+				<sp><speaker>Icil.</speaker>
+					<stage>without</stage>. <line>Hold! Stand!</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Icilius!</line>
+					<stage>
+						<strong>Icilius</strong> enters, with <strong>Honorius</strong> and
+							<strong>Valerius</strong> as Consuls, <strong>Numitorius</strong> and
+						Lictors . </stage>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>Did I not tell you 'twas the tyrant? Look </line>
+					<line>Was I not right? I felt that he was present </line>
+					<line>Ere mine eye told it me.---You are our prisoner!</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>On what pretence, Icilius?</line>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>Ask of poor </line>
+					<line>Virginius, tottering between despair </line>
+					<line>And madness, as he seeks the home, where once </line>
+					<line>He found a daughter!</line>
+				</sp>
+				<sp><speaker>App.</speaker>
+					<line>I demand due time </line>
+					<line> </line> To make up my defence. </sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>Demand due time! </line>
+					<line>Appius!---Assign the cause, why you denied </line>
+					<line>A Roman maid, of free condition, </line>
+					<line>Her liberty provisionally, while </line>
+					<line>Her plea remain'd unjudged. No answer, Appius? </line>
+					<line>Lictors, lay hold upon him---to prison with him! </line>
+					<line>Look to him well. To prison with the tyrant!</line>
+					<stage><strong>Appius</strong> and Lictors go out on one side;
+							<strong>Icilius</strong> and <strong>Numitorius</strong> on the other.
+					</stage>
+				</sp>
+				<sp>
+					<speaker>Vibul.</speaker>
+					<line>Let all his friends, that their own safety prize, </line>
+					<line>Solicit straight for his enlargement; doff </line>
+					<line>Their marks of station, and to the vulgar eye </line>
+					<line>Disguise it with the garb of mourning; 'twill </line>
+					<line>Conciliate the crowd. We know them well: </line>
+					<line>But humour them, they are water soon as fire!</line>
+				</sp>
+				<stage>They go out severally.</stage>
+			</div>
+			<div type="scene">
+				<head>SCENE II.</head>
+				<stage>---Virginius's House.</stage>
+				<stage> Enter <strong>Lucius</strong> and <strong>Servia</strong> . </stage>
+				<sp>
+					<speaker>Luc.</speaker>
+					<line>Is he not yet come home?</line>
+				</sp>
+				<sp>
+					<speaker>Servia.</speaker>
+					<line>Not since her death. </line>
+					<line>I dread his coming home, good Lucius.</line>
+				</sp>
+				<sp>
+					<speaker>Luc.</speaker>
+					<line>A step! 'Tis Numitorius and Virginius.</line>
+				</sp>
+				<sp>
+					<speaker>Servia.</speaker>
+					<line>Gods! how he looks!---See, Lucius, how he looks!</line>
+					<stage> Enter <strong>Virginius</strong> , attended by
+							<strong>Numitorius</strong> and others. </stage>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>'Tis ease! 'Tis ease! I am content! 'Tis peace, </line>
+					<line>'Tis anything that is most soft and quiet. </line>
+					<line>And after such a dream!---I want my daughter; </line>
+					<line>Send me my daughter!</line>
+				</sp>
+				<sp>
+					<speaker>Num.</speaker>
+					<line>Yes, his reason's gone. </line>
+					<line>Scarce had he come in sight of his once sweet </line>
+					<line>And happy home, ere with a cry he fell </line>
+					<line>As one struck dead.---When to himself he came, </line>
+					<line>We found him as you see. How is it, brother?</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>How should it be but well? Our cause is good. </line>
+					<line>Think you Rome will stand by, and see a man </line>
+					<line>Robb'd of his child? We are bad enough, but yet </line>
+					<line>They should not so mistake us. We are slaves, </line>
+					<line>But not yet monsters.---Call my daughter to me. </line>
+					<line>What keeps her thus? I never stepp'd within </line>
+					<line>The threshold yet, without her meeting me </line>
+					<line>With a kiss. She's very long a-coming. Call her!</line>
+				</sp>
+				<sp>
+					<speaker>Num.</speaker>
+					<line>Icilius comes! See, my Icilius, see!</line>
+					<stage> Enter <strong>Icilius</strong> . </stage>
+				</sp>
+				<sp><speaker>Virginius.</speaker>
+					<line>Come, come, make ready. Brother, you and he </line>
+					<line> </line> Go on before: I'll bring her after you. </sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>Ha!</line>
+				</sp>
+				<sp>
+					<speaker>Num.</speaker>
+					<line>My Icilius, what a sight is there! </line>
+					<line>Virginius' reason is a wreck, so stripp'd </line>
+					<line>And broken up by wave and wind, you scarce </line>
+					<line>Would know it was the gallant bark you saw </line>
+					<line>Riding so late in safety!</line>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<stage>taking <strong>Virginius's</strong> hand.</stage>
+					<line>Father! Father! </line>
+					<line>That art no more a father!</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>Ha! what wet </line>
+					<line>Is this upon my hand? A tear, boy! Fie, </line>
+					<line>For shame! Is that the weapon you would guard </line>
+					<line>Your bride with? First essay what steel can do!</line>
+				</sp>
+				<sp>
+					<speaker>Num.</speaker>
+					<line>Not a tear has bless'd his eye since her death! No wonder. </line>
+					<line>The fever of his brain, that now burns out, </line>
+					<line>Has drunk the source of sorrow's torrents dry.</line>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>You would not have it otherwise? 'Twas fit </line>
+					<line>The bolt, that struck the sole remaining branch, </line>
+					<line>And blasted it, should set the trunk on fire!</line>
+				</sp>
+				<sp>
+					<speaker>Num.</speaker>
+					<line>If we could make him weep---</line>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>Her urn! </line>
+					<line>'Twas that which first drew tears from me. I'll fetch it. </line>
+					<line>Yet scarcely think it wise, to wake a man </line>
+					<line>Who's at the mercy of a tempest! Better </line>
+					<line>You suffer him to sleep it through.</line>
+					<stage><strong>Icilius</strong> goes out. </stage>
+				</sp>
+				<sp><speaker>Virginius.</speaker>
+					<line> </line> Gather your friends together!---Tell them of <line>Dentatus'
+						murder!---Screw the chord of rage </line>
+					<line>To the topmost pitch!---Mine own is not mine own! </line>
+					<stage>Laughs.</stage>
+					<line>That's strange enough. Why does he not dispute </line>
+					<line>My right to my own flesh, and tell my heart </line>
+					<line>Its blood is not its own? He might as well! </line>
+					<line>But I want my child!</line>
+					<stage> Enter <strong>Lucius</strong> . </stage>
+				</sp>
+				<sp>
+					<speaker>Luc.</speaker>
+					<line>Justice will be defeated.</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>Who says that? </line>
+					<line>He lies in the face of the gods! She is immutable, </line>
+					<line>Immaculate, and immortal!---and though all </line>
+					<line>The guilty globe should blaze, she will spring up </line>
+					<line>Through the fire, and soar above the crackling pile, </line>
+					<line>With not a downy feather ruffled by </line>
+					<line>Its fierceness!</line>
+				</sp>
+				<sp>
+					<speaker>Num.</speaker>
+					<line>He is not himself! What new </line>
+					<line>Oppression comes to tell us to our teeth. </line>
+					<line>We only mock'd ourselves to think the days </line>
+					<line>Of thraldom past?</line>
+				</sp>
+				<sp>
+					<speaker>Luc.</speaker>
+					<line>The friends of Appius </line>
+					<line>Beset the people with solicitations. </line>
+					<line>The fickle crowd, that change with every change, </line>
+					<line>Begin to doubt and soften. Every moment </line>
+					<line>That's lost, a friend is lost. Appear among </line>
+					<line>Your friends, or lose them!</line>
+				</sp>
+				<sp><speaker>Num.</speaker>
+					<line> </line> Lucius, you <line>Remain, and watch Virginius.</line>
+					<stage>Goes out, followed by all but <strong>Lucius</strong> and
+							<strong>Servia</strong> . </stage>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>You remember, </line>
+					<line>Don't you, nurse?</line>
+				</sp>
+				<sp>
+					<speaker>Ser.</speaker>
+					<line>What, Virginius?</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>That she nursed </line>
+					<line>The child herself! Inquire among your gossips, </line>
+					<line>Which of them saw it; and, with such of them </line>
+					<line>As can avouch the fact, without delay </line>
+					<line>Repair to the Forum! Will she come or not? </line>
+					<line>I'll call myself!---She will not dare!---O when </line>
+					<line>Did my Virginia dare---Virginia! </line>
+					<line>Is it a voice, or nothing answers me? </line>
+					<line>I hear a sound so fine---there's nothing lives </line>
+					<line>'Twixt it and silence! </line>
+					<stage>Goes out, and almost immediately returns.</stage>
+					<line>Aha! She is not here! </line>
+					<line>They told me she was here---they have deceived me; </line>
+					<line>And Appius was not made to give her up, </line>
+					<line>But keeps her, and effects his wicked purpose, </line>
+					<line>While I stand talking here, and ask you if </line>
+					<line>My daughter is my daughter! Though a legion </line>
+					<line>Sentried that brothel, which he calls his palace, </line>
+					<line>I'd tear her from him!</line>
+				</sp>
+				<sp>
+					<speaker>Luc.</speaker>
+					<line>Hold, Virginius! Stay! </line>
+					<line>Appius is now in prison.</line>
+				</sp>
+				<sp><speaker>Virginius.</speaker>
+					<line> </line> With my daughter! <line>He has secured her there! Ha! has he so? </line>
+					<line>Gay office for a dungeon! Hold me not, </line>
+					<line>Or I will dash you down, and spoil you for </line>
+					<line>My keeper. My Virginia, struggle with him! </line>
+					<line>Appal him with thy shrieks; ne'er faint, ne'er faint! </line>
+					<line>I am coming to thee! I am coming to thee!</line></sp>
+				<stage><strong>Virginius</strong> rushes out, followed by <strong>Lucius,
+						Servia</strong> , and others. </stage>
+			</div>
+			<div type="scene">
+				<head>SCENE III.</head>
+				<stage>---A Dungeon.</stage>
+				<stage>
+					<strong>Appius</strong> discovered. </stage>
+				<sp>
+					<speaker>App.</speaker>
+					<line>From the palace to the dungeon is a road </line>
+					<line>Trod oft---not oft retrod. What hope have I </line>
+					<line>To pace it back again? I know of none. </line>
+					<line>I am as one that's dead! The dungeon, that </line>
+					<line>Encloses fallen greatness, may as well </line>
+					<line>Be call'd its tomb. I am as much the carcass </line>
+					<line>Of myself, as if the string were taken from </line>
+					<line>My neck. Their hands long for the office! Oh, </line>
+					<line>'Tis worth the half of a plebeian's life </line>
+					<line>To get his greasy fingers on the throat </line>
+					<line>Of a patrician! But I'll balk them. Come! </line>
+					<line>Appius shall have an executioner </line>
+					<line>No less illustrious than himself. </line>
+					<stage>He is on the point of swallowing poison, when <strong>Vibulanus</strong>
+						enters. </stage>
+					<line>Who's there?</line>
+				</sp>
+				<sp>
+					<speaker>Vibul.</speaker>
+					<line>Your friend!</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>My Vibulanus!</line>
+				</sp>
+				<sp>
+					<speaker>Vibul.</speaker>
+					<line>Appius, what </line>
+					<line>Was that, you hid in such confusion, as </line>
+					<line>I enter'd?</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>'Tis a draught for life, which swallow'd, </line>
+					<line>She relishes so richly, that she cares not </line>
+					<line>If she ne'er drink again! Here's health to you!</line>
+				</sp>
+				<sp><speaker>Vibul.</speaker>
+					<line>Not out of such a cup as that, my Appius. </line>
+					<line>Despair, that bids you drink it, as the cure </line>
+					<line> </line> Of canker'd life, but lies to you, and turns <line>Your eyes from
+						hope, that even now stands ready </line>
+					<line>With outstretch'd arms to rush to your embrace. </line>
+					<line>Your friends are busy for you with your foes! </line>
+					<line>Your foes become your friends! Where'er a frown </line>
+					<line>Appears against you, nothing's spared to make </line>
+					<line>The wearer doff it, and put up a smile </line>
+					<line>In its stead. Your colleague Oppius is in prison. </line>
+					<line>Your client too. Their harm's your safety: it </line>
+					<line>Distracts the appetite o' the dogs. They drop </line>
+					<line>The morsel they took up before, as soon </line>
+					<line>As a new one's thrown to them.</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Thou givest me life </line>
+					<line>Indeed!</line>
+				</sp>
+				<sp>
+					<speaker>Vibul.</speaker>
+					<line>That I may give thee life indeed, </line>
+					<line>I'll waste no longer time with thee; for that </line>
+					<line>Already taken to assure thee of </line>
+					<line>Thy fast-reviving fortunes, cheats them of </line>
+					<line>The aid should help to re-establish them. </line>
+					<line>Farewell, my Appius! If my absence takes </line>
+					<line>A friend from thee, it leaves one with thee---Hope!</line>
+					<stage>Goes out.</stage>
+				</sp>
+				<sp><speaker>App.</speaker>
+					<line>And I will clasp it to me! Never friend </line>
+					<line>Made sweeter promises! But snatch me from </line>
+					<line>Beneath the feet of the vile herd, that's now </line>
+					<line>Broke loose and roams at large; I'll show them who </line>
+					<line> </line> They'd trample on. Hope! Hope! They say of thee, <line>Thou art a
+						friend that promises, but cares not </line>
+					<line>To keep his word. This once keep thine with Appius, </line>
+					<line>And he will give thee out so true a tongue, </line>
+					<line>Thy word is bond enough!---At liberty. </line>
+					<line>Again at liberty! O give me power </line>
+					<line>As well, for every minute of my thraldom </line>
+					<line>I'll pick a victim from the common herd </line>
+					<line>Shall groan his life in bondage. Liberty! </line>
+					<line>'Tis triumph, power, dominion, everything! </line>
+					<line>Are ye not open yet, ye servile gates? </line>
+					<line>Let fall your chains, and push your bolts aside! </line>
+					<line>It is your past and future lord commands you!</line></sp>
+				<sp><speaker>Virginius</speaker>
+					<stage>rushing in</stage>. <line>Give me my daughter!</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Ha!</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>My child! my daughter! </line>
+					<line>My daughter! my Virginia! Give her me!</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Thy daughter!</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>Ay! Deny that she is mine, </line>
+					<line>And I will strangle thee, unless the lie </line>
+					<line>Should choke thee first.</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Thy daughter!</line>
+				</sp>
+				<sp><speaker>Virginius.</speaker>
+					<line>Play not with me! </line>
+					<line>Provoke me not! Equivocate, and lo! </line>
+					<line>Thou sport'st with fire. I am wild!---distracted!---mad!--- </line>
+					<line> </line> I am all a flame---a flame! I tell thee once <line>For all, I
+						want my child, and I will have her; </line>
+					<line>So give her to me.</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Caged with a madman! Hoa! </line>
+					<line>Without there!</line>
+				</sp>
+				<sp><speaker>Virginius.</speaker>
+					<line>Not a step thou stirr'st from hence, </line>
+					<line>Till I have found my child. Attempt that noise </line>
+					<line>Again, and I will stop the vent, that not </line>
+					<line>A squeak shall pass it. There are plugs for you </line>
+					<line> Will keep it air-tight</line>
+					<stage>showing his fingers].</stage> Please you, give me back <line>My
+						daughter.</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>In truth, she is not here, Virginius; </line>
+					<line>Or I would give her to thee.</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>Would! Ay, should! </line>
+					<line>Though would were would not. Do you say, indeed, </line>
+					<line>She is not here? You nothing know of her?</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Nothing, Virginius! good Virginius, nothing.</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>How if I thrust my hand into your breast, </line>
+					<line>And tore your heart out, and confronted it </line>
+					<line>With your tongue? I'd like it!---Shall we try it? Fool! </line>
+					<line>Are not the ruffians leagued? The one would swear </line>
+					<line>To the tale o' the other.</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>By the gods, Virginius, </line>
+					<line>Your daughter is not in my keeping.</line>
+				</sp>
+				<sp><speaker>Virginius.</speaker>
+					<line>Well, </line>
+					<line> </line> Then I must seek her elsewhere. I did dream <line>That I had
+						murder'd her---'Tis false! 'twas but </line>
+					<line>A dream.---She isn't here, you say---Well! well! </line>
+					<line>Then I must go and seek her elsewhere---Yet </line>
+					<line>She's not at home---and where else should I seek her </line>
+					<line>But there or here? Here! here! here! Yes, I say, </line>
+					<line>But there or here---I tell you I must find her--- </line>
+					<line>She must be here, or what do you here? What, </line>
+					<line>But such a wonder of rich beauty could </line>
+					<line>Deck out a dungeon so, as to despoil </line>
+					<line>A palace of its tenant? Art thou not </line>
+					<line>The tyrant Appius?---Didst thou not decree </line>
+					<line>My daughter to be Claudius' slave, who gave her </line>
+					<line>To his master? Have you not secured her here </line>
+					<line>To compass her dishonour, ere her father </line>
+					<line>Arrives to claim her?</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>No!</line>
+				</sp>
+				<sp><speaker>Virginius.</speaker>
+					<line>Do you tell me so? </line>
+					<line>Vile tyrant! Think you, shall I not believe </line>
+					<line>My own eyes before your tongue? Why, there she is! </line>
+					<line>There, at your back---her looks dishevell'd and </line>
+					<line>Her vestment torn! Her cheeks all faded with </line>
+					<line>Her pouring tears, as flowers with too much rain! </line>
+					<line>Her form no longer kept and treasured up </line>
+					<line>By her maiden pride, like a rich casket, cast </line>
+					<line> </line> Aside, neglected and forgot, because <line>The richer gem was
+						shrined in it is lost! </line>
+					<line>Villain! is this a sight to show a father? </line>
+					<line>And have I not a weapon to requite thee? </line>
+					<stage>Searches about his clothes.</stage>
+					<line>Ha! here are ten!</line>
+				</sp>
+				<sp>
+					<speaker>App.</speaker>
+					<line>Keep down your hands! Help! help!</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>No other look but that! Look on! look on! </line>
+					<line>It turns my very flesh to steel---Brave girl! </line>
+					<line>Keep thine eye fix'd---let it not wink---look on!</line>
+					<stage>They go out, struggling.</stage>
+					<stage> Enter <strong>Numitorius, Icilius, Lucius</strong> , Guard , and Soldier
+						, bearing Virginia's urn. </stage>
+				</sp>
+				<sp>
+					<speaker>Num.</speaker>
+					<line>Not here!</line>
+				</sp>
+				<sp>
+					<speaker>Luc.</speaker>
+					<line>Is this the dungeon?---Appius is not here, </line>
+					<line>Nor yet Virginius. You have sure mistaken.</line>
+				</sp>
+				<sp>
+					<speaker>Guard.</speaker>
+					<line>This is the dungeon---Here Virginius enter'd.</line>
+				</sp>
+				<sp>
+					<speaker>Num.</speaker>
+					<line>Yet is not here!---Hush! The abode of death </line>
+					<line>Is just as silent. Gods! should the tyrant take </line>
+					<line>The father's life, in satisfaction for </line>
+					<line>The deed that robb'd him of the daughter's charms--- </line>
+					<line>Hush! hark! A groan! There's something stirs!</line>
+				</sp>
+				<sp>
+					<speaker>Luc.</speaker>
+					<line>'Tis this way!</line>
+				</sp>
+				<sp>
+					<speaker>Num.</speaker>
+					<line>Come on! Protect him, gods, or pardon me </line>
+					<line>If with my own hand I revenge his death.</line>
+				</sp>
+				<stage>They go out.</stage>
+			</div>
+			<div type="scene">
+				<head>SCENE IV.</head>
+				<stage>---Another Dungeon.</stage>
+				<stage>
+					<strong>Virginius</strong> discovered on one knee, with <strong>Appius</strong>
+					lying dead before him. Enter <strong>Numitorius, Icilius, Lucius</strong> ,
+					Citizens , and others. </stage>
+				<sp>
+					<speaker>Num.</speaker>
+					<line>What's here? Virginius! with the tyrant prostrate and dead!</line>
+				</sp>
+				<sp>
+					<speaker>Luc.</speaker>
+					<line>His senses are benumb'd! There is no adit to his mind, by which our words
+						can reach it. Help to raise him. The motion may recall perception.</line>
+				</sp>
+				<sp>
+					<speaker>Num.</speaker>
+					<line>His eye is not so deathlike fixed; it moves a little.</line>
+				</sp>
+				<sp>
+					<speaker>Luc.</speaker>
+					<line>Speak to him, Numitorius; he knows your voice the best.</line>
+				</sp>
+				<sp>
+					<speaker>Num.</speaker>
+					<line>Virginius!</line>
+				</sp>
+				<sp>
+					<speaker>Luc.</speaker>
+					<line>I think he heeds you; speak again.</line>
+				</sp>
+				<sp>
+					<speaker>Num.</speaker>
+					<line>Virginius!</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>Ah!</line>
+				</sp>
+				<sp>
+					<speaker>Luc.</speaker>
+					<line>That sigh has burst the spell which held him.</line>
+				</sp>
+				<sp>
+					<speaker>Num.</speaker>
+					<line>Virginius! my dear brother!</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>Lighter! lighter! My heart is ten times lighter! What a load it has heaved
+						off! Where is he? I thought I had done it.</line>
+				</sp>
+				<sp>
+					<speaker>Num.</speaker>
+					<line>Virginius!</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>Well, who are you? What do you want? I'll answer what I've done!</line>
+				</sp>
+				<sp>
+					<speaker>Num.</speaker>
+					<line>Do you not know me, brother? Speak, Icilius, try if he knows you.</line>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>Virginius!</line>
+				</sp>
+				<sp>
+					<speaker>Num.</speaker>
+					<line>Try again.</line>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line> Virginius!</line>
+				</sp>
+				<sp>
+					<speaker>Virginius.</speaker>
+					<line>That voice---that voice---I know that voice! </line>
+					<line>It minds me of a voice was coupled with it, </line>
+					<line>And made such music, once to hear it was </line>
+					<line>Enough to make it ever after be </line>
+					<line>Remember'd! </line>
+					<stage><strong>Icilius</strong> places the urn in his hand. </stage>
+					<line>Ha! What's this?</line>
+				</sp>
+				<sp>
+					<speaker>Icil.</speaker>
+					<line>Virginia!</line>
+				</sp>
+				<stage><strong>Virginius</strong> looks alternately at <strong>Icilius</strong> and
+					the urn ---looks at <strong>Numitorius</strong> and <strong>Lucius</strong>
+					---seems struck by his mourning---looks at the urn again---bursts into a passion
+					of tears, and exclaims, "<strong>Virginia</strong>!" ---Falls on
+						<strong>Icilius's</strong> neck. Curtain drops. </stage>
+			</div>
+		</div>
+		<div type="epilogue">
+			<head>EPILOGUE, BY BARRY CORNWALL, ESQ. SPOKEN BY MISS BRUNTON.<lb/> By Cornwall,
+				B.</head>
+			<sp>
+				<speaker>Miss Brunton.</speaker>
+				<line><strong>Leaving</strong> the common path, which many tread,</line>
+				<line>We will not wake with jokes our poet dead; </line>
+				<line>Nor shame the young creations of his pen, </line>
+				<line>By bidding all, who've perish'd, be again. </line>
+				<line>The pale Virginia, in her bloody shroud, </line>
+				<line>Lies like a shrinéd saint.---Oh! then, aloud </line>
+				<line>Shall we break scurril jests, and bid depart </line>
+				<line>Those thoughts of her, which fill and teach the heart? </line>
+				<line>No moral now we offer, squared in form, </line>
+				<line>But Pity, like the sun-light, bright and warm, </line>
+				<line>Comes mix'd with showers; and, fading, leaves behind </line>
+				<line>A beauty and a blossom on the mind. </line>
+				<line>We do not strain to show that "thus it grows." </line>
+				<line>And "hence we learn" what everybody knows: </line>
+				<line>But casting idle dogmas (words) aside, </line>
+				<line>We paint a villain in his purple pride; </line>
+				<line>And tearing down a power, that grew too bold, </line>
+				<line>Show---merely what was done in days of old. </line>
+				<line>Leaving this image on the soul, we go </line>
+				<line>Unto our gentler story touch'd with woe </line>
+				<line>(With woe that wantons not, nor wears away </line>
+				<line>The heart), and love too perfect for decay. </line>
+				<line>But whatsoe'er we do, we will not shame </line>
+				<line>Your better feeling, with an idle game </line>
+				<line>Of grin and mimicry (a loathsome task); </line>
+				<line>Or strip the great Muse of her mighty mask, </line>
+				<line>And hoot her from her throne of tears and sighs, </line>
+				<line>Until from folly and base jest she dies. </line>
+				<line>No; let her life be long, her reign supreme--- </line>
+				<line>If but a dream, it is a glorious dream.</line>
+				<line>Dwell then upon our tale; and bear along </line>
+				<line>With you, deep thoughts---of love---of bitter wrong--- </line>
+				<line>Of freedom---of sad pity---and lust of pow'r. </line>
+				<line>The tale is fitted for an after-hour.</line>
+			</sp>
+		</div>
+	</play>
+</xml>
