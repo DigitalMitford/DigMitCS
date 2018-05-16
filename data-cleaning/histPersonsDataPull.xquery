@@ -10,4 +10,5 @@ let $joinedNames := string-join($normNames, ', ')
 let $occupations := $i/occupation
 let $joinedOccs := string-join($occupations/normalize-space(string()), ', ')
 (:&#x9; is a tab separator. &#10; is a line-feed return. :)
-return concat($id, '&#x9;', $sex, '&#x9;', $joinedNames, '&#x9;', $joinedOccs, '&#10;')
+let $viaf := $i//ref[contains(@target, 'viaf')]/@target/string()
+return concat($id, '&#x9;', $sex, '&#x9;', $joinedNames, '&#x9;', $joinedOccs, '&#x9;', $viaf, '&#10;')
