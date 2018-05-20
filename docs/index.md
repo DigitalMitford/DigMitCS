@@ -13,7 +13,13 @@ Those staying in Apollo House should go there on arrival. One of our student ass
 
 ### [Restaurant Guide](restaurants.md)
 
-## Agenda:
+## Agenda
+#### Quick links:
+* [Monday](#mon)
+* [Tuesday](#tue)
+* [Wednesday](#wed)
+* [Thursday](#thur)
+* [Friday](#fri)
 
 ### Monday 21 May
 
