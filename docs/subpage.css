@@ -2,6 +2,9 @@ a.link-no-style {
   color: inherit;
 }
 
+tr:nth-child(even) {background: #f0f5f5}
+.rpad {padding-right:2em;}
+div#credits {padding-top:1.5em;}
 
 @media screen and (min-width: 64em) {
   .page-header-subpages {
