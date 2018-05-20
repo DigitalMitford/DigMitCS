@@ -1,4 +1,4 @@
-## Introducing eXist-db and XQuery
+# Introducing eXist-db and XQuery
 
 We will be exploring XPath and XQuery inside eXist-db, an open-source XML database with an XQuery engine that incorporates XPath processing. You can read about eXist-db at their [homepage](http://exist-db.org/exist/apps/homepage/index.html) and click on the “Download eXistdb” button to scroll to a link where you can download the most recent stable release.
 
@@ -160,7 +160,5 @@ This example shows you how you can create individual steps by declaring variable
 
 
 For more examples and explanation of FLWOR expressions, see Michael Kay’s [Learn XQuery in 10 Minutes](http://www.stylusstudio.com/xquery-primer.html) (which we think will take more than 10 minutes, but it’s a great longer introduction and resource for reference. See also Kay’s [Blooming FLWOR—an introduction to the XQuery FLWOR expression](http://www.stylusstudio.com/xquery-flwor.html).
-
-### [Alternative link to this page content](existsetup.md)
 
 Thanks to David J. Birnbaum and the organizers of the [NEH Institute, Make *your* edition: models and methods for digital textual scholarship](https://pittsburgh-neh-institute.github.io/Institute-Materials-2017/), held in Pittsburgh, PA  July 2017 for permission to adapt this introduction to XQuery from their course material. 
