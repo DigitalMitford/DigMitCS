@@ -161,4 +161,4 @@ This example shows you how you can create individual steps by declaring variable
 
 For more examples and explanation of FLWOR expressions, see Michael Kay’s [Learn XQuery in 10 Minutes](http://www.stylusstudio.com/xquery-primer.html) (which we think will take more than 10 minutes, but it’s a great longer introduction and resource for reference. See also Kay’s [Blooming FLWOR—an introduction to the XQuery FLWOR expression](http://www.stylusstudio.com/xquery-flwor.html).
 
-** Thanks to David J. Birnbaum and the organizers of the [NEH Institute, Make *your* edition: models and methods for digital textual scholarship](https://pittsburgh-neh-institute.github.io/Institute-Materials-2017/), held in Pittsburgh, PA  July 2017 for permission to adapt this introduction to XQuery from their course material. 
+** Thanks to David J. Birnbaum and the organizers of the [NEH Institute, Make your edition: models and methods for digital textual scholarship](https://pittsburgh-neh-institute.github.io/Institute-Materials-2017/), held in Pittsburgh, PA  July 2017 for permission to adapt this introduction to XQuery from their course material. 
