@@ -39,3 +39,5 @@ Those staying in Apollo House should go there on arrival. One of our student ass
 ### Friday 25 May
 
 {% include Friday2018.html %}
+
+{% include credits.html %}
