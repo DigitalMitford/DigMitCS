@@ -1,3 +1,8 @@
+---
+layout: default
+title: eXist-db XQuery setup
+---
+
 ## Introducing eXist-db and XQuery
 
 We will be exploring XPath and XQuery inside eXist-db, an open-source XML database with an XQuery engine that incorporates XPath processing. You can read about eXist-db at their [homepage](http://exist-db.org/exist/apps/homepage/index.html) and click on the “Download eXistdb” button to scroll to a link where you can download the most recent stable release.
