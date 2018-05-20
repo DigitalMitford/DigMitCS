@@ -4,6 +4,7 @@ a.link-no-style {
 ul#weekMenu{
 background: #f0f5f5;
 list-style-type: none;
+display: inline;
 margin: 0;
 padding: 0;
 }
