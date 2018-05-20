@@ -1,7 +1,3 @@
-# Digital Mitford Coding School
-
-Welcome to our Coding School site! Here you will find plans and materials for our workshops.
-
 ## 2018 Session: 21 - 25 May 
 
 ## Arrivals: Sunday 20 May: 
