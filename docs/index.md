@@ -1,6 +1,7 @@
 ## 2018 Session: 21 - 25 May 
 
-## Arrivals: Sunday 20 May: 
+## Navigation and Orientation
+### Arrivals: Sunday 20 May 
 ### Campus Maps
 * [2D Labelled Campus Map](Map_UPG_Labelled.pdf)
 * [3D Google street-view of Cassell and Apollo House](3DMap_CassellApollo.png)
