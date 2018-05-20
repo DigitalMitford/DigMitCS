@@ -19,11 +19,11 @@ Those staying in Apollo House should go there on arrival. One of our student ass
 
 <table id="weekMenu">
 <tr>
-<td><a href="#mon">Monday</a> | </td>
-<td><a href="#tue">Tuesday</a> | </td>
-<td><a href="#wed">Wednesday</a> | </td>
-<td><a href="#thur">Thursday</a> | </td>
-<td><a href="#fri">Friday</a> | </td>
+<td><a href="#mon">Monday</a></td>
+<td><a href="#tue">Tuesday</a></td>
+<td><a href="#wed">Wednesday</a></td>
+<td><a href="#thur">Thursday</a></td>
+<td><a href="#fri">Friday</a></td>
 </tr>
 </table>
 
