@@ -4,9 +4,11 @@ Welcome to our Coding School site! Here you will find plans and materials for ou
 
 ## 2018 Session: 21 - 25 May 
 
-## Arrivals: Sunday 20 May: Apollo House. 
-### [Campus Map](Map_UPG_Labelled.pdf)
-
+## Arrivals: Sunday 20 May: 
+### Campus Maps
+* [2D Labelled Campus Map](Map_UPG_Labelled.pdf)
+* [3D Google street-view of Cassell and Apollo House](3DMap_CassellApollo.png)
+Those staying in Apollo House should go there on arrival. One of our student assistants or Digital Mitford editors will be in the vicinity watching for new arrivals and will give you your key and show you to your room. Ask around about coordinating a trip to the grocery store! 
 ## Daily timing: 
 * A continental breakfast is served around 8:30am in downstairs Cassell Hall.
 * We begin work in **Cassell 117 at 9:30am**. 
