@@ -16,11 +16,14 @@ Those staying in Apollo House should go there on arrival. One of our student ass
 
 ## Agenda
 #### Quick links:
-* [Monday](#mon)
-* [Tuesday](#tue)
-* [Wednesday](#wed)
-* [Thursday](#thur)
-* [Friday](#fri)
+
+<ul id="weekMenu">
+<li><a href="(#mon)">Monday</a> |
+<li><a href="(#tue)">Tuesday</a> |
+<li><a href="(#wed)">Wednesday</a> |
+<li><a href="(#thur)">Thursday</a> |
+<li><a href="(#fri)">Friday</a> |
+</ul>
 
 ### Monday 21 May
 
