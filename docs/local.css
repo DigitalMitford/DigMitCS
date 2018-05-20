@@ -1,13 +1,8 @@
 a.link-no-style {
   color: inherit;
 }
-ul#weekMenu{
-background: #f0f5f5;
-list-style-type: none;
-display: inline;
-margin: 0;
-padding: 0;
-}
+table#weekMenu tr td:nth-child(even){background: #f0f5f5}
+
 tr:nth-child(even) {background: #f0f5f5}
 .rpad {padding-right:2em;}
 div #credits {padding-top:1.5em;}
