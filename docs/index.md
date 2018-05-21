@@ -30,19 +30,19 @@ Those staying in Apollo House should go there on arrival. One of our student ass
 </tr>
 </table>
 
-
+<h3 id="mon">Monday, 5/21</h3>
 {% include Monday2018.html %}
 
-
+<h3 id="tue">Tuesday, 5/22</h3>
 {% include Tuesday2018.html %}
 
-
+<h3 id="wed">Wednesday, 5/23</h3>
 {% include Wednesday2018.html %}
 
-
+<h3 id="thur">Thursday, 5/24</h3>
 {% include Thursday2018.html %}
 
-
+<h3 id="fri">Friday, 5/25</h3>
 {% include Friday2018.html %}
 
 
