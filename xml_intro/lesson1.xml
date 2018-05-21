@@ -1,0 +1,7 @@
+<?xml-model href="lesson1.rnc" type="application/relax-ng-compact-syntax"?>
+<example>
+    <p lang="en">Hi, I am <name>Zac Enick</name> and this is an example.</p>
+    <p lang="fr">Je parle francais.</p>
+    <pb n="1"/>
+    <p lang="en">This is <bold>so exciting</bold>!</p>
+</example>

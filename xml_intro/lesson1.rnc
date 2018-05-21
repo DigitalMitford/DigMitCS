@@ -1,0 +1,8 @@
+start = example
+example = element example { (p+ | pb)*}
+pb = element pb {n, empty}
+p = element p {mixed{(name | bold)*}, lang}
+lang = attribute lang {"fr" | "en"}
+name = element name{text}
+n = attribute n {xsd:integer}
+bold = element bold {text}
