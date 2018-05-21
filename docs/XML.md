@@ -1,6 +1,6 @@
 # Introduction to Text Encoding with XML
 
-XML is short for **_eXtensible Markup Language_**,and it’s a standard system for storing and accessing information used practically everywhere around the world. For our purposes as researchers, it’s an excellent method for storing information, and for preparing to share it with the public.  
+XML is short for **_eXtensible Markup Language_**, and it’s a standard system for storing and accessing information used practically everywhere around the world. For our purposes as researchers, it’s an excellent method for storing information, and for preparing to share it with the public.  
 
 ## XML vs HTML vs SGML
 
