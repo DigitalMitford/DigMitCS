@@ -41,11 +41,12 @@ In special cases, XML elements can actually have no content at all! These are ca
 
 ### Self-Closing Elements
 
-![Self-Closing XML Element diagram](https://digitalmitford.github.io/DigMitCS/images/selfClosing_element.jpg)  
 * Don't contain text or any other elements.  
 * Consist of a single tag - *smush* the start and end tag together.  
 * May have attributes.  
 
+![Self-Closing XML Element diagram](https://digitalmitford.github.io/DigMitCS/images/selfClosing_element.jpg)  
+  
 **Why might we use self-closing elements?**  
 
 ## XML Document Structure
@@ -60,9 +61,7 @@ Elements form trees - Reference relationships: Ancestor, Descendent, Sibling, Pa
 
 ![Russian Nesting Dolls](/images/XML_nestingDolls.jpg)  
 Elements are Russian Nesting Dolls - “Well-formedness = Nested-ness” - Everything is properly delimited, There is a single root element (“the big doll”) that contains all of the other elements both structural and contextual in nature, No elements overlap  
-
-![oXygen Outline View](/images/XML_outlineView.jpg)  
-
+  
 ### Well-Formed
 * An XML document must be contained in a single element. That single element is called the root element, and it contains all the text and any other elements in the document. 
 * XML elements can't overlap - need a start and end (or self-closing)
@@ -74,6 +73,7 @@ To be well formed:
 * XML documents must have a single root element
 * All elements must be properly nested
 * Element and attribute tags must be written correctly  
+  
 But we also code XML documents for human beings wishing to work in an organized and systematic way, and for this reason, we write schema rules and we apply schema files in our projects to check our XML against the rules we create. When we check our XML files against a set of schema rules, we are checking their validity. We can use validity checks to make sure we’re spelling element names properly, writing attribute names and values consistently, and nesting elements in a way that makes sense to us that we want to hold consistent. Note: an XML document can be well formed, but not be valid; whereas, an XML document cannot be valid if it is not well formed.
 
 ### Valid
