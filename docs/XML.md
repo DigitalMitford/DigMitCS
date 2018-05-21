@@ -1,10 +1,10 @@
-# Intro. to Text Encoding with XML
+# Introduction to Text Encoding with XML
 
 XML is short for **_eXtensible Markup Language_**,and it’s a standard system for storing and accessing information used practically everywhere around the world. For our purposes as researchers, it’s an excellent method for storing information, and for preparing to share it with the public. XML is independent of proprietary software applications—which means that what you write in XML is freely exchangeable between computers of different kinds—across different platforms.  
 
 ## Tags, Elements, and Attributes ... oh my!
 
-![XML Element diagram](/images/element.jpg)  
+![XML Element diagram](https://digitalmitford.github.io/DigMitCS/images/element.jpg)  
 * A **tag** is the text between the left angle bracket (`<`) and the right angle bracket (`>`). There are starting tags and ending tags
 * An **element** is the starting tag, the ending tag, and everything in between. This can include text and/or other elements.
 * An **attribute** is a name-value pair inside the start tag of an element.
@@ -17,7 +17,7 @@ In special cases, XML elements can actually have no content at all! These are ca
 
 ### Self-Closing Elements
 
-![Self-Closing XML Element diagram](/images/selfClosing_element.jpg)  
+![Self-Closing XML Element diagram](https://digitalmitford.github.io/DigMitCS/images/selfClosing_element.jpg)  
 * Don't contain text or any other elements.  
 * Consist of a single tag - *smush* the start and end tag together.  
 * May have attributes. 
@@ -35,7 +35,7 @@ HTML and XML are both descendants of an earlier markup language called **SGML** 
 ## XML Document Structure
 Elements when brought together conform to a particular hierarchy.
 
-![XML Document Box Diagram](/images/XML_BoxesInBoxes.jpg) ![XML Document Tree Diagram](/images/XML_FamilyTree.jpg) ![Russian Nesting Dolls](/images/XML_nestingDolls.jpg)
+![XML Document Box Diagram](https://digitalmitford.github.io/DigMitCS/images/XML_BoxesInBoxes.jpg) ![XML Document Tree Diagram](https://digitalmitford.github.io/DigMitCS/images/XML_FamilyTree.jpg) ![Russian Nesting Dolls](https://digitalmitford.github.io/DigMitCS/images/XML_nestingDolls.jpg)
 
 * Elements are boxes - Attributes distinguish box types
 * Elements form trees - Reference relationships: Ancestor, Descendent, Sibling, Parent, Grandparent - XPATH walks the tree
