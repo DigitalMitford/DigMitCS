@@ -1,8 +1,46 @@
 start = example
 example = element example { (p+ | pb)*}
+
+# Our first content model for the element <example> uses both *repetition* and
+# *combination* selectors. The former regulates how many iterations of a specific
+# node type to expect in your document (whether it be 0, 1, more than 1, etc.), while
+# the latter regulates the order in which those nodes can occur. You can specify whether
+# the contents of a specific element should appear in a specific sequence, or if the order
+# is inconsequential. For example, if you encode a play, the author's name is expected to
+# follow the title, so you can generate schema rules that will require that specific document
+# order. In the same way, you will expect to find only one play title, but you could either have
+# one single author, or a host of authors, and you'll want your schema to be flexible enough to
+# allow those possibilities, without being overly generous in its rule enforcement.
+# There is more information on Relax NG schemas and how to write their content models here:
+# http://dh.newtfire.org/explainRNG.html
+
 pb = element pb {n, empty}
+
+# As we saw in class, elements can contain text, other elements, or nothing at all. If the
+# is empty, then we can use the reserved word "empty" to reflect that in our schema. In plain
+# English, the rule jsut above says, "pb is defined as the element <pb>, which contains
+# exactly one 'n', and is an empty element. After this point, you'll need to define the 'n'
+# that you used in this content model, which you can see below we defined as an attribute of the
+# element <pb>.
+
 p = element p {mixed{(name | bold)*}, lang}
+
+# Another reserved word that we employ in this file is "mixed." Up to this point, we've only
+# looked at elements that contain *only* text nodes or *only* other elements. In Real Life,
+# though, elements will very oftentimes contain both. That is the content model reflected in
+# 'mixed.' That is, in using this reserved word, we inform the schema parser that the element
+# we are defining now contains both text and element nodes *on the child axis.* You'll notice
+# that there is a nested set of curly braces that accompanies the 'mixed' reserved word, and
+# that is where we define the names of the elements that are contained by the element whose
+# content model we are defining, and which are interspersed with each other.
+
 lang = attribute lang {"fr" | "en"}
+
+# Here, we define our first attribute. Notice our use of the word 'attribute' in lieu of
+# 'element.' In plain English, this says, "lang is the attribute @lang, whose legal values are
+# either 'fr' or 'en.'" If we don't want to constrain the legal attributes values permitted in
+# our document, we can replace those values with the reserved word 'text."
+
 name = element name{text}
 n = attribute n {xsd:integer}
 bold = element bold {text}

@@ -83,6 +83,7 @@ But we also code XML documents for human beings wishing to work in an organized 
 ***
 
 # Let's take a look in oXygen!  
+[In-Class Example XML File and Relax NG Schema File](https://github.com/DigitalMitford/DigMitCS/tree/master/xml_intro)  
 [Ozymandias via the DHClass-Hub](https://github.com/ebeshero/DHClass-Hub/blob/master/Class-Examples/XML/OHCO_ozymandias/ozymandias.xml)  
 [Ozymandias with Line Breaks via the DHClass-Hub](https://github.com/ebeshero/DHClass-Hub/blob/master/Class-Examples/XML/OHCO_ozymandias/ozymandias-lb.xml)  
 
