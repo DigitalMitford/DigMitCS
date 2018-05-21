@@ -2,7 +2,7 @@ a.link-no-style {
   color: inherit;
 }
 table#weekMenu tr td:nth-child(even){background: #f0f5f5}
-
+table#team tr td img{width:300px;}
 tr:nth-child(even) {background: #f0f5f5}
 .rpad {padding-right:2em;}
 div #credits {padding-top:1.5em;}
