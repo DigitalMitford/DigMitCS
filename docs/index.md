@@ -15,6 +15,8 @@ Those staying in Apollo House should go there on arrival. One of our student ass
 
 ### [Restaurant Guide](restaurants.md)
 
+### [Meet the Coding School Instructors](instructors.html)
+
 ## Agenda
 #### Quick links:
 
