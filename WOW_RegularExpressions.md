@@ -35,5 +35,7 @@ To remove the parentheses (pseudo-markup) when we replace the plain text with XM
 `^` indicates start of a line and `$` indicates end of line  
 `\n` indicates line returns - end of line and start of next  
 `[^<]+` the caret (`^`) at the start of the character set indicates not; therefore, this expression looks for one or more (indicated by the plus sign) of any character that is NOT a left angle bracket (`<`)  
-**Find:** `^[^<]+?$`  
+  
+**Find:** `^([^<]+?)$`  
 `^` indicates start of a line and `$` indicates end of line
+**Replace:** `<p>\1</p>`
