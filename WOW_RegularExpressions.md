@@ -30,7 +30,7 @@ To remove the parentheses (pseudo-markup) when we replace the plain text with XM
   
 ## Upconverting Paragraphs in Speeches
 
-*__Attempts__*  
+-*__Attempts__*-  
 **Find:** `^[^<]+\n\n`  
 `^` indicates start of a line and `$` indicates end of line  
 `\n` indicates line returns - end of line and start of next  
