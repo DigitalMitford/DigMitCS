@@ -20,7 +20,7 @@ To remove the colon (pseudo-markup) when we replace the plain text with XML mark
   
 **Find:** `\([^a-z]+\)`  
 `\(` and `\)` because we use parentheses in regular expressions to indicate capturing groups we need to escape the parentheses in order to grab literal parentheses in the text  
-`[^a-z]+` the carot (`^`) at the start of the character set indicates not; therefore, this expression looks for one or more (indicated by the plus sign) of any character that is NOT lower-case  
+`[^a-z]+` the caret (`^`) at the start of the character set indicates not; therefore, this expression looks for one or more (indicated by the plus sign) of any character that is NOT lower-case  
   
 To remove the parentheses (pseudo-markup) when we replace the plain text with XML markup we need to surround the portion of the pattern we want to keep (just the text of the stage directions) in a capturing group.  
 **Find:** `\(([^a-z]+)\)`  
@@ -30,10 +30,12 @@ To remove the parentheses (pseudo-markup) when we replace the plain text with XM
   
 ## Upconverting Paragraphs in Speeches
 
-*__Attempts__*  
+-*__Attempts__*-  
 **Find:** `^[^<]+\n\n`  
 `^` indicates start of a line and `$` indicates end of line  
 `\n` indicates line returns - end of line and start of next  
-`[^<]+` the carot (`^`) at the start of the character set indicates not; therefore, this expression looks for one or more (indicated by the plus sign) of any character that is NOT a left angle bracket (`<`)  
-**Find:** `^[^<]+?$`  
+`[^<]+` the caret (`^`) at the start of the character set indicates not; therefore, this expression looks for one or more (indicated by the plus sign) of any character that is NOT a left angle bracket (`<`)  
+  
+**Find:** `^([^<]+?)$`  
 `^` indicates start of a line and `$` indicates end of line
+**Replace:** `<p>\1</p>`
