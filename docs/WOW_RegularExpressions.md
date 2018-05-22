@@ -30,12 +30,21 @@ To remove the parentheses (pseudo-markup) when we replace the plain text with XM
   
 ## Upconverting Paragraphs in Speeches
 
--*__Attempts__*-  
+-*__Attempt__*-  
 **Find:** `^[^<]+\n\n`  
 `^` indicates start of a line and `$` indicates end of line  
 `\n` indicates line returns - end of line and start of next  
 `[^<]+` the caret (`^`) at the start of the character set indicates not; therefore, this expression looks for one or more (indicated by the plus sign) of any character that is NOT a left angle bracket (`<`)  
   
 **Find:** `^([^<]+?)$`  
-`^` indicates start of a line and `$` indicates end of line
-**Replace:** `<p>\1</p>`
+`^` indicates start of a line and `$` indicates end of line  
+**Replace:** `<p>\1</p>`  
+  
+## Upconverting Paragraphs in Speeches  
+  
+Using the close open technique - "clopen"  
+**Find:** `<speaker>`  
+**Replace:** `</sp><sp>\0`  
+*take the closing tag from beginning of first speech and place at the end of the last speech*  
+
+
