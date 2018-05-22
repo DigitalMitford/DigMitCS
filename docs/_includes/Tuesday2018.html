@@ -4,12 +4,33 @@
      <td><h4>9:30 - 11:15am</h4></td> <td><h4>Text as tractable data</h4>
          <ul>
     <li>From “plain” text to XML...and back again. </li>
-    <li> Up-conversion with regular expressions: workshop</li>
+             <li>Sources of text for up-conversion:
+             <ul>
+                 <li>Problematic: Internet Archive (<a href="https://archive.org/details/julianatragedyi00mitfgoog">Example</a>); Hathi Trust (<a href="https://babel.hathitrust.org/cgi/ssd?id=uc2.ark:/13960/t13n28t49">Example</a>), Google Books </li>
+                 <li>Better: Project Gutenberg (created to be shared)</li>
+                 <li>Expedient: Literature Online (see <a href="https://digitalmitford.github.io/DigMitCS/TextConversion-LiteratureOnline.pdf">text conversion explanation</a>)</li>
+             </ul>
+             </li>
+    <li> Up-conversion with regular expressions Workshop
+    <ul><li><a href="http://dh.newtfire.org/explainRegex.html">Newtfire Regex Tutorial</a></li>
+    <li><a href="">Workshop files</a></li>
+        <li>Steps: 
+        <ul><li>Perform document analysis: study and look for patterns you can search for. Jot them down</li>
+        <li>Remove everything you don't need at start and end of document</li>
+            <li>Simplify/reduce white spaces.</li>
+           <li>Work from the inside out: Try starting with what you can match readily and the most numerous line-by-line tags.</li>
+            <li>When working with larger structures (chapters, scenes, speeches, line groups), try the <q>clopen</q> (close-open) strategy. If you find the start of a thing, you have found the end of the previous thing. Remember if you use <q>clopen</q>, you have to clean it up afterwards: you’ll have an extra start-tag at the start and you’ll be missing the end tag at the end. </li>
+        </ul>
+        </li>
+    </ul>
+    
+    </li>
          </ul></td>
 </tr>  
    <tr> <td><h4>11:20am - 12:30pm</h4></td><td><h4>Patrick Juola: Introduction to Stylometry</h4> 
-       <ul><li>
-           Optional: Download and install Patrick’s <a href="http://bit.ly/EVLJAAGP">Java Graphical Authorship Attribution Program (JGAAP)</a> </li></ul>   </td></tr>
+       <ul><li>Download and install Patrick’s <a href="http://bit.ly/EVLJAAGP">Java Graphical Authorship Attribution Program (JGAAP)</a> </li>
+           <li>Reading: <a href="http://people.cs.vt.edu/~kafura/CS6604/Papers/Multivariate-Analysis-Authorship-Attribution.pdf">José Nilo G. Binongo, <q>Who Wrote the 15th Book of Oz? An Application of Multivariate Analysis to Authorship Attribution</q>, <cit>Chance</cit> 16(2):9-17, March 2003.</a></li>
+       </ul>   </td></tr>
     
     <tr> <td><h4>Lunch Break</h4></td> <td><em>return by ~1:30pm</em></td></tr>
       <tr><td><h4>1:30 - 2:30pm</h4></td><td><h4>More practice with Regex? or Introduction to XPath</h4></td></tr>
