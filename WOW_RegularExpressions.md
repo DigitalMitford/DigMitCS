@@ -2,7 +2,7 @@
   
 ## Upconverting Speakers
 
-**Document Analysis Identified Patterm:** Speakers appear at the start of a line; Speakers are all capital letters; Some speakers contain 
+**Document Analysis Identified Patterm:** Speakers appear at the start of a line; Speakers are all capital letters; Some speakers contain spaces
   
 **Find:** `^[A-Z ]+:`  
 `^` indicates start of a line  
@@ -15,6 +15,9 @@ To remove the colon (pseudo-markup) when we replace the plain text with XML mark
 `\1` calls on the portion in the find expression that is in the capturing group - (`[A-Z ]+`)  
   
 ## Upconverting Stage Directions
+
+**Document Analysis Identified Patterm:** Stage directions appear in parentheses; stage directions are in upper-case
+  
 **Find:** `\([^a-z]+\)`  
 `\(` and `\)` because we use parentheses in regular expressions to indicate capturing groups we need to escape the parentheses in order to grab literal parentheses in the text  
 `[^a-z]+` the carot (`^`) at the start of the character set indicates not; therefore, this expression looks for one or more (indicated by the plus sign) of any character that is NOT lower-case  
