@@ -3,6 +3,7 @@
 ## Upconverting Speakers
 
 **Document Analysis Identified Patterm:** Speakers appear at the start of a line; Speakers are all capital letters; Some speakers contain 
+  
 **Find:** `^[A-Z ]+:`  
 `^` indicates start of a line  
 `[A-Z ]+:` square brackets indicate a character set and in particular the range of one or more (indicated by the plus sign) upper-case letters or white spaces followed by a colon  
