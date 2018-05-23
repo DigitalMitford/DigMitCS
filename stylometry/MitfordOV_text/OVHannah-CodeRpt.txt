@@ -1,0 +1,730 @@
+
+         
+            Title of this file: Our Village: Sketches of Rural Character and Scenery: Preface Digital Mitford: The Mary Russell Mitford Archive Our Village: Sketches of Rural Character and Scenery
+         
+         
+            List of all Comments Recorded in This File
+            
+               <?xml-model href="MRMValidate.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+                MAH: June 15, so footnotes. Not sure what we've decided to do with this, so I'm just leaving them in the text. 
+               Notice, this is simpler than the sourceDesc we used in our Letters file.
+               scw: Hobbema and Ruysdael need to be put in SI
+               scw: FOR EDITOR'S NOTE: "A new version or remodelling of a literary or artistic work." OED.
+               scw: I haven't yet been able to identify this quote
+               scw: FOR EDITOR'S NOTE: MRM is referring to the 1753 Act for the Better Preventing of Clandestine Marriages (also known as the Hardwicke Marriages Act), which sought to prevent clandestine marriages by requiring that banns be posted and that the ceremony take place in a church and according to the Book of Common Prayer. The law was abolished in 1823. Ref in part: Boulton, Jeremy. "Marriage Act." Oxford Companion to British History. Ed. John Cannon. Oxford: Oxford UP, 2009. Oxford Reference. Online. University of Montevallo. 
+               scw: Is it the same B. as mentioned in first sketch with the stagecoach from B. to S.?
+               tagged as narrator's father, or should it be something else?
+               scw: FOR NOTE: MRM is referring to the story of Henry Cecil, the possibly not-quite divorced heir to the Earl of Exeter who, in 1791, disguised his identity, married Sarah Hoggins (28 June, 1773-26 December, 1797) a Shropshire farmer's daughter from Bolas Magna, lived with her for several years until the death of his uncle the Earl, and only revealed the true state of affairs upon his uncle's death in 1793. Upon assuming his title, Cecil took Sarah to live with him at his seat in Burleigh. She bore three children, and became known as the "Cottage Countess" or "Peasant Countess." She died in 1797. The story of this courtship is told in some detail a weird book published after OV: Thornton Hall, Love Romances of the Aristocracy. London: T. Werner Laurie, n.d. (accessed Project Gutenberg). Other refs: Thepeerage.com. MRM's likely source, if timing checks out, is Hazlitt's Table Talk, New Monthly Magazine, No. IV, Vol. XVII, (1822) "Burleigh House." In it, Hazlitt intimates that Sarah "never recovered" from the shock of the truth. MRM may be referring to a particular source, as the ones I've looked at don't seem to contain anything about Sarah thinking she'd married a steward. Need to check Thomas Moore's poem. Tennyson's poem, "The Lord of Burleigh," wasn't published till 1842. See Millais's illustration of the poem at Victorianweb, which turn Sarah into a romantic heroine. Nothing in ODNB. I have other notes cobbled from other places if necessary. Interesting story. See Julie Shaffer, et. al. A Noble Affair (2013).
+                scw: Need to incorporate more in personography from editor's notes.
+               scw: the town of B is mentioned several times here and elsewhere. Unidentified as yet.
+            
+         
+         
+            List Everything Tagged with the "Unclear" Element
+            
+         
+         
+            List of all elements in play in the body of this file, and sort by count from most to least used.
+            
+               persName
+                Count of this element: 58
+               Attributes: Names and Values
+               ref: Attribute Values:
+       
+            
+             #DameWilson, #Hobbema, #Ruydsdael, #JohnWilson, #RobertEllis, #SusanWilson, #HannahWilson, #Clerk, #Cupid, #WilliamSmith, #MrSmiththeHatter, #OVNarratorsFather, HannahWilson, #Lucy
+               subtype: Attribute Values:
+       
+            
+             int, ext
+               type: Attribute Values:
+       
+            
+             fict, hist, myth
+            
+            
+               rs
+                Count of this element: 43
+               Attributes: Names and Values
+               nymRef: Attribute Values:
+       
+            
+             plant, floral
+               ref: Attribute Values:
+       
+            
+             #JohnWilson, DameWilson, #DameWilson, #HannahWilson, #WilliamSmith, #SusanWilson, #MrSmiththeHatter, HannahWilson, #Hoggins_Sarah, #Cecil_Henry
+               subtype: Attribute Values:
+       
+            
+             fict, int, hist
+               type: Attribute Values:
+       
+            
+             plant, person, fict
+            
+            
+               placeName
+                Count of this element: 26
+               Attributes: Names and Values
+               ref: Attribute Values:
+       
+            
+             #ThreeMileCross, #London, #Burleigh
+               type: Attribute Values:
+       
+            
+             arch, land, geog
+            
+            
+               said
+                Count of this element: 21
+               Attributes: Names and Values
+               who: Attribute Values:
+       
+            
+             #SusanWilson, #OVNarrator, #HannahWilson, #WilliamSmith, #OVNarratorsFather
+            
+            
+               pb
+                Count of this element: 9
+               Attributes: Names and Values
+               n: Attribute Values:
+       
+            
+             17, 18, 19, 20, 21, 22, 23, 24, 25
+            
+            
+               orgName
+                Count of this element: 8
+               Attributes: Names and Values
+               ref: Attribute Values:
+       
+            
+             #Shinfield, #WilsonChildren
+               subtype: Attribute Values:
+       
+            
+             parish, WilsonChildren
+               type: Attribute Values:
+       
+            
+             place, person
+            
+            
+               p
+                Count of this element: 5
+            
+            
+               quote
+                Count of this element: 4
+            
+            
+               date
+                Count of this element: 4
+               Attributes: Names and Values
+               dur: Attribute Values:
+       
+            
+             P14D
+               when: Attribute Values:
+       
+            
+             --11
+            
+            
+               emph
+                Count of this element: 2
+            
+            
+               foreign
+                Count of this element: 2
+            
+            
+               soCalled
+                Count of this element: 2
+            
+            
+               div
+                Count of this element: 1
+               Attributes: Names and Values
+               type: Attribute Values:
+       
+            
+             sketch
+            
+            
+               head
+                Count of this element: 1
+            
+            
+               sic
+                Count of this element: 1
+            
+            
+               note
+                Count of this element: 1
+               Attributes: Names and Values
+               anchored: Attribute Values:
+       
+            
+             true
+               type: Attribute Values:
+       
+            
+             author
+            
+         
+       
+          
+            Title of this file: Our Village: Sketches of Rural Character and Scenery: Preface Digital Mitford: The Mary Russell Mitford Archive Our Village: Sketches of Rural Character and Scenery
+          
+             Title of this file: Our Village: Sketches of Rural Character and Scenery: Preface Digital Mitford: The Mary Russell Mitford Archive Our Village: Sketches of Rural Character and Scenery Title of this file: Our Village: Sketches of Rural Character and Scenery: Preface Digital Mitford: The Mary Russell Mitford Archive Our Village: Sketches of Rural Character and Scenery 
+          
+          
+            List of all Comments Recorded in This File
+            
+               <?xml-model href="MRMValidate.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+                MAH: June 15, so footnotes. Not sure what we've decided to do with this, so I'm just leaving them in the text. 
+               Notice, this is simpler than the sourceDesc we used in our Letters file.
+               scw: Hobbema and Ruysdael need to be put in SI
+               scw: FOR EDITOR'S NOTE: "A new version or remodelling of a literary or artistic work." OED.
+               scw: I haven't yet been able to identify this quote
+               scw: FOR EDITOR'S NOTE: MRM is referring to the 1753 Act for the Better Preventing of Clandestine Marriages (also known as the Hardwicke Marriages Act), which sought to prevent clandestine marriages by requiring that banns be posted and that the ceremony take place in a church and according to the Book of Common Prayer. The law was abolished in 1823. Ref in part: Boulton, Jeremy. "Marriage Act." Oxford Companion to British History. Ed. John Cannon. Oxford: Oxford UP, 2009. Oxford Reference. Online. University of Montevallo. 
+               scw: Is it the same B. as mentioned in first sketch with the stagecoach from B. to S.?
+               tagged as narrator's father, or should it be something else?
+               scw: FOR NOTE: MRM is referring to the story of Henry Cecil, the possibly not-quite divorced heir to the Earl of Exeter who, in 1791, disguised his identity, married Sarah Hoggins (28 June, 1773-26 December, 1797) a Shropshire farmer's daughter from Bolas Magna, lived with her for several years until the death of his uncle the Earl, and only revealed the true state of affairs upon his uncle's death in 1793. Upon assuming his title, Cecil took Sarah to live with him at his seat in Burleigh. She bore three children, and became known as the "Cottage Countess" or "Peasant Countess." She died in 1797. The story of this courtship is told in some detail a weird book published after OV: Thornton Hall, Love Romances of the Aristocracy. London: T. Werner Laurie, n.d. (accessed Project Gutenberg). Other refs: Thepeerage.com. MRM's likely source, if timing checks out, is Hazlitt's Table Talk, New Monthly Magazine, No. IV, Vol. XVII, (1822) "Burleigh House." In it, Hazlitt intimates that Sarah "never recovered" from the shock of the truth. MRM may be referring to a particular source, as the ones I've looked at don't seem to contain anything about Sarah thinking she'd married a steward. Need to check Thomas Moore's poem. Tennyson's poem, "The Lord of Burleigh," wasn't published till 1842. See Millais's illustration of the poem at Victorianweb, which turn Sarah into a romantic heroine. Nothing in ODNB. I have other notes cobbled from other places if necessary. Interesting story. See Julie Shaffer, et. al. A Noble Affair (2013).
+                scw: Need to incorporate more in personography from editor's notes.
+               scw: the town of B is mentioned several times here and elsewhere. Unidentified as yet.
+            
+          
+             List of all Comments Recorded in This File List of all Comments Recorded in This File 
+             
+               <?xml-model href="MRMValidate.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+                MAH: June 15, so footnotes. Not sure what we've decided to do with this, so I'm just leaving them in the text. 
+               Notice, this is simpler than the sourceDesc we used in our Letters file.
+               scw: Hobbema and Ruysdael need to be put in SI
+               scw: FOR EDITOR'S NOTE: "A new version or remodelling of a literary or artistic work." OED.
+               scw: I haven't yet been able to identify this quote
+               scw: FOR EDITOR'S NOTE: MRM is referring to the 1753 Act for the Better Preventing of Clandestine Marriages (also known as the Hardwicke Marriages Act), which sought to prevent clandestine marriages by requiring that banns be posted and that the ceremony take place in a church and according to the Book of Common Prayer. The law was abolished in 1823. Ref in part: Boulton, Jeremy. "Marriage Act." Oxford Companion to British History. Ed. John Cannon. Oxford: Oxford UP, 2009. Oxford Reference. Online. University of Montevallo. 
+               scw: Is it the same B. as mentioned in first sketch with the stagecoach from B. to S.?
+               tagged as narrator's father, or should it be something else?
+               scw: FOR NOTE: MRM is referring to the story of Henry Cecil, the possibly not-quite divorced heir to the Earl of Exeter who, in 1791, disguised his identity, married Sarah Hoggins (28 June, 1773-26 December, 1797) a Shropshire farmer's daughter from Bolas Magna, lived with her for several years until the death of his uncle the Earl, and only revealed the true state of affairs upon his uncle's death in 1793. Upon assuming his title, Cecil took Sarah to live with him at his seat in Burleigh. She bore three children, and became known as the "Cottage Countess" or "Peasant Countess." She died in 1797. The story of this courtship is told in some detail a weird book published after OV: Thornton Hall, Love Romances of the Aristocracy. London: T. Werner Laurie, n.d. (accessed Project Gutenberg). Other refs: Thepeerage.com. MRM's likely source, if timing checks out, is Hazlitt's Table Talk, New Monthly Magazine, No. IV, Vol. XVII, (1822) "Burleigh House." In it, Hazlitt intimates that Sarah "never recovered" from the shock of the truth. MRM may be referring to a particular source, as the ones I've looked at don't seem to contain anything about Sarah thinking she'd married a steward. Need to check Thomas Moore's poem. Tennyson's poem, "The Lord of Burleigh," wasn't published till 1842. See Millais's illustration of the poem at Victorianweb, which turn Sarah into a romantic heroine. Nothing in ODNB. I have other notes cobbled from other places if necessary. Interesting story. See Julie Shaffer, et. al. A Noble Affair (2013).
+                scw: Need to incorporate more in personography from editor's notes.
+               scw: the town of B is mentioned several times here and elsewhere. Unidentified as yet.
+             
+                <?xml-model href="MRMValidate.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> <?xml-model href="MRMValidate.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?> 
+                 MAH: June 15, so footnotes. Not sure what we've decided to do with this, so I'm just leaving them in the text.   MAH: June 15, so footnotes. Not sure what we've decided to do with this, so I'm just leaving them in the text.  
+                Notice, this is simpler than the sourceDesc we used in our Letters file. Notice, this is simpler than the sourceDesc we used in our Letters file. 
+                scw: Hobbema and Ruysdael need to be put in SI scw: Hobbema and Ruysdael need to be put in SI 
+                scw: FOR EDITOR'S NOTE: "A new version or remodelling of a literary or artistic work." OED. scw: FOR EDITOR'S NOTE: "A new version or remodelling of a literary or artistic work." OED. 
+                scw: I haven't yet been able to identify this quote scw: I haven't yet been able to identify this quote 
+                scw: FOR EDITOR'S NOTE: MRM is referring to the 1753 Act for the Better Preventing of Clandestine Marriages (also known as the Hardwicke Marriages Act), which sought to prevent clandestine marriages by requiring that banns be posted and that the ceremony take place in a church and according to the Book of Common Prayer. The law was abolished in 1823. Ref in part: Boulton, Jeremy. "Marriage Act." Oxford Companion to British History. Ed. John Cannon. Oxford: Oxford UP, 2009. Oxford Reference. Online. University of Montevallo.  scw: FOR EDITOR'S NOTE: MRM is referring to the 1753 Act for the Better Preventing of Clandestine Marriages (also known as the Hardwicke Marriages Act), which sought to prevent clandestine marriages by requiring that banns be posted and that the ceremony take place in a church and according to the Book of Common Prayer. The law was abolished in 1823. Ref in part: Boulton, Jeremy. "Marriage Act." Oxford Companion to British History. Ed. John Cannon. Oxford: Oxford UP, 2009. Oxford Reference. Online. University of Montevallo.  
+                scw: Is it the same B. as mentioned in first sketch with the stagecoach from B. to S.? scw: Is it the same B. as mentioned in first sketch with the stagecoach from B. to S.? 
+                tagged as narrator's father, or should it be something else? tagged as narrator's father, or should it be something else? 
+                scw: FOR NOTE: MRM is referring to the story of Henry Cecil, the possibly not-quite divorced heir to the Earl of Exeter who, in 1791, disguised his identity, married Sarah Hoggins (28 June, 1773-26 December, 1797) a Shropshire farmer's daughter from Bolas Magna, lived with her for several years until the death of his uncle the Earl, and only revealed the true state of affairs upon his uncle's death in 1793. Upon assuming his title, Cecil took Sarah to live with him at his seat in Burleigh. She bore three children, and became known as the "Cottage Countess" or "Peasant Countess." She died in 1797. The story of this courtship is told in some detail a weird book published after OV: Thornton Hall, Love Romances of the Aristocracy. London: T. Werner Laurie, n.d. (accessed Project Gutenberg). Other refs: Thepeerage.com. MRM's likely source, if timing checks out, is Hazlitt's Table Talk, New Monthly Magazine, No. IV, Vol. XVII, (1822) "Burleigh House." In it, Hazlitt intimates that Sarah "never recovered" from the shock of the truth. MRM may be referring to a particular source, as the ones I've looked at don't seem to contain anything about Sarah thinking she'd married a steward. Need to check Thomas Moore's poem. Tennyson's poem, "The Lord of Burleigh," wasn't published till 1842. See Millais's illustration of the poem at Victorianweb, which turn Sarah into a romantic heroine. Nothing in ODNB. I have other notes cobbled from other places if necessary. Interesting story. See Julie Shaffer, et. al. A Noble Affair (2013). scw: FOR NOTE: MRM is referring to the story of Henry Cecil, the possibly not-quite divorced heir to the Earl of Exeter who, in 1791, disguised his identity, married Sarah Hoggins (28 June, 1773-26 December, 1797) a Shropshire farmer's daughter from Bolas Magna, lived with her for several years until the death of his uncle the Earl, and only revealed the true state of affairs upon his uncle's death in 1793. Upon assuming his title, Cecil took Sarah to live with him at his seat in Burleigh. She bore three children, and became known as the "Cottage Countess" or "Peasant Countess." She died in 1797. The story of this courtship is told in some detail a weird book published after OV: Thornton Hall, Love Romances of the Aristocracy. London: T. Werner Laurie, n.d. (accessed Project Gutenberg). Other refs: Thepeerage.com. MRM's likely source, if timing checks out, is Hazlitt's Table Talk, New Monthly Magazine, No. IV, Vol. XVII, (1822) "Burleigh House." In it, Hazlitt intimates that Sarah "never recovered" from the shock of the truth. MRM may be referring to a particular source, as the ones I've looked at don't seem to contain anything about Sarah thinking she'd married a steward. Need to check Thomas Moore's poem. Tennyson's poem, "The Lord of Burleigh," wasn't published till 1842. See Millais's illustration of the poem at Victorianweb, which turn Sarah into a romantic heroine. Nothing in ODNB. I have other notes cobbled from other places if necessary. Interesting story. See Julie Shaffer, et. al. A Noble Affair (2013). 
+                 scw: Need to incorporate more in personography from editor's notes.  scw: Need to incorporate more in personography from editor's notes. 
+                scw: the town of B is mentioned several times here and elsewhere. Unidentified as yet. scw: the town of B is mentioned several times here and elsewhere. Unidentified as yet. 
+             
+          
+          
+            List Everything Tagged with the "Unclear" Element
+            
+          
+             List Everything Tagged with the "Unclear" Element List Everything Tagged with the "Unclear" Element 
+              
+          
+          
+            List of all elements in play in the body of this file, and sort by count from most to least used.
+            
+               persName
+                Count of this element: 58
+               Attributes: Names and Values
+               ref: Attribute Values:
+       
+            
+             #DameWilson, #Hobbema, #Ruydsdael, #JohnWilson, #RobertEllis, #SusanWilson, #HannahWilson, #Clerk, #Cupid, #WilliamSmith, #MrSmiththeHatter, #OVNarratorsFather, HannahWilson, #Lucy
+               subtype: Attribute Values:
+       
+            
+             int, ext
+               type: Attribute Values:
+       
+            
+             fict, hist, myth
+            
+            
+               rs
+                Count of this element: 43
+               Attributes: Names and Values
+               nymRef: Attribute Values:
+       
+            
+             plant, floral
+               ref: Attribute Values:
+       
+            
+             #JohnWilson, DameWilson, #DameWilson, #HannahWilson, #WilliamSmith, #SusanWilson, #MrSmiththeHatter, HannahWilson, #Hoggins_Sarah, #Cecil_Henry
+               subtype: Attribute Values:
+       
+            
+             fict, int, hist
+               type: Attribute Values:
+       
+            
+             plant, person, fict
+            
+            
+               placeName
+                Count of this element: 26
+               Attributes: Names and Values
+               ref: Attribute Values:
+       
+            
+             #ThreeMileCross, #London, #Burleigh
+               type: Attribute Values:
+       
+            
+             arch, land, geog
+            
+            
+               said
+                Count of this element: 21
+               Attributes: Names and Values
+               who: Attribute Values:
+       
+            
+             #SusanWilson, #OVNarrator, #HannahWilson, #WilliamSmith, #OVNarratorsFather
+            
+            
+               pb
+                Count of this element: 9
+               Attributes: Names and Values
+               n: Attribute Values:
+       
+            
+             17, 18, 19, 20, 21, 22, 23, 24, 25
+            
+            
+               orgName
+                Count of this element: 8
+               Attributes: Names and Values
+               ref: Attribute Values:
+       
+            
+             #Shinfield, #WilsonChildren
+               subtype: Attribute Values:
+       
+            
+             parish, WilsonChildren
+               type: Attribute Values:
+       
+            
+             place, person
+            
+            
+               p
+                Count of this element: 5
+            
+            
+               quote
+                Count of this element: 4
+            
+            
+               date
+                Count of this element: 4
+               Attributes: Names and Values
+               dur: Attribute Values:
+       
+            
+             P14D
+               when: Attribute Values:
+       
+            
+             --11
+            
+            
+               emph
+                Count of this element: 2
+            
+            
+               foreign
+                Count of this element: 2
+            
+            
+               soCalled
+                Count of this element: 2
+            
+            
+               div
+                Count of this element: 1
+               Attributes: Names and Values
+               type: Attribute Values:
+       
+            
+             sketch
+            
+            
+               head
+                Count of this element: 1
+            
+            
+               sic
+                Count of this element: 1
+            
+            
+               note
+                Count of this element: 1
+               Attributes: Names and Values
+               anchored: Attribute Values:
+       
+            
+             true
+               type: Attribute Values:
+       
+            
+             author
+            
+          
+             List of all elements in play in the body of this file, and sort by count from most to least used. List of all elements in play in the body of this file, and sort by count from most to least used. 
+             
+               persName
+                Count of this element: 58
+               Attributes: Names and Values
+               ref: Attribute Values:
+       
+            
+             #DameWilson, #Hobbema, #Ruydsdael, #JohnWilson, #RobertEllis, #SusanWilson, #HannahWilson, #Clerk, #Cupid, #WilliamSmith, #MrSmiththeHatter, #OVNarratorsFather, HannahWilson, #Lucy
+               subtype: Attribute Values:
+       
+            
+             int, ext
+               type: Attribute Values:
+       
+            
+             fict, hist, myth
+             
+                persName persName 
+                 Count of this element: 58  Count of this element: 58 
+                Attributes: Names and Values Attributes: Names and Values 
+                ref: Attribute Values:
+       
+            
+             #DameWilson, #Hobbema, #Ruydsdael, #JohnWilson, #RobertEllis, #SusanWilson, #HannahWilson, #Clerk, #Cupid, #WilliamSmith, #MrSmiththeHatter, #OVNarratorsFather, HannahWilson, #Lucy ref: Attribute Values:
+       
+            
+             #DameWilson, #Hobbema, #Ruydsdael, #JohnWilson, #RobertEllis, #SusanWilson, #HannahWilson, #Clerk, #Cupid, #WilliamSmith, #MrSmiththeHatter, #OVNarratorsFather, HannahWilson, #Lucy 
+                subtype: Attribute Values:
+       
+            
+             int, ext subtype: Attribute Values:
+       
+            
+             int, ext 
+                type: Attribute Values:
+       
+            
+             fict, hist, myth type: Attribute Values:
+       
+            
+             fict, hist, myth 
+             
+             
+               rs
+                Count of this element: 43
+               Attributes: Names and Values
+               nymRef: Attribute Values:
+       
+            
+             plant, floral
+               ref: Attribute Values:
+       
+            
+             #JohnWilson, DameWilson, #DameWilson, #HannahWilson, #WilliamSmith, #SusanWilson, #MrSmiththeHatter, HannahWilson, #Hoggins_Sarah, #Cecil_Henry
+               subtype: Attribute Values:
+       
+            
+             fict, int, hist
+               type: Attribute Values:
+       
+            
+             plant, person, fict
+             
+                rs rs 
+                 Count of this element: 43  Count of this element: 43 
+                Attributes: Names and Values Attributes: Names and Values 
+                nymRef: Attribute Values:
+       
+            
+             plant, floral nymRef: Attribute Values:
+       
+            
+             plant, floral 
+                ref: Attribute Values:
+       
+            
+             #JohnWilson, DameWilson, #DameWilson, #HannahWilson, #WilliamSmith, #SusanWilson, #MrSmiththeHatter, HannahWilson, #Hoggins_Sarah, #Cecil_Henry ref: Attribute Values:
+       
+            
+             #JohnWilson, DameWilson, #DameWilson, #HannahWilson, #WilliamSmith, #SusanWilson, #MrSmiththeHatter, HannahWilson, #Hoggins_Sarah, #Cecil_Henry 
+                subtype: Attribute Values:
+       
+            
+             fict, int, hist subtype: Attribute Values:
+       
+            
+             fict, int, hist 
+                type: Attribute Values:
+       
+            
+             plant, person, fict type: Attribute Values:
+       
+            
+             plant, person, fict 
+             
+             
+               placeName
+                Count of this element: 26
+               Attributes: Names and Values
+               ref: Attribute Values:
+       
+            
+             #ThreeMileCross, #London, #Burleigh
+               type: Attribute Values:
+       
+            
+             arch, land, geog
+             
+                placeName placeName 
+                 Count of this element: 26  Count of this element: 26 
+                Attributes: Names and Values Attributes: Names and Values 
+                ref: Attribute Values:
+       
+            
+             #ThreeMileCross, #London, #Burleigh ref: Attribute Values:
+       
+            
+             #ThreeMileCross, #London, #Burleigh 
+                type: Attribute Values:
+       
+            
+             arch, land, geog type: Attribute Values:
+       
+            
+             arch, land, geog 
+             
+             
+               said
+                Count of this element: 21
+               Attributes: Names and Values
+               who: Attribute Values:
+       
+            
+             #SusanWilson, #OVNarrator, #HannahWilson, #WilliamSmith, #OVNarratorsFather
+             
+                said said 
+                 Count of this element: 21  Count of this element: 21 
+                Attributes: Names and Values Attributes: Names and Values 
+                who: Attribute Values:
+       
+            
+             #SusanWilson, #OVNarrator, #HannahWilson, #WilliamSmith, #OVNarratorsFather who: Attribute Values:
+       
+            
+             #SusanWilson, #OVNarrator, #HannahWilson, #WilliamSmith, #OVNarratorsFather 
+             
+             
+               pb
+                Count of this element: 9
+               Attributes: Names and Values
+               n: Attribute Values:
+       
+            
+             17, 18, 19, 20, 21, 22, 23, 24, 25
+             
+                pb pb 
+                 Count of this element: 9  Count of this element: 9 
+                Attributes: Names and Values Attributes: Names and Values 
+                n: Attribute Values:
+       
+            
+             17, 18, 19, 20, 21, 22, 23, 24, 25 n: Attribute Values:
+       
+            
+             17, 18, 19, 20, 21, 22, 23, 24, 25 
+             
+             
+               orgName
+                Count of this element: 8
+               Attributes: Names and Values
+               ref: Attribute Values:
+       
+            
+             #Shinfield, #WilsonChildren
+               subtype: Attribute Values:
+       
+            
+             parish, WilsonChildren
+               type: Attribute Values:
+       
+            
+             place, person
+             
+                orgName orgName 
+                 Count of this element: 8  Count of this element: 8 
+                Attributes: Names and Values Attributes: Names and Values 
+                ref: Attribute Values:
+       
+            
+             #Shinfield, #WilsonChildren ref: Attribute Values:
+       
+            
+             #Shinfield, #WilsonChildren 
+                subtype: Attribute Values:
+       
+            
+             parish, WilsonChildren subtype: Attribute Values:
+       
+            
+             parish, WilsonChildren 
+                type: Attribute Values:
+       
+            
+             place, person type: Attribute Values:
+       
+            
+             place, person 
+             
+             
+               p
+                Count of this element: 5
+             
+                p p 
+                 Count of this element: 5  Count of this element: 5 
+             
+             
+               quote
+                Count of this element: 4
+             
+                quote quote 
+                 Count of this element: 4  Count of this element: 4 
+             
+             
+               date
+                Count of this element: 4
+               Attributes: Names and Values
+               dur: Attribute Values:
+       
+            
+             P14D
+               when: Attribute Values:
+       
+            
+             --11
+             
+                date date 
+                 Count of this element: 4  Count of this element: 4 
+                Attributes: Names and Values Attributes: Names and Values 
+                dur: Attribute Values:
+       
+            
+             P14D dur: Attribute Values:
+       
+            
+             P14D 
+                when: Attribute Values:
+       
+            
+             --11 when: Attribute Values:
+       
+            
+             --11 
+             
+             
+               emph
+                Count of this element: 2
+             
+                emph emph 
+                 Count of this element: 2  Count of this element: 2 
+             
+             
+               foreign
+                Count of this element: 2
+             
+                foreign foreign 
+                 Count of this element: 2  Count of this element: 2 
+             
+             
+               soCalled
+                Count of this element: 2
+             
+                soCalled soCalled 
+                 Count of this element: 2  Count of this element: 2 
+             
+             
+               div
+                Count of this element: 1
+               Attributes: Names and Values
+               type: Attribute Values:
+       
+            
+             sketch
+             
+                div div 
+                 Count of this element: 1  Count of this element: 1 
+                Attributes: Names and Values Attributes: Names and Values 
+                type: Attribute Values:
+       
+            
+             sketch type: Attribute Values:
+       
+            
+             sketch 
+             
+             
+               head
+                Count of this element: 1
+             
+                head head 
+                 Count of this element: 1  Count of this element: 1 
+             
+             
+               sic
+                Count of this element: 1
+             
+                sic sic 
+                 Count of this element: 1  Count of this element: 1 
+             
+             
+               note
+                Count of this element: 1
+               Attributes: Names and Values
+               anchored: Attribute Values:
+       
+            
+             true
+               type: Attribute Values:
+       
+            
+             author
+             
+                note note 
+                 Count of this element: 1  Count of this element: 1 
+                Attributes: Names and Values Attributes: Names and Values 
+                anchored: Attribute Values:
+       
+            
+             true anchored: Attribute Values:
+       
+            
+             true 
+                type: Attribute Values:
+       
+            
+             author type: Attribute Values:
+       
+            
+             author 
+             
+          
+      

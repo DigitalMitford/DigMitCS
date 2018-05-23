@@ -272,7 +272,7 @@ Please use the 1824 NCCO PDF (saved in OV folder in Box) to check and correct th
                girl, admitted by virtue of the Christmas holidays to this annual festival. Poor
                <persName ref="#Andrews_OV">Andrews</persName>! I am convinced that he considered the entertainment of the visitors quite as 
                   much his affair as <rs type="person" ref="#Mr_Sidney_OV">his master</rs>’s; and certainly they both succeeded. Never did parties 
-                  pass more pleasantly. On those evenings <persName ref="#Mr_Sidney_OV">Mr. Sidney</persName> even forgot to find fault at whist.
+                  pass more pleasantly. On those evenings <persName ref="#Mr_Sidney_OV">Mr. Sidney</persName> even forgot to find fault at whist.</rs>
             </p>
             <p>At last, towards the end of a severe winter, during which <rs type="person" ref="#Mr_Sidney_OV">he</rs> had suffered much from
                repeated colds, the <placeName>rectory of * * *</placeName> became vacant, and our worthy neighbour
@@ -284,80 +284,6 @@ Please use the 1824 NCCO PDF (saved in OV folder in Box) to check and correct th
                for this living thirty years; he did not enjoy it thirty days.</p>
          </div>
       </body>
-      <back>
-         <div> 
-            <person xml:id="#Old_Parr">
-               <persName>
-                  <forename>Thomas</forename>
-                  <surname>Parr</surname>
-               </persName>
-               <birth>supposedly 1483?</birth>
-               <death>1635</death>
-              <note resp="#sbb">He is commonly known as Old Parr, who supposedly lived 150 years.</note>
-            </person>
-            
-            <person xml:id="#Handel">
-               <persName>
-                  <forename>George Frideric</forename>
-                  <surname>Handel</surname>
-                </persName>
-               <birth>1685</birth>
-               <placeName>Halle-an-der-Saale</placeName>
-               <death>1759</death>
-               <placeName>Hanover Square, Westminster</placeName>
-               <occupation>composer</occupation>
-            </person>
-            <listPerson sortKey="fictPersons">
-               <person xml:id="Mr_Sidney_OV" sex="1">
-                  <persName>Mr. Sidney</persName>
-                  <note resp="#sbb">Mr. Sidney appears and is the main character in <title ref="#Old_Bachelor_OV">An Old Bachelor</title> in "Our Village" </note>
-               </person>
-            </listPerson>
-            <listPerson sortKey="fictPersons">
-               <person xml:id="Andrews_OV">
-                  <persName>Andrews</persName>
-                  <note resp="#sbb">Mr. Sidney's valet from <title ref="#Old_Bachelor_OV">An Old Bachelor</title></note>
-               </person>
-            </listPerson>
-            <listPerson sortKey="fictPersons">
-               <person xml:id="Viper_Pet_OV">
-                  <persName>Viper</persName>
-                  <note resp="#sbb">Viper is Mr. Sidney's pet terrier</note>
-               </person>
-            </listPerson>
-           <listPerson sortKey="fictPersons">
-               <person xml:id="gardener_Sidney_OV">
-                  <persName>Not given</persName>
-                  <note resp="#sbb">the gardener of Mr. Sidney at his home in B.</note>
-               </person>
-            </listPerson>
-            <listPlace>
-               <place xml:id="King_highway_OV">
-                  <placeName>King highway in B.</placeName>
-                  <note resp="#sbb"></note>
-               </place>
-            </listPlace>
-            <list sortKey="plants">
-               <item xml:id="cistus">
-                  <rs type="genus">Cistus</rs>
-                  <rs type="family">Cistaceae Iadanifer</rs>
-                  <note resp="#sbb">Mitford uses the comman name "gum cistus" in the Old Bachelor sketch, but it is also commonly known as rockrose flowers</note>
-               </item>    
-            </list>
-           <listOrg sortKey="fictOrgs"
-               <org xml:id="OVNarratorsFamily"></org>
-               <orgName>OV Narrator's nuclear family</orgName>
-               <note resp="#sbb">The nuclear family is not always directly referred and will often be seen as "we" and "our" when the narrator speaks.</note>
-            </listOrg>
-            <listBibl>
-               <bibl xml:id="Bentleys_Miscellany">
-                  <title>Bentley's Miscellany</title>
-                  <publisher>Richard Bentley</publisher>
-                  <date>1836-1868</date>
-                  <note resp="#sbb">An English literary magazine, Mitford quotes a short story by <persName>Dudley Costello</persName> in <title ref="#Old_Bachelor_OV">An Old Bachelor</title> in "Our Village", Bentley also published <bibl ref="#Lestrange_Letters">The Life of Mary Russell Mitford</bibl></note>
-               </bibl>
-            </listBibl>
-          </div>
-      </back>
+      
    </text>
 </TEI>
