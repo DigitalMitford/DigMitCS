@@ -5,11 +5,11 @@
     exclude-result-prefixes="xs"
     version="2.0">
     
-    <xsl:output method="text"/>
+    <xsl:output method="text" omit-xml-declaration="yes"/>
     <xsl:variable name="OVColl" select="collection('MitfordOV')"/>
     <xsl:template match="/">
      <xsl:for-each select="$OVColl//text">   
-        <xsl:result-document href="MitfordOV_text/{substring-before(tokenize(base-uri(), '/')[last()], '.')}.txt" method="text" indent="yes">
+         <xsl:result-document href="MitfordOV_text/{substring-before(tokenize(base-uri(), '/')[last()], '.')}.txt" method="text" indent="yes" omit-xml-declaration="yes">
         <xsl:value-of select="//body//string()"/>
         </xsl:result-document>
      </xsl:for-each>
