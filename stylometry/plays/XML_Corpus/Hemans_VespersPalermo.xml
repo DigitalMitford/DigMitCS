@@ -1,0 +1,3297 @@
+<xml>
+	<head>
+		<title>The vespers of Palermo.</title>
+		<author>Felicia Hemans</author>
+		<pubInfo>Date first published: <date>1823</date></pubInfo>
+		<perfInfo>Date first performed: <date when="1823-12-12">12 Dec 1823</date>.</perfInfo>
+	</head>
+	<play>
+
+		<stage>Scene---Palermo.</stage>
+
+		<div type="act"><head>ACT THE FIRST. </head>
+			<div type="scene"><head>Scene I. </head>
+				<stage>---A Valley, with Vineyards and Cottages. Groups of Peasants---Procida,
+					disguised as a Pilgrim, amongst them</stage>
+				<sp><speaker>1 Peasant.</speaker>
+					<line>Ay, this was wont to be a festal time</line>
+					<line>In days gone by! I can remember well </line>
+					<line>The old familiar melodies that rose </line>
+					<line>At break of morn, from all our purple hills, </line>
+					<line>To welcome in the vintage. Never since </line>
+					<line>Hath music seem'd so sweet! But the light hearts </line>
+					<line>Which to those measures beat so joyously </line>
+					<line>Are tamed to stillness now. There is no voice </line>
+					<line>Of joy thro' all the land.</line>
+				</sp><sp><speaker>2 Pea.</speaker>
+					<line> Yes! there are sounds </line>
+					<line>Of revelry within the palaces, </line>
+					<line>And the fair castles of our ancient lords, </line>
+					<line>Where now the stranger banquets. Ye may hear, </line>
+					<line>From <em>thence</em> the peals of song and laughter rise</line>
+					<line>At midnight's deepest hour.</line>
+				</sp><sp><speaker>3 Pea.</speaker>
+					<line> Alas! we sat </line>
+					<line>In happier days, so peacefully beneath </line>
+					<line>The olives and the vines our fathers rear'd, </line>
+					<line>Encircled by our children, whose quick steps </line>
+					<line>Flew by us in the dance! The time hath been </line>
+					<line>When peace was in the hamlet, wheresoe'er </line>
+					<line>The storm might gather. But this yoke of France </line>
+					<line>Falls on the peasant's neck as heavily </line>
+					<line>As on the crested chieftain's. We are bow'd </line>
+					<line> E'en to the earth. </line>
+				</sp><sp><speaker>Pea. Child.</speaker>
+					<line> My father, tell me when </line>
+					<line>Shall the gay dance and song again resound </line>
+					<line>Amidst our chesnut-woods, as in those days </line>
+					<line>Of which thou'rt wont to tell the joyous tale?</line>
+				</sp><sp><speaker>1 Pea.</speaker>
+					<line>When there are light and reckless hearts once more </line>
+					<line>In Sicily's green vales. Alas! my boy, </line>
+					<line>Men meet not now to quaff the flowing bowl, </line>
+					<line>To hear the mirthful song, and cast aside </line>
+					<line>The weight of work-day care:---they meet, to speak </line>
+					<line>Of wrongs and sorrows, and to whisper thoughts </line>
+					<line>They dare not breathe aloud.</line>
+				</sp><sp><speaker>Procida.</speaker><stage>from the back-ground.</stage><line>Ay, it
+						is well </line>
+					<line>So to relieve th'o'erburden'd heart, which pants </line>
+					<line>Beneath its weight of wrongs; but better far </line>
+					<line>In silence to avenge them.</line>
+				</sp><sp><speaker>An old Pea.</speaker>
+					<line> What deep voice </line>
+					<line>Came with that startling tone?</line>
+				</sp><sp><speaker>1 Pea.</speaker>
+					<line> It was our guest's, </line>
+					<line>The stranger pilgrim, who hath sojourn'd here </line>
+					<line>Since yester-morn. Good neighbours, mark him well: </line>
+					<line>He hath a stately bearing, and an eye </line>
+					<line>Whose glance looks thro' the heart. His mien accords </line>
+					<line>Ill with such vestments. How he folds round him </line>
+					<line>His pilgrim-cloak, e'en as it were a robe </line>
+					<line> Of knightly ermine! That commanding step </line>
+					<line>Should have been used in courts and camps to move. </line>
+					<line>Mark him!</line>
+				</sp><sp><speaker>Old Pea.</speaker>
+					<line>Nay, rather, mark him not: the times </line>
+					<line>Are fearful, and they teach the boldest hearts </line>
+					<line>A cautious lesson. What should bring him here?</line>
+				</sp><sp><speaker>A Youth.</speaker>
+					<line>He spoke of vengeance!</line>
+				</sp><sp><speaker>Old Pea.</speaker>
+					<line> Peace! we are beset </line>
+					<line>By snares on every side, and we must learn </line>
+					<line>In silence and in patience to endure. </line>
+					<line>Talk not of vengeance, for the word is death.</line>
+				</sp><sp><speaker>Pro.</speaker><stage>coming forward
+						indignantly.</stage><line>---The word is death! And what hath life for
+							<em>thee</em> ,</line>
+					<line>That thou shouldst cling to it thus? thou abject thing! </line>
+					<line>Whose very soul is moulded to the yoke, </line>
+					<line>And stamp'd with servitude. What! is it life, </line>
+					<line>Thus at a breeze to start, to school thy voice </line>
+					<line>Into low fearful whispers, and to cast </line>
+					<line>Pale jealous looks around thee, lest, e'en then, </line>
+					<line>Strangers should catch its echo?---Is there aught </line>
+					<line>In <em>this</em> so precious, that thy furrow'd cheek</line>
+					<line>Is blanch'd with terror at the passing thought </line>
+					<line>Of hazarding some few and evil days, </line>
+					<line>Which drag thus poorly on?</line>
+				</sp><sp><speaker>Some of the Peasants.</speaker>
+					<line> Away, away! </line>
+					<line>Leave us, for there is danger in thy presence.</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> Why, what is danger?---Are there deeper ills </line>
+					<line>Than those ye bear thus calmly? Ye have drain'd </line>
+					<line>The cup of bitterness, till nought remains </line>
+					<line>To fear or shrink from---therefore, be ye strong! </line>
+					<line>Power dwelleth with despair.---Why start ye thus </line>
+					<line>At words which are but echoes of the thoughts </line>
+					<line>Lock'd in your secret souls?---Full well I know, </line>
+					<line>There is not one amongst you, but hath nursed </line>
+					<line>Some proud indignant feeling, which doth make </line>
+					<line>One conflict of his life. I know <em>thy</em> wrongs,</line>
+					<line>And thine---and thine,---but if within your breasts, </line>
+					<line>There is no chord that vibrates to <em>my</em> voice,</line>
+					<line>Then fare ye well.</line>
+				</sp><sp><speaker>A Youth.</speaker><stage>coming forward.</stage><line>No, no! say
+						on, say on! </line>
+					<line>There are still free and fiery hearts e'en here, </line>
+					<line>That kindle at thy words.</line>
+				</sp><sp><speaker>Peas.</speaker>
+					<line> If that indeed </line>
+					<line>Thou hast a hope to give us.</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> There is hope </line>
+					<line>For all who suffer with indignant thoughts </line>
+					<line>Which work in silent strength. What! think ye Heaven </line>
+					<line>O'erlooks th'oppressor, if he bear awhile </line>
+					<line>His crested head on high?---I tell you, no! </line>
+					<line>Th'avenger will not sleep. It was an hour </line>
+					<line>Of triumph to the conqueror, when our king, </line>
+					<line> Our young brave Conradin, in life's fair morn, </line>
+					<line>On the red scaffold died. Yet not the less </line>
+					<line>Is justice throned above; and her good time </line>
+					<line>Comes rushing on in storms: that royal blood </line>
+					<line>Hath lifted an accusing voice from earth, </line>
+					<line>And hath been heard. The traces of the past </line>
+					<line>Fade in <em>man's</em> heart, but ne'er doth heaven forget.</line>
+				</sp><sp><speaker>Peas.</speaker>
+					<line>Had we but arms and leaders, we are men </line>
+					<line>Who might earn vengeance yet; but wanting these, </line>
+					<line>What woulds't thou have us do?</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> Be vigilant; </line>
+					<line>And when the signal wakes the land, arise! </line>
+					<line>The peasant's arm is strong, and there shall be </line>
+					<line>A rich and noble harvest. Fare ye well. </line>
+					<stage>Exit Procida.</stage>
+				</sp><sp><speaker>1 Peas.</speaker>
+					<line>This man should be a prophet: how he seem'd </line>
+					<line>To read our hearts with his dark searching glance </line>
+					<line>And aspect of command! And yet his garb </line>
+					<line>Is mean as ours.</line>
+				</sp><sp><speaker>2 Peas.</speaker>
+					<line>Speak low; I know him well. </line>
+					<line>At first his voice disturb'd me like a dream </line>
+					<line>Of other days; but I remember now </line>
+					<line>His form, seen oft when in my youth I served </line>
+					<line>Beneath the banners of our kings. 'Tis he </line>
+					<line>Who hath been exiled and proscribed so long, </line>
+					<line>The Count di Procida.</line>
+				</sp><sp><speaker>Peas.</speaker>
+					<line> And is this he? </line>
+					<line>Then heaven protect him! for around his steps </line>
+					<line>Will many snares be set.</line>
+				</sp><sp><speaker>1 Peas.</speaker>
+					<line> He comes not thus </line>
+					<line>But with some mighty purpose; doubt it not: </line>
+					<line>Perchance to bring us freedom. He is one, </line>
+					<line>Whose faith, thro' many a trial, hath been proved </line>
+					<line>True to our native princes. But away! </line>
+					<line>The noon-tide heat is past, and from the seas </line>
+					<line>Light gales are wandering thro' the vineyards; now </line>
+					<line>We may resume our toil.</line></sp>
+				<stage>Exeunt Peasants .</stage>
+			</div><div type="scene"><head>Scene II. </head>
+				<stage>---The Terrace of a Castle. Eribert. Vittoria.</stage>
+				<sp><speaker>Vittoria.</speaker>
+					<line>Have I not told thee, that I bear a heart </line>
+					<line>Blighted and cold?---Th'affections of my youth </line>
+					<line>Lie slumbering in the grave; their fount is closed, </line>
+					<line>And all the soft and playful tenderness </line>
+					<line>Which hath its home in woman's breast, ere yet </line>
+					<line>Deep wrongs have sear'd it; all is fled from mine. </line>
+					<line>Urge me no more.</line>
+				</sp><sp><speaker>Eribert.</speaker>
+					<line> O lady! doth the flower </line>
+					<line>That sleeps entomb'd thro' the long wintry storms </line>
+					<line>Unfold its beauty to the breath of spring; </line>
+					<line>And shall not woman's heart, from chill despair, </line>
+					<line>Wake at love's voice?</line>
+				</sp><sp><speaker>Vit.</speaker>
+					<line>Love!---make <em>love's</em> name thy spell,</line>
+					<line>And I am strong!---the very word calls up </line>
+					<line>From the dark past, thoughts, feelings, powers, array'd </line>
+					<line>In arms against thee!---Know'st thou <em>whom</em> I lov'd,</line>
+					<line>While my soul's dwelling place was still on earth? </line>
+					<line>One who was born for empire, and endow'd </line>
+					<line>With such high gifts of princely majesty, </line>
+					<line>As bow'd all hearts before him!---Was he not </line>
+					<line>Brave, royal, beautiful?---And such he died; </line>
+					<line>He died!---hast thou forgotten?---And thou'rt here, </line>
+					<line>Thou meet'st my glance with eyes which coldly look'd, </line>
+					<line>---Coldly!---nay, rather with triumphant gaze, </line>
+					<line> Upon his murder!---Desolate as I am, </line>
+					<line> Yet in the mien of</line>
+					<em>thine</em> affianced bride, <line>Oh, my lost Conradin! there should be
+						still </line>
+					<line>Somewhat of loftiness, which might o'erawe </line>
+					<line>The hearts of thine assassins.</line>
+				</sp><sp><speaker>Eri.</speaker>
+					<line> Haughty dame! </line>
+					<line>If thy proud heart to tenderness be closed, </line>
+					<line>Know, danger is around thee: thou hast foes </line>
+					<line>That seek thy ruin, and my power alone </line>
+					<line>Can shield thee from their arts.</line>
+				</sp><sp><speaker>Vit.</speaker>
+					<line> Provençal, tell </line>
+					<line>Thy tale of danger to some happy heart, </line>
+					<line>Which hath its little world of loved ones round, </line>
+					<line>For whom to tremble; and its tranquil joys </line>
+					<line>That make earth, Paradise. I stand alone; </line>
+					<line>---They that are blest may fear.</line>
+				</sp><sp><speaker>Eri.</speaker>
+					<line> Is there not one </line>
+					<line>Who ne'er commands in vain?---proud lady, bend </line>
+					<line>Thy spirit to thy fate; for know that he, </line>
+					<line>Whose car of triumph in its earthquake path </line>
+					<line>O'er the bow'd neck of prostrate Sicily, </line>
+					<line>Hath borne him to dominion; he, my king, </line>
+					<line>Charles of Anjou, decrees thy hand the boon </line>
+					<line>My deeds have well deserved; and who hath power </line>
+					<line>Against his mandates?</line>
+				</sp><sp><speaker>Vit.</speaker>
+					<line> Viceroy, tell thy lord, </line>
+					<line>That e'en where chains lie heaviest on the land, </line>
+					<line>Souls may not all be fetter'd. Oft, ere now, </line>
+					<line>Conquerors have rock'd the earth, yet fail'd to tame </line>
+					<line>Unto their purposes, that restless fire, </line>
+					<line>Inhabiting man's breast.---A spark bursts forth, </line>
+					<line>And so they perish!---'tis the fate of those </line>
+					<line>Who sport with lightning---and it may be his. </line>
+					<line>---Tell him I fear him not, and thus am free.</line>
+				</sp><sp><speaker>Eri.</speaker>
+					<line>'Tis well. Then nerve that lofty heart to bear </line>
+					<line>The wrath which is not powerless. Yet again </line>
+					<line>Bethink thee, lady!---Love may change--- <em>hath</em> changed</line>
+					<line>To vigilant hatred oft, whose sleepless eye </line>
+					<line>Still finds what most it seeks for. Fare thee well. </line>
+					<line>---Look to it yet!---To-morrow I return. </line></sp>
+				<stage>Exit Eribert .</stage>
+				<sp><speaker>Vit.</speaker>
+					<line>To-morrow!---Some ere now have slept, and dreamt </line>
+					<line>Of morrows which ne'er dawn'd---or ne'er for them; </line>
+					<line>So silently their deep and still repose </line>
+					<line>Hath melted into death!---Are there not balms </line>
+					<line>In nature's boundless realm, to pour out sleep </line>
+					<line>Like this, on me?---Yet should my spirit still </line>
+					<line>Endure its earthly bonds, till it could bear </line>
+					<line>To <em>his</em> a glorious tale of his own isle,</line>
+					<line>Free and avenged.---<em>Thou</em> should'st be now at work,</line>
+					<line>In wrath, my native Etna! who dost lift </line>
+					<line> Thy spiry pillar of dark smoke so high, </line>
+					<line>Thro' the red heaven of sunset!---sleep'st thou still, </line>
+					<line>With all thy founts of fire, while spoilers tread </line>
+					<line>The glowing vales beneath? </line>
+					<stage>Procida enters disguised.</stage>
+					<line> Ha! who art thou, </line>
+					<line>Unbidden guest, that with so mute a step </line>
+					<line>Dost steal upon me?</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> One, o'er whom hath pass'd </line>
+					<line>All that can change man's aspect!---Yet not long </line>
+					<line>Shalt thou find safety in forgetfulness. </line>
+					<line>---I am he, to breathe whose name is perilous, </line>
+					<line>Unless thy wealth could bribe the winds to silence. </line>
+					<line>---Know'st thou <em>this</em> , lady?---</line>
+					<stage>He shows a ring.</stage>
+				</sp><sp><speaker>Vit.</speaker>
+					<line> Righteous Heaven! the pledge </line>
+					<line>Amidst his people from the scaffold thrown </line>
+					<line>By him who perish'd, and whose kingly blood </line>
+					<line>E'en yet is unatoned.---My heart beats high--- </line>
+					<line>---Oh, welcome, welcome! thou art Procida, </line>
+					<line>Th'Avenger, the Deliverer!</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> Call me so </line>
+					<line>When my great task is done. Yet who can tell </line>
+					<line>If the return'd <em>be</em> welcome?---Many a heart</line>
+					<line>Is changed since last we met.</line>
+				</sp><sp><speaker>Vit.</speaker>
+					<line> Why dost thou gaze, </line>
+					<line>With such a still and solemn earnestness, </line>
+					<line> Upon my alter'd mien? </line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> That I may read </line>
+					<line>If to the widow'd love of Conradin, </line>
+					<line>Or the proud Eribert's triumphant bride, </line>
+					<line>I now entrust my fate.</line>
+				</sp><sp><speaker>Vit.</speaker>
+					<line> Thou, Procida! </line>
+					<line> That</line>
+					<em>thou</em> shouldst wrong me thus!---Prolong thy gaze <line>Till it hath
+						found an answer.</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> 'Tis enough. </line>
+					<line>I find it in thy cheek, whose rapid change </line>
+					<line>Is from death's hue to fever's; in the wild </line>
+					<line>Unsettled brightness of thy proud dark eye, </line>
+					<line>And in thy wasted form. Ay, 'tis a deep </line>
+					<line>And solemn joy, thus in thy looks to trace, </line>
+					<line>Instead of youth's gay bloom, the characters </line>
+					<line>Of noble suffering;---on thy brow the same </line>
+					<line>Commanding spirit holds its native state </line>
+					<line>Which could not stoop to vileness. Yet the voice </line>
+					<line>Of Fame hath told afar that thou shouldst wed </line>
+					<line>This tyrant, Eribert.</line>
+				</sp><sp><speaker>Vit.</speaker>
+					<line> And told it not </line>
+					<line>A tale of insolent love repell'd with scorn, </line>
+					<line>Of stern commands and fearful menaces </line>
+					<line>Met with indignant courage?---Procida! </line>
+					<line>It was but now that haughtily I braved </line>
+					<line> His sovereign's mandate, which decrees my hand, </line>
+					<line>With its fair appanage of wide domains </line>
+					<line>And wealthy vassals, a most fitting boon, </line>
+					<line>To recompense his crimes.---I smiled---ay, smiled--- </line>
+					<line>In proud security! for the high of heart </line>
+					<line>Have still a pathway to escape disgrace, </line>
+					<line>Tho' it be dark and lone.</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> Thou shalt not need </line>
+					<line>To tread its shadowy mazes. Trust my words: </line>
+					<line>I tell thee, that a spirit is abroad, </line>
+					<line>Which will not slumber till its path be traced </line>
+					<line>By deeds of fearful fame. Vittoria, live! </line>
+					<line>It is most meet that thou <em>shouldst</em> live, to see</line>
+					<line>The mighty expiation; for thy heart </line>
+					<line>(Forgive me that I wrong'd its faith) hath nursed </line>
+					<line>A high, majestic grief, whose seal is set </line>
+					<line>Deep on thy marble brow.</line>
+				</sp><sp><speaker>Vit.</speaker>
+					<line>Then thou <em>canst</em> tell,</line>
+					<line>By gazing on the wither'd rose, that there </line>
+					<line>Time, or the blight, hath work'd!---Ay, this is in </line>
+					<line>Thy vision's scope: but oh! the things unseen, </line>
+					<line>Untold, undreamt of, which like shadows pass </line>
+					<line>Hourly o'er that mysterious world, a mind </line>
+					<line>To ruin struck by grief!---Yet doth my soul, </line>
+					<line>Far, midst its darkness, nurse one soaring hope, </line>
+					<line> Wherein is bright vitality.---'Tis to see </line>
+					<line><em>His</em> blood avenged, and his fair heritage,</line>
+					<line>My beautiful native land, in glory risen, </line>
+					<line>Like a warrior from his slumbers!</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> Hear'st thou not </line>
+					<line>With what a deep and ominous moan, the voice </line>
+					<line>Of our great mountain swells?---There will be soon </line>
+					<line>A fearful burst!---Vittoria! brood no more </line>
+					<line>In silence o'er thy sorrows, but go forth </line>
+					<line>Amidst thy vassals, (yet be secret still) </line>
+					<line>And let thy breath give nurture to the spark </line>
+					<line>Thou'lt find already kindled. I move on </line>
+					<line>In shadow, yet awakening in my path </line>
+					<line>That which shall startle nations. Fare thee well.</line>
+				</sp><sp><speaker>Vit.</speaker>
+					<line>When shall we meet again?---Are we not those </line>
+					<line>Whom most he loved on earth, and think'st thou not </line>
+					<line><em>That</em> love e'en yet shall bring his spirit near</line>
+					<line>While thus we hold communion?</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> Yes, I feel </line>
+					<line>Its breathing influence whilst I look on thee, </line>
+					<line>Who wert its light in life. Yet will we not </line>
+					<line>Make womanish tears our offering on his tomb; </line>
+					<line>He shall have nobler tribute!---I must hence, </line>
+					<line>But thou shalt soon hear more. Await the time.</line></sp>
+				<stage>Exeunt separately.</stage>
+			</div><div type="scene"><head>Scene III. </head>
+				<stage>---The Sea Shore. Raimond di Procida. Constance.</stage>
+				<sp><speaker>Constance.</speaker>
+					<line>There is a shadow far within your eye, </line>
+					<line>Which hath of late been deepening. You were wont </line>
+					<line>Upon the clearness of your open brow </line>
+					<line>To wear a brighter spirit, shedding round </line>
+					<line>Joy, like our southern sun. It is not well, </line>
+					<line>If some dark thought be gathering o'er your soul, </line>
+					<line>To hide it from affection. Why is this, </line>
+					<line>My Raimond, why is this?</line>
+				</sp><sp><speaker>Raimond.</speaker>
+					<line> Oh! from the dreams </line>
+					<line>Of youth, sweet Constance, hath not manhood still </line>
+					<line>A wild and stormy wakening?---They depart, </line>
+					<line>Light after light, our glorious visions fade, </line>
+					<line>The vaguely beautiful! till earth, unveil'd </line>
+					<line>Lies pale around; and life's realities </line>
+					<line>Press on the soul, from its unfathom'd depth </line>
+					<line>Rousing the fiery feelings, and proud thoughts, </line>
+					<line>In all their fearful strength!---'Tis ever thus, </line>
+					<line>And doubly so with me; for I awoke </line>
+					<line>With high aspirings, making it a curse </line>
+					<line>To breathe where noble minds are bow'd, as here. </line>
+					<line>---To breathe!---it is not breath!</line>
+				</sp><sp><speaker>Con.</speaker>
+					<line> I know thy grief, </line>
+					<line>---And is't not mine?---for those devoted men </line>
+					<line>Doom'd with their life to expiate some wild word, </line>
+					<line> Born of the social hour. Oh! I have knelt, </line>
+					<line>E'en at my brother's feet, with fruitless tears, </line>
+					<line>Imploring him to spare. His heart is shut </line>
+					<line>Against my voice; yet will I not forsake </line>
+					<line>The cause of mercy.</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> Waste not thou thy prayers, </line>
+					<line>Oh, gentle love, for them. There's little need </line>
+					<line>For Pity, tho' the galling chain be worn </line>
+					<line>By some few slaves the less. Let them depart! </line>
+					<line>There is a world beyond th'oppressor's reach, </line>
+					<line>And thither lies their way.</line>
+				</sp><sp><speaker>Con.</speaker>
+					<line> Alas! I see </line>
+					<line>That some new wrong hath pierced you to the soul.</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line>Pardon, beloved Constance, if my words, </line>
+					<line>From feelings hourly stung, have caught, perchance, </line>
+					<line>A tone of bitterness.---Oh! when thine eyes, </line>
+					<line>With their sweet eloquent thoughtfulness, are fix'd </line>
+					<line>Thus tenderly on mine, I should forget </line>
+					<line>All else in their soft beams; and yet I came </line>
+					<line>To tell thee---</line>
+				</sp><sp><speaker>Con.</speaker>
+					<line> What? What wouldst thou say? O speak!--- </line>
+					<line>Thou wouldst not leave me!</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> I have cast a cloud, </line>
+					<line>The shadow of dark thoughts and ruin'd fortunes, </line>
+					<line>O'er thy bright spirit. Haply, were I gone, </line>
+					<line> Thou wouldst resume thyself, and dwell once more </line>
+					<line>In the clear sunny light of youth and joy, </line>
+					<line>E'en as before we met---before we loved!</line>
+				</sp><sp><speaker>Con.</speaker>
+					<line>This is but mockery.---Well thou know'st thy love </line>
+					<line>Hath given me nobler being; made my heart </line>
+					<line>A home for all the deep sublimities </line>
+					<line>Of strong affection; and I would not change </line>
+					<line>Th'exalted life I draw from that pure source, </line>
+					<line>With all its checquer'd hues of hope and fear, </line>
+					<line>Ev'n for the brightest calm. Thou most unkind! </line>
+					<line>Have I deserved this?</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> Oh! thou hast deserved </line>
+					<line>A love less fatal to thy peace than mine. </line>
+					<line>Think not 'tis mockery!---But I cannot rest </line>
+					<line>To be the scorn'd and trampled thing I am </line>
+					<line>In this degraded land. Its very skies, </line>
+					<line>That smile as if but festivals were held </line>
+					<line>Beneath their cloudless azure, weigh me down </line>
+					<line>With a dull sense of bondage, and I pine </line>
+					<line>For freedom's charter'd air. I would go forth </line>
+					<line>To seek my noble father; he hath been </line>
+					<line>Too long a lonely exile, and his name </line>
+					<line>Seems fading in the dim obscurity </line>
+					<line>Which gathers round my fortunes.</line>
+				</sp><sp><speaker>Con.</speaker>
+					<line> Must we part? </line>
+					<line> And is it come to this?---Oh! I have still </line>
+					<line>Deem'd it enough of joy with <em>thee</em> to share</line>
+					<line>E'en grief itself---and now---but this is vain; </line>
+					<line>Alas! too deep, too fond, is woman's love, </line>
+					<line>Too full of hope, she casts on troubled waves </line>
+					<line>The treasures of her soul!</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> Oh, speak not thus! </line>
+					<line>Thy gentle and desponding tones fall cold </line>
+					<line>Upon my inmost heart.---I leave thee but </line>
+					<line>To be more worthy of a love like thine. </line>
+					<line>For I have dreamt of fame!---A few short years, </line>
+					<line>And we may yet be blest.</line>
+				</sp><sp><speaker>Con.</speaker>
+					<line> A few short years! </line>
+					<line>Less time may well suffice for death and fate </line>
+					<line>To work all change on earth!---To break the ties </line>
+					<line>Which early love had form'd; and to bow down </line>
+					<line>Th'elastic spirit, and to blight each flower </line>
+					<line>Strewn in life's crowded path!---But be it so? </line>
+					<line>Be it enough to know that happiness </line>
+					<line>Meets thee on other shores.</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> Where'er I roam </line>
+					<line>Thou shalt be with my soul!---Thy soft low voice </line>
+					<line>Shall rise upon remembrance, like a strain </line>
+					<line>Of music heard in boyhood, bringing back </line>
+					<line>Life's morning freshness.---Oh! that there should be </line>
+					<line> Things, which we love with such deep tenderness, </line>
+					<line>But, through that love, to learn how much of woe </line>
+					<line>Dwells in one hour like this!---Yet weep thou not! </line>
+					<line>We shall meet soon; and many days, dear love, </line>
+					<line>Ere I depart.</line>
+				</sp><sp><speaker>Con.</speaker>
+					<line> Then there's a respite still. </line>
+					<line>Days!---not a day but in its course may bring </line>
+					<line>Some strange vicissitude to turn aside </line>
+					<line>Th'impending blow we shrink from.---Fare thee well. </line>
+					<stage>returning.</stage>
+					<line>---Oh, Raimond! this is not our <em>last</em> farewell?</line>
+					<line>Thou wouldst not so deceive me?</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> Doubt me not, </line>
+					<line>Gentlest and best beloved! we meet again.</line>
+					<stage>Exit Constance .</stage>
+				</sp><sp><speaker>Rai.</speaker><stage>After a pause.</stage><line>When shall I
+						breathe in freedom, and give scope </line>
+					<line>To those untameable and burning thoughts, </line>
+					<line>And restless aspirations, which consume </line>
+					<line>My heart i'th'land of bondage?---Oh! with you, </line>
+					<line>Ye everlasting images of power, </line>
+					<line>And of infinity! thou blue-rolling deep, </line>
+					<line>And you, ye stars! whose beams are characters </line>
+					<line>Wherewith the oracles of fate are traced; </line>
+					<line>With you my soul finds room, and casts aside </line>
+					<line>The weight that doth oppress her.---But my thoughts </line>
+					<line>Are wandering far; there should be one to share </line>
+					<line>This awful and majestic solitude </line>
+					<line> Of sea and heaven with me. </line>
+					<stage>Procida enters unobserved.</stage>
+					<line> It is the hour </line>
+					<line>He named, and yet he comes not.</line>
+				</sp><sp><speaker>Procida.</speaker><stage>Coming forward</stage><line>He is
+						here.</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line>Now, thou mysterious stranger, thou, whose glance </line>
+					<line>Doth fix itself on memory, and pursue </line>
+					<line>Thought, like a spirit, haunting its lone hours; </line>
+					<line>Reveal thyself; what art thou?</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> One, whose life </line>
+					<line>Hath been a troubled stream, and made its way </line>
+					<line>Through rocks and darkness, and a thousand storms, </line>
+					<line>With still a mighty aim.---But now the shades </line>
+					<line>Of eve are gathering round me, and I come </line>
+					<line>To this, my native land, that I may rest </line>
+					<line>Beneath its vines in peace.</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> Seek'st thou for peace? </line>
+					<line>This is no land of peace; unless that deep </line>
+					<line>And voiceless terror, which doth freeze men's thoughts </line>
+					<line>Back to their source, and mantle its pale mien </line>
+					<line>With a dull hollow semblance of repose, </line>
+					<line>May so be call'd.</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> There are such calms full oft </line>
+					<line>Preceding earthquakes. But I have not been </line>
+					<line>So vainly school'd by fortune, and inured </line>
+					<line>To shape my course on peril's dizzy brink, </line>
+					<line> That it should irk my spirit to put on </line>
+					<line>Such guise of hush'd submissiveness as best </line>
+					<line>May suit the troubled aspect of the times.</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line>Why, then, thou art welcome, stranger! to the land </line>
+					<line>Where most disguise is needful.---He were bold </line>
+					<line>Who now should wear his thoughts upon his brow </line>
+					<line>Beneath Sicilian skies. The brother's eye </line>
+					<line>Doth search distrustfully the brother's face; </line>
+					<line>And friends, whose undivided lives have drawn </line>
+					<line>From the same past, their long remembrances, </line>
+					<line>Now meet in terror, or no more; lest hearts </line>
+					<line>Full to o'erflowing, in their social hour, </line>
+					<line>Should pour out some rash word, which roving winds </line>
+					<line>Might whisper to our conquerors.---This it is, </line>
+					<line>To wear a foreign yoke.</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> It matters not </line>
+					<line>To him who holds the mastery o'er his spirit, </line>
+					<line>And can suppress its workings, till endurance </line>
+					<line>Becomes as nature. We can tame ourselves </line>
+					<line>To all extremes, and there is that in life </line>
+					<line>To which we cling with most tenacious grasp, </line>
+					<line>Ev'n when its lofty claims are all reduced </line>
+					<line>To the poor common privilege of breathing.--- </line>
+					<line>Why dost thou turn away?</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> What would'st thou with me? </line>
+					<line> I deem'd thee, by th'ascendant soul which liv'd, </line>
+					<line>And made its throne on thy commanding brow, </line>
+					<line>One of a sovereign nature, which would scorn </line>
+					<line>So to abase its high capacities </line>
+					<line>For aught on earth.---But thou art like the rest. </line>
+					<line>What would'st thou with me?</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> I would counsel thee. </line>
+					<line>Thou must do that which men---ay, valiant men,--- </line>
+					<line>Hourly submit to do; in the proud court, </line>
+					<line>And in the stately camp, and at the board </line>
+					<line>Of midnight revellers, whose flush'd mirth is all </line>
+					<line>A strife, won hardly.---Where is he, whose heart </line>
+					<line>Lies bare, thro' all its foldings, to the gaze </line>
+					<line>Of mortal eye?---If vengeance wait the foe, </line>
+					<line>Or fate th'oppressor, 'tis in depths conceal'd </line>
+					<line>Beneath a smiling surface.---Youth! I say </line>
+					<line>Keep thy soul down!---Put on a mask!---'tis worn </line>
+					<line>Alike by power and weakness, and the smooth </line>
+					<line>And specious intercourse of life requires </line>
+					<line>Its aid in every scene.</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> Away, dissembler! </line>
+					<line>Life hath its high and its ignoble tasks, </line>
+					<line>Fitted to every nature. Will the free </line>
+					<line>And royal eagle stoop to learn the arts </line>
+					<line>By which the serpent wins his spell-bound prey? </line>
+					<line>It is because I <em>will</em> not clothe myself</line>
+					<line>In a vile garb of coward semblances, </line>
+					<line>That now, e'en now, I struggle with my heart, </line>
+					<line>To bid what most I love a long farewell, </line>
+					<line>And seek my country on some distant shore, </line>
+					<line>Where such things are unknown!</line>
+				</sp><sp><speaker>Pro.</speaker><stage>exultingly.</stage><line> Why, this is joy! </line>
+					<line>After long conflict with the doubts and fears, </line>
+					<line>And the poor subtleties of meaner minds, </line>
+					<line>To meet a spirit, whose bold elastic wing </line>
+					<line>Oppression hath not crush'd.---High-hearted youth! </line>
+					<line>Thy father, should his footsteps e'er again </line>
+					<line>Visit these shores---</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> My father! what of him? </line>
+					<line>Speak! was he known to thee?</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> In distant lands </line>
+					<line>With him I've traversed many a wild, and look'd </line>
+					<line>On many a danger; and the thought that thou </line>
+					<line>Wert smiling then in peace, a happy boy, </line>
+					<line>Oft thro' the storm hath cheer'd him.</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> Dost thou deem </line>
+					<line>That still he lives?---Oh! if it be in chains, </line>
+					<line>In woe, in poverty's obscurest cell, </line>
+					<line>Say but he lives---and I will track his steps </line>
+					<line>E'en to earth's verge!</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> It may be that he lives: </line>
+					<line>Tho' long his name hath ceased to be a word </line>
+					<line>Familiar in man's dwellings. But its sound </line>
+					<line>May yet be heard!---Raimond di Procida, </line>
+					<line>---Rememberest thou thy father?</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> From my mind </line>
+					<line>His form hath faded long, for years have pass'd </line>
+					<line>Since he went forth to exile: but a vague, </line>
+					<line>Yet powerful, image of deep majesty, </line>
+					<line>Still dimly gathering round each thought of him, </line>
+					<line>Doth claim instinctive reverence; and my love </line>
+					<line>For his inspiring name hath long become </line>
+					<line>Part of my being.</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> Raimond! doth no voice </line>
+					<line>Speak to thy soul, and tell thee whose the arms </line>
+					<line>That would enfold thee now?---My son! my son!</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line>Father!---Oh God!---my father! Now I know </line>
+					<line>Why my heart woke before thee!</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> Oh! this hour </line>
+					<line>Makes hope, reality; for thou art all </line>
+					<line>My dreams had pictured thee!</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> Yet why so long, </line>
+					<line>Ev'n as a stranger, hast thou cross'd my paths, </line>
+					<line>One nameless and unknown?---and yet I felt </line>
+					<line>Each pulse within me thrilling to thy voice.</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> Because I would not link thy fate with mine, </line>
+					<line>Till I could hail the day-spring of that hope </line>
+					<line>Which now is gathering round us.---Listen, youth! </line>
+					<line><em>Thou</em> hast told <em>me</em> of a subdued, and scorn'd,</line>
+					<line>And trampled land, whose very soul is bow'd </line>
+					<line>And fashion'd to her chains:---but <em>I</em> tell <em>thee</em></line>
+					<line>Of a most generous and devoted land, </line>
+					<line>A land of kindling energies; a land </line>
+					<line>Of glorious recollections!---proudly true </line>
+					<line>To the high memory of her ancient kings, </line>
+					<line>And rising, in majestic scorn, to cast </line>
+					<line>Her alien bondage off!</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> And where is this? </line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line>Here, in our isle, our own fair Sicily! </line>
+					<line>Her spirit is awake, and moving on, </line>
+					<line>In its deep silence mightier, to regain </line>
+					<line>Her place amongst the nations; and the hour </line>
+					<line>Of that tremendous effort is at hand.</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line>Can it be thus indeed?---Thou pour'st new life </line>
+					<line>Thro' all my burning veins!---I am as one </line>
+					<line>Awakening from a chill and death-like sleep </line>
+					<line>To the full glorious day.</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> Thou shalt hear more! </line>
+					<line> Thou shalt hear things which would,---which</line>
+					<em>will</em> arouse <line>The proud, free spirits of our ancestors </line>
+					<line> E'en from their marble rest. Yet mark me well! </line>
+					<line>Be secret!---for along my destin'd path </line>
+					<line>I yet must darkly move.---Now, follow me; </line>
+					<line>And join a band of men, in whose high hearts </line>
+					<line>There lies a nation's strength.</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> My noble father! </line>
+					<line>Thy words have given me all for which I pined--- </line>
+					<line>An aim, a hope, a purpose!---And the blood </line>
+					<line>Doth rush in warmer currents thro' my veins, </line>
+					<line>As a bright fountain from its icy bonds </line>
+					<line>By the quick sun-stroke freed.</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> Ay, this is well! </line>
+					<line>Such natures burst men's chains!---Now, follow me.</line></sp>
+				<stage>Exeunt.</stage>
+			</div>
+		</div>
+		<div type="act"><head>ACT THE SECOND.</head>
+			<div type="scene"><head>Scene I.</head>
+				<stage>---Apartment in a Palace.---A ruined Tower, surrounded by Woods. Procida.
+					Vittoria.</stage>
+				<sp><speaker>Procida.</speaker>
+					<line>Thy vassals are prepared then?</line>
+				</sp><sp><speaker>Vittoria.</speaker>
+					<line> Yes, they wait </line>
+					<line>Thy summons to their task.</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> Keep the flame bright, </line>
+					<line>But hidden, till its hour.---Wouldst thou dare, lady, </line>
+					<line>To join our councils at the night's mid-watch, </line>
+					<line>In the lone cavern by the rock-hewn cross?</line>
+				</sp><sp><speaker>Vit.</speaker>
+					<line>What should I shrink from?</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> Oh! the forest-paths </line>
+					<line>Are dim and wild, e'en when the sunshine streams </line>
+					<line>Thro' their high arches: but when powerful night </line>
+					<line>Comes, with her cloudy phantoms, and her pale </line>
+					<line>Uncertain moonbeams, and the hollow sounds </line>
+					<line>Of her mysterious winds; their aspect <em>then</em>
+					</line>
+					<line>Is of another and more fearful world; </line>
+					<line>A realm of indistinct and shadowy forms, </line>
+					<line>Wakening strange thoughts, almost too much for this, </line>
+					<line>Our frail terrestrial nature.</line>
+				</sp><sp><speaker>Vit.</speaker>
+					<line> Well I know </line>
+					<line>All this, and more. Such scenes have been th'abodes </line>
+					<line>Where thro' the silence of my soul have pass'd </line>
+					<line>Voices, and visions from the sphere of those </line>
+					<line>That have to die no more!---Nay, doubt it not! </line>
+					<line>If such unearthly intercourse hath e'er </line>
+					<line> Been granted to our nature, 'tis to hearts </line>
+					<line>Whose love is with the dead. They, they alone, </line>
+					<line>Unmadden'd could sustain the fearful joy </line>
+					<line>And glory of its trances!---at the hour </line>
+					<line>Which makes guilt tremulous, and peoples earth </line>
+					<line>And air with infinite, viewless multitudes, </line>
+					<line>I will be with thee, Procida.</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> Thy presence </line>
+					<line>Will kindle nobler thoughts, and, in the souls </line>
+					<line>Of suffering and indignant men, arouse </line>
+					<line>That which may strengthen our majestic cause </line>
+					<line>With yet a deeper power.---Know'st thou the spot?</line>
+				</sp><sp><speaker>Vit.</speaker>
+					<line>Full well. There is no scene so wild and lone </line>
+					<line>In these dim woods, but I have visited </line>
+					<line>Its tangled shades.</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> At midnight then we meet. </line>
+					<stage>Exit Procida </stage>
+				</sp><sp><speaker>Vit.</speaker>
+					<line>Why should I fear?---Thou wilt be with me, thou, </line>
+					<line>Th'immortal dream and shadow of my soul, </line>
+					<line>Spirit of him I love! that meet'st me still </line>
+					<line>In loneliness and silence; in the noon </line>
+					<line>Of the wild night, and in the forest-depths, </line>
+					<line>Known but to me; for whom thou giv'st the winds </line>
+					<line>And sighing leaves a cadence of thy voice, </line>
+					<line>Till my heart faints with that o'erthrilling joy! </line>
+					<line>---Thou wilt be with me there, and lend my lips </line>
+					<line> Words, fiery words, to flush dark cheeks with shame, </line>
+					<line>That thou art unavenged! </line></sp>
+				<stage>Exit Vittoria.</stage>
+			</div><div type="scene"><head>Scene III. </head>
+				<stage>
+					<em>---A Chapel, with a Monument, on which is laid a Sword.---Moonlight.</em>
+					Procida. Raimond. Montalba.</stage>
+				<sp><speaker>Montalba.</speaker>
+					<line>And know you not my story?</line>
+				</sp><sp><speaker>Procida.</speaker>
+					<line> In the lands </line>
+					<line>Where I have been a wanderer, your deep wrongs </line>
+					<line>Were number'd with our country's; but their tale </line>
+					<line>Came only in faint echoes to mine ear. </line>
+					<line>I would fain hear it now.</line>
+				</sp><sp><speaker>Mon.</speaker>
+					<line> Hark! while you spoke, </line>
+					<line>There was a voice-like murmur in the breeze, </line>
+					<line>Which ev'n like death came o'er me:---'twas a night </line>
+					<line>Like this, of clouds contending with the moon, </line>
+					<line>A night of sweeping winds, of rustling leaves, </line>
+					<line>And swift wild shadows floating o'er the earth, </line>
+					<line>Clothed with a phantom-life; when, after years </line>
+					<line>Of battle and captivity, I spurr'd </line>
+					<line>My good steed homewards.---Oh! what lovely dreams </line>
+					<line>Rose on my spirit!---There were tears and smiles, </line>
+					<line>But all of joy!---And there were bounding steps, </line>
+					<line>And clinging arms, whose passionate clasp of love </line>
+					<line>Doth twine so fondly round the warrior's neck, </line>
+					<line>When his plumed helm is doff'd.---Hence, feeble thoughts! </line>
+					<line>---I am sterner now, yet once such dreams were mine!</line>
+				</sp><sp><speaker>Raimond.</speaker>
+					<line>And were they realiz'd?</line>
+				</sp><sp><speaker>Mon.</speaker>
+					<line> Youth! Ask me not, </line>
+					<line>But listen!---I drew near my own fair home; </line>
+					<line> There was no light along its walls, no sound </line>
+					<line>Of bugle pealing from the watch-tower's height </line>
+					<line>At my approach, although my trampling steed </line>
+					<line>Made the earth ring; yet the wide gates were thrown </line>
+					<line>All open.---Then my heart misgave me first, </line>
+					<line>And on the threshold of my silent hall </line>
+					<line>I paused a moment, and the wind swept by </line>
+					<line>With the same deep and dirge-like tone which pierced </line>
+					<line>My soul e'en now.---I call'd---my struggling voice </line>
+					<line>Gave utterance to my wife's, my children's, names; </line>
+					<line>They answer'd not---I roused my failing strength, </line>
+					<line>And wildly rush'd within---and they were there.</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line>And was all well?</line>
+				</sp><sp><speaker>Mon.</speaker>
+					<line> Ay, well!---for death is well, </line>
+					<line>And they were all at rest!---I see them yet, </line>
+					<line>Pale in their innocent beauty, which had fail'd </line>
+					<line>To stay th'assassin's arm!</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> Oh, righteous heaven! </line>
+					<line>Who had done this?</line>
+				</sp><sp><speaker>Mon.</speaker>
+					<line> Who! </line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line>Can'st thou question, <em>who</em> ?</line>
+					<line>Whom hath the earth to perpetrate such deeds, </line>
+					<line>In the cold-blooded revelry of crime, </line>
+					<line>But those whose yoke is on us?</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> Man of woe! </line>
+					<line> What words hath pity for despair like thine?</line>
+				</sp><sp><speaker>Mon.</speaker>
+					<line>Pity!---fond youth!---My soul disdains the grief </line>
+					<line>Which doth unbosom its deep secrecies, </line>
+					<line>To ask a vain companionship of tears, </line>
+					<line>And so to be relieved!</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> For woes like these, </line>
+					<line>There is no sympathy but vengeance.</line>
+				</sp><sp><speaker>Mon.</speaker>
+					<line> None! </line>
+					<line>Therefore I brought you hither, that your hearts </line>
+					<line>Might catch the spirit of the scene!---Look round! </line>
+					<line>We are in the awful presence of the dead; </line>
+					<line>Within yon tomb <em>they</em> sleep, whose gentle blood</line>
+					<line> Weighs down the murderer's soul.---</line>
+					<em>They</em> sleep!---but I <line>Am wakeful o'er their dust!---I laid my
+						sword, </line>
+					<line>Without its sheath, on their sepulchral stone, </line>
+					<line>As on an altar; and th'eternal stars, </line>
+					<line>And heaven, and night, bore witness to my vow, </line>
+					<line>No more to wield it save in one great cause, </line>
+					<line>The vengeance of the grave!---And now the hour </line>
+					<line>Of that atonement comes!</line></sp>
+				<stage>He takes the sword from the tomb.</stage>
+				<sp><speaker>Rai.</speaker>
+					<line> My spirit burns! </line>
+					<line>And my full heart almost to bursting swells. </line>
+					<line>---Oh! for the day of battle!</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> Raimond! they </line>
+					<line>Whose souls are dark with guiltless blood must die; </line>
+					<line> ---But not in battle. </line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> How, my father! </line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> No! </line>
+					<line>Look on that sepulchre, and it will teach </line>
+					<line>Another lesson.---But th'appointed hour </line>
+					<line>Advances.---Thou wilt join our chosen band, </line>
+					<line>Noble Montalba?</line>
+				</sp><sp><speaker>Mon.</speaker>
+					<line> Leave me for a time, </line>
+					<line>That I may calm my soul by intercourse </line>
+					<line>With the still dead, before I mix with men, </line>
+					<line>And with their passions. I have nursed for years, </line>
+					<line>In silence and in solitude, the flame </line>
+					<line>Which doth consume me; and it is not used </line>
+					<line>Thus to be look'd or breath'd on.---Procida! </line>
+					<line>I would be tranquil---or appear so---ere </line>
+					<line>I join your brave confederates. Thro' my heart </line>
+					<line>There struck a pang---but it will soon have pass'd.</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line>Remember!---in the cavern by the cross. </line>
+					<line>Now, follow me, my son.</line>
+					<stage>Exeunt Procida and Raimond
+						</stage></sp><sp><speaker>Mon.</speaker><stage>after a pause, leaning on the
+						tomb.</stage><line>Said he, " <em>my son</em> ?"---Now, why should this
+						man's life</line>
+					<line>Go down in hope, thus resting on a son, </line>
+					<line>And I be desolate?---How strange a sound </line>
+					<line>Was that---" <em>my son</em> !"---I had a boy, who might</line>
+					<line>Have worn as free a soul upon his brow </line>
+					<line>As doth this youth.---Why should the thought of <em>him</em>
+					</line>
+					<line> Thus haunt me?---when I tread the peopled ways </line>
+					<line>Of life again, I shall be pass'd each hour </line>
+					<line>By fathers with their children, and I must </line>
+					<line>Learn calmly to look on.---Methinks 'twere now </line>
+					<line>A gloomy consolation to behold </line>
+					<line>All men bereft, as I am!---But away, </line>
+					<line>Vain thoughts!---One task is left for blighted hearts, </line>
+					<line>And it shall be fulfill'd. </line></sp>
+				<stage>Exit Montalba .</stage>
+			</div><div type="scene"><head>Scene IV. </head>
+				<stage>
+					<em>---Entrance of a Cave, surrounded by Rocks and Forests. A rude Cross seen
+						amongst the Rocks.</em> Procida. Raimond.</stage>
+				<sp><speaker>Procida.</speaker>
+					<line>And it is thus, beneath the solemn skies </line>
+					<line>Of midnight, and in solitary caves, </line>
+					<line>Where the wild forest-creatures make their lair,--- </line>
+					<line>Is't thus the chiefs of Sicily must hold </line>
+					<line>The councils of their country!</line>
+				</sp><sp><speaker>Raimond.</speaker>
+					<line> Why, such scenes </line>
+					<line>In their primeval majesty, beheld </line>
+					<line>Thus by faint starlight, and the partial glare </line>
+					<line>Of the red-streaming lava, will inspire </line>
+					<line>Far deeper thoughts than pillar'd halls, wherein </line>
+					<line>Statesmen hold weary vigils.---Are we not </line>
+					<line>O'ershadow'd by that Etna, which of old </line>
+					<line>With its dread prophecies, hath struck dismay </line>
+					<line>Thro' tyrants' hearts, and bade them seek a home </line>
+					<line>In other climes?---Hark! from its depths e'en now </line>
+					<line>What hollow moans are sent!</line>
+					<stage>Enter Montalba, Guido, and other Sicilians.</stage>
+				</sp><sp><speaker>Pro.</speaker>
+					<line>Welcome, my brave associates!---We can share </line>
+					<line>The wolf's wild freedom here!---Th'oppressor's haunt </line>
+					<line>Is not midst rocks and caves. Are we all met?</line>
+				</sp><sp><speaker>Sicilians.</speaker>
+					<line>All, all!</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line>The torchlight, sway'd by every gust, </line>
+					<line>But dimly shows your features.---Where is he </line>
+					<line>Who from his battles had return'd to breathe </line>
+					<line>Once more, without a corslet, and to meet </line>
+					<line> The voices, and the footsteps, and the smiles, </line>
+					<line>Blent with his dreams of home?---Of that dark tale </line>
+					<line>The rest is known to vengeance!---Art thou here, </line>
+					<line>With thy deep wrongs and resolute despair, </line>
+					<line>Childless Montalba?</line>
+				</sp><sp><speaker>Mon.</speaker><stage>advancing.</stage><line>He is at thy side. </line>
+					<line>Call on that desolate father, in the hour </line>
+					<line>When his revenge is nigh.</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> Thou, too, come forth, </line>
+					<line>From thine own halls an exile!---Dost thou make </line>
+					<line>The mountain-fastnesses thy dwelling still, </line>
+					<line>While hostile banners, o'er thy rampart walls, </line>
+					<line>Wave their proud blazonry?</line>
+				</sp><sp><speaker>1 Sici.</speaker>
+					<line> Even so. I stood </line>
+					<line>Last night before my own ancestral towers </line>
+					<line>An unknown outcast, while the tempest beat </line>
+					<line>On my bare head---what reck'd it?---There was joy </line>
+					<line>Within, and revelry; the festive lamps </line>
+					<line>Were streaming from each turret, and gay songs, </line>
+					<line>I'th'stranger's tongue, made mirth. They little deem'd </line>
+					<line>Who heard their melodies!---but there are thoughts </line>
+					<line>Best nurtured in the wild; there are dread vows </line>
+					<line>Known to the mountain-echoes.---Procida! </line>
+					<line>Call on the outcast when revenge is nigh.</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line>I knew a young Sicilian, one whose heart </line>
+					<line> Should be all fire. On that most guilty day, </line>
+					<line>When, with our martyr'd Conradin, the flower </line>
+					<line>Of the land's knighthood perish'd; he, of whom </line>
+					<line>I speak, a weeping boy, whose innocent tears </line>
+					<line>Melted a thousand hearts that dared not aid, </line>
+					<line>Stood by the scaffold, with extended arms, </line>
+					<line>Calling upon his father, whose last look </line>
+					<line>Turn'd full on him its parting agony. </line>
+					<line>That father's blood gush'd o'er him!---and the boy </line>
+					<line>Then dried his tears, and, with a kindling eye, </line>
+					<line>And a proud flush on his young cheek, look'd up </line>
+					<line>To the bright heaven.---Doth he remember still </line>
+					<line>That bitter hour?</line>
+				</sp><sp><speaker>2 Sici.</speaker>
+					<line> He bears a sheathless sword! </line>
+					<line>---Call on the orphan when revenge is nigh.</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line>Our band shows gallantly---but there are men </line>
+					<line>Who should be with us now, had they not dared </line>
+					<line>In some wild moment of festivity </line>
+					<line>To give their full hearts way, and breathe a wish </line>
+					<line>For freedom!---and some traitor---it might be </line>
+					<line>A breeze perchance---bore the forbidden sound </line>
+					<line>To Eribert:---so they must die---unless </line>
+					<line>Fate, (who at times is wayward) should select </line>
+					<line>Some other victim first!---But have they not </line>
+					<line>Brothers or sons amongst us?</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line> Look on me! </line>
+					<line>I have a brother, a young high-soul'd boy, </line>
+					<line>And beautiful as a sculptor's dream, with brow </line>
+					<line>That wears, amidst its dark rich curls, the stamp </line>
+					<line>Of inborn nobleness. In truth, he is </line>
+					<line>A glorious creature!---But his doom is seal'd </line>
+					<line>With their's of whom you spoke; and I have knelt--- </line>
+					<line>---Ay, scorn me not! 'twas for his life---I knelt </line>
+					<line>E'en at the viceroy's feet, and he put on </line>
+					<line>That heartless laugh of cold malignity </line>
+					<line>We know so well, and spurn'd me.---But the stain </line>
+					<line>Of shame like this, takes blood to wash it off, </line>
+					<line>And <em>thus</em> it shall be cancell'd!---Call on me,</line>
+					<line>When the stern moment of revenge is nigh.</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line>I call upon thee <em>now</em> ! The land's high soul</line>
+					<line>Is roused, and moving onward, like a breeze </line>
+					<line>Or a swift sunbeam, kindling nature's hues </line>
+					<line>To deeper life before it. In his chains, </line>
+					<line>The peasant dreams of freedom!---ay, 'tis thus </line>
+					<line>Oppression fans th'imperishable flame </line>
+					<line>With most unconscious hands.---No praise be her's </line>
+					<line>For what she blindly works!---When slavery's cup </line>
+					<line>O'erflows its bounds, the creeping poison, meant </line>
+					<line>To dull our senses, thro' each burning vein </line>
+					<line>Pours fever, lending a delirious strength </line>
+					<line>To burst man's fetters---and they <em>shall</em> be burst!</line>
+					<line>I have hoped, when hope seemed frenzy; but a power </line>
+					<line>Abides in human will, when bent with strong </line>
+					<line>Unswerving energy on one great aim, </line>
+					<line>To make and rule its fortunes!---I have been </line>
+					<line>A wanderer in the fulness of my years, </line>
+					<line>A restless pilgrim of the earth and seas, </line>
+					<line>Gathering the generous thoughts of other lands, </line>
+					<line>To aid our holy cause. And aid is near: </line>
+					<line>But we must give the signal. Now, before </line>
+					<line>The majesty of yon pure heaven, whose eye </line>
+					<line>Is on our hearts, whose righteous arm befriends </line>
+					<line>The arm that strikes for freedom; speak! decree </line>
+					<line>The fate of our oppressors.</line>
+				</sp><sp><speaker>Mon.</speaker>
+					<line> Let them fall </line>
+					<line>When dreaming least of peril!---When the heart, </line>
+					<line>Basking in sunny pleasure, doth forget </line>
+					<line>That hate may smile, but sleeps not.---Hide the sword </line>
+					<line>With a thick veil of myrtle, and in halls </line>
+					<line>Of banquetting, where the full wine-cup shines </line>
+					<line>Red in the festal torch-light; meet we there, </line>
+					<line>And bid them welcome to the feast of death.</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line>Thy voice is low and broken, and thy words </line>
+					<line>Scarce meet our ears.</line>
+				</sp><sp><speaker>Mon.</speaker>
+					<line> Why, then, I thus repeat </line>
+					<line> Their import. Let th'avenging sword burst forth </line>
+					<line>In some free festal hour, and woe to him </line>
+					<line>Who first shall spare!</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> Must innocence and guilt </line>
+					<line>Perish alike?</line>
+				</sp><sp><speaker>Mon.</speaker>
+					<line> Who talks of innocence? </line>
+					<line> When hath</line>
+					<em>their</em> hand been stay'd for innocence? <line>Let them all
+						perish!---Heaven will chuse its own. </line>
+					<line>Why should <em>their</em> children live?---The earthquake whelms</line>
+					<line>Its undistinguish'd thousands, making graves </line>
+					<line>Of peopled cities in its path---and this </line>
+					<line>Is Heaven's dread justice---ay, and it is well! </line>
+					<line>Why then should <em>we</em> be tender, when the skies</line>
+					<line>Deal thus with man?---What, if the infant bleed? </line>
+					<line>Is there not power to hush the mother's pangs? </line>
+					<line>What, if the youthful bride perchance should fall </line>
+					<line>In her triumphant beauty?---Should we pause? </line>
+					<line>As if death were not mercy to the pangs </line>
+					<line>Which make our lives the records of our foes? </line>
+					<line>Let them all perish!---And if one be found </line>
+					<line>Amidst our band, to stay th'avenging steel </line>
+					<line>For pity, or remorse, or boyish love, </line>
+					<line>Then be his doom as theirs! </line>
+					<stage>A pause.</stage>
+					<line> Why gaze ye thus? </line>
+					<line>Brethren, what means your silence?</line>
+				</sp><sp><speaker>Sici.</speaker>
+					<line> Be it so! </line>
+					<line>If one amongst us stay th'avenging steel </line>
+					<line>For love or pity, be his doom as theirs! </line>
+					<line>Pledge we our faith to this!</line>
+				</sp><sp><speaker>Rai.</speaker><stage>Rushing forward indignantly.</stage><line>Our
+						faith to <em>this</em> !</line>
+					<line> No! I but</line>
+					<em>dreamt</em> I heard it!---Can it be? <line>My countrymen, my father!---Is it
+						thus </line>
+					<line>That freedom should be won?---Awake! Awake </line>
+					<line>To loftier thoughts!---Lift up, exultingly, </line>
+					<line>On the crown'd heights, and to the sweeping winds, </line>
+					<line>Your glorious banner!---Let your trumpet's blast </line>
+					<line>Make the tombs thrill with echoes! Call aloud, </line>
+					<line>Proclaim from all your hills, the land shall bear </line>
+					<line>The stranger's yoke no longer!---What is he </line>
+					<line>Who carries on his practised lip a smile, </line>
+					<line>Beneath his vest a dagger, which but waits </line>
+					<line>Till the heart bounds with joy, to still its beatings? </line>
+					<line>That which our nature's instinct doth recoil from, </line>
+					<line>And our blood curdle at---Ay, yours and mine--- </line>
+					<line>A murderer!---Heard ye?---Shall that name with ours </line>
+					<line>Go down to after days?---Oh, friends! a cause </line>
+					<line>Like that for which we rise, hath made bright names </line>
+					<line>Of the elder time as rallying-words to men, </line>
+					<line>Sounds full of might and immortality! </line>
+					<line>And shall not ours be such?</line>
+				</sp><sp><speaker>Mon.</speaker>
+					<line> Fond dreamer, peace! </line>
+					<line>Fame! What is fame?---Will our unconscious dust </line>
+					<line>Start into thrilling rapture from the grave, </line>
+					<line>And the vain breath of praise?---I tell thee, youth, </line>
+					<line>Our souls are parch'd with agonizing thirst, </line>
+					<line>Which must be quench'd tho' death were in the draught: </line>
+					<line>We must have vengeance, for our foes have left </line>
+					<line>No other joy unblighted.</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> Oh! my son, </line>
+					<line>The time is past for such high dreams as thine. </line>
+					<line>Thou know'st not whom we deal with. Knightly faith, </line>
+					<line>And chivalrous honour, are but things whereon </line>
+					<line>They cast disdainful pity. We must meet </line>
+					<line>Falsehood with wiles, and insult with revenge. </line>
+					<line>And, for our names---whate'er the deeds, by which </line>
+					<line>We burst our bondage---is it not enough </line>
+					<line>That in the chronicle of days to come, </line>
+					<line>We, thro' a bright 'For Ever,' shall be call'd </line>
+					<line>The men who saved their country?</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> Many a land </line>
+					<line>Hath bow'd beneath the yoke, and then arisen, </line>
+					<line>As a strong lion rending silken bonds, </line>
+					<line>And on the open field, before high heaven, </line>
+					<line>Won such majestic vengeance, as hath made </line>
+					<line>Its name a power on earth.---Ay, nations own </line>
+					<line> It is enough of glory to be call'd </line>
+					<line>The children of the mighty, who redeem'd </line>
+					<line>Their native soil---but not by means like these.</line>
+				</sp><sp><speaker>Mon.</speaker>
+					<line>I have no children.---Of Montalba's blood </line>
+					<line>Not one red drop doth circle thro' the veins </line>
+					<line>Of aught that breathes!---Why, what have <em>I</em> to do</line>
+					<line>With far futurity?---My spirit lives </line>
+					<line>But in the past.---Away! when thou dost stand </line>
+					<line>On this fair earth, as doth a blasted tree </line>
+					<line>Which the warm sun revives not, <em>then</em> return,</line>
+					<line>Strong in thy desolation: but, till then, </line>
+					<line>Thou art not for our purpose; we have need </line>
+					<line>Of more unshrinking hearts.</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> Montalba, know, </line>
+					<line>I shrink from crime alone. Oh! if my voice </line>
+					<line>Might yet have power amongst you, I would say, </line>
+					<line>Associates, leaders, <em>be</em> avenged! but yet</line>
+					<line>As knights, as warriors!</line>
+				</sp><sp><speaker>Mon.</speaker>
+					<line> Peace! have we not borne </line>
+					<line>Th'indelible taint of contumely and chains? </line>
+					<line>We <em>are not</em> knights and warriors.---Our bright crests</line>
+					<line>Have been defiled and trampled to the earth. </line>
+					<line>Boy! we are slaves---and our revenge shall be </line>
+					<line>Deep as a slave's disgrace.</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> Why, then, farewell: </line>
+					<line> I leave you to your councils. He that still </line>
+					<line>Would hold his lofty nature undebased, </line>
+					<line>And his name pure, were but a loiterer here.</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line>And is it thus indeed?---dost <em>thou</em> forsake</line>
+					<line>Our cause, my son?</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> Oh, father! what proud hopes </line>
+					<line>This hour hath blighted!---yet, whate'er betide </line>
+					<line>It is a noble privilege to look up </line>
+					<line>Fearless in heaven's bright face---and this is mine, </line>
+					<line>And shall be still.--- </line>
+					<stage>Exit Raimond .</stage>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> He's gone!---Why, let it be! </line>
+					<line>I trust our Sicily hath many a son </line>
+					<line>Valiant as mine.---Associates!---'tis decreed </line>
+					<line>Our foes shall perish. We have but to name </line>
+					<line>The hour, the scene, the signal.</line>
+				</sp><sp><speaker>Mon.</speaker>
+					<line> It should be </line>
+					<line>In the full city, when some festival </line>
+					<line>Hath gathered throngs, and lull'd infatuate hearts </line>
+					<line>To brief security. Hark! is there not </line>
+					<line>A sound of hurrying footsteps on the breeze? </line>
+					<line>We are betray'd.---Who art thou?</line>
+					<stage> Vittoria enters. </stage>
+				</sp><sp><speaker>Pro.</speaker>
+					<em>One</em> alone <line>Should be thus daring. Lady, lift the veil </line>
+					<line>That shades thy noble brow.</line>
+					<stage>She raises her veil, the Sicilians draw back with respect.</stage>
+				</sp><sp><speaker>Sici.</speaker>
+					<line> Th'affianced bride </line>
+					<line> Of our lost King!</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> And more, Montalba; know </line>
+					<line>Within this form there dwells a soul as high, </line>
+					<line>As warriors in their battles e'er have proved, </line>
+					<line>Or patriots on the scaffold.</line>
+				</sp><sp><speaker>Vittoria.</speaker>
+					<line> Valiant men! </line>
+					<line>I come to ask your aid. Ye see me, one </line>
+					<line>Whose widow'd youth hath all been consecrate </line>
+					<line>To a proud sorrow, and whose life is held </line>
+					<line>In token and memorial of the dead. </line>
+					<line>Say, is it meet that, lingering thus on earth, </line>
+					<line>But to behold one great atonement made, </line>
+					<line>And keep one name from fading in men's hearts, </line>
+					<line>A tyrant's will should force me to profane </line>
+					<line>Heaven's altar with unhallow'd vows---and live </line>
+					<line>Stung by the keen, unutterable scorn </line>
+					<line>Of my own bosom, live---another's bride?</line>
+				</sp><sp><speaker>Sici.</speaker>
+					<line>Never, oh never!---fear not, noble lady! </line>
+					<line>Worthy of Conradin!</line>
+				</sp><sp><speaker>Vit.</speaker>
+					<line> Yet hear me still. </line>
+					<em>His</em> bride, that Eribert's, who notes our tears <line>With his insulting
+						eye of cold derision, </line>
+					<line>And, could he pierce the depths where feeling works, </line>
+					<line>Would number e'en our agonies as crimes. </line>
+					<line>---Say, is this meet?</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line> We deem'd these nuptials, lady, </line>
+					<line>Thy willing choice; but 'tis a joy to find </line>
+					<line>Thou art noble still. Fear not; by all our wrongs </line>
+					<line>This shall not be.</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> Vittoria, thou art come </line>
+					<line> To ask</line>
+					<em>our</em> aid, but we have need of thine. <line>Know, the completion of our
+						high designs </line>
+					<line>Requires---a festival; and it must be </line>
+					<line>Thy bridal!</line>
+				</sp><sp><speaker>Vit.</speaker>
+					<line> Procida! </line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> Nay, start not thus. </line>
+					<line>'Tis no hard task to bind your raven hair </line>
+					<line>With festal garlands, and to bid the song </line>
+					<line>Rise, and the wine-cup mantle. No---nor yet </line>
+					<line>To meet your suitor at the glittering shrine, </line>
+					<line>Where death, not love, awaits him!</line>
+				</sp><sp><speaker>Vit.</speaker>
+					<line> Can my soul </line>
+					<line>Dissemble thus?</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> We have no other means </line>
+					<line>Of winning our great birthright back from those </line>
+					<line>Who have usurp'd it, than so lulling them </line>
+					<line>Into vain confidence, that they may deem </line>
+					<line>All wrongs forgot; and this may best be done </line>
+					<line>By what I ask of thee.</line>
+				</sp><sp><speaker>Mon.</speaker>
+					<line> Then will we mix </line>
+					<line> With the flush'd revellers, making their gay feast </line>
+					<line>The harvest of the grave.</line>
+				</sp><sp><speaker>Vit.</speaker>
+					<line> A bridal day! </line>
+					<line>---Must it be so?---Then, chiefs of Sicily, </line>
+					<line>I bid you to my nuptials! but be there </line>
+					<line>With your bright swords unsheath'd, for thus alone </line>
+					<em>My</em> guests should be adorn'd. </sp><sp><speaker>Pro.</speaker>
+					<line> And let thy banquet </line>
+					<line>Be soon announced, for there are noble men </line>
+					<line>Sentenced to die, for whom we fain would purchase </line>
+					<line>Reprieve with other blood.</line>
+				</sp><sp><speaker>Vit.</speaker>
+					<line> Be it then the day </line>
+					<line>Preceding that appointed for their doom.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>My brother, thou shalt live!---Oppression boasts </line>
+					<line>No gift of prophecy!---It but remains </line>
+					<line>To name our signal, chiefs!</line>
+				</sp><sp><speaker>Mon.</speaker>
+					<line> The Vesper-bell. </line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line>Even so, the vesper-bell, whose deep-toned peal </line>
+					<line>Is heard o'er land and wave. Part of our band, </line>
+					<line>Wearing the guise of antic revelry, </line>
+					<line>Shall enter, as in some fantastic pageant, </line>
+					<line>The halls of Eribert; and at the hour </line>
+					<line>Devoted to the sword's tremendous task, </line>
+					<line>I follow with the rest.---The vesper-bell! </line>
+					<line>That sound shall wake th'avenger; for 'tis come, </line>
+					<line> The time when power is in a voice, a breath, </line>
+					<line>To burst the spell which bound us.---But the night </line>
+					<line>Is waning, with her stars, which, one by one, </line>
+					<line>Warn us to part. Friends, to your homes!---your <em>homes</em> ?</line>
+					<em>That</em> name is yet to win.---Away, prepare <line>For our next meeting in
+						Palermo's walls. </line>
+					<line>The Vesper-bell! Remember!</line>
+				</sp><sp><speaker>Sici.</speaker>
+					<line> Fear us not. </line>
+					<line>The Vesper-bell!</line></sp>
+				<stage>Exeunt omnes.</stage>
+			</div>
+		</div>
+		<div type="act"><head>ACT THE THIRD.</head>
+			<div type="scene"><head>Scene I. </head>
+				<stage>---Apartment in a Palace.</stage>
+				<stage>Eribert. Vittoria.</stage>
+				<sp><speaker>Vittoria.</speaker>
+					<line>Speak not of love---it is a word with deep, </line>
+					<line>Strange magic in its melancholy sound, </line>
+					<line>To summon up the dead; and they should rest, </line>
+					<line>At such an hour, forgotten. There are things </line>
+					<line>We must throw from us, when the heart would gather </line>
+					<line>Strength to fulfil its settled purposes: </line>
+					<line>Therefore, no more of love!---But, if to robe </line>
+					<line>This form in bridal ornaments, to smile, </line>
+					<line>(I can smile yet,) at thy gay feast, and stand </line>
+					<line>At th'altar by thy side; if this be deem'd </line>
+					<line>Enough, it shall be done. </line>
+				</sp>
+				<sp><speaker>Eribert.</speaker>
+					<line>My fortune's star</line>
+					<line>Doth rule th'ascendant still; </line>
+					<stage>Apart.</stage>
+					<line>---If not of love, </line>
+					<line>Then pardon, lady, that I speak of joy , </line>
+					<line>And with exulting heart--- </line>
+				</sp>
+				<sp><speaker>Vit.</speaker>
+					<line>There is no joy! </line>
+					<line>---Who shall look thro' the far futurity, </line>
+					<line>And, as the shadowy visions of events </line>
+					<line>Develope on his gaze, midst their dim throng, </line>
+					<line>Dare, with oracular mien, to point, and say, </line>
+					<line>"This will bring happiness?"---Who shall do this?</line>
+					<line>---Why, thou, and I, and all!---There's One, who sits </line>
+					<line>In his own bright tranquillity enthroned, </line>
+					<line>High o'er all storms, and looking far beyond </line>
+					<line>Their thickest clouds; but we, from whose dull eyes </line>
+					<line>A grain of dust hides the great sun, e'en we </line>
+					<line>Usurp his attributes, and talk, as seers, </line>
+					<line>Of future joy and grief! </line>
+				</sp>
+				<sp><speaker>Eri. </speaker>
+					<line>Thy words are strange. </line>
+					<line>Yet will I hope that peace at length shall settle </line>
+					<line>Upon thy troubled heart, and add soft grace </line>
+					<line>To thy majestic beauty.---Fair Vittoria! </line> Oh! if my cares--- </sp>
+				<sp><speaker>Vit. </speaker>
+					<line>I know a day shall come </line>
+					<line>Of peace to all. Ev'n from my darken'd spirit </line>
+					<line>Soon shall each restless wish be exorcised, </line>
+					<line>Which haunts it now, and I shall then lie down </line>
+					<line>Serenely to repose. Of this no more. </line> ---I have a boon to ask. </sp>
+				<sp><speaker>Eri. </speaker>
+					<line>Command my power, </line>
+					<line>And deem it thus most honour'd. </line>
+				</sp>
+				<sp><speaker>Vit. </speaker>
+					<line>Have I then </line>
+					<line>Soar'd such an eagle-pitch, as to command </line>
+					<line>The mighty Eribert?---And yet 'tis meet; </line>
+					<line>For I bethink me now, I should have worn </line>
+					<line>A crown upon this forehead.---Generous lord! </line>
+					<line>Since thus you give me freedom, know, there is </line>
+					<line>An hour I have loved from childhood, and a sound, </line>
+					<line>Whose tones, o'er earth and ocean sweetly bearing </line>
+					<line>A sense of deep repose, have lull'd me oft </line>
+					<line>To peace---which is forgetfulness: I mean </line>
+					<line>The Vesper-bell. I pray you, let it be </line>
+					<line>The summons to our bridal---Hear you not? </line>
+					<line>To our fair bridal!</line>
+				</sp>
+				<sp><speaker>Eri. </speaker>
+					<line>Lady, let your will </line>
+					<line>Appoint each circumstance. I am but too bless'd </line>
+					<line>Proving my homage thus. </line>
+				</sp>
+				<sp><speaker>Vit. </speaker>
+					<line>Why, then, 'tis mine </line>
+					<line>To rule the glorious fortunes of the day, </line>
+					<line>And I may be content. Yet much remains </line>
+					<line>For thought to brood on, and I would be left </line>
+					<line>Alone with my resolves. Kind Eribert! </line>
+					<line>(Whom I command so absolutely,) now </line>
+					<line>Part we a few brief hours; and doubt not, when </line>
+					<line>I am at thy side once more, but I shall stand </line>
+					<line>There---to the last.</line>
+				</sp>
+				<sp><speaker>Eri. </speaker>
+					<line>Your smiles are troubled, lady; </line>
+					<line>May they ere long be brighter!---Time will seem </line>
+					<line>Slow till the vesper-bell. </line>
+				</sp>
+				<sp><speaker>Vit. </speaker>
+					<line>'Tis lovers' phrase </line>
+					<line>To say---time lags; and therefore meet for you: </line>
+					<line>But with an equal pace the hours move on, </line>
+					<line>Whether they bear, on their swift silent wing, </line>
+					<line>Pleasure or---fate. </line>
+				</sp>
+				<sp><speaker>Eri. </speaker>
+					<line>Be not so full of thought </line>
+					<line>On such a day.---Behold, the skies themselves </line>
+					<line>Look on my joy with a triumphant smile, </line>
+					<line>Unshadow'd by a cloud. </line>
+				</sp>
+				<sp><speaker>Vit. </speaker>
+					<line>'Tis very meet </line>
+					<line>That heaven (which loves the just) should wear a smile </line>
+					<line>In honour of his fortunes.---Now, my lord, </line>
+					<line>Forgive me if I say, farewell, until </line>
+					<line>Th'appointed hour. </line>
+				</sp>
+				<sp><speaker>Eri. </speaker>
+					<line>Lady, a brief farewell. </line>
+				</sp>
+				<stage>Exeunt separately.</stage>
+			</div>
+			<div type="scene"><head>Scene II.</head>
+				<stage>---The Sea-shore. Procida. Raimond.</stage>
+				<sp><speaker>Procida.</speaker>
+					<line>And dost thou still refuse to share the glory </line>
+					<line>Of this, our daring enterprize?</line>
+				</sp><sp><speaker>Raimond.</speaker>
+					<line> Oh, father! </line>
+					<line>I too have dreamt of glory, and the word </line>
+					<line>Hath to my soul been as a trumpet's voice, </line>
+					<line>Making my nature sleepless.---But the deeds </line>
+					<line>Whereby 'twas won, the high exploits, whose tale </line>
+					<line>Bids the heart burn, were of another cast </line>
+					<line>Than such as thou requirest.</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> Every deed </line>
+					<line>Hath sanctity, if bearing for its aim </line>
+					<line>The freedom of our country; and the sword </line>
+					<line>Alike is honour'd in the patriot's hand, </line>
+					<line>Searching, midst warrior-hosts, the heart which gave </line>
+					<line>Oppression birth; or flashing thro' the gloom </line>
+					<line>Of the still chamber, o'er its troubled couch, </line>
+					<line>At dead of night.</line>
+				</sp><sp><speaker>Rai.</speaker><stage>turning away.</stage><line>There is no path
+						but one </line>
+					<line>For noble natures.</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> Wouldst thou ask the man </line>
+					<line>Who to the earth hath dash'd a nation's chains, </line>
+					<line>Rent as with heaven's own lightning, by what <em>means</em>
+					</line>
+					<line>The glorious end was won?---Go, swell th'acclaim! </line>
+					<line>Bid the deliverer, hail! and if his path </line>
+					<line> To that most bright and sovereign destiny </line>
+					<line>Hath led o'er trampled thousands, be it call'd </line>
+					<line>A stern necessity, and not a crime!</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line>Father! my soul yet kindles at the thought </line>
+					<line>Of nobler lessons, in my boyhood learn'd </line>
+					<line>Ev'n from thy voice.---The high remembrances </line>
+					<line>Of other days are stirring in the heart </line>
+					<line>Where <em>thou</em> didst plant them; and they speak of men</line>
+					<line>Who needed no vain sophistry to gild </line>
+					<line>Acts, that would bear heaven's light.---And such be mine! </line>
+					<line>Oh, father! is it yet too late to draw </line>
+					<line>The praise and blessing of all valiant hearts </line>
+					<line>On our most righteous cause?</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> What wouldst thou do? </line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line>I would go forth, and rouse th'indignant land </line>
+					<line>To generous combat. Why should freedom strike </line>
+					<line>Mantled with darkness?---Is there not more strength </line>
+					<line>E'en in the waving of her single arm </line>
+					<line>Than hosts can wield against her?---I would rouse </line>
+					<line>That spirit, whose fire doth press resistless on </line>
+					<line>To its proud sphere, the stormy field of fight!</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line>Ay! and give time and warning to the foe </line>
+					<line>To gather all his might!---It <em>is</em> too late.</line>
+					<line>There is a work to be this eve begun, </line>
+					<line>When rings the vesper-bell; and, long before </line>
+					<line> To-morrow's sun hath reach'd i'th'noonday heaven </line>
+					<line>His throne of burning glory, every sound </line>
+					<line>Of the Provençal tongue within our walls, </line>
+					<line>As by one thunderstroke---(you are pale, my son)--- </line>
+					<line>Shall be for ever silenced.</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> What! such sounds </line>
+					<line>As falter on the lip of infancy </line>
+					<line>In its imperfect utterance? or are breathed </line>
+					<line>By the fond mother, as she lulls her babe? </line>
+					<line>Or in sweet hymns, upon the twilight air </line>
+					<line>Pour'd by the timid maid?---Must all alike </line>
+					<line>Be still'd in death; and wouldst thou tell my heart </line>
+					<line>There is no crime in <em>this</em> ?</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> Since thou dost feel </line>
+					<line>Such horror of our purpose, in thy power </line>
+					<line>Are means that might avert it.</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> Speak! Oh speak! </line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line>How would those rescued thousands bless thy name </line>
+					<line>Shouldst thou betray us!</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> Father! I can bear--- </line>
+					<line>Ay, proudly woo---the keenest questioning </line>
+					<line>Of thy soul-gifted eye; which almost seems </line>
+					<line>To claim a part of heaven's dread royalty, </line>
+					<line>---The power that searches thought!</line>
+				</sp><sp><speaker>Pro.</speaker><stage>after a pause.</stage><line> Thou hast a brow </line>
+					<line> Clear as the day---and yet I doubt thee, Raimond! </line>
+					<line>Whether it be that I have learn'd distrust </line>
+					<line>From a long look thro' man's deep-folded heart; </line>
+					<line>Whether my paths have been so seldom cross'd </line>
+					<line>By honour and fair mercy, that they seem </line>
+					<line>But beautiful deceptions, meeting thus </line>
+					<line>My unaccustom'd gaze;---howe'er it be--- </line>
+					<line>I doubt thee!---See thou waver not---take heed! </line>
+					<line>Time lifts the veil from all things! </line>
+					<stage>Exit Procida .</stage>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> And 'tis thus </line>
+					<line>Youth fades from off our spirit; and the robes </line>
+					<line>Of beauty and of majesty, wherewith </line>
+					<line>We clothed our idols, drop!---O! bitter day, </line>
+					<line>When, at the crushing of our glorious world, </line>
+					<line>We start, and find men thus!---Yet be it so! </line>
+					<line>Is not my soul still powerful, in <em>itself</em>
+					</line>
+					<line>To realize its dreams?---Ay, shrinking not </line>
+					<line>From the pure eye of heaven, my brow may well </line>
+					<line>Undaunted meet my father's.---But, away! </line>
+					<em>Thou</em> shalt be saved, sweet Constance!---Love is yet <line>Mightier than
+						vengeance. </line></sp>
+				<stage>Exit Raimond .</stage>
+			</div><div type="scene"><head>Scene III. </head>
+				<stage>---Gardens of a Palace. Constance, alone.</stage>
+				<sp><speaker>Constance.</speaker>
+					<line>There was a time when my thoughts wander'd not </line>
+					<line>Beyond these fairy scenes; when, but to catch </line>
+					<line>The languid fragrance of the southern breeze </line>
+					<line>From the rich-flowering citrons, or to rest, </line>
+					<line>Dreaming of some wild legend, in the shade </line>
+					<line>Of the dark laurel-foliage, was enough </line>
+					<line>Of happiness.---How have these calm delights </line>
+					<line>Fled from before one passion, as the dews, </line>
+					<line>The delicate gems of morning, are exhaled </line>
+					<line>By the great sun! </line>
+					<stage>Raimond enters.</stage>
+					<line> Raimond! oh! now thou'rt come </line>
+					<line>I read it in thy look, to say farewell </line>
+					<line>For the last time---the last!</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> No, best beloved! </line>
+					<line>I come to tell thee there is now no power </line>
+					<line>To part us---but in death.</line>
+				</sp><sp><speaker>Con.</speaker>
+					<line> I have dreamt of joy, </line>
+					<line>But never aught like this.---Speak yet again! </line>
+					<line>Say, we shall part no more!</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> No more, if love </line>
+					<line>Can strive with darker spirits, and he is strong </line>
+					<line>In his immortal nature! all is changed </line>
+					<line>Since last we met. My father---keep the tale </line>
+					<line>Secret from all, and most of all, my Constance, </line>
+					<line> From Eribert---my father is return'd: </line>
+					<line>I leave thee not.</line>
+				</sp><sp><speaker>Con.</speaker>
+					<line> Thy father! blessed sound! </line>
+					<line>Good angels be his guard!---Oh! if he knew </line>
+					<line>How my soul clings to thine, he could not hate </line>
+					<line>Even a Provençal maid!---Thy father!---now </line>
+					<line>Thy soul will be at peace, and I shall see </line>
+					<line>The sunny happiness of earlier days </line>
+					<line>Look from thy brow once more!---But how is this? </line>
+					<line>Thine eye reflects not the glad soul of mine; </line>
+					<line>And in thy look is that which ill befits </line>
+					<line>A tale of joy.</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> A dream is on my soul. </line>
+					<line>I see a slumberer, crown'd with flowers, and smiling </line>
+					<line>As in delighted visions, on the brink </line>
+					<line>Of a dread chasm; and this strange phantasy </line>
+					<line>Hath cast so deep a shadow o'er my thoughts, </line>
+					<line>I cannot but be sad.</line>
+				</sp><sp><speaker>Con.</speaker>
+					<line> Why, let me sing </line>
+					<line>One of the sweet wild strains you love so well, </line>
+					<line>And this will banish it.</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> It may not be. </line>
+					<line>Oh! gentle Constance, go not forth to-day: </line>
+					<line>Such dreams are ominous.</line>
+				</sp><sp><speaker>Con.</speaker>
+					<line> Have you then forgot </line>
+					<line> My brother's nuptial feast?---I must be one </line>
+					<line>Of the gay train attending to the shrine </line>
+					<line>His stately bride. In sooth, my step of joy </line>
+					<line>Will print earth lightly now---What fear'st thou, love? </line>
+					<line>Look all around! these blue transparent skies, </line>
+					<line>And sun-beams pouring a more buoyant life </line>
+					<line>Thro' each glad thrilling vein, will brightly chase </line>
+					<line>All thought of evil.---Why, the very air </line>
+					<line>Breathes of delight!---Thro' all its glowing realms </line>
+					<line>Doth music blend with fragance, and e'en here </line>
+					<line>The city's voice of jubilee is heard </line>
+					<line>Till each light leaf seems trembling unto sounds </line>
+					<line>Of human joy!</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> There lie far deeper things,--- </line>
+					<line>Things, that may darken thought for life, beneath </line>
+					<line>That city's festive semblance.---I have pass'd </line>
+					<line>Thro' the glad multitudes, and I have mark'd </line>
+					<line>A stern intelligence in meeting eyes, </line>
+					<line>Which deem'd their flash unnoticed, and a quick, </line>
+					<line>Suspicious vigilance, too intent to clothe </line>
+					<line>Its mien with carelessness; and, now and then, </line>
+					<line>A hurrying start, a whisper, or a hand </line>
+					<line>Pointing by stealth to some one, singled out </line>
+					<line>Amidst the reckless throng. O'er all is spread </line>
+					<line>A mantling flush of revelry, which may hide </line>
+					<line> Much from unpractised eyes; but lighter signs </line>
+					<line>Have been prophetic oft.</line>
+				</sp><sp><speaker>Con.</speaker>
+					<line> I tremble!---Raimond! </line>
+					<line>What may these things portend?</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> It was a day </line>
+					<line>Of festival, like this; the city sent </line>
+					<line>Up thro' her sunny firmament a voice </line>
+					<line>Joyous as now; when, scarcely heralded </line>
+					<line>By one deep moan, forth from his cavernous depths </line>
+					<line>The earthquake burst; and the wide splendid scene </line>
+					<line>Became one chaos of all fearful things, </line>
+					<line>Till the brain whirl'd, partaking the sick motion </line>
+					<line>Of rocking palaces.</line>
+				</sp><sp><speaker>Con.</speaker>
+					<line> And then didst thou, </line>
+					<line>My noble Raimond! thro' the dreadful paths </line>
+					<line>Laid open by destruction, past the chasms, </line>
+					<line>Whose fathomless clefts, a moment's work, had given </line>
+					<line>One burial unto thousands, rush to save </line>
+					<line>Thy trembling Constance! she who lives to bless </line>
+					<line>Thy generous love, that still the breath of heaven </line>
+					<line>Wafts gladness to her soul!</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> Heaven!---Heaven is just! </line>
+					<line>And being so, must guard thee, sweet one, still. </line>
+					<line>Trust none beside.---Oh! the omnipotent skies </line>
+					<line>Make their wrath manifest, but insidious <em>man</em>
+					</line>
+					<line> Doth compass those he hates with</line>
+					<em>secret</em> snares, <line>Wherein lies fate. Know, danger walks abroad, </line>
+					<line>Mask'd as a reveller. Constance! oh! by all </line>
+					<line>Our tried affection; all the vows which bind </line>
+					<line>Our hearts together, meet me in these bowers, </line>
+					<line>Here, I adjure thee, meet me, when the bell </line>
+					<line>Doth sound for vesper-prayer!</line>
+				</sp><sp><speaker>Con.</speaker>
+					<line> And know'st thou not </line>
+					<line>'Twill be the bridal hour?</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> It will not, love! </line>
+					<line>That hour will bring no bridal!---Nought of this </line>
+					<line>To human ear; but speed thou hither, fly, </line>
+					<line>When evening brings that signal.---Dost thou heed? </line>
+					<line>This is no meeting, by a lover sought </line>
+					<line>To breathe fond tales, and make the twilight groves </line>
+					<line>And stars, attest his vows; deem thou not so, </line>
+					<line>Therefore denying it!---I tell thee, Constance! </line>
+					<line>If thou woulds't save me from such fierce despair </line>
+					<line>As falls on man, beholding all he loves </line>
+					<line>Perish before him, while his strength can but </line>
+					<line>Strive with his agony---thou'lt meet me then? </line>
+					<line>Look on me, love!---I am not oft so moved--- </line>
+					<line>Thou'lt meet me?</line>
+				</sp><sp><speaker>Con.</speaker>
+					<line>Oh! what mean thy words?---If then </line>
+					<line>My steps are free,---I will. Be thou but calm.</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> Be calm!---there is a cold and sullen calm, </line>
+					<line>And, were my wild fears made realities, </line>
+					<line>It might be mine; but, in this dread suspense, </line>
+					<line>This conflict of all terrible phantasies, </line>
+					<line>There is no calm.---Yet fear thou not, dear love! </line>
+					<line>I will watch o'er thee still. And now, farewell </line>
+					<line>Until that hour!</line>
+				</sp><sp><speaker>Con.</speaker>
+					<line> My Raimond, fare thee well. </line></sp>
+				<stage>Exeunt</stage>
+			</div><div type="scene"><head>Scene IV. </head>
+				<stage>---Room in the Citadel of Palermo. Alberti. De Couci.</stage>
+				<sp><speaker>De Couci.</speaker>
+					<line>Said'st thou this night?</line>
+				</sp><sp><speaker>Alberti.</speaker>
+					<line> This very night---and lo! </line>
+					<line>E'en now the sun declines.</line>
+				</sp><sp><speaker>De Cou.</speaker>
+					<line> What! are they arm'd? </line>
+				</sp><sp><speaker>Alb.</speaker>
+					<line>All arm'd, and strong in vengeance and despair.</line>
+				</sp><sp><speaker>De Cou.</speaker>
+					<line>Doubtful and strange the tale! Why was not this </line>
+					<line>Reveal'd before?</line>
+				</sp><sp><speaker>Alb.</speaker>
+					<line> Mistrust me not, my lord! </line>
+					<line>That stern and jealous Procida hath kept </line>
+					<line>O'er all my steps, (as though he did suspect </line>
+					<line>The purposes, which oft his eye hath sought </line>
+					<line>To read in mine,) a watch so vigilant, </line>
+					<line>I knew not how to warn thee, tho' for this </line>
+					<line>Alone I mingled with his bands, to learn </line>
+					<line>Their projects and their strength. Thou know'st my faith </line>
+					<line>To Anjou's house full well.</line>
+				</sp><sp><speaker>De Cou.</speaker>
+					<line> How may we now </line>
+					<line>Avert the gathering storm?---The viceroy holds </line>
+					<line>His bridal feast, and all is revelry. </line>
+					<line>---'Twas a true-boding heaviness of heart </line>
+					<line>Which kept me from these nuptials.</line>
+				</sp><sp><speaker>Alb.</speaker>
+					<line> Thou thyself </line>
+					<line>Mayst yet escape, and, haply of thy bands </line>
+					<line>Rescue a part, ere long to wreak full vengeance </line>
+					<line> Upon these rebels. 'Tis too late to dream </line>
+					<line>Of saving Eribert. E'en shouldst thou rush </line>
+					<line>Before him with the tidings, in his pride </line>
+					<line>And confidence of soul, he would but laugh </line>
+					<line>Thy tale to scorn.</line>
+				</sp><sp><speaker>De Cou.</speaker>
+					<line> He must not die unwarn'd, </line>
+					<line>Tho' it be all in vain. But thou, Alberti, </line>
+					<line>Rejoin thy comrades, lest thine absence wake </line>
+					<line>Suspicion in their hearts. Thou hast done well, </line>
+					<line>And shalt not pass unguerdon'd, should I live </line>
+					<line>Thro' the deep horrors of th'approaching night.</line>
+				</sp><sp><speaker>Alb.</speaker>
+					<line>Noble De Couci, trust me still. Anjou </line>
+					<line>Commands no heart more faithful than Alberti's. </line>
+					<stage>Exit Alberti .</stage>
+				</sp><sp><speaker>De Cou.</speaker>
+					<line>The grovelling slave!---And yet he spoke too true! </line>
+					<line>For Eribert, in blind elated joy, </line>
+					<line>Will scorn the warning voice.---The day wanes fast, </line>
+					<line>And thro' the city, recklessly dispersed, </line>
+					<line>Unarm'd and unprepared, my soldiers revel, </line>
+					<line>E'en on the brink of fate.---I must away. </line></sp>
+				<stage>Exit De Couci .</stage>
+			</div><div type="scene"><head>Scene V. </head>
+				<stage>---A Banquetting Hall. Provençal Nobles assembled.</stage>
+				<sp><speaker>1 Noble.</speaker>
+					<line>Joy be to this fair meeting!---Who hath seen </line>
+					<line>The viceroy's bride?</line>
+				</sp><sp><speaker>2 Noble.</speaker>
+					<line> I saw her, as she pass'd </line>
+					<line>The gazing throngs assembled in the city. </line>
+					<line>'Tis said she hath not left for years, till now, </line>
+					<line>Her castle's wood-girt solitude. 'Twill gall </line>
+					<line>These proud Sicilians, that her wide domains </line>
+					<line>Should be the conqueror's guerdon.</line>
+				</sp><sp><speaker>3 Noble.</speaker>
+					<line> 'Twas their boast </line>
+					<line>With what fond faith she worshipp'd still the name </line>
+					<line>Of the boy, Conradin. How will the slaves </line>
+					<line>Brook this new triumph of their lords?</line>
+				</sp><sp><speaker>2 Noble.</speaker>
+					<line> In sooth </line>
+					<line>It stings them to the quick. In the full streets </line>
+					<line>They mix with our Provençals, and assume </line>
+					<line>A guise of mirth, but it sits hardly on them. </line>
+					<line>'Twere worth a thousand festivals, to see </line>
+					<line>With what a bitter and unnatural effort </line>
+					<line>They strive to smile!</line>
+				</sp><sp><speaker>1 Noble.</speaker>
+					<line> Is this Vittoria fair? </line>
+				</sp><sp><speaker>2 Noble.</speaker>
+					<line>Of a most noble mien; but yet her beauty </line>
+					<line>Is wild and awful, and her large dark eye, </line>
+					<line>In its unsettled glances, hath strange power, </line>
+					<line>From which thou'lt shrink, as I did.</line>
+				</sp><sp><speaker>1 Noble.</speaker>
+					<line> Hush! they come. </line>
+					<stage> Enter Eribert, Vittoria, Constance , and others. </stage>
+				</sp><sp><speaker>Eribert.</speaker>
+					<line>Welcome, my noble friends!---there must not lower </line>
+					<line>One clouded brow to-day in Sicily! </line>
+					<line>Behold my bride!</line>
+				</sp><sp><speaker>Nobles.</speaker>
+					<line> Receive our homage, lady! </line>
+				</sp><sp><speaker>Vittoria.</speaker>
+					<line>I bid all welcome. May the feast we offer </line>
+					<line>Prove worthy of such guests!</line>
+				</sp><sp><speaker>Eri.</speaker>
+					<line> Look on her, friends! </line>
+					<line>And say, if that majestic brow is not </line>
+					<line>Meet for a diadem?</line>
+				</sp><sp><speaker>Vit.</speaker>
+					<line> 'Tis well, my lord! </line>
+					<line>When memory's pictures fade, 'tis kindly done </line>
+					<line>To brighten their dimm'd hues!</line>
+				</sp><sp><speaker>1 Noble</speaker><stage>apart.</stage><line> Mark'd you her
+						glance? </line>
+				</sp><sp><speaker>2 Noble.</speaker><stage>apart.</stage><line>What eloquent scorn
+						was there! yet he, th'elate </line>
+					<line>Of heart, perceives it not.</line>
+				</sp><sp><speaker>Eri.</speaker>
+					<line> Now to the feast! </line>
+					<line>Constance, you look not joyous. I have said </line>
+					<line>That all should smile to-day.</line>
+				</sp><sp><speaker>Con.</speaker>
+					<line> Forgive me, brother! </line>
+					<line>The heart is wayward, and its garb of pomp </line>
+					<line>At times oppresses it.</line>
+				</sp><sp><speaker>Eri.</speaker>
+					<line> Why, how is this? </line>
+				</sp><sp><speaker>Con.</speaker>
+					<line>Voices of woe, and prayers of agony </line>
+					<line>Unto my soul have risen, and left sad sounds </line>
+					<line> There echoing still. Yet would I fain be gay, </line>
+					<line>Since 'tis your wish.---In truth, I should have been </line>
+					<line>A village-maid!</line>
+				</sp><sp><speaker>Eri.</speaker>
+					<line> But, being as you are, </line>
+					<line>Not thus ignobly free, command your looks, </line>
+					<line>(They may be taught obedience,) to reflect </line>
+					<line>The aspect of the time.</line>
+				</sp><sp><speaker>Vit.</speaker>
+					<line> And know, fair maid! </line>
+					<line>That if in this unskill'd, you stand alone </line>
+					<line>Amidst our court of pleasure.</line>
+				</sp><sp><speaker>Eri.</speaker>
+					<line> To the feast! </line>
+					<line>Now let the red wine foam!---There should be mirth </line>
+					<line>When conquerors revel!---Lords of this fair isle! </line>
+					<line>Your good sword's heritage, crown each bowl, and pledge </line>
+					<line>The present and the future! for they both </line>
+					<line>Look brightly on us. Dost thou smile, my bride?</line>
+				</sp><sp><speaker>Vit.</speaker>
+					<line>Yes, Eribert!---thy prophecies of joy </line>
+					<line>Have taught e'en me to smile.</line>
+				</sp><sp><speaker>Eri.</speaker>
+					<line> 'Tis well. To-day </line>
+					<line> I have won a fair and almost</line>
+					<em>royal</em> bride; <line>To-morrow---let the bright sun speed his course, </line>
+					<line>To waft me happiness!---my proudest foes </line>
+					<line>Must die---and then my slumber shall be laid </line>
+					<line>On rose-leaves, with no envious fold, to mar </line>
+					<line>The luxury of its visions!---Fair Vittoria, </line>
+					<line> Your looks are troubled! </line>
+				</sp><sp><speaker>Vit.</speaker>
+					<line> It is strange, but oft, </line>
+					<line>Midst festal songs and garlands, o'er my soul </line>
+					<line>Death comes, with some dull image! as you spoke </line>
+					<line>Of those whose blood is claim'd, I thought for them </line>
+					<line>Who, in a darkness thicker than the night </line>
+					<line>E'er wove with all her clouds, have pined so long: </line>
+					<line>How blessed were the stroke which makes them things </line>
+					<line>Of that invisible world, wherein, we trust, </line>
+					<line>There is, at least, no bondage!---But should <em>we</em>
+					</line>
+					<line>From such a scene as this, where all earth's joys </line>
+					<line>Contend for mastery, and the very sense </line>
+					<line>Of life is rapture; should <em>we</em> pass, I say,</line>
+					<line>At once from such excitements to the void </line>
+					<line>And silent gloom of that which doth await us--- </line>
+					<line>---Were it not dreadful?</line>
+				</sp><sp><speaker>Eri.</speaker>
+					<line> Banish such dark thoughts! </line>
+					<line>They ill beseem the hour.</line>
+				</sp><sp><speaker>Vit.</speaker>
+					<line> There is no hour </line>
+					<line>Of this mysterious world, in joy or woe, </line>
+					<line>But they beseem it well!---Why, what a slight, </line>
+					<line>Impalpable bound is that, th'unseen, which severs </line>
+					<line>Being from death!---And who can tell how near </line>
+					<line>Its misty brink he stands?</line>
+				</sp><sp><speaker>1 Noble.</speaker><stage>aside.</stage><line> What mean her words?
+					</line>
+				</sp><sp><speaker>2 Noble.</speaker>
+					<line> There's some dark mystery here. </line>
+				</sp><sp><speaker>Eri.</speaker>
+					<line> No more of this! </line>
+					<line>Pour the bright juice which Etna's glowing vines </line>
+					<line>Yield to the conquerors! And let music's voice </line>
+					<line>Dispel these ominous dreams!---Wake, harp and song! </line>
+					<line>Swell out your triumph!</line>
+					<stage>A Messenger enters, bearing a letter.</stage>
+				</sp><sp><speaker>Mess.</speaker>
+					<line> Pardon, my good lord! </line>
+					<line>But this demands---</line>
+				</sp><sp><speaker>Eri.</speaker>
+					<line> What means thy breathless haste? </line>
+					<line>And that ill-boding mien?---Away! such looks </line>
+					<line>Befit not hours like these.</line>
+				</sp><sp><speaker>Mes.</speaker>
+					<line> The Lord De Couci </line>
+					<line>Bade me bear this, and say, 'tis fraught with tidings </line>
+					<line>Of life and death.</line>
+				</sp><sp><speaker>Vit.</speaker><stage>hurriedly.</stage><line>Is this a time for
+						ought </line>
+					<line>But revelry?---My lord, these dull intrusions </line>
+					<line>Mar the bright spirit of the festal scene!</line>
+				</sp><sp><speaker>Eri.</speaker><stage>to the Messenger </stage><line>Hence! tell
+						the Lord De Couci we will talk </line>
+					<line>Of life and death to-morrow. </line>
+					<stage>Exit Messenger .</stage>
+					<line> Let there be </line>
+					<line>Around me none but joyous looks to-day, </line>
+					<line>And strains whose very echoes wake to mirth!</line>
+					<stage>A band of the conspirators enter, to the sound of music, disguised as
+						shepherds, bacchanals, &amp;c.</stage>
+				</sp><sp><speaker>Eri.</speaker>
+					<line>What forms are these?---What means this antic triumph?</line>
+				</sp><sp><speaker>Vit.</speaker>
+					<line>'Tis but a rustic pageant, by my vassals </line>
+					<line>Prepared to grace our bridal. Will you not </line>
+					<line> Hear their wild music? Our Sicilian vales </line>
+					<line>Have many a sweet and mirthful melody, </line>
+					<line>To which the glad heart bounds.---Breathe ye some strain </line>
+					<line>Meet for the time, ye sons of Sicily!</line>
+					<stage>One of the Masquers sings.</stage>
+				</sp><sp><speaker>The</speaker> festal eve, o'er earth and sky, <line>In her sunset
+						robe, looks bright, </line>
+					<line>And the purple hills of Sicily, </line>
+					<line>With their vineyards, laugh in light; </line>
+					<line>From the marble cities of her plains </line>
+					<line>Glad voices mingling swell; </line>
+					<line>---But with yet more loud and lofty strains, </line>
+					<line>They shall hail the Vesper-bell!</line>
+					<line>Oh! sweet its tones, when the summer breeze </line>
+					<line>Their cadence wafts afar, </line>
+					<line>To float o'er the blue Sicilian seas, </line>
+					<line>As they gleam to the first pale star! </line>
+					<line>The shepherd greets them on his height, </line>
+					<line>The hermit in his cell; </line>
+					<line>---But a deeper power shall breathe, to-night, </line>
+					<line>In the sound of the Vesper-bell!</line>
+					<stage>The Bell rings.</stage>
+				</sp><sp><speaker>Eri.</speaker>
+					<line>---It is the hour!---Hark, hark!---my bride, our summons! </line>
+					<line>The altar is prepared and crown'd with flowers </line>
+					<line>That wait---</line>
+				</sp><sp><speaker>Vit.</speaker>
+					<line> The victim! </line>
+					<em>(A tumult heard without.)</em>
+					<center>
+						<em> ( Procida and Montalba enter, with others, armed.) </em>
+					</center>
+				</sp><sp><speaker>Procida.</speaker>
+					<line> Strike! the hour is come! </line>
+				</sp><sp><speaker>Vit.</speaker>
+					<line> Welcome, avengers, welcome! Now, be strong! </line>
+					<stage>The Conspirators throw off their disguise, and rush, with their swords
+						drawn, upon the Provençals. Eribert is wounded, and falls</stage>
+				</sp><sp><speaker>Pro.</speaker>
+					<line>Now hath fate reached thee in thy mid career, </line>
+					<line>Thou reveller in a nation's agonies!</line>
+					<stage>The Provençals are driven off, and pursued by the Sicilians.</stage>
+				</sp><sp><speaker>Con.</speaker><stage>supporting Eribert .</stage><line>My brother!
+						oh! my brother!</line>
+				</sp><sp><speaker>Eri.</speaker>
+					<line> Have I stood </line>
+					<line>A leader in the battle-fields of kings, </line>
+					<line>To perish thus at last?---Ay, by these pangs, </line>
+					<line>And this strange chill, that heavily doth creep, </line>
+					<line>Like a slow poison, thro' my curdling veins, </line>
+					<line>This should be---death!---In sooth a dull exchange </line>
+					<line>For the gay bridal feast!</line>
+				</sp><sp><speaker>Voices.</speaker><stage>without,</stage><line>Remember
+						Conradin!---spare none, spare none!</line>
+				</sp><sp><speaker>Vit.</speaker><stage>throwing off her bridal wreath and
+						ornaments.</stage><line>This is proud freedom! Now my soul may cast, </line>
+					<line>In generous scorn, her mantle of dissembling </line>
+					<line>To earth for ever!---And it is such joy, </line>
+					<line>As if a captive, from his dull, cold cell, </line>
+					<line>Might soar at once on charter'd wing to range </line>
+					<line>The realms of starr'd infinity!---Away! </line>
+					<line>Vain mockery of a bridal wreath! The hour </line>
+					<line>For which stern patience ne'er kept watch in vain </line>
+					<line>Is come; and I may give my bursting heart </line>
+					<line>Full and indignant scope.---Now, Eribert! </line>
+					<line>Believe in retribution! What, proud man! </line>
+					<line>Prince, ruler, conqueror! didst thou deem heaven slept? </line>
+					<line>"Or that the unseen, immortal ministers, </line>
+					<line> "Ranging the world, to note e'en purposed crime </line>
+					<line>"In burning characters, had laid aside </line>
+					<line>"Their everlasting attributes for <em>thee</em> ?"</line>
+					<line>---Oh! blind security!---He, in whose dread hand </line>
+					<line>The lightnings vibrate, holds them back, until </line>
+					<line>The trampler of this goodly earth hath reach'd </line>
+					<line>His pyramid-height of power; that so his fall </line>
+					<line>May, with more fearful oracles, make pale </line>
+					<line>Man's crown'd oppressors!</line>
+				</sp><sp><speaker>Con.</speaker>
+					<line> Oh! reproach him not! </line>
+					<line>His soul is trembling on the dizzy brink </line>
+					<line>Of that dim world where passion may not enter. </line>
+					<line>Leave him in peace!</line>
+				</sp><sp><speaker>Voices</speaker><stage>without.</stage><line>Anjou, Anjou!---De
+						Couci to the rescue!</line>
+				</sp><sp><speaker>Eri.</speaker><stage>half-raising himself.</stage><line>My brave
+						Provençals! do ye combat still? </line>
+					<line>And I, your chief, am here!---Now, now I feel </line>
+					<line>That death indeed is bitter!</line>
+				</sp><sp><speaker>Vit.</speaker>
+					<line> Fare thee well! </line>
+					<line>Thine eyes so oft, with their insulting smile, </line>
+					<line>Have looked on man's last pangs, thou shouldst, by this, </line>
+					<line>Be perfect how to die! </line>
+					<stage>Exit Vittoria .</stage>
+					<center>
+						<em> Raimond enters. </em>
+					</center>
+				</sp><sp><speaker>Raimond.</speaker>
+					<line> Away, my Constance! </line>
+					<line>Now is the time for flight. Our slaughtering bands </line>
+					<line>Are scatter'd far and wide. A little while </line>
+					<line>And thou shalt be in safety. Know'st thou not </line>
+					<line> That low sweet vale, where dwells the holy man, </line>
+					<line>Anselmo? He whose hermitage is rear'd </line>
+					<line>'Mid some old temple's ruins?---Round the spot </line>
+					<line>His name hath spread so pure and deep a charm, </line>
+					<line>'Tis hallow'd as a sanctuary, wherein </line>
+					<line>Thou shalt securely bide, till this wild storm </line>
+					<line>Have spent its fury. Haste!</line>
+				</sp><sp><speaker>Con.</speaker>
+					<line> I will not fly! </line>
+					<line>While in his heart there is one throb of life, </line>
+					<line>One spark in his dim eyes, I will not leave </line>
+					<line>The brother of my youth to perish thus, </line>
+					<line>Without one kindly bosom to sustain </line>
+					<line>His dying head.</line>
+				</sp><sp><speaker>Eri.</speaker>
+					<line> The clouds are darkening round. </line>
+					<line>There are strange voices ringing in mine ear </line>
+					<line>That summon me---to what?---But I have been </line>
+					<line>Used to command!---Away! I will not die </line>
+					<line>But on the field---</line>
+					<stage>He dies.</stage>
+				</sp><sp><speaker>Con.</speaker><stage>kneeling by him.</stage><line>Oh heaven! be
+						merciful, </line>
+					<line>As thou art just!---for he is now where nought </line>
+					<line>But mercy can avail him!---It is past!</line>
+					<stage>Guido enters, with his sword drawn.</stage>
+				</sp><sp><speaker>Guido</speaker><stage>to Raimond .</stage><line>I've sought thee
+						long---Why art thou lingering here? </line>
+					<line>Haste, follow me!---Suspicion with thy name </line>
+					<line>Joins that word--- <em>Traitor</em> !</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> Traitor!---Guido? </line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line> Yes! </line>
+					<line>Hast thou not heard that, with his men-at-arms, </line>
+					<line>After vain conflict with a people's wrath, </line>
+					<line>De Couci hath escaped?---And there are those </line>
+					<line>Who murmur that from <em>thee</em> the warning came</line>
+					<line>Which saved him from our vengeance. But e'en yet </line>
+					<line>In the red current of Provençal blood </line>
+					<line>That doubt may be effaced. Draw thy good sword, </line>
+					<line>And follow me!</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line>And <em>thou</em> couldst doubt me, Guido!</line>
+					<line>'Tis come to this!---Away! mistrust me still. </line>
+					<line>I will not stain my sword with deeds like thine. </line>
+					<line>Thou know'st me not!</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line> Raimond di Procida! </line>
+					<line>If thou art he whom once I deemed so noble--- </line>
+					<line>Call me thy friend no more! </line>
+					<stage>Exit Guido .</stage>
+				</sp><sp><speaker>Rai.</speaker><stage>after a pause.</stage><line>Rise, dearest,
+						rise! </line>
+					<line>Thy duty's task hath nobly been fulfill'd, </line>
+					<line>E'en in the face of death; but all is o'er, </line>
+					<line>And this is now no place where nature's tears </line>
+					<line>In quiet sanctity may freely flow. </line>
+					<line>---Hark! the wild sounds that wait on fearful deeds </line>
+					<line>Are swelling on the winds, as the deep roar </line>
+					<line>Of fast-advancing billows; and for <em>thee</em>
+					</line>
+					<line>I shame not thus to tremble.---Speed, oh, speed!</line></sp>
+				<stage>Exeunt.</stage>
+			</div>
+		</div>
+		<div type="act"><head>ACT THE FOURTH.</head>
+			<div type="scene"><head>Scene I.</head>
+				<stage>---A Street in Palermo.</stage>
+				<stage>---A Hermitage, surrounded by the Ruins of an ancient Temple. Constance.
+					Anselmo.</stage>
+				<sp><speaker>Constance.</speaker>
+					<line>'Tis strange he comes not!---Is not this the still </line>
+					<line>And sultry hour of noon?---He should have been </line>
+					<line>Here by the day-break.---Was there not a voice? </line>
+					<line>---"No! 'tis the shrill Cicada, with glad life </line>
+					<line>"Peopling these marble ruins, as it sports </line>
+					<line>"Amidst them, in the sun.---Hark! yet again!" </line>
+					<line>No! no!---Forgive me, father! that I bring </line>
+					<line>Earth's restless griefs and passions to disturb </line>
+					<line>The stillness of thy holy solitude; </line>
+					<line>My heart is full of care.</line>
+				</sp><sp><speaker>Anselmo.</speaker>
+					<line> There is no place </line>
+					<line>So hallow'd, as to be unvisited </line>
+					<line>By mortal cares. Nay, whither should we go, </line>
+					<line>With our deep griefs and passions, but to scenes </line>
+					<line>Lonely and still; where he that made our hearts </line>
+					<line>Will speak to them in whispers? I have known </line>
+					<line>Affliction too, my daughter.</line>
+				</sp><sp><speaker>Con.</speaker>
+					<line> Hark! his step! </line>
+					<line>I know it well---he comes---my Raimond, welcome! </line>
+					<stage>Vittoria enters, Constance shrinks back on perceiving her.</stage>
+					<line>Oh heaven! that aspect tells a fearful tale.</line>
+				</sp><sp><speaker>Vittoria.</speaker><stage>not observing her.</stage><line>There is
+						a cloud of horror on my soul; </line>
+					<line>And on thy words, Anselmo, peace doth wait, </line>
+					<line>Even as an echo, following the sweet close </line>
+					<line>Of some divine and solemn harmony: </line>
+					<line> Therefore I sought thee now. Oh! speak to me </line>
+					<line>Of holy things, and names, in whose deep sound </line>
+					<line>Is power to bid the tempests of the heart </line>
+					<line>Sink, like a storm rebuked.</line>
+				</sp><sp><speaker>Ans.</speaker>
+					<line> What recent grief </line>
+					<line>Darkens thy spirit thus?</line>
+				</sp><sp><speaker>Vit.</speaker>
+					<line> I said not grief. </line>
+					<line>We should rejoice to-day, but joy is not </line>
+					<line>That which it hath been. In the flowers which wreathe </line>
+					<line>Its mantling cup there is a scent unknown, </line>
+					<line>Fraught with some strange delirium. All things now </line>
+					<line>Have changed their nature; still, I say, rejoice! </line>
+					<line>There is a cause, Anselmo!---We are free, </line>
+					<line>Free and avenged!---Yet on my soul there hangs </line>
+					<line>A darkness, heavy as th'oppressive gloom </line>
+					<line>Of midnight phantasies.---Ay, for this, too, </line>
+					<line>There is a cause.</line>
+				</sp><sp><speaker>Ans.</speaker>
+					<line> How say'st thou, we are free? </line>
+					<line>There may have raged, within Palermo's walls, </line>
+					<line>Some brief wild tumult, but too well I know </line>
+					<line>They call the stranger, lord.</line>
+				</sp><sp><speaker>Vit.</speaker>
+					<line>Who calls the <em>dead</em>
+					</line>
+					<line>Conqueror or lord?---Hush! breathe it not aloud, </line>
+					<line>The wild winds must not hear it!---Yet, again, </line>
+					<line>I tell thee, we are free!</line>
+				</sp><sp><speaker>Ans.</speaker>
+					<line> Thine eye hath look'd </line>
+					<line>On fearful deeds, for still their shadows hang </line>
+					<line>O'er its dark orb.---Speak! I adjure thee, say, </line>
+					<line>How hath this work been wrought?</line>
+				</sp><sp><speaker>Vit.</speaker>
+					<line> Peace! ask me not! </line>
+					<line> Why shouldst</line>
+					<em>thou</em> hear a tale to send thy blood <line>Back on its fount?---We cannot
+						wake them now </line>
+					<line>The storm is in my soul, but <em>they</em> are all</line>
+					<line>At rest!---Ay, sweetly may the slaughter'd babe </line>
+					<line>By its dead mother sleep; and warlike men </line>
+					<line>Who, midst the slain have slumber'd oft before, </line>
+					<line>Making the shield their pillow, may repose </line>
+					<line>Well, now their toils are done.---Is't not enough?</line>
+				</sp><sp><speaker>Con.</speaker>
+					<line>Merciful heaven! have such things been? And yet </line>
+					<line>There is no shade come o'er the laughing sky! </line>
+					<line>---I am an outcast now.</line>
+				</sp><sp><speaker>Ans.</speaker>
+					<line> O Thou, whose ways </line>
+					<line>Clouds mantle fearfully; of all the blind, </line>
+					<line>But terrible, ministers that work thy wrath, </line>
+					<line>How much is <em>man</em> the fiercest!---Others know</line>
+					<line>Their limits---Yes! the earthquakes, and the storms, </line>
+					<line>And the volcanoes!---He alone o'erleaps </line>
+					<line>The bounds of retribution!---Couldst thou gaze, </line>
+					<line>Vittoria! with thy woman's heart and eye, </line>
+					<line>On such dread scenes unmoved?</line>
+				</sp><sp><speaker>Vit.</speaker>
+					<line>Was it for <em>me</em>
+					</line>
+					<line>To stay th'avenging sword?---No, tho' it pierced </line>
+					<line>My very soul?---"Hark, hark, what thrilling shrieks </line>
+					<line>"Ring thro' the air around me!---Can'st thou not </line>
+					<line>"Bid them be hush'd?---Oh! look not on me thus!</line>
+				</sp><sp><speaker>Ans.</speaker>
+					<line>"Lady! thy thoughts lend sternness to the looks </line>
+					<line>"Which are but sad!"---Have all then perish'd? <em>all</em> ?</line>
+					<line>Was there no mercy?</line>
+				</sp><sp><speaker>Vit.</speaker>
+					<line> Mercy! it hath been </line>
+					<line>A word forbidden as th'unhallowed names </line>
+					<line>Of evil powers.---Yet one there was who dared </line>
+					<line>To own the guilt of pity, and to aid </line>
+					<line>The victims; but in vain.---Of him no more! </line>
+					<line>He is a traitor, and a traitor's death </line>
+					<line>Will be his meed.</line>
+				</sp><sp><speaker>Con.</speaker><stage>coming forward.</stage><line>Oh Heaven!---his
+						name, his name? </line>
+					<line>Is it---it cannot be!</line>
+				</sp><sp><speaker>Vit.</speaker><stage>starting.</stage><em>He</em> visits but the
+					happy.---Didst thou ask <line>If Raimond too must die?---It is as sure </line>
+					<line>As that his blood is on <em>thy</em> head, for thou</line>
+					<line>Didst win him to this treason.</line>
+				</sp><sp><speaker>Con.</speaker>
+					<line> "When did man </line>
+					<line> "Call mercy,</line>
+					<em>treason</em> ?---Take my life, but save <line>"My noble Raimond!</line>
+				</sp><sp><speaker>Vit.</speaker>
+					<line> Maiden!" he must die. </line>
+					<line>E'en now the youth before his judges stands, </line>
+					<line>And they are men who, to the voice of prayer, </line>
+					<line>Are as the rock is to the murmur'd sigh </line>
+					<line>Of summer-waves; ay, tho' a father sit </line>
+					<line>On their tribunal. Bend thou not to me. </line>
+					<line>What would'st thou?</line>
+				</sp><sp><speaker>Con.</speaker>
+					<line> Mercy!---Oh! wert thou to plead </line>
+					<line>But with a look, e'en yet he might be saved! </line>
+					<line>If thou hast ever loved---</line>
+				</sp><sp><speaker>Vit.</speaker>
+					<line> ---If I have loved? </line>
+					<line> It is</line>
+					<em>that</em> love forbids me to relent; <line>I am what it hath made me.---O'er
+						my soul </line>
+					<line> Lightning hath pass'd, and sear'd it. Could I weep, </line>
+					<line>I then might pity---but it will not be.</line>
+				</sp><sp><speaker>Con.</speaker>
+					<line>Oh! thou wilt yet relent, for woman's heart </line>
+					<line>Was formed to suffer and to melt.</line>
+				</sp><sp><speaker>Vit.</speaker>
+					<line> Away! </line>
+					<line>Why should I pity thee?---Thou wilt but prove </line>
+					<line>What I have known before---and yet I live! </line>
+					<line>Nature is strong, and it may all be borne--- </line>
+					<line>The sick impatient yearning of the heart </line>
+					<line>For that which is not; and the weary sense </line>
+					<line>Of the dull void, wherewith our homes have been </line>
+					<line>Circled by death; yes, all things may be borne! </line>
+					<line>All, save remorse.---But I will <em>not</em> bow down</line>
+					<line> My spirit to that dark power:---there</line>
+					<em>was</em> no guilt! <line>Anselmo! wherefore didst thou talk of guilt?</line>
+				</sp><sp><speaker>Ans.</speaker>
+					<line>Ay, thus doth sensitive conscience quicken thought, </line>
+					<line>Lending reproachful voices to a breeze, </line>
+					<line>Keen lightning to a look.</line>
+				</sp><sp><speaker>Vit.</speaker>
+					<line> Leave me in peace! </line>
+					<line>Is't not enough that I should have a sense </line>
+					<line>Of things thou canst not see, all wild and dark, </line>
+					<line>And of unearthly whispers, haunting me </line>
+					<line>With dread suggestions, but that <em>thy</em> cold words,</line>
+					<line>Old man, should gall me too?---Must all conspire </line>
+					<line>Against me?---Oh! thou beautiful spirit! wont </line>
+					<line> To shine upon my dreams with looks of love, </line>
+					<line> Where art</line>
+					<em>thou</em> vanish'd?---Was it not the thought <line>Of thee which urged me to
+						the fearful task, </line>
+					<line>And wilt thou now forsake me?---I must seek </line>
+					<line>The shadowy woods again, for there, perchance, </line>
+					<line>Still may thy voice be in my twilight-paths; </line>
+					<line>---Here I but meet despair! </line>
+					<stage>Exit Vittoria .</stage>
+				</sp><sp><speaker>Ans.</speaker><stage>to Constance .</stage><line>Despair not
+							<em>thou</em> ,</line>
+					<line>My daughter!---he that purifies the heart </line>
+					<line>With grief, will lend it strength.</line>
+				</sp><sp><speaker>Con.</speaker><stage>endeavouring to rouse herself.</stage><line>
+						Did she not say </line>
+					<line>That some one was to die?</line>
+				</sp><sp><speaker>Ans.</speaker>
+					<line> I tell thee not </line>
+					<line>Thy pangs are vain---for nature will have way. </line>
+					<line>Earth must have tears; yet in a heart like thine, </line>
+					<line>Faith may not yield its place.</line>
+				</sp><sp><speaker>Con.</speaker>
+					<line> Have I not heard </line>
+					<line>Some fearful tale?---Who said, that there should rest </line>
+					<line>Blood on my soul?---What blood?---I never bore </line>
+					<line>Hatred, kind father, unto aught that breathes; </line>
+					<line>Raimond doth know it well.---Raimond!---High heaven, </line>
+					<line>It bursts upon me now!---and he must die! </line>
+					<line>For my sake---e'en for mine!</line>
+				</sp><sp><speaker>Ans.</speaker>
+					<line> Her words were strange, </line>
+					<line>And her proud mind seem'd half to frenzy wrought--- </line>
+					<line> ---Perchance this may not be. </line>
+				</sp><sp><speaker>Con.</speaker>
+					<line>It <em>must</em> not be.</line>
+					<line>Why do I linger here?</line>
+					<stage>She rises to depart.</stage>
+				</sp><sp><speaker>Ans.</speaker>
+					<line> Where wouldst thou go? </line>
+				</sp><sp><speaker>Con.</speaker>
+					<line>To give their stern and unrelenting hearts </line>
+					<line>A victim in his stead.</line>
+				</sp><sp><speaker>Ans.</speaker>
+					<line> Stay! wouldst thou rush </line>
+					<line>On certain death?</line>
+				</sp><sp><speaker>Con.</speaker>
+					<line> I may not falter now. </line>
+					<line>---Is not the life of woman all bound up </line>
+					<line>In her affections?---What hath <em>she</em> to do</line>
+					<line>In this bleak world alone?---It may be well </line>
+					<line>For <em>man</em> on his triumphal course to move,</line>
+					<line> Uncumber'd by soft bonds; but</line>
+					<em>we</em> were born <line>For love and grief.</line>
+				</sp><sp><speaker>Ans.</speaker>
+					<line> Thou fair and gentle thing, </line>
+					<line>Unused to meet a glance which doth not speak </line>
+					<line>Of tenderness or homage! how shouldst <em>thou</em>
+					</line>
+					<line>Bear the hard aspect of unpitying men, </line>
+					<line>Or face the king of terrors?</line>
+				</sp><sp><speaker>Con.</speaker>
+					<line> There is strength </line>
+					<line>Deep bedded in our hearts, of which we reck </line>
+					<line>But little, till the shafts of heaven have pierced </line>
+					<line>Its fragile dwelling.---Must not earth be rent </line>
+					<line>Before her gems are found?---Oh! now I feel </line>
+					<line> Worthy the generous love which hath not shunn'd </line>
+					<line>To look on death for me!---My heart hath given </line>
+					<line>Birth to as deep a courage, and a faith </line>
+					<line>As high in its devotion. </line>
+					<stage>Exit Constance .</stage>
+				</sp><sp><speaker>Ans.</speaker>
+					<line> She is gone! </line>
+					<line>Is it to perish?---God of mercy! lend </line>
+					<line>Power to my voice, that so its prayer may save </line>
+					<line>This pure and lofty creature!---I will follow--- </line>
+					<line>But her young footstep and heroic heart </line>
+					<line>Will bear her to destruction faster far </line>
+					<line>Than I can track her path. </line></sp>
+				<stage>Exit Anselmo</stage>
+			</div><div type="scene"><head>Scene III.</head>
+				<stage>---Hall of a Public Building. Procida, Montalba, Guido, and others, seated as
+					on a Tribunal.</stage>
+				<sp><speaker>Procida.</speaker>
+					<line>The morn lower'd darkly, but the sun hath now, </line>
+					<line>With fierce and angry splendour, thro' the clouds </line>
+					<line>Burst forth, as if impatient to behold </line>
+					<line>This, our high triumph.---Lead the prisoner in. </line>
+					<stage>Raimond is brought in fettered and guarded.</stage>
+					<line>Why, what a bright and fearless brow is here! </line>
+					<line>---Is this man guilty?---Look on him, Montalba!</line>
+				</sp><sp><speaker>Montalba.</speaker>
+					<line>Be firm. Should justice falter at a look?</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line>No, thou say'st well. Her eyes are filletted, </line>
+					<line>Or should be so. Thou, that dost call thyself--- </line>
+					<line>---But no! I will not breathe a traitor's name--- </line>
+					<line>Speak! thou art arraign'd of treason.</line>
+				</sp><sp><speaker>Raimond.</speaker>
+					<line> I arraign </line>
+					<em>You</em> , before whom I stand, of darker guilt, <line>In the bright face of
+						heaven; and your own hearts </line>
+					<line>Give echo to the charge. Your very looks </line>
+					<line>Have ta'en the stamp of crime, and seem to shrink, </line>
+					<line>With a perturb'd and haggard wildness, back </line>
+					<line>From the too-searching light.---Why, what hath wrought </line>
+					<line>This change on noble brows?---There is a voice, </line>
+					<line>With a deep answer, rising from the blood </line>
+					<line>Your hands have coldly shed!---Ye are of those </line>
+					<line>From whom just men recoil, with curdling veins, </line>
+					<line>All thrill'd by life's abhorrent consciousness, </line>
+					<line>And sensitive feeling of a <em>murderer's</em> presence.</line>
+					<line> ---Away! come down from your tribunal-seat, </line>
+					<line>Put off your robes of state, and let your mien </line>
+					<line>Be pale and humbled; for ye bear about you </line>
+					<line>That which repugnant earth doth sicken at, </line>
+					<line>More than the pestilence.---That I should live </line>
+					<line>To see my father shrink!</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> Montalba, speak! </line>
+					<line>There's something chokes my voice---but fear me not.</line>
+				</sp><sp><speaker>Mon.</speaker>
+					<line>If we must plead to vindicate our acts, </line>
+					<line>Be it when thou hast made thine own look clear; </line>
+					<line>Most eloquent youth! What answer canst thou make </line>
+					<line>To this our charge of treason?</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> I will plead </line>
+					<em>That</em> cause before a mightier judgment-throne, <line>Where mercy is not
+						guilt. But here, I feel </line>
+					<line>Too buoyantly the glory and the joy </line>
+					<line>Of my free spirit's whiteness; for e'en now </line>
+					<line>Th'embodied hideousness of crime doth seem </line>
+					<line>Before me glaring out.---Why, I saw <em>thee</em> ,</line>
+					<line>Thy foot upon an aged warrior's breast, </line>
+					<line>Trampling our nature's last convulsive heavings. </line>
+					<line>---And thou--- <em>thy</em> sword---Oh, valiant chief!---is yet</line>
+					<line>Red from the noble stroke which pierced, at once, </line>
+					<line>A mother and the babe, whose little life </line>
+					<line>Was from her bosom drawn!---Immortal deeds </line>
+					<line> For bards to hymn! </line>
+				</sp><sp><speaker>Guido.</speaker><stage>aside.</stage><line> I look upon his mien, </line>
+					<line>And waver.---Can it be?---My boyish heart </line>
+					<line>Deem'd him so noble once!---Away, weak thoughts! </line>
+					<line>Why should I shrink, as if the guilt were <em>mine</em> ,</line>
+					<line>From his proud glance?</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> Oh, thou dissembler!---thou, </line>
+					<line>So skill'd to clothe with virtue's generous flush </line>
+					<line>The hollow cheek of cold hypocrisy, </line>
+					<line>That, with thy guilt made manifest, I can scarce </line>
+					<line>Believe thee guilty!---look on me, and say </line>
+					<line>Whose was the secret warning voice, that saved </line>
+					<line>De Couci with his bands, to join our foes, </line>
+					<line>And forge new fetters for th'indignant land? </line>
+					<line>Whose was <em>this</em> treachery?</line>
+					<stage>Shows him papers</stage>
+					<line>Who hath promised here, </line>
+					<line>(Belike to appease the manès of the dead,) </line>
+					<line>At midnight to unfold Palermo's gates, </line>
+					<line>And welcome in the foe?---Who hath done this, </line>
+					<line>But thou, a tyrant's friend?</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> Who hath done this? </line>
+					<line>Father!---if I may call thee by that name--- </line>
+					<line>Look, with thy piercing eye, on those whose smiles </line>
+					<line>Were masks that hid their daggers.--- <em>There</em> , perchance,</line>
+					<line>May lurk what loves not light too strong. For me, </line>
+					<line> I know but this---there needs no deep research </line>
+					<line>To prove the truth---that murderers may be traitors </line>
+					<line>Ev'n to each other.</line>
+				</sp><sp><speaker>Pro.</speaker><stage>to Montalba .</stage><line>His unaltering
+						cheek </line>
+					<line>Still vividly doth hold its natural hue, </line>
+					<line>And his eye quails not;---Is this innocence?</line>
+				</sp><sp><speaker>Mon.</speaker>
+					<line>No! 'tis th'unshrinking hardihood of crime. </line>
+					<line>---Thou bear'st a gallant mien!---But where is she </line>
+					<line>Whom thou hast barter'd fame and life to save, </line>
+					<line>The fair Provençal maid?---What! know'st thou not </line>
+					<line>That this alone were guilt, to death allied? </line>
+					<line>Was't not our law that he who spared a foe, </line>
+					<line>(And is she not of that detested race?) </line>
+					<line>Should thenceforth be amongst us <em>as</em> a foe?</line>
+					<line>---Where hast thou borne her?---speak!</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> That heaven, whose eye </line>
+					<line>Burns up thy soul with its far-searching glance, </line>
+					<line>Is with her; she is safe.</line>
+				</sp><sp><speaker>Pro</speaker>
+					<line> And by that word </line>
+					<line>Thy doom is seal'd.---Oh God! that I had died </line>
+					<line>Before this bitter hour, in the full strength </line>
+					<line>And glory of my heart!</line>
+					<stage>Constance enters, and rushes to Raimond .</stage>
+				</sp><sp><speaker>Constance.</speaker>
+					<line> Oh! art thou found? </line>
+					<line> ---But yet, to find thee thus!---Chains, chains for</line>
+					<em>thee</em> ! <line>My brave, my noble love!---Off with these bonds; </line>
+					<line> Let him be free as air:---for I am come </line>
+					<line>To be your victim now.</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> Death has no pang </line>
+					<line>More keen than this.---Oh! wherefore art thou here? </line>
+					<line>I could have died so calmly, deeming thee </line>
+					<line>Saved, and at peace.</line>
+				</sp><sp><speaker>Con.</speaker>
+					<line> At peace!---And thou hast thought </line>
+					<line>Thus poorly of my love!---But woman's breast </line>
+					<line>Hath strength to suffer too.---Thy father sits </line>
+					<line>On this tribunal; Raimond, which is he?</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line>My father!---who hath lull'd thy gentle heart </line>
+					<line>With that false hope?---Beloved! gaze around--- </line>
+					<line>See, if thine eye can trace a father's soul </line>
+					<line>In the dark looks bent on us.</line>
+				</sp><sp><speaker>Con.</speaker><stage>After earnestly examining the countenances of
+						the judges, falls at the feet of Procida .</stage><line> Thou art he! </line>
+					<line>Nay, turn thou not away!---for I beheld </line>
+					<line>Thy proud lip quiver, and a watery mist </line>
+					<line>Pass o'er thy troubled eye; and then I knew </line>
+					<line>Thou wert his father!---Spare him!---take <em>my</em> life!</line>
+					<line>In truth a worthless sacrifice for his, </line>
+					<line>But yet mine all.---Oh! <em>he</em> hath still to run</line>
+					<line>A long bright race of glory.</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> Constance, peace! </line>
+					<line>I look upon thee, and my failing heart </line>
+					<line>Is as a broken reed.</line>
+				</sp><sp><speaker>Con.</speaker><stage>still addressing Procida .</stage><line> Oh,
+						yet relent! </line>
+					<line> If 'twas his crime to rescue</line>
+					<em>me</em> , behold <line>I come to be the atonement! Let him live </line>
+					<line>To crown thine age with honour.---In thy heart </line>
+					<line>There's a deep conflict; but great nature pleads </line>
+					<line>With an o'ermastering voice, and thou wilt yield! </line>
+					<line>---Thou <em>art</em> his father!</line>
+				</sp><sp><speaker>Pro.</speaker><stage>after a pause.</stage><line>Maiden, thou'rt
+						deceived! </line>
+					<line>I am as calm as that dead pause of nature </line>
+					<line>Ere the full thunder bursts.---A judge is not </line>
+					<line>Father or friend. Who calls this man my son? </line>
+					<line>--- <em>My</em> son!---Ay! thus his mother proudly smiled---</line>
+					<line>But she was noble!---Traitors stand alone, </line>
+					<line>Loosed from all ties.---Why should I trifle thus? </line>
+					<line>---Bear her away!</line>
+				</sp><sp><speaker>Rai.</speaker><stage>starting forward.</stage><line> And whither?
+					</line>
+				</sp><sp><speaker>Mon.</speaker>
+					<line> Unto death. </line>
+					<line>Why should she live when all her race have perish'd?</line>
+				</sp><sp><speaker>Con.</speaker><stage>sinking into the arms of Raimond
+						.</stage><line>Raimond, farewell!---Oh! when thy star hath risen </line>
+					<line>To its bright noon, forget not, best beloved, </line>
+					<line>I died for thee!</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> High heaven! thou seest these things; </line>
+					<line>And yet endur'st them!---Shalt thou die for me, </line>
+					<line>Purest and loveliest being?---but our fate </line>
+					<line>May not divide us long.---Her cheek is cold--- </line>
+					<line> Her deep blue eyes are closed---Should this be death! </line>
+					<line>---If thus, there yet were mercy!---Father, father! </line>
+					<line>Is thy heart human?</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> Bear her hence, I say! </line>
+					<line>Why must my soul be torn?</line>
+					<stage>Anselmo enters, holding a Crucifix.</stage>
+				</sp><sp><speaker>Anselmo.</speaker>
+					<line> Now, by this sign </line>
+					<line>Of heaven's prevailing love, ye shall not harm </line>
+					<line>One ringlet of her head.---How! is there not </line>
+					<line>Enough of blood upon your burthen'd souls? </line>
+					<line>Will not the visions of your midnight couch </line>
+					<line>Be wild and dark enough, but ye must heap </line>
+					<line>Crime upon crime?---Be ye content:---your dreams, </line>
+					<line>Your councils, and your banquettings, will yet </line>
+					<line>Be haunted by the voice which doth not sleep, </line>
+					<line>E'en tho' this maid be spared!---Constance, look up! </line>
+					<line>Thou shalt not die.</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> Oh! death e'en now hath veil'd </line>
+					<line>The light of her soft beauty.---Wake, my love; </line>
+					<line>Wake at my voice!</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> Anselmo, lead her hence, </line>
+					<line>And let her live, but never meet my sight. </line>
+					<line>---Begone!---My heart will burst.</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> One last embrace! </line>
+					<line>---Again life's rose is opening on her cheek; </line>
+					<line>Yet must we part.---So love is crush'd on earth! </line>
+					<line> But there are brighter worlds!---Farewell, farewell! </line>
+					<stage>He gives her to the care of Anselmo
+						</stage></sp><sp><speaker>Con.</speaker><stage>slowly
+						recovering.</stage><line>There was a voice which call'd me.---Am I not </line>
+					<line>A spirit freed from earth?---Have I not pass'd </line>
+					<line>The bitterness of death?</line>
+				</sp><sp><speaker>Ans.</speaker>
+					<line> Oh, haste away! </line>
+				</sp><sp><speaker>Con.</speaker>
+					<line>Yes! Raimond calls me.---He too is released </line>
+					<line>From his cold bondage.---We are free at last, </line>
+					<line>And all is well---Away!</line>
+					<stage>She is led out by Anselmo .</stage>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> The pang is o'er, </line>
+					<line>And I have but to die.</line>
+				</sp><sp><speaker>Mon.</speaker>
+					<line> Now, Procida, </line>
+					<line>Comes thy great task. Wake! summon to thine aid </line>
+					<line>All thy deep soul's commanding energies; </line>
+					<line>For thou---a chief among us---must pronounce </line>
+					<line>The sentence of thy son. It rests with thee.</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line>Ha! ha!---Men's hearts should be of softer mould </line>
+					<line>Than in the elder time.---Fathers could doom </line>
+					<line>Their children <em>then</em> with an unfaltering voice,</line>
+					<line>And we must tremble thus!---Is it not said, </line>
+					<line>That nature grows degenerate, earth being now </line>
+					<line>So full of days?</line>
+				</sp><sp><speaker>Mon.</speaker>
+					<line> Rouse up thy mighty heart. </line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line>Ay, thou say'st right. There yet are souls which tower </line>
+					<line>As landmarks to mankind.---Well, what's the task? </line>
+					<line>---There is a man to be condemn'd, you say? </line>
+					<line> Is he then guilty? </line>
+				</sp><sp><speaker>All.</speaker>
+					<line> Thus we deem of him </line>
+					<line>With one accord.</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> And hath he nought to plead? </line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line>Nought but a soul unstain'd.</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> Why, that is little. </line>
+					<line>Stains on the soul are but as conscience deems them, </line>
+					<line>And conscience---may be sear'd.---But, for this sentence! </line>
+					<line>---Was't not the penalty imposed on man, </line>
+					<line>E'en from creation's dawn, that he must die? </line>
+					<line>---It was: thus making guilt a sacrifice </line>
+					<line>Unto eternal justice; and we but </line>
+					<line>Obey heaven's mandate, when we cast dark souls </line>
+					<line>To th'elements from amongst us.---Be it so! </line>
+					<line>Such be <em>his</em> doom!---I have said. Ay, now my heart</line>
+					<line>Is girt with adamant, whose cold weight doth press </line>
+					<line>Its gaspings down.---Off! let me breathe in freedom! </line>
+					<line>---Mountains are on my breast!</line>
+					<stage>He sinks back.</stage>
+				</sp><sp><speaker>Mon.</speaker>
+					<line> Guards, bear the prisoner </line>
+					<line>Back to his dungeon.</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> Father! oh, look up; </line>
+					<line>Thou art my father still!</line>
+				</sp><sp><speaker>Guido</speaker><stage>leaving the Tribunal, throws himself on the
+						neck of Raimond .</stage><line> Oh! Raimond, Raimond! </line>
+					<line>If it should be that I have wrong'd thee, say </line>
+					<line>Thou dost forgive me.</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> Friend of my young days, </line>
+					<line>So may all-pitying heaven!</line>
+					<stage>Raimond is led out.</stage>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> Whose voice was that? </line>
+					<line>Where is he?---gone?---now I may breathe once more </line>
+					<line>In the free air of heaven. Let us away.</line></sp>
+				<stage>Exeunt omnes.</stage>
+			</div>
+		</div>
+		<div type="act"><head>ACT THE FIFTH.</head>
+			<div type="scene"><head>Scene I. </head>
+				<stage>---A Prison, dimly lighted.---A Street of Palermo. Many Citizens
+					assembled.</stage>
+				<sp><speaker>1 Citizen.</speaker>
+					<line>The morning breaks; his time is almost come: </line>
+					<line>Will he be led this way?</line>
+				</sp><sp><speaker>2 Cit.</speaker>
+					<line> Ay, so 'tis said, </line>
+					<line>To die before that gate thro' which he purposed </line>
+					<line>The foe should enter in.</line>
+				</sp><sp><speaker>3 Cit.</speaker>
+					<line> 'Twas a vile plot! </line>
+					<line>And yet I would my hands were pure as his </line>
+					<line>From the deep stain of blood. Didst hear the sounds </line>
+					<line>I'th'air last night?</line>
+				</sp><sp><speaker>2 Cit.</speaker>
+					<line> Since the great work of slaughter, </line>
+					<line>Who hath not heard them duly, at those hours </line>
+					<line>Which should be silent?</line>
+				</sp><sp><speaker>3 Cit.</speaker>
+					<line> Oh! the fearful mingling, </line>
+					<line>The terrible mimicry of human voices, </line>
+					<line>In every sound which to the heart doth speak </line>
+					<line>Of woe and death.</line>
+				</sp><sp><speaker>2 Cit.</speaker>
+					<line> Ay, there was woman's shrill </line>
+					<line>And piercing cry; and the low feeble wail </line>
+					<line>Of dying infants; and the half-suppress'd </line>
+					<line>Deep groan of man in his last agonies! </line>
+					<line>And now and then there swell'd upon the breeze </line>
+					<line>Strange, savage bursts of laughter, wilder far </line>
+					<line>Than all the rest.</line>
+				</sp><sp><speaker>1 Cit.</speaker>
+					<line> Of our own fate, perchance </line>
+					<line> These awful midnight wailings may be deem'd </line>
+					<line>An ominous prophecy.---Should France regain </line>
+					<line>Her power amongst us, doubt not, we shall have </line>
+					<line>Stern reckoners to account with.---Hark!</line>
+					<stage>The sound of trumpets is heard at distance.</stage>
+				</sp><sp><speaker>2 Cit.</speaker>
+					<line> 'Twas but </line>
+					<line>A rushing of the breeze.</line>
+				</sp><sp><speaker>3 Cit.</speaker>
+					<line> E'en now, 'tis said, </line>
+					<line>The hostile bands approach.</line>
+					<stage>The sound is heard gradually drawing nearer.</stage>
+				</sp><sp><speaker>2 Cit.</speaker>
+					<line> Again!---that sound </line>
+					<line>Was no illusion. Nearer yet it swells--- </line>
+					<line>They come, they come!</line>
+					<stage> Procida enters. </stage>
+				</sp><sp><speaker>Procida.</speaker>
+					<line> The foe is at your gates; </line>
+					<line>But hearts and hands prepared shall meet his onset: </line>
+					<line>Why are ye loitering here?</line>
+				</sp><sp><speaker>Cits.</speaker>
+					<line> My lord, we came--- </line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line>Think ye I know not wherefore?---'twas to see </line>
+					<line>A fellow-being die!---Ay, 'tis a sight </line>
+					<line>Man loves to look on, and the tenderest hearts </line>
+					<line>Recoil, and yet withdraw not, from the scene. </line>
+					<line>For <em>this</em> ye came---What! is our nature fierce,</line>
+					<line>Or is there that in mortal agony, </line>
+					<line>From which the soul, exulting in its strength, </line>
+					<line>Doth learn immortal lessons?---Hence, and arm! </line>
+					<line>Ere the night dews descend, ye will have seen </line>
+					<line>Enough of death; for this must be a day </line>
+					<line> Of battle!---'Tis the hour which troubled souls </line>
+					<line>Delight in, for its rushing storms are wings </line>
+					<line>Which bear them up!---Arm, arm! 'tis for your homes, </line>
+					<line>And all that lends them loveliness---Away!</line></sp>
+				<stage>Exeunt.</stage>
+			</div><div type="scene"><head>Scene III. </head>
+				<stage>---Prison of Raimond. Raimond. Anselmo.</stage>
+				<sp><speaker>Raimond.</speaker>
+					<line>And Constance then is safe!---Heaven bless thee, father; </line>
+					<line>Good angels bear such comfort.</line>
+				</sp><sp><speaker>Anselmo.</speaker>
+					<line> I have found </line>
+					<line>A safe asylum for thine honour'd love, </line>
+					<line>Where she may dwell until serener days, </line>
+					<line>With Saint Rosolia's gentlest daughters; those </line>
+					<line>Whose hallow'd office is to tend the bed </line>
+					<line>Of pain and death, and soothe the parting soul </line>
+					<line>With their soft hymns: and therefore are they call'd </line>
+					<line>"Sisters of Mercy."</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> Oh! that name, my Constance, </line>
+					<line>Befits thee well! E'en in our happiest days, </line>
+					<line>There was a depth of tender pensiveness, </line>
+					<line>Far in thine eyes' dark azure, speaking ever </line>
+					<line>Of pity and mild grief.---Is she at peace?</line>
+				</sp><sp><speaker>Ans.</speaker>
+					<line>Alas! what should I say,</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> Why did I ask? </line>
+					<line>Knowing the deep and full devotedness </line>
+					<line>Of her young heart's affections?---Oh! the thought </line>
+					<line>Of my untimely fate will haunt her dreams, </line>
+					<line>Which should have been so tranquil!---And her soul, </line>
+					<line>Whose strength was but the lofty gift of love, </line>
+					<line>Even unto death will sicken.</line>
+				</sp><sp><speaker>Ans.</speaker>
+					<line> All that faith </line>
+					<line> Can yield of comfort, shall assuage her woes; </line>
+					<line>And still, whate'er betide, the light of heaven </line>
+					<line>Rests on her gentle heart. But thou, my son! </line>
+					<line>Is thy young spirit master'd, and prepared </line>
+					<line>For nature's fearful and mysterious change?</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line>Ay, father! of my brief remaining task </line>
+					<line>The least part is to die?---And yet the cup </line>
+					<line>Of life still mantled brightly to my lips, </line>
+					<line>Crown'd with that sparkling bubble, whose proud name </line>
+					<line>Is---glory!---Oh! my soul, from boyhood's morn, </line>
+					<line>Hath nursed such mighty dreams!---It was my hope </line>
+					<line>To leave a name, whose echo, from the abyss </line>
+					<line>Of time should rise, and float upon the winds, </line>
+					<line>Into the far hereafter: there to be </line>
+					<line>A trumpet-sound, a voice from the deep tomb, </line>
+					<line>Murmuring---awake!---Arise!---But this is past! </line>
+					<line>Erewhile, and it had seem'd enough of shame, </line>
+					<line>To sleep <em>forgotten</em> in the dust---but now</line>
+					<line>---Oh God!---the undying record of my grave </line>
+					<line>Will be,---Here sleeps a traitor!---One, whose crime </line>
+					<line>Was---to deem brave men might find nobler weapons </line>
+					<line>Than the cold murderer's dagger!</line>
+				</sp><sp><speaker>Ans.</speaker>
+					<line> Oh, my son, </line>
+					<line>Subdue these troubled thoughts! Thou wouldst not change </line>
+					<line>Thy lot for theirs, o'er whose dark dreams will hang </line>
+					<line> The avenging shadows, which the blood-stain'd soul </line>
+					<line>Doth conjure from the death!</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> Thou'rt right. I would not. </line>
+					<line>Yet 'tis a weary task to school the heart, </line>
+					<line>Ere years or griefs have tamed its fiery spirit </line>
+					<line>Into that still and passive fortitude, </line>
+					<line>Which is but learn'd from suffering.---Would the hour </line>
+					<line>To hush these passionate throbbings were at hand!</line>
+				</sp><sp><speaker>Ans.</speaker>
+					<line>It will not be to-day. Hast thou not heard--- </line>
+					<line>---But no---the rush, the trampling, and the stir </line>
+					<line>Of this great city, arming in her haste, </line>
+					<line>Pierce not these dungeon-depths.---The foe hath reach'd </line>
+					<line>Our gates, and all Palermo's youth, and all </line>
+					<line>Her warrior-men, are marshall'd, and gone forth </line>
+					<line>In that high hope which makes realities, </line>
+					<line>To the red field. Thy father leads them on.</line>
+				</sp><sp><speaker>Rai.</speaker><stage>starting up.</stage><line>They are gone
+						forth! my father leads them on! </line>
+					<line>All, all Palermo's youth!---No! <em>one</em> is left,</line>
+					<line>Shut out from glory's race!---They are gone forth! </line>
+					<line>---Ay! now the soul of battle is abroad, </line>
+					<line>It burns upon the air!---The joyous winds </line>
+					<line>Are tossing warrior-plumes, the proud white foam </line>
+					<line>Of battle's roaring billows!---On my sight </line>
+					<line>The vision bursts---it maddens! 'tis the flash, </line>
+					<line>The lightning-shock of lances, and the cloud </line>
+					<line> Of rushing arrows, and the broad full blaze </line>
+					<line>Of helmets in the sun!---The very steed </line>
+					<line>With his majestic rider glorying shares </line>
+					<line>The hour's stern joy, and waves his floating mane </line>
+					<line>As a triumphant banner!---Such things are </line>
+					<line>Even now---and I am here!</line>
+				</sp><sp><speaker>Ans.</speaker>
+					<line> Alas. be calm! </line>
+					<line>To the same grave ye press,---thou that dost pine </line>
+					<line>Beneath a weight of chains, and they that rule </line>
+					<line>The fortunes of the fight.</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line>Ay! <em>Thou</em> canst feel</line>
+					<line>The calm thou wouldst impart, for unto thee </line>
+					<line>All men alike, the warrior and the slave, </line>
+					<line>Seem, as thou say'st, but pilgrims, pressing on </line>
+					<line>To the same bourne.---Yet call it not the same! </line>
+					<em>Their</em> graves, who fall in this day's fight, will be <line>As altars to
+						their country, visited </line>
+					<line>By fathers with their children, bearing wreaths, </line>
+					<line>And chaunting hymns in honour of the dead: </line>
+					<line>Will mine be such?</line>
+					<stage>Vittoria rushes in wildly, as if pursued.</stage>
+				</sp><sp><speaker>Vittoria.</speaker>
+					<line> Anselmo! art thou found? </line>
+					<line>Haste, haste, or all is lost! Perchance thy voice, </line>
+					<line>Whereby they deem heaven speaks, thy lifted cross, </line>
+					<line>And prophet-mien, may stay the fugitives, </line>
+					<line>Or shame them back to die.</line>
+				</sp><sp><speaker>Ans.</speaker>
+					<line> The fugitives! </line>
+					<line>What words are these?---the sons of Sicily </line>
+					<line>Fly not before the foe?</line>
+				</sp><sp><speaker>Vit.</speaker>
+					<line> That I should say </line>
+					<line>It is too true!</line>
+				</sp><sp><speaker>Ans.</speaker>
+					<line> And thou---thou bleedest, lady! </line>
+				</sp><sp><speaker>Vit.</speaker>
+					<line>Peace! heed not me, when Sicily is lost! </line>
+					<line>I stood upon the walls, and watched our bands, </line>
+					<line>As, with their ancient, royal banner spread, </line>
+					<line>Onward they march'd. The combat was begun. </line>
+					<line>The fiery impulse given, and valiant men </line>
+					<line>Had seal'd their freedom with their blood---when lo! </line>
+					<line>That false Alberti led his recreant vassals </line>
+					<line>To join th'invader's host.</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> His country's curse </line>
+					<line>Rest on the slave for ever!</line>
+				</sp><sp><speaker>Vit.</speaker>
+					<line> Then distrust </line>
+					<line>E'en of their nobler leaders, and dismay, </line>
+					<line>That swift contagion, on Palermo's bands </line>
+					<line>Came, like a deadly blight. They fled!---Oh shame! </line>
+					<line>E'en now they fly!---Ay, thro' the city gates </line>
+					<line>They rush, as if all Etna's burning streams </line>
+					<line>Pursued their winged steps!</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> Thou hast not named </line>
+					<line> Their chief---Di Procida---</line>
+					<em>He</em> doth not fly </sp><sp><speaker>Vit.</speaker>
+					<line> No! like a kingly lion in the toils, </line>
+					<line>Daring the hunters yet, he proudly strives </line>
+					<line>But all in vain! The few that breast the storm, </line>
+					<line>With Guido and Montalba, by his side, </line>
+					<line>Fight but for graves upon the battle-field.</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line>And I am <em>here</em> !---Shall there be power, O God!</line>
+					<line>In the roused energies of fierce despair, </line>
+					<line>To burst my heart---and not to rend my chains? </line>
+					<line>Oh, for one moment of the thunderbolt </line>
+					<line>To set the strong man free!</line>
+				</sp><sp><speaker>Vit.</speaker><stage>after gazing upon him
+						earnestly.</stage><line>Why, 'twere a deed </line>
+					<line>Worthy the fame and blessing of all time, </line>
+					<line>To loose thy bonds, thou son of Procida! </line>
+					<line>Thou art no traitor:---from thy kindled brow </line>
+					<line>Looks out thy lofty soul!---Arise! go forth! </line>
+					<line>And rouse the noble heart of Sicily </line>
+					<line>Unto high deeds again. Anselmo, haste; </line>
+					<line>Unbind him! Let my spirit still prevail, </line>
+					<line>Ere I depart---for the strong hand of death </line>
+					<line>Is on me now.---</line>
+					<stage>She sinks back against a pillar.</stage>
+				</sp><sp><speaker>Ans.</speaker>
+					<line> Oh heaven! the life-blood streams </line>
+					<line>Fast from thy heart---thy troubled eyes grow dim. </line>
+					<line>Who hath done this?</line>
+				</sp><sp><speaker>Vit.</speaker>
+					<line> Before the gates I stood, </line>
+					<line>And in the name of him, the loved and lost, </line>
+					<line> With whom I soon shall be, all vainly strove </line>
+					<line>To stay the shameful flight. Then from the foe, </line>
+					<line>Fraught with my summons to his viewless home, </line>
+					<line>Came the fleet shaft which pierced me.</line>
+				</sp><sp><speaker>Ans.</speaker>
+					<line> Yet, oh yet, </line>
+					<line>It may not be too late. Help, help!</line>
+				</sp><sp><speaker>Vit.</speaker>
+					<line> Away! </line>
+					<line>Bright is the hour which brings me liberty! </line>
+					<stage> Attendants enter. </stage>
+					<line>Haste, be those fetters riven!---Unbar the gates, </line>
+					<line>And set the captive free! </line>
+					<stage>The Attendants seem to hesitate.</stage>
+					<line>Know ye not <em>her</em>
+					</line>
+					<line>Who should have worn your country's diadem?</line>
+				</sp><sp><speaker>Att.</speaker>
+					<line>Oh, lady, we obey.</line>
+					<stage>They take off Raimond's chains. He springs up exultingly.</stage>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> Is this no dream? </line>
+					<line>---Mount, eagle! thou art free!---Shall I then die, </line>
+					<line>Not midst the mockery of insulting crowds, </line>
+					<line>But on the field of banners, where the brave </line>
+					<line>Are striving for an immortality? </line>
+					<line>---It is e'en so!---Now for bright arms of proof, </line>
+					<line>A helm, a keen-edged falchion, and e'en yet </line>
+					<line>My father may be saved!</line>
+				</sp><sp><speaker>Vit.</speaker>
+					<line> Away, be strong! </line>
+					<line>And let thy battle-word, to rule the storm, </line>
+					<line>Be--- <em>Conradin</em> !</line>
+					<stage>He rushes out</stage>
+					<line> Oh! for one hour of life </line>
+					<line> To hear that name blent with th'exulting shout </line>
+					<line>Of victory!---'twill not be!---A mightier power </line>
+					<line>Doth summon me away.</line>
+				</sp><sp><speaker>Ans.</speaker>
+					<line> To purer worlds </line>
+					<line>Raise thy last thoughts in hope.</line>
+				</sp><sp><speaker>Vit.</speaker>
+					<line>Yes! <em>he</em> is there,</line>
+					<line>All glorious in his beauty!---Conradin! </line>
+					<line>Death parted us---and death shall re-unite! </line>
+					<line>---He will not stay---it is all darkness now; </line>
+					<line>Night gathers o'er my spirit.</line>
+					<stage>She dies.</stage>
+				</sp><sp><speaker>Ans.</speaker>
+					<line> She is gone </line>
+					<line>It is an awful hour which stills the heart </line>
+					<line>That beat so proudly once.---Have mercy, heaven!</line></sp>
+				<stage>He kneels beside her.</stage>
+				<stage>The scene closes</stage>
+			</div><div type="scene"><head>Scene IV.</head>
+				<stage>---Before the Gates of Palermo. Sicilians flying tumultuously towards the
+					Gates.</stage>
+				<sp><speaker>Voices.</speaker><stage>without.</stage><line>Montjoy! Montjoy! St.
+						Denis for Anjou! </line>
+					<line>Provençals, on!</line>
+				</sp><sp><speaker>Sic.</speaker>
+					<line> Fly, fly, or all is lost! </line></sp>
+				<stage>Raimond appears in the gateway, armed, and carrying a banner.</stage>
+				<sp><speaker>Raimond.</speaker>
+					<line>Back, back, I say! ye men of Sicily! </line>
+					<line>All is not lost! Oh shame!---A few brave hearts </line>
+					<line>In such a cause, ere now, have set their breasts </line>
+					<line>Against the rush of thousands, and sustain'd, </line>
+					<line>And made the shock recoil.---Ay, man, free man, </line>
+					<line>Still to be called so, hath achieved such deeds </line>
+					<line>As heaven and earth have marvell'd at; and souls, </line>
+					<line>Whose spark yet slumbers with the days to come, </line>
+					<line>Shall burn to hear: transmitting brightly thus </line>
+					<line>Freedom from race to race!---Back! or prepare, </line>
+					<line>Amidst your hearths, your bowers, your very shrines, </line>
+					<line>To bleed and die in vain!---Turn, follow me! </line>
+					<line>Conradin, Conradin!---for Sicily </line>
+					<line>His spirit fights!---Remember Conradin! </line>
+					<stage>They begin to rally around him.</stage>
+					<line>Ay, this is well!---Now follow me, and charge!</line></sp>
+				<stage>The Provençals rush in, but are repulsed by the Sicilians.</stage>
+				<stage>Exeunt.</stage>
+			</div><div type="scene"><head>Scene V. </head>
+				<stage>---Part of the Field of Battle. Montalba enters wounded, and supported by
+					Raimond, whose face is concealed by his helmet.</stage>
+				<sp><speaker>Raimond.</speaker>
+					<line>Here rest thee, warrior.</line>
+				</sp><sp><speaker>Montalba.</speaker>
+					<line> Rest, ay, death is rest, </line>
+					<line> And such will soon be mine---But, thanks to</line>
+					<em>thee</em> , <line>I shall not die a captive. Brave Sicilian! </line>
+					<line>These lips are all unused to soothing words, </line>
+					<line>Or I should bless the valour which hath won </line>
+					<line>For my last hour, the proud free solitude </line>
+					<line>Wherewith my soul would gird itself.---Thy name?</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line>'Twill be no music to thine ear, Montalba. </line>
+					<line>Gaze---read it thus!</line>
+					<stage>He lifts the visor of his helmet.</stage>
+				</sp><sp><speaker>Mon.</speaker>
+					<line> Raimond di Procida! </line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line>Thou hast pursued me with a bitter hate, </line>
+					<line>But fare thee well! Heaven's peace be with thy soul! </line>
+					<line>I must away---One glorious effort more </line>
+					<line>And this proud field is won! </line>
+					<stage>Exit Raimond .</stage>
+				</sp><sp><speaker>Mon.</speaker>
+					<line> Am I thus humbled? </line>
+					<line>How my heart sinks within me! But 'tis death </line>
+					<line>(And he can tame the mightiest) hath subdued </line>
+					<line>My towering nature thus!---Yet is he welcome! </line>
+					<line>That youth---'twas in his pride he rescued me! </line>
+					<line>I was his deadliest foe, and thus he proved </line>
+					<line>His fearless scorn. Ha! ha! but he shall fail </line>
+					<line>To melt me into womanish feebleness. </line>
+					<em>There</em> I still baffle him---the grave shall seal <line> My lips for
+						ever---mortal shall not hear </line>
+					<line>Montalba say---"<em>forgive</em>!"</line></sp>
+				<stage>He dies.</stage>
+				<stage>The Scene closes</stage>
+			</div><div type="scene"><head>Scene VI. </head>
+				<stage>Another part of the Field. Procida. Guido. And other Sicilians.</stage>
+				<sp><speaker>Procida.</speaker>
+					<line>The day is ours; but he, the brave unknown, </line>
+					<line>Who turn'd the tide of battle; he whose path </line>
+					<line>Was victory---who hath seen him?</line>
+					<stage> Alberti is brought in wounded, and fettered. </stage>
+				</sp><sp><speaker>Alberti.</speaker>
+					<line> Procida! </line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line>Be silent, traitor!---Bear him from my sight </line>
+					<line>Unto your deepest dungeons.</line>
+				</sp><sp><speaker>Alb.</speaker>
+					<line> In the grave </line>
+					<line>A nearer home awaits me.---Yet one word </line>
+					<line>Ere my voice fail---thy son---</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> Speak, speak! </line>
+				</sp><sp><speaker>Alb.</speaker>
+					<line> Thy son </line>
+					<line>Knows not a thought of guilt. That trait'rous plot </line>
+					<line>Was mine alone.</line>
+					<stage>He is led away!</stage>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> Attest it, earth and heaven! </line>
+					<line>My son is guiltless!---Hear it, Sicily! </line>
+					<line>The blood of Procida is noble still! </line>
+					<line>---My son!---He lives, he lives!---His voice shall speak </line>
+					<line>Forgiveness to his sire!---His name shall cast </line>
+					<line>Its brightness o'er my soul!</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line> Oh, day of joy! </line>
+					<line>The brother of my heart is worthy still </line>
+					<line>The lofty name he bears.</line>
+					<stage> Anselmo enters. </stage>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> Anselmo, welcome! </line>
+					<line>In a glad hour we meet, for know, my son </line>
+					<line> Is guiltless. </line>
+				</sp><sp><speaker>Ans.</speaker>
+					<line> And victorious! by his arm </line>
+					<line>All hath been rescued.</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> How! th'unknown--- </line>
+				</sp><sp><speaker>Ans.</speaker>
+					<line> Was he! </line>
+					<line>Thy noble Raimond! By Vittoria's hand </line>
+					<line>Freed from his bondage in that awful hour </line>
+					<line>When all was flight and terror.</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> Now my cup </line>
+					<line>Of joy too brightly mantles!---Let me press </line>
+					<line>My warrior to a father's heart---and die; </line>
+					<line>For life hath nought beyond!---Why comes he not? </line>
+					<line>Anselmo, lead me to my valiant boy!</line>
+				</sp><sp><speaker>Ans.</speaker>
+					<line>Temper this proud delight.</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> What means that look </line>
+					<line>He hath not fallen?</line>
+				</sp><sp><speaker>Ans.</speaker>
+					<line> He lives. </line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line> Away, away! </line>
+					<line>Bid the wide city with triumphal pomp </line>
+					<line>Prepare to greet her victor. Let this hour </line>
+					<line>Atone for all his wrongs!---</line></sp>
+				<stage>Exeunt.</stage>
+			</div><div type="scene"><head>Scene VII. </head>
+				<stage>---Garden of a Convent. Raimond is led in wounded, leaning on
+					Attendants.</stage>
+				<sp><speaker>Raimond.</speaker>
+					<line>Bear me to no dull couch, but let me die </line>
+					<line>In the bright face of nature!---Lift my helm, </line>
+					<line>That I may look on heaven.</line>
+				</sp><sp><speaker>1 Att.</speaker><stage>to 2 Att.</stage>
+					<line> Lay him to rest </line>
+					<line>On this green sunny bank, and I will call </line>
+					<line>Some holy sister to his aid; but thou </line>
+					<line>Return unto the field, for high-born men </line>
+					<line>There need the peasant's aid. </line>
+					<stage>Exit 2 Att.</stage>
+					<em> (to Raimond ) </em>
+					<line>H ere gentler hands </line>
+					<line>Shall tend thee, warrior; for in these retreats </line>
+					<em>They</em> dwell, whose vows devote them to the care <line>Of all that
+						suffer. May'st thou live to bless them! </line>
+					<stage>Exit 1 Att.</stage>
+				</sp><sp><speaker>Rai.</speaker>
+					<line>Thus have I wish'd to die!---'Twas a proud strife! </line>
+					<line>My father bless'd th'unknown who rescued him, </line>
+					<line>(Bless'd him, alas! <em>because</em> unknown!) and Guido,</line>
+					<line>Beside me bravely struggling, call'd aloud, </line>
+					<line>"Noble Sicilian, on!" Oh! had they deem'd </line>
+					<line>'Twas I who led that rescue, they had spurn'd </line>
+					<line>Mine aid, tho' 'twas deliverance; and their looks </line>
+					<line>Had fallen, like blights, upon me.---There is one, </line>
+					<line>Whose eye ne'er turn'd on mine, but its blue light </line>
+					<line>Grew softer, trembling thro' the dewy mist </line>
+					<line>Raised by deep tenderness!---Oh might the soul </line>
+					<line>Set in that eye, shine on me ere I perish! </line>
+					<line> ---Is't not her voice? </line>
+					<stage> Constance enters, speaking to a Nun , who turns into another path.
+					</stage>
+				</sp><sp><speaker>Constance.</speaker>
+					<line>Oh! happy they, kind sister, </line>
+					<line>Whom thus ye tend; for it is theirs to fall </line>
+					<line>With brave men side by side, when the roused heart </line>
+					<line>Beats proudly to the last!---There are high souls </line>
+					<line>Whose hope was such a death, and 'tis denied! </line>
+					<em> (She approaches Raimond .) </em>
+					<line>Young warrior, is there aught--- <em>thou</em> here, my Raimond!</line>
+					<em>Thou</em> here---and thus!---Oh! is this joy or woe?
+						</sp><sp><speaker>Rai.</speaker>
+					<line>Joy, be it joy, my own, my blessed love, </line>
+					<line>E'en on the grave's dim verge!---yes! it <em>is</em> joy!</line>
+					<line>My Constance! victors have been crown'd, ere now, </line>
+					<line>With the green shining laurel, when their brows </line>
+					<line>Wore death's own impress---and it may be thus </line>
+					<line>E'en yet, with me!---They freed me, when the foe </line>
+					<line>Had half prevail'd, and I have proudly earn'd, </line>
+					<line>With my heart's dearest blood, the meed to die </line>
+					<line>Within thine arms.</line>
+				</sp><sp><speaker>Con.</speaker>
+					<line>Oh! speak not thus---to die! </line>
+					<line>These wounds may yet be closed. </line>
+					<stage>She attempts to bind his wounds.</stage>
+					<line> Look on me, love! </line>
+					<line> Why, there is</line>
+					<em>more</em> than life in thy glad mien, <line>'Tis full of hope! and from thy
+						kindled eye </line>
+					<line>Breaks e'en unwonted light, whose ardent ray </line>
+					<line>Seems born to be immortal!</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> 'Tis e'en so! </line>
+					<line> The parting soul doth gather all her fires </line>
+					<line>Around her; all her glorious hopes, and dreams, </line>
+					<line>And burning aspirations, to illume </line>
+					<line>The shadowy dimness of th'untrodden path </line>
+					<line>Which lies before her; and, encircled thus, </line>
+					<line>Awhile she sits in dying eyes, and thence </line>
+					<line>Sends forth her bright farewell. Thy gentle cares </line>
+					<line>Are vain, and yet I bless them.</line>
+				</sp><sp><speaker>Con.</speaker>
+					<line> Say, not vain; </line>
+					<line>The dying look not thus. We shall not part!</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line>I have seen death ere now, and known him wear </line>
+					<line>Full many a changeful aspect.</line>
+				</sp><sp><speaker>Con.</speaker>
+					<line> Oh! but none </line>
+					<line>Radiant as thine, my warrior!---Thou wilt live! </line>
+					<line>Look round thee!---all is sunshine---is not this </line>
+					<line>A smiling world?</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> Ay, gentlest love, a world </line>
+					<line>Of joyous beauty and magnificence, </line>
+					<line>Almost too fair to leave!---Yet must we tame </line>
+					<line>Our ardent hearts to this!---Oh, weep thou not! </line>
+					<line>There is no home for liberty, or love, </line>
+					<line>Beneath these festal skies!---Be not deceived; </line>
+					<line>My way lies far beyond!---I shall be soon </line>
+					<line>That viewless thing which, with its mortal weeds </line>
+					<line>Casting off meaner passions, yet, we trust, </line>
+					<line> Forgets not how to love! </line>
+				</sp><sp><speaker>Con.</speaker>
+					<line> And must this be? </line>
+					<line>Heaven, thou art merciful!---Oh! bid our souls </line>
+					<line>Depart together!</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> Constance! there is strength </line>
+					<line>Within thy gentle heart, which hath been proved </line>
+					<line>Nobly, for me:---Arouse it once again! </line>
+					<line>Thy grief unmans me---and I fain would meet </line>
+					<line>That which approaches, as a brave man yields </line>
+					<line>With proud submission to a mightier foe. </line>
+					<line>---It is upon me now!</line>
+				</sp><sp><speaker>Con.</speaker>
+					<line> I will be calm. </line>
+					<line>Let thy head rest upon my bosom, Raimond, </line>
+					<line>And I will so suppress its quick deep sobs, </line>
+					<line>They shall but rock thee to thy rest. There is </line>
+					<line>A world, (ay, let us seek it!) where no blight </line>
+					<line>Falls on the beautiful rose of youth, and there </line>
+					<line>I shall be with thee soon!</line>
+					<stage> Procida and Anselmo enter. Procida on seeing Raimond starts back.
+					</stage>
+				</sp><sp><speaker>Anselmo.</speaker>
+					<line> Lift up thy head, </line>
+					<line>Brave youth, exultingly! for lo! thine hour </line>
+					<line>Of glory comes!---Oh! doth it come too late? </line>
+					<line>E'en now the false Alberti hath confess'd </line>
+					<line>That guilty plot, for which thy life was doom'd </line>
+					<line>To be th'atonement.</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line> 'Tis enough! Rejoice, </line>
+					<line> Rejoice, my Constance! for I leave a name </line>
+					<line>O 'er which thou may'st weep proudly! </line>
+					<stage>He sinks back</stage>
+					<line> To thy breast </line>
+					<line>Fold me yet closer, for an icy dart </line>
+					<line>Hath touch'd my veins.</line>
+				</sp><sp><speaker>Con.</speaker>
+					<line> And must thou leave me, Raimond? </line>
+					<line>Alas! thine eye grows dim---its wandering glance </line>
+					<line>Is full of dreams.</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line>Haste, haste, and tell my father </line>
+					<line>I was no traitor!</line>
+				</sp><sp><speaker>Procida.</speaker><stage>rushing forward.</stage><line>To that
+						father's heart </line>
+					<line>Return, forgiving all thy wrongs, return! </line>
+					<line>Speak to me, Raimond!---Thou wert ever kind, </line>
+					<line>And brave, and gentle! Say that all the past </line>
+					<line>Shall be forgiven! That word from none but thee </line>
+					<line>My lips e'er ask'd.---Speak to me once, my boy, </line>
+					<line>My pride, my hope!---And is it with thee thus? </line>
+					<line>Look on me yet!---Oh! must this woe be borne?</line>
+				</sp><sp><speaker>Rai.</speaker>
+					<line>Off with this weight of chains! it is not meet </line>
+					<line>For a crown'd conqueror!---Hark, the trumpet's voice! </line>
+					<stage>A sound of triumphant music is heard, gradually approaching.</stage>
+					<line>Is't not a thrilling call?---What drowsy spell </line>
+					<line>Benumbs me thus?---Hence! I am free again! </line>
+					<line>Now swell your festal strains, the field is won! </line>
+					<line>Sing me to glorious dreams.</line>
+					<stage>He dies.</stage>
+				</sp><sp><speaker>Ans.</speaker>
+					<line> The strife is past. </line>
+					<line> There fled a noble spirit!</line>
+				</sp><sp><speaker>Con.</speaker>
+					<line> Hush! he sleeps--- </line>
+					<line>Disturb him not!</line>
+				</sp><sp><speaker>Ans.</speaker>
+					<line> Alas! this is no sleep </line>
+					<line>From which the eye doth radiantly unclose: </line>
+					<line>Bow down thy soul, for earthly hope is o'er!</line>
+					<stage>The music continues approaching. Guido enters, with Citizens and Soldiers
+						.</stage>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>The shrines are deck'd, the festive torches blaze--- </line>
+					<line>Where is our brave deliverer?---We are come </line>
+					<line>To crown Palermo's victor!</line>
+				</sp><sp><speaker>Ans.</speaker>
+					<line> Ye come late. </line>
+					<line>The voice of human praise doth send no echo </line>
+					<line>Into the world of spirits.</line>
+					<stage>The music ceases.</stage>
+				</sp><sp><speaker>Pro.</speaker><stage>after a pause.</stage><line>Is this dust </line>
+					<line>I look on---Raimond!---'tis but sleep---a smile </line>
+					<line>On his pale cheek sits proudly. Raimond, wake! </line>
+					<line>Oh, God! and this was his triumphant day! </line>
+					<line>My son, my injured son!</line>
+				</sp><sp><speaker>Con.</speaker><stage>starting.</stage><line>Art <em>thou</em> his
+						father?</line>
+					<line>I know thee now.---Hence! with thy dark stern eye, </line>
+					<line>And thy cold heart!---Thou canst not wake him now! </line>
+					<line>Away! he will not answer but to me, </line>
+					<line>For none like me hath loved him! He is mine! </line>
+					<line>Ye shall not rend him from me.</line>
+				</sp><sp><speaker>Pro.</speaker>
+					<line>Oh! he <em>knew</em>
+					</line>
+					<line>Thy love, poor maid!---Shrink from me now no more! </line>
+					<line>He knew <em>thy</em> heart---but who shall tell him now</line>
+					<line>The depth, th'intenseness, and the agony, </line>
+					<line>Of my suppress'd affection?---I have learn'd </line>
+					<line>All his high worth in time---to deck his grave! </line>
+					<line>Is there not power in the strong spirit's woe </line>
+					<line>To force an answer from the viewless world </line>
+					<line>Of the departed?---Raimond!---Speak! forgive! </line>
+					<line>Raimond! my victor, my deliverer, hear! </line>
+					<line>Why, what a world is this!---Truth ever bursts </line>
+					<line>On the dark soul too late: And glory crowns </line>
+					<line>Th'unconscious dead! And an hour comes to break </line>
+					<line>The mightiest hearts!---My son! my son! is this </line>
+					<line>A day of triumph?---Ay, for thee alone!</line></sp>
+				<stage>He throws himself upon the body of Raimond</stage>
+				<stage>Curtain falls.</stage></div>
+		</div>
+	</play>
+</xml>

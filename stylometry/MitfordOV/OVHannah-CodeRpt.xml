@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Report of Elements, Attributes, and Context Code</title>
+            <sponsor>
+               <orgName>Mary Russell Mitford Society: Digital Mitford Project</orgName>
+            </sponsor>
+            <sponsor>University of Pittsburgh at Greensburg</sponsor>
+            <principal>Elisa Beshero-Bondar</principal>
+            <respStmt>
+               <resp>XSLT to prepare this report written by</resp>
+               <persName ref="#ebb">Elisa Beshero-Bondar</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Digital Mitford: The Mary Russell Mitford Archive</authority>
+            <pubPlace>Greensburg, PA, USA</pubPlace>
+            <date>2014</date>
+            <availability>
+               <licence>Distributed under a Creative Commons Attribution-ShareAlike 3.0
+                                Unported License</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>TEI XML files coded in the Digital Mitford Archive.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="title">
+            <head>Title of this file: Our Village: Sketches of Rural Character and Scenery: Preface Digital Mitford: The Mary Russell Mitford Archive Our Village: Sketches of Rural Character and Scenery</head>
+         </div>
+         <div type="comments">
+            <head>List of all Comments Recorded in This File</head>
+            <lg>
+               <l>&lt;?xml-model href="MRMValidate.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?&gt;</l>
+               <l> MAH: June 15, so footnotes. Not sure what we've decided to do with this, so I'm just leaving them in the text. </l>
+               <l>Notice, this is simpler than the sourceDesc we used in our Letters file.</l>
+               <l>scw: Hobbema and Ruysdael need to be put in SI</l>
+               <l>scw: FOR EDITOR'S NOTE: "A new version or remodelling of a literary or artistic work." OED.</l>
+               <l>scw: I haven't yet been able to identify this quote</l>
+               <l>scw: FOR EDITOR'S NOTE: MRM is referring to the 1753 Act for the Better Preventing of Clandestine Marriages (also known as the Hardwicke Marriages Act), which sought to prevent clandestine marriages by requiring that banns be posted and that the ceremony take place in a church and according to the Book of Common Prayer. The law was abolished in 1823. Ref in part: Boulton, Jeremy. "Marriage Act." Oxford Companion to British History. Ed. John Cannon. Oxford: Oxford UP, 2009. Oxford Reference. Online. University of Montevallo. </l>
+               <l>scw: Is it the same B. as mentioned in first sketch with the stagecoach from B. to S.?</l>
+               <l>tagged as narrator's father, or should it be something else?</l>
+               <l>scw: FOR NOTE: MRM is referring to the story of Henry Cecil, the possibly not-quite divorced heir to the Earl of Exeter who, in 1791, disguised his identity, married Sarah Hoggins (28 June, 1773-26 December, 1797) a Shropshire farmer's daughter from Bolas Magna, lived with her for several years until the death of his uncle the Earl, and only revealed the true state of affairs upon his uncle's death in 1793. Upon assuming his title, Cecil took Sarah to live with him at his seat in Burleigh. She bore three children, and became known as the "Cottage Countess" or "Peasant Countess." She died in 1797. The story of this courtship is told in some detail a weird book published after OV: Thornton Hall, Love Romances of the Aristocracy. London: T. Werner Laurie, n.d. (accessed Project Gutenberg). Other refs: Thepeerage.com. MRM's likely source, if timing checks out, is Hazlitt's Table Talk, New Monthly Magazine, No. IV, Vol. XVII, (1822) "Burleigh House." In it, Hazlitt intimates that Sarah "never recovered" from the shock of the truth. MRM may be referring to a particular source, as the ones I've looked at don't seem to contain anything about Sarah thinking she'd married a steward. Need to check Thomas Moore's poem. Tennyson's poem, "The Lord of Burleigh," wasn't published till 1842. See Millais's illustration of the poem at Victorianweb, which turn Sarah into a romantic heroine. Nothing in ODNB. I have other notes cobbled from other places if necessary. Interesting story. See Julie Shaffer, et. al. A Noble Affair (2013).</l>
+               <l> scw: Need to incorporate more in personography from editor's notes.</l>
+               <l>scw: the town of B is mentioned several times here and elsewhere. Unidentified as yet.</l>
+            </lg>
+         </div>
+         <div type="unclear">
+            <head>List Everything Tagged with the "Unclear" Element</head>
+            <lg/>
+         </div>
+         <div type="element_list">
+            <head>List of all elements in play in the body of this file, and sort by count from most to least used.</head>
+            <lg>
+               <l>persName</l>
+               <l> Count of this element: 58</l>
+               <l>Attributes: Names and Values</l>
+               <l>ref: Attribute Values:
+       
+            
+             #DameWilson, #Hobbema, #Ruydsdael, #JohnWilson, #RobertEllis, #SusanWilson, #HannahWilson, #Clerk, #Cupid, #WilliamSmith, #MrSmiththeHatter, #OVNarratorsFather, HannahWilson, #Lucy</l>
+               <l>subtype: Attribute Values:
+       
+            
+             int, ext</l>
+               <l>type: Attribute Values:
+       
+            
+             fict, hist, myth</l>
+            </lg>
+            <lg>
+               <l>rs</l>
+               <l> Count of this element: 43</l>
+               <l>Attributes: Names and Values</l>
+               <l>nymRef: Attribute Values:
+       
+            
+             plant, floral</l>
+               <l>ref: Attribute Values:
+       
+            
+             #JohnWilson, DameWilson, #DameWilson, #HannahWilson, #WilliamSmith, #SusanWilson, #MrSmiththeHatter, HannahWilson, #Hoggins_Sarah, #Cecil_Henry</l>
+               <l>subtype: Attribute Values:
+       
+            
+             fict, int, hist</l>
+               <l>type: Attribute Values:
+       
+            
+             plant, person, fict</l>
+            </lg>
+            <lg>
+               <l>placeName</l>
+               <l> Count of this element: 26</l>
+               <l>Attributes: Names and Values</l>
+               <l>ref: Attribute Values:
+       
+            
+             #ThreeMileCross, #London, #Burleigh</l>
+               <l>type: Attribute Values:
+       
+            
+             arch, land, geog</l>
+            </lg>
+            <lg>
+               <l>said</l>
+               <l> Count of this element: 21</l>
+               <l>Attributes: Names and Values</l>
+               <l>who: Attribute Values:
+       
+            
+             #SusanWilson, #OVNarrator, #HannahWilson, #WilliamSmith, #OVNarratorsFather</l>
+            </lg>
+            <lg>
+               <l>pb</l>
+               <l> Count of this element: 9</l>
+               <l>Attributes: Names and Values</l>
+               <l>n: Attribute Values:
+       
+            
+             17, 18, 19, 20, 21, 22, 23, 24, 25</l>
+            </lg>
+            <lg>
+               <l>orgName</l>
+               <l> Count of this element: 8</l>
+               <l>Attributes: Names and Values</l>
+               <l>ref: Attribute Values:
+       
+            
+             #Shinfield, #WilsonChildren</l>
+               <l>subtype: Attribute Values:
+       
+            
+             parish, WilsonChildren</l>
+               <l>type: Attribute Values:
+       
+            
+             place, person</l>
+            </lg>
+            <lg>
+               <l>p</l>
+               <l> Count of this element: 5</l>
+            </lg>
+            <lg>
+               <l>quote</l>
+               <l> Count of this element: 4</l>
+            </lg>
+            <lg>
+               <l>date</l>
+               <l> Count of this element: 4</l>
+               <l>Attributes: Names and Values</l>
+               <l>dur: Attribute Values:
+       
+            
+             P14D</l>
+               <l>when: Attribute Values:
+       
+            
+             --11</l>
+            </lg>
+            <lg>
+               <l>emph</l>
+               <l> Count of this element: 2</l>
+            </lg>
+            <lg>
+               <l>foreign</l>
+               <l> Count of this element: 2</l>
+            </lg>
+            <lg>
+               <l>soCalled</l>
+               <l> Count of this element: 2</l>
+            </lg>
+            <lg>
+               <l>div</l>
+               <l> Count of this element: 1</l>
+               <l>Attributes: Names and Values</l>
+               <l>type: Attribute Values:
+       
+            
+             sketch</l>
+            </lg>
+            <lg>
+               <l>head</l>
+               <l> Count of this element: 1</l>
+            </lg>
+            <lg>
+               <l>sic</l>
+               <l> Count of this element: 1</l>
+            </lg>
+            <lg>
+               <l>note</l>
+               <l> Count of this element: 1</l>
+               <l>Attributes: Names and Values</l>
+               <l>anchored: Attribute Values:
+       
+            
+             true</l>
+               <l>type: Attribute Values:
+       
+            
+             author</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="hist">
+            <listPerson><!--ebb: Eliminate duplicates in this list, and check each of these against the site index to see what we've already defined, and if so, whether those entries are sufficient. 
+                            Break the listPerson into multiple lists as appropriate to differentiate historical people from fictional characters.
+                            Fill out a new entry here to add new information and indicate if we need to make a correction to an entry. 
+                            Flesh out the entries as best you can, and when you're done, paste this into the back element of your XML file.-->
+               <person>
+                  <persName>bell-ringer, a ballad-singer—a troller of profane catches—a fiddler—a bruiser—a loller on alehouse benches—a teller of good stories—a mimic—a poet!<surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <occupation/>
+                  <note/>
+               </person>
+               <person>
+                  <persName>clerk<surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <occupation/>
+                  <note/>
+               </person>
+               <person>
+                  <persName>Cupid<surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <occupation/>
+                  <note/>
+               </person>
+               <person>
+                  <persName>Dame Wilson<surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <occupation/>
+                  <note/>
+               </person>
+               <person>
+                  <persName>Dame Wilson's<surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <occupation/>
+                  <note/>
+               </person>
+               <person>
+                  <persName>Hannah<surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <occupation/>
+                  <note/>
+               </person>
+               <person>
+                  <persName>Hannah Wilson<surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <occupation/>
+                  <note/>
+               </person>
+               <person>
+                  <persName>Hannah!<surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <occupation/>
+                  <note/>
+               </person>
+               <person>
+                  <persName>Hannah's<surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <occupation/>
+                  <note/>
+               </person>
+               <person>
+                  <persName>Hobbima<surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <occupation/>
+                  <note/>
+               </person>
+               <person>
+                  <persName>infant<surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <occupation/>
+                  <note/>
+               </person>
+               <person>
+                  <persName>John Wilson<surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <occupation/>
+                  <note/>
+               </person>
+               <person>
+                  <persName>John Wilson?<surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <occupation/>
+                  <note/>
+               </person>
+               <person>
+                  <persName>journeyman hatter<surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <occupation/>
+                  <note/>
+               </person>
+               <person>
+                  <persName>lass about nine years old<surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <occupation/>
+                  <note/>
+               </person>
+               <person>
+                  <persName>Lucy<surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <occupation/>
+                  <note/>
+               </person>
+               <person>
+                  <persName>master of the house<surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <occupation/>
+                  <note/>
+               </person>
+               <person>
+                  <persName>Mr. Smith<surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <occupation/>
+                  <note/>
+               </person>
+               <person>
+                  <persName>Robert Ellis<surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <occupation/>
+                  <note/>
+               </person>
+               <person>
+                  <persName>Ruydsdael<surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <occupation/>
+                  <note/>
+               </person>
+               <person>
+                  <persName>Susan<surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <occupation/>
+                  <note/>
+               </person>
+               <person>
+                  <persName>William<surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <occupation/>
+                  <note/>
+               </person>
+               <person>
+                  <persName>William Smith<surname/>
+                     <forename/>
+                  </persName>
+                  <birth>
+                     <placeName/>
+                  </birth>
+                  <death>
+                     <placeName/>
+                  </death>
+                  <occupation/>
+                  <note/>
+               </person>
+            </listPerson>
+         </div>
+         <div type="org">
+            <listOrg>
+               <org>
+                  <orgName>church</orgName>
+                  <note/>
+               </org>
+               <org>
+                  <orgName>country magistrates</orgName>
+                  <note/>
+               </org>
+               <org>
+                  <orgName>cricketers</orgName>
+                  <note/>
+               </org>
+               <org>
+                  <orgName>her children</orgName>
+                  <note/>
+               </org>
+               <org>
+                  <orgName>little girls</orgName>
+                  <note/>
+               </org>
+               <org>
+                  <orgName>market-place</orgName>
+                  <note/>
+               </org>
+               <org>
+                  <orgName>parish</orgName>
+                  <note/>
+               </org>
+               <org>
+                  <orgName>parish;</orgName>
+                  <note/>
+               </org>
+            </listOrg>
+         </div>
+         <div type="place">
+            <listPlace>
+               <place>
+                  <placeName>alehouse</placeName>
+               </place>
+               <place>
+                  <placeName>B.</placeName>
+               </place>
+               <place>
+                  <placeName>Burleigh</placeName>
+               </place>
+               <place>
+                  <placeName>common</placeName>
+               </place>
+               <place>
+                  <placeName>cottage</placeName>
+               </place>
+               <place>
+                  <placeName>green</placeName>
+               </place>
+               <place>
+                  <placeName>lane</placeName>
+               </place>
+               <place>
+                  <placeName>London</placeName>
+               </place>
+               <place>
+                  <placeName>low thatched irregular building</placeName>
+               </place>
+               <place>
+                  <placeName>meadow</placeName>
+               </place>
+               <place>
+                  <placeName>orchard</placeName>
+               </place>
+               <place>
+                  <placeName>pond</placeName>
+               </place>
+               <place>
+                  <placeName>shady lane</placeName>
+               </place>
+               <place>
+                  <placeName>village</placeName>
+               </place>
+               <place>
+                  <placeName>village-green</placeName>
+               </place>
+            </listPlace>
+         </div>
+         <div type="bibl">
+            <listBibl><!--ebb; This collects contents of bibl elements. 
+                   The next listBibl collects contents of title elements.--></listBibl>
+            <listBibl/>
+         </div>
+         <div type="event">
+            <listEvent type="event"/>
+            <listEvent type="letter"/>
+            <listEvent type="letter" subtype="received"/>
+         </div>
+      </back>
+   </text>
+</TEI>

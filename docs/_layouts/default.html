@@ -4,15 +4,18 @@
     <meta charset="UTF-8">
 
 {% seo %}
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">      
     <meta name="theme-color" content="#157878">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-      <link rel="stylesheet" href="https://ebeshero.github.io/DigMitCS/local.css">
+      <link rel="stylesheet" href="{{ site.baseurl }}/local.css">
+        <link rel="stylesheet" href="{{ site.baseurl }}/subpage.css">  
+        
   </head>
   <body>
-    <section class="page-header">
-      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+    <section class="page-header page-header-subpages">
+      <!--<h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>-->
+      <h1 class="project-name"><a href="{{ site.baseurl }}/index.html" class="link-no-style">Digital Mitford Coding School</a></h1>
+      <h2 class="project-tagline">May 2018 agenda and workshop resources</h2>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
@@ -23,6 +26,7 @@
     </section>
 
     <section class="main-content">
+      
       {{ content }}
 
       <footer class="site-footer">

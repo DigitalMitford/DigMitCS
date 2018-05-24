@@ -1,0 +1,3988 @@
+<xml>
+	<head>
+		<title>Mirandola</title>
+		<author>Barry Cornwall</author>
+		<pubInfo>Date first published: <date>1821</date></pubInfo>
+		<perfInfo>Date first performed: <date when="1821-01-09">9 Jan 1821</date>.</perfInfo>
+	</head>
+	<play>
+		<stage>SCENE---At and near Mirandola, in Italy.</stage>
+		<div type="act"><head>ACT I.</head>
+			<div type="scene"><head>SCENE I.</head>
+				<stage>The outer yard of an inn on the road to Mirandola.</stage>
+				<stage>
+					<strong>Beatrice</strong> enters from the Inn. </stage>
+				<sp><speaker>Bea.</speaker>
+					<line>I thought I heard the trampling of horses.Marco!---There are so few
+						travellers who pass this road,that really we must make the most of all who
+						come.Hark! that was certainly a horse's step.---Marco!---There, again:
+						somebody is certainly coming.</line></sp><stage>She listens.</stage>
+				<stage>
+					<strong>Marco</strong> enters. </stage>
+				<sp><speaker>Marco.</speaker>
+					<line>By Saint Peter, this will be a rare day togo to sleep in. There'll be
+						nothing awake to-day butthe sun, and my wife. Why, Beatrice, what's the
+						matter?Are you bent double before your time? Shelooks like Fine-ear, in the
+						Fairy tale, who listens to hearthe grass grow.
+						Beatrice!</line></sp><sp><speaker>Beatrice.</speaker>
+					<line>Hark! don't you hear?</line></sp><sp><speaker>Marco.</speaker>
+					<line>Hear? no: and yet---Ha! I do hear somethingnow. Some travellers, I
+						suppose: yes, they are now almost close to us. They stop. Ah! there they
+						areat the end of the orchard.---Go in, go in and preparebreakfast for them.
+						There never yet was a travellerwho had'nt a good appetite.</line></sp>
+				<stage>
+					<strong>Beatrice</strong> goes in.</stage>
+				<line>A good clever girl that, tho' she talks more than she need at times; but,
+					what!---there's no one perfect. Now if these gallants should be coming to the
+					merry-making at Court, which was held yesterday, in honor of the Duke's marriage
+					that happened some time ago, why they'll be a day too late, that's all.---So,
+					who is this?</line>
+				<stage>
+					<strong>Andrea</strong> enters. </stage>
+				<sp><speaker>Andrea.</speaker>
+					<line> Are you the landlord of this
+						house?</line></sp><sp><speaker>Marco.</speaker>
+					<line>I am.</line></sp><sp><speaker>Andrea.</speaker>
+					<line>The Duke's son, Lord Guido, is here on hisway home from Naples. Get some
+						refreshment ready,and be quick.</line></sp><sp><speaker>Marco.</speaker>
+					<line>The Duke's son?</line></sp><sp><speaker>Andrea.</speaker>
+					<line>Yes.---Why what's the matter? The Duke'sson, I
+						said.</line></sp><sp><speaker>Marco.</speaker>
+					<line>What he who died?</line></sp><sp><speaker>Andrea.</speaker>
+					<line>Died!---Nonsense! how could he be here ifhe died? he was only
+						wounded.</line></sp><sp><speaker>Marco.</speaker>
+					<line>Not dead? that's odd. Is he coming to theCourt
+						feast?</line></sp><sp><speaker>Andrea.</speaker>
+					<line>We've heard of no feast. What is it for?Is any body married, or
+						dead?</line></sp><sp><speaker>Marco.</speaker>
+					<line>Hush! your master's here.---Beatrice!</line>
+				</sp><stage>
+					<strong>Guido, Casti</strong> , and <strong>Julio</strong> enter. </stage>
+				<sp><speaker>Julio.</speaker>
+					<line>Ah! Signior Casti, you were gallant ever, </line>
+					<line>At home and in the field.---Here, fellow; shew </line>
+					<line>Our servants where the horses may be housed.</line>
+				</sp><stage>
+					<strong>Beatrice</strong> enters. </stage>
+				<sp><speaker>Marco.</speaker>
+					<line>I will, my lord.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Take care of mine,---a grey.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>This is the prettiest girl that I have seen </line>
+					<line>Since I left Naples.</line>
+				</sp><sp><speaker>Bea.</speaker>
+					<line>Oh! my lord.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>You have forgot poor Bayard.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>No, indeed. Good fellow, </line>
+					<line>Go with this man, and he will show you where </line>
+					<line>A berry-brown horse is panting, wet and white </line>
+					<line>With foam.---Carlo's gone onwards?</line>
+				</sp><sp><speaker>Serv.</speaker>
+					<line>Yes, my lord.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>That horse---he is a friend of mine, (the best </line>
+					<line>That ever bore a man thro' blood and death;) </line>
+					<line>Take excellent care of him as you expect </line>
+					<line>Requital. </line>
+					<stage>
+						<strong>Marco</strong> and <strong>Servant</strong> exeunt. </stage>
+					<line>Thanks, good Casti, many thanks: </line>
+					<line>Old Bayard too should thank you if he could.</line>
+				</sp><sp><speaker>Julio.</speaker>
+					<line>Now, hostess, we are hungry travellers: go </line>
+					<line>And strip your larder of it's best: we come </line>
+					<line>With desperate thoughts against it.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Pretty hostess! </line>
+					<line>Are<em>you</em>the hostess of this pleasant place?</line>
+				</sp><sp><speaker>Beat.</speaker>
+					<line>Yes, my lord, yes.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>You make her blush.</line>
+				</sp><sp><speaker>Julio.</speaker>
+					<line>No more.---Good hostess, hie thou in and quickly make </line>
+					<line>The best of preparation: we shall be </line>
+					<line>With thee anon.</line>
+					<stage>
+						<strong>Beatrice</strong> exit. </stage>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>We shall come to thee soon.</line>
+				</sp><sp><speaker>Julio.</speaker>
+					<line>Why, my dear lord, this peasant seems to take </line>
+					<line>Your fancy.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Oh! I like a pretty face </line>
+					<line>At court or in a cottage.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>And in camp?</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>No; there one's thoughts are taught to swerve </line>
+					<line>From their more natural bent.---I hate the camp. </line>
+					<line>I hate it's noise and stiff parade,---it's blank </line>
+					<line>And empty forms, and stately courtesy. </line>
+					<line>Where between bows and blows, a smile and a stab, </line>
+					<line>There's scarce a moment. Soldiers always live </line>
+					<line>In idleness or peril: both are bad.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>I fear that you are right, indeed.</line>
+				</sp><sp><speaker>Julio.</speaker>
+					<line>How! right?</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>I am.--- </line>
+					<line>Give me an intellectual nobler life; </line>
+					<line>Not fighting like the herded elephants, which, </line>
+					<line>Beckon'd by some fierce slave, go forth to war, </line>
+					<line>And trample in the dust their fellow brute. </line>
+					<line>But let<em>me</em>live amongst high thoughts and smiles</line>
+					<line>As beautiful as love; with grasping hands, </line>
+					<line>And a heart that flutters with diviner life </line>
+					<line>Whene'er my step is heard.</line>
+				</sp><sp><speaker>Julio.</speaker>
+					<line>Why, what is this?</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>A picture of a happier lot, dear friend, </line>
+					<line>Than you and I have known.</line>
+				</sp><sp><speaker>Julio.</speaker>
+					<line>Had I not seen </line>
+					<line>You both fight bravely,---better than myself, </line>
+					<line>I should have doubted you.---What! rail at war--- </line>
+					<line>Bright eyed Bellona?---Oh! for shame, for shame! </line>
+					<line>I must forswear your company, my Lord. </line>
+					<line>For me, I like all folks who follow war, </line>
+					<line>Down to the very suttler: I am even </line>
+					<line>Friend to the commissary.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Ay, when you run </line>
+					<line>In debt.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>With empty pockets.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Or---or when </line>
+					<line>He feasts his friends.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Or falls in love, and wishes </line>
+					<line>To give a trifle to some girl.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Indeed, he<em>is</em>too much addicted---while I speak,</line>
+					<line>I grieve to talk thus of him---</line>
+				</sp><sp><speaker>Julio.</speaker>
+					<line>Moral Lord! </line>
+					<line>Oh! this is well. Go on; and, Signior, you </line>
+					<line>Who smile but once a week, (then not for joy,)--- </line>
+					<line>You smile now; yet, you must remember ('tis</line>
+					<line>Scarce two years since,) at Baiae, a pale girl, </line>
+					<line>Who lived so much in private?</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Spare her: nay, </line>
+					<line>She was unfortunate.</line>
+				</sp><sp><speaker>Julio.</speaker>
+					<line>And you?</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Was kind. </line>
+					<line>I know the story: touch not on it now. </line>
+					<line>It is a melancholy tale, fit only </line>
+					<line>For the fire-side and winter: some dull day, </line>
+					<line>When the clouds leave a shadow on your brow, </line>
+					<line>I'll tell it to you.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Be content; I was </line>
+					<line>Her friend,---a father, but no more; believe 't.</line>
+				</sp><sp><speaker>Julio.</speaker>
+					<line>Must I? Well, be it:&#134;---but this hostess stays </line>
+					<line>A long time 'ere she summons us, methinks. </line>
+					<line>If I eat double 'tis no fault of mine. </line>
+					<line>I may as well go in,---and---</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>But be civil.</line>
+				</sp><sp><speaker>Julio.</speaker>
+					<line>Civil? I'll be as loving.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Ay, and brief </line>
+					<line>In your discourse.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>I shall keep watch o'er you.</line>
+				</sp><sp><speaker>Julio.</speaker>
+					<line>And th'hostess?</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Ay; over both wolf and lamb.</line>
+					<stage>
+						<strong>Julio</strong> exit into the inn. </stage>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>I never saw you in so gay a mood: </line>
+					<line>Have you heard news?</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>No;---no.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>I fear I've marred </line>
+					<line>Your gaiety.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Ah! no: 'twas but a trick </line>
+					<line>To cheat away sad folly.---I have heard </line>
+					<line>Nothing: my courier never, as you know, </line>
+					<line>Returned: my letters are unanswer'd:---From </line>
+					<line>My father (yet he was kind once) I might have borne </line>
+					<line>This fearful silence; but from her---Oh! her </line>
+					<line>Whom like a star I worshipped.---Pshaw! my eyes </line>
+					<line>Are like a girl's to-day. I've no doubt </line>
+					<line>But all is well.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>I hope so.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Ay;<em>I</em>hope.</line>
+					<line>Why should I fear?---you do not fear? you know </line>
+					<line>Nothing, good Casti, of my love?</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Nothing: be calm.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>I know not how it is; </line>
+					<line>But a foreboding presses on my heart </line>
+					<line>At times, until I sicken.</line>
+					<line>---I have heard,</line>
+					<line>And from men learned, that before the touch </line>
+					<line>(The common, coarser touch) of good or ill,--- </line>
+					<line>That oftentimes a subtler sense informs </line>
+					<line>Some spirits of the approach of 'things to be.' </line>
+					<line>Fate comes before it's time; like Hope or Fear </line>
+					<line>Reverting on the soul, with surer aim.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>What more!&#134;</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Oh! I've a deep dull sense of pain to come </line>
+					<line>Clinging upon my heart.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>So lovers talk; </line>
+					<line>And feel, perhaps.</line>
+					<line>Suspense to them is as</line>
+					<line>A hideous ghost, changing it's shape for ever. </line>
+					<line>Thus in wild evenings children's fears, you know, </line>
+					<line>Shape devils out of shadows.&#134;---Oh! be gay. </line>
+					<line>Morning will soon be here, and she you sigh for </line>
+					<line>Will smile these dreams away.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>May it be so! </line>
+					<line>Let's talk no more of this at present.---Where </line>
+					<line>Is Julio?</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Likeliest by the cottage fire, </line>
+					<line>Helping the pretty hostess.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Let us go. </line>
+					<line>You think, then, she---</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Oh! I think </line>
+					<line>Not of her; save that she is fair and true. </line>
+					<line>Stifle these fears: why, in some three hours hence </line>
+					<line>You'll see her</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>So I shall, indeed.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Let's drink </line>
+					<line>Her health in purest water.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>No: in wine.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>In wine then, be it. High Falernian?</line>
+				</sp><sp><speaker>Curio.</speaker>
+					<line>Ay, </line>
+					<line>In nectar. Why, methinks, these dreams of mine </line>
+					<line>Are almost banished.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>With yourself remains </line>
+					<line>The power to do't. Be lord of your own mind. </line>
+					<line>The dread of evil is the worst of ill; </line>
+					<line>A tyrant, yet a rebel, dragging down</line>
+					<line>The clear-eyed judgment from its spiritual throne, </line>
+					<line>And leagued with all the base and blacker thoughts </line>
+					<line>To overwhelm the soul.&#134; But come, our friend </line>
+					<line>Waits, and---the pretty hostess.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>There: my hand </line>
+					<line>Is firm as 'tis in battle.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>So it is. </line>
+					<line>Now then: nay, go you first. I'll follow.</line></sp>
+				<stage>Exeunt.</stage>
+			</div><div type="scene"><head>SCENE II.</head>
+				<stage>A Garden of the Duke's Palace.</stage>
+				<stage>Isidora, Isabella, Hypolito.</stage>
+				<sp><speaker>Isab.</speaker>
+					<line>Cheer thee, dear sister: nay---these mournful looks </line>
+					<line>Shame all our smiles.</line>
+				</sp><sp><speaker>Hyp.</speaker>
+					<line>Dear aunt!</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Were I the Duke, </line>
+					<line>I should be jealous of your grief.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>Madam!</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Indeed.---A jealous thing is happiness,--- </line>
+					<line>And delicate too, for round it all must be </line>
+					<line>Warm like itself and pleasant, else it flies; </line>
+					<line>Like summer birds from winter.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>Yesterday,--- </line>
+					<line>It's ceremony and toil have worn me down. </line>
+					<line>Forgive me for it: I am scarcely used </line>
+					<line>As yet to your court splendors.---I shall be </line>
+					<line>A Duchess shortly, such as you could wish. </line>
+					<line>I was not born, you know, to princely pomp, </line>
+					<line>And it sits ill on me. Hypolito! </line>
+					<line>Why are<em>you</em>sad, dear boy? I thought I was</line>
+					<line>The only mocker here.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>'Wake, dreaming child! </line>
+					<line>Your aunt, the Duchess, speaks to you.</line>
+				</sp><sp><speaker>Hyp.</speaker>
+					<line>Dear Lady.</line>
+				</sp><stage>Takes <strong>Isidora's</strong> hand.</stage>
+				<sp><speaker>Isab.</speaker>
+					<line>A pretty gallant: so,---in time he'll break </line>
+					<line>A promise smoothly.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>I hope not; yet there are </line>
+					<line>None of his faithless sex who cannot feign.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Except my brother?</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>Ay: except the Duke. </line>
+					<line>But come, Hypolito; I never hear </line>
+					<line>Now how your falcon flies, nor of the barb </line>
+					<line>Your uncle gave you.---How is this? it was </line>
+					<line>A true Arabian, was it not?</line>
+				</sp><sp><speaker>Hyp.</speaker>
+					<line>Indeed </line>
+					<line>I scarcely know. I have not rid of late.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>He keeps his chamber, like a languid girl, </line>
+					<line>And reads romance.---"Indeed, I scarcely know---" </line>
+					<line>Why that was lisped forth like a girl.---For shame! </line>
+					<line>What do you know then, sirrah?</line>
+				</sp><sp><speaker>Hyp.</speaker>
+					<line>Oh! I know </line>
+					<line>By heart, by heart, those gentle stories which </line>
+					<line>My Aunt (before she<em>was</em>my Aunt) gave to me,</line>
+					<line>And told me with a smile, such as I never </line>
+					<line>Saw on her face again,---'These lines were strung </line>
+					<line>'By frenzied Tasso whom a princess scorned, </line>
+					<line>'And these flew forth from Ariosto's quill, </line>
+					<line>'And these sad Petrarch, who lamented long </line>
+					<line>'Laura his love, once writ; and some there were </line>
+					<line>'Inscribed by great Boccaccio's golden pen, </line>
+					<line>'Mirthful and mournful, fit for every heart.'</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>A pretty list: and is this all you read? </line>
+					<line>Oh! I must look to you.---The father comes; </line>
+					<line>In haste, it seems. </line>
+				</sp><stage>
+					<strong>Gheraldi</strong> enters. </stage>
+				<line>Well, father?</line>
+				<sp><speaker>Gher.</speaker>
+					<line>The fair blessing of the day </line>
+					<line>Rest on you all.---Madam, my duty bends </line>
+					<line>Before you.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>I am thankful, father, for </line>
+					<line>Your blessing.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Thanks, Gheraldi; but you came </line>
+					<line>In haste, Sir: how was this? Have any news </line>
+					<line>Reached our so quiet place?</line>
+				</sp><sp><speaker>Hyp.</speaker>
+					<line>I do not like the book you gave me, father.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Silence!---You do not answer, father. How!</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>Come here, Hypolito, come.</line>
+					<stage>
+						<strong>Isidora</strong> and <strong>Hypolito</strong> talk apart. </stage>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>In your look </line>
+					<line>I read a---something that I would not read. </line>
+					<line>The Duchess hears us not; you need not drop </line>
+					<line>Your eyes thus cautiously. Speak freely to me; </line>
+					<line>What is't?</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>Be patient, Madam: you will need </line>
+					<line>Great store of patience. Guido---</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Ha; speak lower.---Hypolito!</line>
+				</sp><sp><speaker>Hyp.</speaker>
+					<line>Talk kindly to me.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Well; </line>
+					<line>Kiss me, and now begone: the father has </line>
+					<line>Some words for me. Perhaps, dear sister, you---</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>I was about to leave you.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Do not think </line>
+					<line>I wish that: but some business, such as you </line>
+					<line>Would think but tedious, calls me hence.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>Farewell!</line>
+					<stage>
+						<strong>Isidora</strong> and <strong>Hypolito</strong> exeunt. </stage>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Father, if I can read your mind, (and now </line>
+					<line>I ought to read it,) you have news will call </line>
+					<line>My spirit into action:---Is it so? </line>
+					<line>Well! I can act. How I can think, you know. </line>
+					<line>How I will give my cunning force, and weave </line>
+					<line>The subtle threads of many a project 'round </line>
+					<line>My victim's brain, thou---thou shalt see.</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>I have </line>
+					<line>Not told my news.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>I see it 'ere you speak. </line>
+					<line>It is of Guido: he has then discovered?---</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>Not so.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Then all is well.</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>Why, still not so. </line>
+					<line>He has not yet discovered---</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Father, speak. </line>
+					<line>Am I to guess and guess and still mistake, </line>
+					<line>While you, with all the tidings on your tongue, </line>
+					<line>Keep all from me! What you know, boldly speak.</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>Lord Guido, then, is well: that is some news; </line>
+					<line>For when we last heard of him, he lay sick </line>
+					<line>Upon his bed at Naples.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Yes,---go on.</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>He knows not of his father's marriage yet: </line>
+					<line>But being impatient at the silence which </line>
+					<line>His Isidora, and his father kept, </line>
+					<line>He left the South (forgetting smaller ills) </line>
+					<line>And comes straight to Mirandola!</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Indeed! </line>
+					<line>He must be stopped.</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>He should have been, had I </line>
+					<line>Known of his coming; but he is here already.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>What! not arrived?</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>In two hours hence he'll stand </line>
+					<line>Before his father.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Has the Duke yet learned </line>
+					<line>His coming.</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>No: I've kept the secret; but </line>
+					<line>It must be known, and quickly.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>And those letters--- </line>
+					<line>Those letters of the Duke; they never reached </line>
+					<line>Guido at Naples---of this you are sure!</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>Never; nor those he wrote unto the Duke, </line>
+					<line>Except that one first telling that he lived; </line>
+					<line>(Dead Gaspero was an honest knave to us---) </line>
+					<line>I hold them safe: for in them lies my life.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Why then go bravely to the Duke; </line>
+					<line>And tell him Guido comes: tell him, at once, </line>
+					<line>That all the bright tears Isidora shed, </line>
+					<line>Dropped for his son.</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>Ha! but<em>I</em>cautioned her</line>
+					<line>(Because the Duke was jealous) when she heard </line>
+					<line>That he still lived and loved her, to conceal </line>
+					<line>The name of Guido.---How shall this be answered?</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Who can betray? Why did she marry him?</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>Nay,---'twas her mother's want---</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Well, well: now go </line>
+					<line>Unto the Duke (I know his humour well) </line>
+					<line>And tell this. Of his marriage you can say---</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>What?</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>You can hint that haply Guido may </line>
+					<line>Clothe him in ignorance,---perhaps pretend </line>
+					<line>He wrote to say he lived, and so forth: ha? </line>
+					<line>Tell him of Guido's friendship for those men--- </line>
+					<line>Those men who did rebel: and you can shew </line>
+					<line>How good a casuist you are, father, when </line>
+					<line>A doubt springs up; and you can pour a balm </line>
+					<line>(You have both sting and honey, like the bee,) </line>
+					<line>If there be need, and---pshaw! I school my master.</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>You flatter, gracious lady: you are still </line>
+					<line>A keen displomatist: you surely cannot </line>
+					<line>Need my poor service.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>What is this?---Gheraldi! </line>
+					<line>What is it you ask?</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>Nothing: no, tho' you said---</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>I say so still: my interest at Rome </line>
+					<line>Is great as ever. You shall have, be sure, </line>
+					<line>The Cardinal's hat, when old Galotti dies.</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>Have I your word for this?</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Sir, be content; </line>
+					<line>I give my honourable word.</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>Enough.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>And now farewell. Be careful, Sir; </line>
+					<line>Ay, and successful, and the conclave shall </line>
+					<line>Have its most subtle spirit to boast of yet.</line>
+					<stage>Exit.</stage>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>Dear lady, fare you well.---Now for the Duke. </line>
+					<line>He is as shifting as the April wind: </line>
+					<line>And how to break this news I know not. Guido </line>
+					<line>By this has got my letter, and knows that </line>
+					<line>His love is here; no more. And now---and now, </line>
+					<line>Shall I go on? Pshaw! rather shall I doubt? </line>
+					<line>Do I not see those earthly gods mine own, </line>
+					<line>Power, wealth, high reputation, (holy cheat!) </line>
+					<line>Like dazzling sun-beams on my stricken eye </line>
+					<line>They blind, yet lead me onwards. I shall be </line>
+					<line>A Cardinal: Aye, Pope perhaps. What more </line>
+					<line>Need I to teach me wisdom? Now for the Duke.</line></sp>
+				<stage>Exit.</stage>
+			</div><div type="scene"><head>SCENE III.</head>
+				<stage>The Duke's private chamber.</stage>
+				<stage>
+					<strong>Duke</strong> and <strong>Isidora</strong> discovered---the
+						<strong>Duke</strong> writing. </stage>
+				<stage>
+					<strong>Curio</strong> waiting. </stage>
+				<sp><speaker>Duke.</speaker>
+					<line>Here; send this pacquet, my good Curio, </line>
+					<line>Unto our brother Mantua: this dispatch </line>
+					<line>Unto Modena. You have nothing else </line>
+					<line>To speak of?</line>
+				</sp><sp><speaker>Curio.</speaker>
+					<line>Nothing, gracious Sir.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Farewell. </line>
+					<line>Yet stay, if---no, 'twas nothing: fare you well. </line>
+					<stage>
+						<strong>Curio</strong> exit. </stage>
+					<line>Forgive me that I thus neglect you, love. </line>
+					<line>---Why, my dear Isidora, yesterday </line>
+					<line>Has worn you to a shadow.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>Oh! not so.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>In faith it has.---Dear girl, I know you hate </line>
+					<line>These empty pageantries. Jove! so do I. </line>
+					<line>I'd rather be in battle, and weighed down </line>
+					<line>By steel and iron than by these idle gauds. </line>
+					<line>But we must play our part, my sweet one, in </line>
+					<line>This silly world. Could I order things here, </line>
+					<line>Half of the moon I'd waste in war: the rest </line>
+					<line>I'd give to Cupid.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>So: not all to love then?</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Why, no---yet I am wrong; for Oh! with you </line>
+					<line>Who could desert the chamber for the camp? </line>
+					<line>Not I. I would be with you ever---ever.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>That were too long.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Too long, my Isidora?</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>Ay: 'Ever' is a long time, my dear lord: </line>
+					<line>Love has no such eternity.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Indeed!</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>Indeed, 'tis so. Life even has its end; </line>
+					<line>And love cannot be longer sure than life.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>It is: or else 'tis nothing.---Did I think </line>
+					<line>That in the narrow limit of this world </line>
+					<line>Sweet love were bound---</line>
+					<line>Did</line>
+					<em>I</em> fear that beyond <line>These earthy barriers (which our winged
+						thoughts </line>
+					<line>Still strive to over-fly, and still in vain,) </line>
+					<line>Love were no resident,&#134; I would---but you--- </line>
+					<line>You are a traitor to the rose crown'd God. </line>
+					<line>I'll kiss you in revenge.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>You should not punish </line>
+					<line>One who is ignorant only.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Punish! How! </line>
+					<line>Will that be punishment? I said that I </line>
+					<line>Would kiss you, love.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>I know it---in revenge.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>True; in revenge. Revenge is bitter sweet: </line>
+					<line>And in its rich completion lies as well </line>
+					<line>Gall as oblivious balm: a paradox </line>
+					<line>Of passion is revenge. 'Tween you and me, </line>
+					<line>Fair Isidora, let it never live.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>I hope not, Sir.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>It shall not. Mark! I speak </line>
+					<line>More boldly here than you. I know my heart: </line>
+					<line>And your's too can I read.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>What! read my heart?</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>I spoke in jest: you tremble: I am calm </line>
+					<line>(You see't) as conscious love---or fate---or death.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>I'm often thus: pray take no heed of it. </line>
+					<line>You trembled too, I thought.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Feel that I do not.</line>
+					<stage>Puts out his hand.</stage>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>I did not note your hand, but thro' your voice </line>
+					<line>There ran a tremulous chord which made me---think.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Of what?</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>That you were angry: nothing more.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Oh! then you far mistake me. I am not </line>
+					<line>A leaf blown to and fro' by every breath: </line>
+					<line>I am as stedfast as the oak;---ay, more, </line>
+					<line>As little to be shook or turned aside</line>
+					<line>From my vowed purpose as the based rock, </line>
+					<line>Which when the blasts of thundering winter tear </line>
+					<line>The pines away from their strong rifted holds, </line>
+					<line>Looks calmly as tho' 'twere sun-shine still,---and smiles.&#134;</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>I am glad you are so calm.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Why are you glad---why glad </line>
+					<line>My Isidora? You can ne'er have cause </line>
+					<line>To dread my anger?</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>Oh! I hope not.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>You </line>
+					<line>Could never dread me, Isidora?</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>Never. </line>
+					<line>For never could I do you wrong, my lord.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>My own sweet love! Oh! my dear peerless wife! </line>
+					<line>By the blue sky and all its crowding stars </line>
+					<line>I love you better---Oh! far better than </line>
+					<line>Woman was ever loved. There's not an hour </line>
+					<line>Of day or dreaming night but I am with thee: </line>
+					<line>There's not a wind but whispers of thy name, </line>
+					<line>And not a flower that sleeps beneath the moon </line>
+					<line>But in its hues or fragrance tells a tale </line>
+					<line>Of thee, my love, to thy Mirandola. </line>
+					<line>Speak, dearest Isidora, can you love </line>
+					<line>As I do? Can---but no, no; I shall grow </line>
+					<line>Foolish if thus I talk. You must be gone </line>
+					<line>You must be gone, fair Isidora, else </line>
+					<line>The business of the Dukedom soon will cease. </line>
+					<line>I speak the truth, by Dian. Even now </line>
+					<line>Gheraldi waits without (or should) to see me </line>
+					<line>In faith, you must go: one kiss, and so, away.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>Farewell, my lord.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>We'll ride together, dearest, </line>
+					<line>Some few hours hence.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>Just as you please; farewell!</line>
+					<stage>Exit.</stage>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Farewell! With what a waving air she goes </line>
+					<line>Along the corridor. How like a fawn; </line>
+					<line>Yet statelier.---Hark! no sound however soft </line>
+					<line>(Nor gentlest echo) telleth when she treads; </line>
+					<line>But every motion of her shape doth seem </line>
+					<line>Hallowed by silence. Thus did Hebe grow </line>
+					<line>Amidst the Gods, a paragon; and thus--- </line>
+					<line>Away! I'm grown the very fool of love.</line>
+				</sp><stage>
+					<strong>Curio</strong> enters. </stage>
+				<sp><speaker>Curio.</speaker>
+					<line>The father---</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Bid him come. </line>
+					<stage>
+						<strong>Curio</strong> exit. </stage>
+					<line>I never saw </line>
+					<line>My beauty look so well:</line>
+					<line>the summer light</line>
+					<line>Becomes her, tho' she shames it, being so fair. </line>
+					<line>Methinks I've cast full twenty years aside, </line>
+					<line>And am again a boy. Every breath </line>
+					<line>Of air that trembles thro' the window bears </line>
+					<line>Unusual odour.&#134; </line>
+				</sp><stage>
+					<strong>Gheraldi</strong> enters. </stage>
+				<line>Welcome, father, welcome: </line>
+				<line>If you have any good to ask, be quick, </line>
+				<line>For I am bountiful to-day. The tide </line>
+				<line>Of my free humour cannot last---nor ought, </line>
+				<line>Else should I soon be beggar'd. What's i'the air?--- </line>
+				<line>Some subtle spirit runs thro' all my veins. </line>
+				<line>Hope seems to ride this morning on the wind, </line>
+				<line>And joy outshines the sun. Why, what is this?</line>
+				<sp><speaker>Gher.</speaker>
+					<line>My gracious lord!</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Speak out. Your tone is cold </line>
+					<line>As the ringing sound a footstep strikes from out </line>
+					<line>The frosted earth. I am like spring, rejoicing. </line>
+					<line>Father, I hate these mournful moods: I hate 'em. </line>
+					<line>Be joyful, Sir, or look so.</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>My dear lord, </line>
+					<line>I have some news, which while this spirit lasts, </line>
+					<line>I almost fear to tell. 'Twill strike cold on </line>
+					<line>Your mind, my lord; but---but it must be told. </line>
+					<line>Your son, my lord,---</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>How! well; go on.</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>Lord Guido will be here, my lord, within </line>
+					<line>An hour.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Again, Sir,---speak again.</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>Your son, </line>
+					<line>Lord Guido will be here within this hour.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>I'm glad to hear it. </line>
+					<line>He uses little ceremony: well! </line>
+					<line>How learned you this?</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>His courier has arrived, </line>
+					<line>Who left him scarce two hours ago: he then </line>
+					<line>Was coming hither strait.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Has he not written?</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>He has not; but---(and this indeed seems strange,) </line>
+					<line>His servant says---tho' this must be surmise--- </line>
+					<line>That his young master still is ignorant of </line>
+					<line>Your highness' marriage.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>That's impossible! </line>
+					<line>I wrote to him twice---more.</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>Yes, Sir; but---</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>But what? </line>
+					<line>Speak!</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>Did your highness ever hear the name </line>
+					<line>O'the friend the Duchess mourned so?</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Never: she </line>
+					<line>Wished not to tell it; so, altho' my mind </line>
+					<line>Dislikes such secrets, I have never asked.</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>Lord Guido then never confided his--- </line>
+					<line>Attachment to you?</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>His---his? Never.</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>Never?</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Never. I feel a faintness o'er me. Never. </line>
+					<line>Did he---did he---</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>Another time, my lord, </line>
+					<line>Let's speak of this. As to your son's return---</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Monk! I must have your answer.</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>Well: I have heard </line>
+					<line>My lord, that he---</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>I listen: go on.</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>That he </line>
+					<line>Once loved the Duchess.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>How! great Heaven! am I </line>
+					<line>Awake?</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>I would not have disclosed this tale </line>
+					<line>To your Highness, but---</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Be silent. Can it be </line>
+					<line>That he (I know not what I say) has been </line>
+					<line>Deceived?</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>Your Highness wrote to him before </line>
+					<line>Your marriage?---No.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>No; not befor't: we thought </line>
+					<line>That he was dead; yet when the news (glad news </line>
+					<line>I thought it,) came that still he lived, I sent </line>
+					<line>Direct to Naples.</line>
+				</sp><sp><speaker>Gher</speaker>
+					<line>True; by Gaspero.</line>
+				</sp>
+				<sp><speaker>Duke.</speaker>
+					<line>But wherefore,---nay, how was't you dared conceal </line>
+					<line>From me that he had loved her? Speak to that</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>I thought it a boyish fancy, soon to change. </line>
+					<line>Yet that he loved her once, (madly) I can </line>
+					<line>Avouch.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>He is not apt to change.</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>Why that--- </line>
+					<line>When first I knew he had not written home, </line>
+					<line>Struck on my mind. I own it.</line>
+				</sp>
+				<sp><speaker>Duke.</speaker><stage>aside.</stage> <line>---Upon mine </line>
+					<line>It falls as cold as winter. You should not </line>
+					<line>Have kept it from me. 'Twas a fault.</line></sp>
+				<sp><speaker>Gher.</speaker>
+					<line>Nay, Sir,---</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>O Heaven! had I but known for whom those tears </line>
+					<line>Were shed:---but<em>still</em>she weeps: Ah! wherefore still?</line>
+					<line>He is alive.</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>My lord!</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Perhaps he comes </line>
+					<line>Here to reproach or make a shew of grief: </line>
+					<line>Perhaps---Did you not speak?</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>Yes, Sir; your son---</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Did I not watch him thro' his headstrong youth, </line>
+					<line>This fault forgiving and forgetting that--- </line>
+					<line>His friendship with that false Vitelli, whom </line>
+					<line>I hate as I hate shame---his strange request </line>
+					<line>For those three rebels (that was never cleared) </line>
+					<line>Marni, Saletto, Rossi? you know this.</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>If I might but advise---</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Be dumb, Sir. I </line>
+					<line>Can be my own good counsel. Did I not </line>
+					<line>Write, and so kindly too?</line>
+					<line>Did---did he come</line>
+					<line>Quite straight from Naples?</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>Yes, my lord; I hear </line>
+					<line>He only staid at Count Vitelli's house; </line>
+					<line>And there not long.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>At Count Vitelli's? He </line>
+					<line>Can never pass that traitor's den. What spell </line>
+					<line>Doth drag him there?</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>None that I know of, Sir, </line>
+					<line>But,&#134; may I now advise? If aught be wrong </line>
+					<line>Touching Vitelli's friendship with your son. </line>
+					<line>(Tho' I hope nothing<em>is</em>wrong) or---or if</line>
+					<line>He loves the lady Isidora still,---</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Death! thou false monk!---Sir, if your tongue but utter </line>
+					<line>A word of that---What! love her? love!</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>I meant---</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>You said he loved.</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>Did I? pray pardon me. </line>
+					<line>This news has ruffled me, my lord. I beg </line>
+					<line>That you'll forget. My mouth is filled to-day </line>
+					<line>With errors.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Yet should he<em>indeed</em>love her?</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>If then, my lord, your son should but pretend </line>
+					<line>To love, and urge you to injustice---</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Ha! </line>
+					<line>That's well---well thought of. Oh! there's many a knave </line>
+					<line>About me (that I feel) too ready still </line>
+					<line>To second old Vitelli's bloody hand. </line>
+				</sp><em>Can</em> he be foe to me? I will not think it. <line>Yet I'll be calm, and
+					wary.</line>
+				<sp><speaker>Gher.</speaker>
+					<line>Some one comes.</line>
+					<stage>
+						<strong>Carlo</strong> enters. </stage>
+				</sp><sp><speaker>Carlo.</speaker>
+					<line>Your Highness!</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Speak!</line>
+				</sp><sp><speaker>Carlo.</speaker>
+					<line>Lord Guido will be here </line>
+					<line>Almost---</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Go to him, good Gheraldi. Leave us. </line>
+					<stage>
+						<strong>Carlo</strong> exit. </stage>
+					<line>Receive him, father, and before he comes </line>
+					<line>To me, inform him (mark if honestly </line>
+					<line>He take the news,) that I am married.---When </line>
+					<line>You have told this, say that I wish his presence: </line>
+					<line>Yet, first announce him; so I may learn how far </line>
+					<line>His soul is bent to cunning.</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>I am gone.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Take good note, Sir.</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>I will.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Be sure you do!</line></sp>
+				<stage>Exeunt separately.</stage>
+			</div>
+		</div>
+		<div type="act"><head>ACT II.</head>
+			<div type="scene"><head>SCENE I.</head>
+				<stage>A Court-yard before the Palace.</stage>
+				<stage>Gheraldi.</stage>
+				<sp><speaker>Gher.</speaker>
+					<line>He must not see the Duchess yet. These scenes </line>
+					<line>Of tears and quarrel but ill suit a court; </line>
+					<line>And the Duke loves decorum.---Now have I </line>
+					<line>Been confidant to father, and to son,--- </line>
+					<line>To her (by virtue of my calling)---<em>her</em>,</line>
+					<line>And the proud Isabella. Had I not </line>
+					<line>A cowl, I fear a blush at times might tell </line>
+					<line>A story. Guido knows his love is here; </line>
+					<line>(Thus much I've written to him,) but that she </line>
+					<line>Is Duchess here, he knows not: so,---he comes.</line>
+				</sp>
+				<sp><speaker>Guido.</speaker>
+					<stage>without.</stage>
+					<line>Ha! ha!---well, as you please: I shall expect you.</line></sp>
+				<stage>
+					<strong>Guido</strong> enters, and is passing over in haste. </stage>
+				<sp><speaker>Gher.</speaker>
+					<line>My lord! lord Guido!</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Ha! Gheraldi, you? </line>
+					<line>Where's Isidora? Is my father well?</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>Your father bids---</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>I'll see him presently: </line>
+					<line>But where's my love?</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>He has commanded me---</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Not now, not now. </line>
+					<line>Where is she?</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>First, hear the Duke's message; nay.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Now by my soul, I shall be angry with you. </line>
+					<line>Say to your lord some ten,---five minutes hence, </line>
+					<line>I'll seek him in his study. You oppress me. </line>
+					<line>What do you mean that thus you shake your head </line>
+					<line>In silence---or is't sorrow?---Ha! she's dead?</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>Not so, my lord.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Why all is well then;---yet, </line>
+					<line>(What do you mean?) you seem to mock my joy, </line>
+					<line>And lay a leaden hand upon the wings </line>
+					<line>Of all my hopes.---Oh! Isidora, where, </line>
+					<line>Where are<em>you</em>loitering now when Guido's here?</line>
+					<line>By the bright god of love, I'll punish you, </line>
+					<line>Idler, and press your rich red lips until </line>
+					<line>The colour flies.</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>My lord: nay, do not frown. </line>
+					<line>I have a story of deep interest, Sir. </line>
+					<line>It is my duty (my sad duty now,) </line>
+					<line>To break unto your ear some tidings.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Quick!</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>Your father, my dear lord, is married.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>So.---</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>Reasons of state---</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Keep 'em, good Monk, I have no stomach now </line>
+					<line>For any food but love.</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>Strong reasons did induce my lord ('twas when </line>
+					<line>You were reported dead) to seek a bride. </line>
+					<line>He left the common course that monarchs use, </line>
+					<line>And chose from out the land he govern'd, one </line>
+					<line>Who might have shamed the world.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>That was not well, </line>
+					<line>At least.</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>I mean she was so fair, my lord.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>I mark you. Well?</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>My lord your father (urged </line>
+					<line>By some state policy, and fearful lest </line>
+					<line>Your death should snap the link your friendship formed </line>
+					<line>'Tween him, and Count Navarro,)---</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Chose his daughter?</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>No; not---not thus.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>How then? Speak! Is my heart </line>
+					<line>Bursting? What is't I fear? My very soul </line>
+					<line>Is sick, and full of some dismay, as tho' </line>
+					<line>Fate were upon me. If---I dare not ask: </line>
+					<line>I dare not, tho' a word would end it all. </line>
+					<line>Gheraldi! no, no, no: silence awhile: </line>
+					<line>I will not hear thee now. Oh! heaven and earth! </line>
+					<line>If it were so---it cannot be: it shall not. </line>
+					<line>Yet if it were---Oh! Isidora, you, </line>
+					<line>What<em>you</em>---She is as constant as the stars</line>
+					<line>That never vary, and more chaste than they. </line>
+					<line>Forgive, forgive me that I slander thee </line>
+					<line>Even in dreams. Gheraldi, now I'll listen, </line>
+					<line>And you shall tell your tale. I was a fool </line>
+					<line>Just now. Forgive me, father:---now.</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>I said your father did desire a bride </line>
+					<line>From out his realm. Navarro's daughter then </line>
+					<line>Was woo'd; now she is married: but he had </line>
+					<line>Two nieces.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Ay, I see't. My father saw </line>
+					<line>The lady Julia: yes, I see how 'twas; </line>
+					<line>It was so, was it not?</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>He saw her there.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Ay, ay: she was a pretty girl when last </line>
+					<line>I was at home: and so he married her?</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>He saw them both, Sir, with a favouring eye. </line>
+					<line>The lady Isidora then in tears---</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>True; they might not become her: yet she's fair. </line>
+					<line>When joy is in her eye 'tis like the light </line>
+					<line>Of Heaven: blue, deep and ethereal blue. </line>
+					<line>I would not wish a life more beautiful; </line>
+					<line>And, were she but a Saint, I'd worship her. </line>
+					<line>Sad Isidora! Did thine eyes indeed </line>
+					<line>Shower diamond drops for me? My gentle love! </line>
+					<line>But Guido (thine) is come at last to kiss</line>
+					<line>The tears away for ever. Happiness </line>
+					<line>Looks out to find thee; shall it look in vain!</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>May I proceed, my lord?</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>I had forgot. </line>
+					<line>Where were we?</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>I was telling that&#134; your father </line>
+					<line>Saw Count Navarro's nieces, and preferr'd </line>
+					<line>The elder.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>You---you said he<em>married Julia</em>.</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>No, my lord: no.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Whom then? it cannot be.</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>My lord! I---</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Monk! speak out: Curse on my trembling. </line>
+					<line>One word---a single word. Now:---tho' your breath </line>
+					<line>Carry damnation (as I think it does) </line>
+					<line>To every hope of mine, be quick, quick.---Now. </line>
+					<line>Stun me with sorrow, lest I feel too much, </line>
+					<line>And slay thee. What's her name---my father's bride?</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>'Tis Isidora.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Thou has done't.</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>My lord! </line>
+					<line>Look up, my Lord! So---there: you're very pale. </line>
+					<line>Nay, for your father's sake.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Ha! ha! ha! ha!</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>Lord Guido! I---Gheraldi---speak to you. </line>
+					<line>Oh! well: I see you know me now. Not so. </line>
+					<line>Nay, look more cheerfully.---You're better now?</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Thou---thou knew'st all my love. Thou busy priest---</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>My lord.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Thou pander to my father's wish, </line>
+					<line>(He is no father, I disown him.) Thou--- </line>
+					<line>Thou busy meddling Monk.</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>My lord, my lord, </line>
+					<line>This is not well!</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Away! my mother? Oh!<em>my</em>mother was</line>
+					<line>As pure as purity. I will not talk </line>
+					<line>Of her who<em>is</em>---yet oh! what pity 'tis</line>
+					<line>That one so fair should now be full of blots, </line>
+					<line>And that a face which love had breathed upon </line>
+					<line>Should now be scarred all over. Once, I thought </line>
+					<line>That in her eyes, (how beautiful they were!) </line>
+					<line>Her soul shone out.</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>If you will let me speak---</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>But she is grown a harlot in my sight. </line>
+					<line>What! married to my father, to<em>my</em>father!</line>
+					<line>What! smile upon the son, and wed the sire, </line>
+					<line>Because---there's some strange cause. What blinding spell </line>
+					<line>Is there now hung between us and the Moon, </line>
+					<line>That dims the sights of women? There's a cause: </line>
+					<line>I dare not guess: I will not.</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>May I speak?</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Father Gheraldi, you have done your errand. </line>
+					<line>Tell the Duke of Mirandola, his Son </line>
+					<line>Is now at ease.---Say that the news at first </line>
+					<line>Was somewhat stirring: but that he---ay, he </line>
+					<line>Forgives---forgets; no, never, never can </line>
+					<line>That soon forgot that all his life was blighted. </line>
+					<line>Say what you will, Sir.</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>But your father, now, </line>
+					<line>Expects you.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>I'm too gallant, Sir; so tell him. </line>
+					<line>I'll pay my duty to the Duchess first; </line>
+					<line>Unto my---mother, since it must be so: </line>
+					<line>And when we have discuss'd some words, why then </line>
+					<line>I'll meet him. No more words, Sir.---Now, farewell!</line></sp>
+				<stage>Exeunt at different sides.</stage>
+			</div><div type="scene"><head>SCENE II.</head>
+				<stage>A Hall in the Palace.</stage>
+				<stage> Enter <strong>Isabella</strong> , meeting <strong>Casti</strong> and
+						<strong>Julio</strong> . </stage>
+				<sp><speaker>Isab.</speaker>
+					<line>Welcome unto Mirandola.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Many thanks.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Ah! Signior Julio! give you welcome, Sir.</line>
+				</sp><sp><speaker>Julio.</speaker>
+					<line>I thank you, Madam, thank you heartily.</line>
+					<line>A little leisure is welcome even to me.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>You have not lost your spirits in the wars?</line>
+				</sp><sp><speaker>Julio.</speaker>
+					<line>No Madam, much the same; I'm still, at least, </line>
+					<line>Your servant ever.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Oh! Sir,&#134; we shall try </line>
+					<line>Your gallantry to-day: the Duke hath ordered </line>
+					<line>A feast in honour of his son.---Count Casti, </line>
+					<line>You've seen my brother?</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Madam?</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>You are wrapt </line>
+					<line>In study, Sir: some fosse, or counterscarp, </line>
+					<line>Or siege, or ambuscade then filled your brain.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>No, Madam, none.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Brief answer.---Have you seen </line>
+					<line>My brother yet?</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>I have not.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>He will be </line>
+					<line>Rejoiced to see you. Ah!---yes, it is he.</line>
+				</sp><sp><speaker>Julio.</speaker>
+					<line>Faith, 'tis the Duke: he looks more young than ever.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Now, to my mind, his eye is filled with care.</line>
+				</sp><stage>
+					<strong>Duke</strong> enters. </stage>
+				<sp><speaker>Duke.</speaker>
+					<line>Ha! gentlemen, and friends, I'm glad to see </line>
+					<line>Such faces at Mirandola.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>My lord, </line>
+					<line>We are your son's companions.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>So I hear: </line>
+					<line>Therefore, ye are more welcome, Signior,</line>
+					<stage>To <strong>Julio</strong> .] </stage>
+					<line>Have heard of your good acts. Your sword is dulled </line>
+					<line>With carnage, I am told. Fair faces here </line>
+					<line>Have smiled, and gentle hearts have wished you well.</line>
+				</sp><sp><speaker>Julio.</speaker>
+					<line>My Lord!</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Indeed I hear 'twas so.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>'Tis true.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Signior, your deeds have filled the mouth of fame, </line>
+					<line>And you too have admirers; none more true </line>
+					<line>Than I.</line>
+					<stage>Takes <strong>Casti's</strong> hand. </stage>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>My lord, you do me honour.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Sir, </line>
+					<line>I do myself much honour thus to take </line>
+					<line>A good man by the hand. You are not all </line>
+					<line>Soldier, and yet enough: I do not love </line>
+					<line>All courtier: I myself, you know, was once </line>
+					<line>Something (not much) o'the soldier.</line>
+				</sp><sp><speaker>Julio.</speaker>
+					<line>Oh!---</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>My lord, </line>
+					<line>You have fought bravely; that the world well knows.</line>
+				</sp><sp><speaker>Julio.</speaker>
+					<line>Your foes especially, my lord.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Oh! no. </line>
+					<line>I drew the sword for pastime: you for right. </line>
+					<line>Shall I not see my son?</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>He will be here </line>
+					<line>Speedily.</line>
+				</sp><sp><speaker>Julio.</speaker>
+					<line>If I am right, I saw him talk </line>
+					<line>Just now with the confessor, old Gheraldi. </line>
+					<line>I'll bid him come to you.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Not so: stay, Sir. </line>
+					<line>I'll wait for my son's leisure. He is tired </line>
+					<line>Perhaps, and his too sensitive nature asks </line>
+					<line>Some quiet 'ere he sees me.---You have been </line>
+					<line>With him throughout the war, Sir, have you not?</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>I have, my lord.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>I mean, attached to the same </line>
+					<line>Battalion?</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>'Twas so.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Was he sad, or gay?</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>He has a natural gaiety that sits </line>
+					<line>Pleasantly on him, when no ill's at hand: </line>
+					<line>But he is soon depressed and latterly---</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Well latterly---you stop?</line>
+					<stage>
+						<strong>Isabella</strong> draws <strong>Julio</strong> aside. </stage>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Of late, </line>
+					<line>He has been ill, (wounded you know,) and grief--- </line>
+					<line>Some secret sorrow wearing down his heart, </line>
+					<line>Has paled his cheek, and thinned it: and at times, </line>
+					<line>I've seen him fretted much beyond his custom.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Indeed! then must it be </line>
+					<line>The sun, (there is no cause beside,)---the Sun </line>
+					<line>Hath burnt these humours on him, and perhaps </line>
+					<line>Quickened the wholesome current of his blood, </line>
+					<line>'Till it outruns it's channels:</line>
+					<line>then, you know,</line>
+					<line>Come fevers, and in the abused brain </line>
+					<line>Distraction; so, before the sight diseased </line>
+					<line>Shadows will stalk, and ghosts of unreal ills: </line>
+					<line>Filling the bloated fancy 'till it bursts: </line>
+					<line>These things I know.&#134;---But Guido---?</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Oh! he will </line>
+					<line>Grow fresh again, now that his father's arms </line>
+					<line>Are open.</line>
+				</sp><sp><speaker>Julio.</speaker>
+					<line>And his love's.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>True, Signior,---as you say, </line>
+					<line>I see Gheraldi---True; my arms are open. </line>
+					<line>Excuse me, Signior Casti; I shall soon </line>
+					<line>See you again. Once more I bid you welcome. </line>
+					<line>You will not fail my banquet.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>We are much </line>
+					<line>Honored, my lord.</line>
+				</sp><sp><speaker>Julio.</speaker>
+					<line>My lord, we---</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Come, Signior, you'll go with us; </line>
+					<line>I have some things to say.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Why doth the Friar loiter? Sirs, farewell!</line>
+				</sp><sp><speaker>Julio.</speaker>
+					<line>We take our leave, my lord.</line>
+					<stage>Exeunt <strong>Isabella, Julio</strong> , and <strong>Casti</strong> .
+					</stage>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>He motions and retires.---Well, for the present </line>
+					<line>I must shake hands with patience, and be still. </line>
+					<line>The day is lowering. What a beaming morn</line>
+					<line>It was; (ay, so was mine,) and now the clouds </line>
+					<line>Hang round about like some fierce accident </line>
+					<line>Which comes upon us as we think to reach </line>
+					<line>Safely our home.&#134;---Now, should this boy have been </line>
+					<line>Cheated---it cannot be; old Gaspero </line>
+					<line>When he returned to die, gave fair account </line>
+					<line>Of the delivery of my letters.---When </line>
+					<line>I see him I will look into his soul: </line>
+					<line>And yet whene'er I see him </line>
+					<line>(True son of dead Bianca,) her pale smile </line>
+					<line>And scornful eye shoot thro' my very heart. </line>
+					<line>I would that I could think he meant me fair; </line>
+					<line>Why should I think him guilty---is he not </line>
+					<line>My son? Ah! did I mean his Mother fair? </line>
+					<line>And yet my will has made him now my heir? </line>
+					<line>Passing my Sister's son.---Can he still love her? </line>
+					<line>Ha! the Monk passes. So, now for the news.</line></sp>
+				<stage>Exit.</stage>
+			</div><div type="scene"><head>SCENE III.</head>
+				<stage>An Apartment of the Duchess.</stage>
+				<stage>
+					<strong>Isidora</strong> enters. </stage>
+				<sp><speaker>Isid.</speaker>
+					<line>He comes, he comes; and I must see him, too. </line>
+					<line>Oh! that I must.---Not yet.---I must, I<em>must</em>.</line>
+					<line>Hark! no, it is not he: It is my heart. </line>
+					<line>Will it not burst? My throat is full and choaking. </line>
+					<line>God! look upon me now, and save me!---Save! </line>
+					<line>He'll come and curse me---and it will be good; </line>
+					<line>For I have stolen his heart away, and flung </line>
+					<line>Mine own to ruin.---Ruin! Oh! that I </line>
+					<line>Could tell him all about my cruel lot, </line>
+					<line>And how I was betrayed, and lost for ever. </line>
+					<line>That Monk advised me---Oh! no more of that. </line>
+					<line>Ha! some one comes.</line>
+				</sp><stage>
+					<strong>Guido</strong> enters. </stage>
+				<sp><speaker>Guido.</speaker><stage>after a pause.</stage> <line>Madam, I come to
+						pay </line>
+					<line>My duty to you.</line></sp>
+				<sp><speaker>Isid.</speaker>
+					<line>Welcome; you are welcome.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>I come to see how well her bridal dress </line>
+					<line>Becomes the Duchess of Mirandola.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>You have been well, I hope?</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Since when?</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>Since you--- </line>
+					<line>You and I parted.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>That's a long time, now. </line>
+					<line>I have forgot: how is't that<em>you</em>remember?</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>I---I---Oh! pity me.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Weep, lady, weep. </line>
+					<line>Tears (yet they're bitter) purify the soul, </line>
+					<line>But your's is fair?---I know they ease the heart. </line>
+					<line>Mother!</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>Oh! Guido,---cruel, cruel, cruel!</line>
+				</sp>
+				<sp><speaker>Guido.</speaker>
+					<stage>aside.</stage>
+					<line>By Heaven, my courage begins to fail; and I </line>
+					<line>Grow womanish. Now let me wring her heart, </line>
+					<line>As she wrung mine.---Ah! there she weeps away </line>
+					<line>Almost to dissolution. How she bends, </line>
+					<line>Like one who sickens with remorse or love; </line>
+					<line>And she, perhaps, has been betrayed.---Alas! </line>
+					<line>Poor Isidora!</line></sp>
+				<sp><speaker>Isid.</speaker>
+					<line>Ah!---you spoke?---you spoke?</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>'Twas nothing.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>Nothing? It was all to me. </line>
+					<line>'Twas happiness---no, that is gone: 'twas Hope: </line>
+					<line>'Twas pardon. Oh! my lord, (Guido no more,) </line>
+					<line>What have I done that you<em>can</em>use me thus?</line>
+					<line>I would not for the world, for all the world, </line>
+					<line>Put you to such great sorrow.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Shall I tell you?</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>Yes.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Listen to me, then. When you were young--- </line>
+					<line>You are young still, and fair; the more's the pity: </line>
+					<line>But in the time I speak of, you were just </line>
+					<line>Bursting from childhood---with a face as fair </line>
+					<line>As tho' you had look'd in Paradise, and caught </line>
+					<line>It's early beauty: then, your smile was soft, </line>
+					<line>As Innocence before it learns to love. </line>
+					<line>And yet a woman's passion dwelt within </line>
+					<line>Your heart, as warm as Love.---But I am wrong?</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>Oh! no. I loved---</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Indeed?</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>Indeed, indeed.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Well!---There was one who loved you too. He said </line>
+					<line>That every hope he had rested on you. </line>
+					<line>He worshipped you, as Idols are adored </line>
+					<line>In countries near the sun. He gave his heart </line>
+					<line>So absolutely up, that had he thought </line>
+					<line>Then, that you would desert him, he'd have slain </line>
+					<line>Himself before you. You were his home, his heaven, </line>
+					<line>His wealth, his light, his mind, and life substantial. </line>
+					<line>But then he went away to the fierce wars, </line>
+					<line>(His honor was pledged for it,) and he left </line>
+					<line>You with an oath upon your soul behind. </line>
+					<line>'Twas said he died---</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>One said he saw you fall.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>'Twas said he died, and that she grieved awhile, </line>
+					<line>In virgin widowhood for him. At last, </line>
+					<line>A Duke---a reigning Duke, with wintry hair, </line>
+					<line>And subtle spirit, and---without a heart, </line>
+					<line>Came wooing to her, and so---you do not heed me--- </line>
+					<line>And so she dried her tears, and (tho' the youth </line>
+					<line>Wrote that he lived,) she laugh'd, and left the son, </line>
+					<line>To marry with the father.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>And you wrote </line>
+					<line>To me?</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>To you, and him.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>I feared 'twas so. </line>
+					<line>Now Heaven help me; for I'm wound about</line>
+					<line>By their strong toils, and there is no escaping. </line>
+					<line>Oh! I am worn, and broken down by grief.&#134; </line>
+					<line>I dare not hope that you'll believe me, yet </line>
+					<line>That letter, Guido---Oh, I never knew it; </line>
+					<line>I had no letter---saw no letter.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>What! </line>
+					<line>I wrote to you from Naples: from my bed </line>
+					<line>Where I lay languishing, by Gaspero, </line>
+					<line>My father's servant. Why, I wrote---(has there </line>
+					<line>Been cozening here!)---unto my father:</line>
+					<em>he</em>
+					<line>Will not deny't. Where is that slave?</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>Gaspero? He is dead.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>He was my father's servant. Could he be </line>
+					<line>Unfaithful? No.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>Your father prized him much. </line>
+					<line>Oh! it is too clear: we are both undone.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>It may be;---nay, it is. But, 'ere I sink, </line>
+					<line>I will be righted some way, or revenged. </line>
+					<line>What! does he think to cheat me now, and wear </line>
+					<line>His prize abroad so boldly.---before<em>me</em>?</line>
+					<line>I'll have revenge.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>He is your father, Guido. </line>
+					<line>Nay---</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>I disown him. He has lost his son. </line>
+					<line>Some parents shut their children from their homes, </line>
+					<line>(Young boys and gentle girls) but<em>I</em>abjure</line>
+					<line>My father in his age: let him go down </line>
+					<line>Into his grave alone.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>Do not incense him.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Whom?</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>The Duke.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>You're right. </line>
+					<line>Call him no more my father. No; I'll talk </line>
+					<line>As one man with his equal; or, perhaps, </line>
+					<line>I may wear something of superior scorn, </line>
+					<line>And drop a word or two of charity; </line>
+					<line>But that will be for thy sake, my poor girl! </line>
+					<line>Nay, dry your tears: and let us part awhile.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>Farewell.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Oh! not farewell yet. I but go </line>
+					<line>To see the Duke. When shall we meet again?</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>We must not; yet---</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>We will, we will, once more.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>Hark!---hush! your father comes.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Why, that is well. </line>
+					<line>We will (I'm glad of't) say at once good morrow, </line>
+					<line>Without more ceremony.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>No; not now, </line>
+					<line>Not now, I cannot bear it.---Nay, for me.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>That is a charm I cannot disobey.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>Quick, quick, he comes!</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>We'll meet again. Remember! </line>
+					<stage>
+						<strong>Isid.</strong> exit. </stage>
+					<stage>
+						<strong>Curio</strong> enters. </stage>
+					<line>Well, Sir?</line></sp>
+				<sp><speaker>Curio.</speaker>
+					<line>My lord; his highness waits for you.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Where is he?</line>
+				</sp><sp><speaker>Curio.</speaker>
+					<line>In his private chamber, Sir.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Tell him, I come. </line>
+					<stage>
+						<strong>Curio</strong> exit. </stage>
+					<line>Now, thou false Fortune, am I still thy fool? </line>
+					<line>Shall I see him, and, like a cheated child, </line>
+					<line>Believe each word he utters?---He was kind </line>
+					<line>Once, amidst all his pride, to me: but now </line>
+					<line>He has (has he not?)---robbed me---stolen away </line>
+					<line>The gem I love beyond the whole vast world, </line>
+					<line>And with a selfish vanity, here, before </line>
+					<line>My very eyes, he wears it to my shame--- </line>
+					<line>
+						<em>His</em>shame, and my deep sorrow. Now, my heart,</line>
+					<line>I have known thee firm in danger, droop not now!</line></sp>
+				<stage>Exit.</stage>
+			</div>
+		</div>
+		<div type="act"><head>ACT III.</head>
+			<div type="scene"><head>SCENE I.</head>
+				<stage> (The <strong>Duke</strong> pacing up and down his room---at last he stops.) </stage>
+				<sp><speaker>Duke.</speaker>
+					<line>Hark! He stays long---but Isidora is </line>
+					<line>Prudent, I think,---I hope. His blood is quick, </line>
+					<line>But I will not doubt. Why should he loiter at </line>
+					<line>Vitelli's house,---that traitor's?---He stays long, </line>
+					<line>---A month ago and I was happy! No; </line>
+					<line>Not happy, yet encircled by deep joy, </line>
+					<line>Which tho' 'twas all around, I could not touch. </line>
+					<line>But it was ever thus with Happiness: </line>
+					<line>It is the gay to-morrow of the mind </line>
+					<line>That never comes.---Hark! no! 'twas but a door </line>
+					<line>That shut. And is my soul in such dismay, </line>
+					<line>That every petty whisper of the wind </line>
+					<line>Can scare me? Once---but that is passed, and now </line>
+					<line>Each sound is laden and each shadow filled </line>
+					<line>With fears: like exhalations in the dusk </line>
+					<line>They rise before me, wheresoe'er I tread. </line>
+					<line>Who's there?</line>
+				</sp><stage>
+					<strong>Curio</strong> enters. </stage>
+				<sp><speaker>Curio.</speaker>
+					<line>Lord Guido </line>
+					<line>Is now without, my lord.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Bid him come in. </line>
+					<stage>
+						<strong>Curio</strong> exit. </stage>
+					<line>There is a strange confusion in my mind: </line>
+					<line>Perhaps my son, like a fair morning light, </line>
+					<line>May dispel all. He is here:---how pale he looks.</line>
+				</sp><stage>
+					<strong>Guido</strong> enters. </stage>
+				<sp><speaker>Guido.</speaker>
+					<line>I am come, my lord.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>I,---I rejoice to see you. I am proud </line>
+					<line>To know my son has won so good a name. </line>
+					<line>Your honours will shame mine. Well, well, so be it. </line>
+					<line>On you has fallen now the task to lift </line>
+					<line>The fair and great name of Mirandola. </line>
+					<line>You have been absent long: too long.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>My lord!</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>I am your father, Guido,</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Oh! much more: </line>
+					<line>You are the Prince.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>But still your father: nay---</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>My lord, there are some things which, little used, </line>
+					<line>Soon rust: such is respect. The name of Prince </line>
+					<line>Brings to the memory of many men </line>
+					<line>What they might else forget.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>There is no cause </line>
+					<line>For this between us.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Pardon me: for once </line>
+					<line>Give me my humour.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>As you please,---for once. </line>
+					<line>Come let us sit. What cause have you for this?</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Cause! but---but let it pass.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Dear Guido.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Sir!</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>I do not understand---</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>And yet it is </line>
+					<line>As plain as day---as the full risen day. </line>
+					<line>But let us sit: with all my heart.</line>
+					<stage>
+						<strong>Duke</strong> sits. </stage>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>I am </line>
+					<line>Distressed, my son, to hear---</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Ha! have you heard?</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>I hear the words you speak.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>But understand not. </line>
+					<line>Was it not so, my lord? You hear---</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>I hear, </line>
+					<line>And see, and feel that now my only son, </line>
+					<line>And the first subject of my Dukedom, dares </line>
+					<line>To spurn his Prince,---his father; putting off </line>
+					<line>The garb of love, and---</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Right: it is a cloak; </line>
+					<line>Under whose folds, fathers as well as sons, </line>
+					<line>Do things to shame the stars.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Guido, by Heaven!--- </line>
+					<line>But this---this is not well, my son, no more of it. </line>
+					<line>I sent for you by the Confessor---</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Ay, </line>
+					<line>That you may in my ear unload your mind </line>
+					<line>Of some dark secret; what is't? Speak, my Lord. </line>
+					<line>If you have done aught that may leave a blot </line>
+					<line>On the bright annals of our house, confess, </line>
+					<line>And I will be as secret as deceit. </line>
+					<line>If you have been a tyrant,</line>
+					<line>and enslaved</line>
+					<line>The bodies or the minds of noble men, </line>
+					<line>Why, let me know it: or, if you have been </line>
+					<line>As poisonous as the serpent, or have mined, </line>
+					<line>Mole-like, your way beneath your neighbour's house, </line>
+					<line>And shook down all his happiness, confess it: </line>
+					<line>Or if, like the wilderness creature, you have prey'd </line>
+					<line>Even upon your young, I bid you still </line>
+					<line>To tell me and take comfort.&#134;</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>I have been </line>
+					<line>Silent, my son---</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Not so, not so; and yet you were in truth: </line>
+					<line>When slander came abroad, and I was absent, </line>
+					<line>You kept a politic silence; thus I've heard: </line>
+					<line>And, when I fell, you wept and kissed away </line>
+					<line>The bright warm tears from Isidora's cheek. </line>
+					<line>But I rose up again:---I rose, my lord, </line>
+					<line>Up from my bed of battle, and while the blood </line>
+					<line>Harden'd upon my wounds, I traced, with weak </line>
+					<line>And shaking fingers, a poor scrawl, reminding </line>
+					<line>Her of our love: you start? our love I said; </line>
+					<line>And you---you kept it from her. Speak? was't so? </line>
+					<line>There's no one to betray you: should you blush, </line>
+					<line>I'll hush your virtue, like a murder, up.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Guido, you go too far: no more of this.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>No more?</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>You'll anger me---I tell you this </line>
+					<line>For the last time. My blood is hot as your's.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Much hotter. Noble lord, if I may speak---</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>You may not, Sir. Death! shall I stand and suffer </line>
+					<line>These insolent taunts from you, my son, my slave, </line>
+					<line>My---</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Slave!</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Ay, Sir, whate'er may suit my humour.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Your highness's humour changes, that I know.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Sir, tho' it shift as often as the wind, </line>
+					<line>'Tis not for you to mark it. 'Tis my humour, </line>
+					<line>My spleen, my will.</line>
+				</sp><stage>
+					<strong>Curio</strong> enters. </stage>
+				<sp><speaker>Curio.</speaker>
+					<line>Did my lord call?</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Begone. </line>
+					<line>If then another word---I said, begone. </line>
+					<stage>
+						<strong>Curio</strong> exit. </stage>
+					<line>But no, no, no: no more of this: no more.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Then, you deny---?</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Ah! Guido, this will bring </line>
+					<line>Bitter repentance, in some after day; </line>
+					<line>Till then be silent---still.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Oh! I will be </line>
+					<line>As silent as the grave you've dug for me. </line>
+					<line>I'll be as wary as the fox, and subtle,</line>
+					<line>But like the adder, when I'm questioned, deaf. </line>
+					<line>And should you fall, (Princes may fall, my lord, </line>
+					<line>As the red leaves in autumn,---nay in spring;) </line>
+					<line>If your own tyranny, or others hate, </line>
+					<line>Rebels at home, or cozening friends abroad, </line>
+					<line>Or open foes should cast you down at last,--- </line>
+					<line>Fear not; I will be there; close at your heart, </line>
+					<line>Just like the canker when the tree decays.&#134;</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>When you have ended,---</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>I have said,---have done.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>You have; and had I not </line>
+					<line>Some of that kindly blood, which you deny, </line>
+					<line>You must have spoken less. Guido, you </line>
+					<line>Have done me shameful wrong; but I have been </line>
+					<line>Patient,---as patient as my nature might: </line>
+					<line>I have born words; such words as never prince </line>
+					<line>Yet bore before from subject, or from son.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Perhaps,---</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Speak out.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Perhaps, I have been warm; </line>
+					<line>But, no,---no.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>As you please. Your humour turns </line>
+					<line>Quickly as mine, it seems; but it shall be </line>
+					<line>My humour to forget. If, after this, </line>
+					<line>In your distemper'd judgment---but no more. </line>
+					<line>---Your mother---</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Ah! indeed no more, no more.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>The Duchess of Mirandola expects </line>
+					<line>To see you. Come, I will go with you,---now.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>I---I have seen her.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>So: 'twas well.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>I bade </line>
+					<line>Gheraldi tells you that I had gone thither.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>'Tis true; he told me (I remember now,) </line>
+					<line>That you had gone to pay your duty there. </line>
+					<line>She was rejoiced to see you?</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>No; not much.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>How? not rejoiced? it was not well to meet </line>
+					<line>My son, and not rejoice; but you must pardon. </line>
+					<line>She has been ill, and the full summer moon </line>
+					<line>Sways at will women's fancies.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>You are gay.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Why not? I have my wife here, and my son </line>
+					<line>The one is beautiful, the other brave. </line>
+					<line>I have no curse that clings to me: no fear </line>
+					<line>That enemies or</line>
+					<line>friends can do me harm.</line>
+					<line>There's not a traitor in the realm could live </line>
+					<line>Now undetected.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Traitors! there are none.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Oh! be not sure. When first the snake puts on </line>
+					<line>His summer-skin, he looks not loathsome: 'tis </line>
+					<line>When he's contract and wrinkled, we begin </line>
+					<line>To fear or hate him.&#134;---But these things are not </line>
+					<line>Fit for a day like this. We should be gay.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>I'll do my best.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Who can ask more? Come then; </line>
+					<line>We'll speak no more of the serpent; yet it was</line>
+					<line>The circling emblem of eternity, </line>
+					<line>And in its terrible folds this world and all </line>
+					<line>Its host of strange and proud inhabitants, </line>
+					<line>With proud men at the head, was compass'd once. </line>
+					<line>If 'twere so now, it would be well, methinks, </line>
+					<line>If the lithe thing would draw its sinuous shape </line>
+					<line>Closer and closer, till---but I forget </line>
+					<line>The festival.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>You do in truth, my lord: </line>
+					<line>That was a curious fancy.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Heed it not: </line>
+					<line>I speculate at times, as well as you.&#134; </line>
+					<line>But you must alter. You must be gay, </line>
+					<line>In dress as looks. Now let us part. We'll meet </line>
+					<line>Presently, in the feasting room.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>I will </line>
+					<line>Be with you presently, redressed.</line>
+					<stage>Exit.</stage>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Farewell. </line>
+					<line>Redress'd!---Now, what a querulous boy is this, </line>
+					<line>Cheating his spleen with words. Insolent words!--- </line>
+					<line>Yet he's my son,---poor, poor Bianca's son. </line>
+					<line>Shall I not curb my fretful nature, when </line>
+					<line>I think of him?---Ah! yes---I'll strive to think </line>
+					<line>Not ill of him.---He bears an honest shew. </line>
+					<line>Were this a time for questioning, I'd ask </line>
+					<line>Touching those letters, and Vitelli's plots--- </line>
+					<line>'Tis not;---perhaps to-morrow. If he should </line>
+					<line>Have been abused.---How much his pallid smile </line>
+					<line>Shone like Bianca's. Oh! I'll love him yet; </line>
+					<line>And he shall love me too: and yet---and yet--- </line>
+					<line>Ah! thus my fiery and suspicious nature </line>
+					<line>Preys ever on itself.---I<em>will</em>be calm.</line></sp>
+				<stage>Exit.</stage>
+			</div><div type="scene"><head>SCENE I.</head>
+				<stage>A Chamber in the Palace.</stage>
+				<stage>
+					<strong>Isidora</strong> and <strong>Isabella</strong> enter. </stage>
+				<sp><speaker>Isab.</speaker>
+					<line>Dear sister, had your face little more mirth </line>
+					<line>How much you'd grace the feast.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>Must I then wear </line>
+					<line>A mask, my lady?</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>No: no need of that. </line>
+					<line>But what has troubled you?</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>O, nothing, nothing.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Nay, now you deal not fairly with my love.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>Well, he---Lord Guido has been with me.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Yes.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>He's full of grief: that's all. I did not weep </line>
+					<line>For that.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>He must not shew this sorrow at the feast. </line>
+					<line>To-day: The Duke is quick, and apt to doubt. </line>
+					<line>Bid him be cautious there.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>We will not meet </line>
+					<line>Again, tho' we had purposed. Guido has </line>
+					<line>Told all: one word unto his old regard </line>
+					<line>He gave, and so we parted.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>This I know.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>You know.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Ay, my sweet sister: I have seen,--- </line>
+					<line>Had you but seen him, too, and heard him sigh, </line>
+					<line>It would have moved you. When he said he had </line>
+					<line>Not even a token to remember you, </line>
+					<line>I promised---</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>What?</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Be not alarmed, dear sister, </line>
+					<line>But I believe, I promised one: Indeed </line>
+					<line>Some message you should send, for if a word </line>
+					<line>(An idle word) escape by chance to-day--- </line>
+					<line>The Duke is jealous.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>Ah! whom can I trust?</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>True;---all about the Duke are cunning; stay--- </line>
+					<line>I'll be your messenger; but you must give </line>
+					<line>The token for him: else he'll not believe. </line>
+					<line>What bauble shall it be, sister? Ha! this,--- </line>
+					<line>This will be excellent.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>Not that. If you </line>
+					<line>Must have some pledge, take this: that ruby ring </line>
+					<line>Was the Duke's gift, and 'tis a favourite.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Shame! </line>
+					<line>He will not recognize so poor a thing </line>
+					<line>As this for your's. Give me your hand; in faith </line>
+					<line>It is a white one. Now, were I a man </line>
+					<line>I'd kiss it, sister, thus.</line>
+					<stage>Takes the ring.</stage>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>Nay, nay; return </line>
+					<line>That ring to me: I pray you---do return it.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>What shall I say to him?</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>Give me the ring.--- </line>
+					<line>The ring.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>I'll trust then to my thoughts; and I </line>
+					<line>May strengthen your entreaties with my own. </line>
+					<line>Should he look sad on you, or smile, the Duke </line>
+					<line>Would madden with strange fears, believe't.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>Indeed, </line>
+					<line>I did not know that he---Hark! hark! who comes?</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Perhaps the Duke.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>Ha! then I'll leave you---nay, I must.</line>
+					<stage>Exit.</stage>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Farewell. I hate her not, tho' her pale face </line>
+					<line>Reproaches me. Poor victim! she is in </line>
+					<line>My toils,---but 'tis to make my child a prince. </line>
+					<line>That base-born,---he has been preferr'd to mine, </line>
+					<line>I and my rights were trampled down---ha! now for </line>
+					<line>My message.</line>
+				</sp><stage>
+					<strong>Guido</strong> enters. </stage>
+				<sp><speaker>Guido.</speaker>
+					<line>Must I then put on a look, </line>
+					<line>And say I am content to all that is,--- </line>
+					<line>To all that has been? Well, 'tis for<em>her</em>sake;</line>
+					<line>And what would I not do for her, tho' she--- </line>
+					<line>She has abandoned me. Poor girl, poor girl! </line>
+					<line>It is too late to grieve.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>What study's this? </line>
+					<line>Dear Guido, are you plotting?</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>How! I am </line>
+					<line>As innocent---</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Against the Duchess and the Duke? nay, nay, I know </line>
+					<line>All, Sir; your meetings, and her tears. Beware </line>
+					<line>The Duke.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>My heart's as innocent---</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>I know it, but the Duke </line>
+					<line>Is jealous;---that's the word: and you must not </line>
+					<line>Awaken him. See; do you know this ring? </line>
+					<line>'Tis Isidora's.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Ha!</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>She sent it to you. </line>
+					<line>I told her of your grief---(Nay, do not chide,) </line>
+					<line>And got this---it will serve, tho' love is over, </line>
+					<line>To bind your friendship fast.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>She sends me that?</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>She sends you this, and bids you smile to-night.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>I'll do't: but 'twas not needful.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>You will do </line>
+					<line>This for---</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>For friendship, Madam, and no more.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Take care'o the ring. </line>
+					<line>Hush! here comes one who need not know it. Well!--- </line>
+					<line>Well, father?</line>
+				</sp><stage>
+					<strong>Gheraldi</strong> enters. </stage>
+				<sp><speaker>Gher.</speaker>
+					<line>Madam, is the Duchess here?</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>She's gone.</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>The Duke is waiting, and the feast </line>
+					<line>Prepared. My lord, your friends are there already.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>I shall be with them, Sir.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Come hither, father.</line>
+					<stage>They talk.</stage>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>A feast---for what? And yet 'tis always thus </line>
+					<line>Why do I quarrel with't? When a man dies </line>
+					<line>They feast and shout---and when a child is born: </line>
+					<line>And when a father thrusts his last pale girl </line>
+					<line>Into the arms of age (ah, death!) they feast, </line>
+					<line>Revel, and dance, and laugh, and mock the night </line>
+					<line>(The modest ear of night) with riot!---Oh! </line>
+					<line>Why should I quarrel with it? I am now </line>
+					<line>The puppet of the day---but I forget: </line>
+					<line>Now for his highness' feast---I will remember.</line>
+					<stage>To <strong>Isab.</strong>
+					</stage>
+				</sp>
+				<em>Exit.</em>
+				<sp><speaker>Isab.</speaker>
+					<line>I'll follow you.</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>'Twas a bright star that guided you to-day?</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>But should we not---Ha! let me think.</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>I have </line>
+					<line>Been with the Duke; he thought himself at ease, </line>
+					<line>But with a word I started him: he tried </line>
+					<line>To laugh away his doubts, and I agreed </line>
+					<line>That they were nought; and then<em>supposed</em>a case---</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Ha! that was well.</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>But he sprung up </line>
+					<line>Sternly and bade me go: and swore he was </line>
+					<line>Content: and then re-echoed my own words, </line>
+					<line>On this I essayed again, but all his spirit </line>
+					<line>Burst forth, and I was ordered straight to quit him.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>He says he's satisfied?</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>Madam, his tongue </line>
+					<line>Proclaims it; but his hand and troubled eye </line>
+					<line>Give fierce denial,---there's that in his heart, </line>
+					<line>Which some day must uproot it. But for the ring?</line>
+					<stage>Music without.</stage>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Come this way, and we'll talk: the feast is ready.</line></sp>
+				<stage>Exeunt.</stage>
+			</div><div type="scene"><head>SCENE III.</head>
+				<stage>A Banquetting Room.---Nobles and Ladies assembled.</stage>
+				<stage>
+					<strong>Julio</strong> and <strong>Casti</strong> entering. </stage>
+				<sp><speaker>Julio.</speaker>
+					<line>This is a gallant shew.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Indeed a fair one: </line>
+					<line>And yet, 'tis but a shew.</line>
+				</sp><sp><speaker>Julio.</speaker>
+					<line>How do you mean?</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Oh! nothing: merely what I say, no more.</line>
+				</sp><sp><speaker>Julio.</speaker>
+					<line>In faith you puzzle me: ha! what a face </line>
+					<line>Look, my dear Casti. Do you see that girl </line>
+					<line>Whose hair is bound with pearls? her cheek is like--- </line>
+					<line>Pshaw!---like---like---</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Like a young rose opening slowly, </line>
+					<line>Kissed by the breath of May.</line>
+				</sp><sp><speaker>Julio.</speaker>
+					<line>I love a rose.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Sir, she was fashioned by the self-same hand,</line>
+					<line>And with more prodigal beauty than the rose; </line>
+					<line>Look at her, she will bear a closer glance. </line>
+					<line>'Tis old Cornelia's child, Camiola--- </line>
+					<line>You 'love a rose'? Kiss her, she'll taste as sweet.</line>
+				</sp><stage>
+					<strong>Isabella</strong> enters. </stage>
+				<sp><speaker>Julio.</speaker>
+					<line>I dare not.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Right: I am her cousin, Sir; </line>
+					<line>But I will make you known.&#134; Lord Guido comes.</line>
+				</sp><stage>
+					<strong>Guido</strong> enters. </stage>
+				<sp><speaker>Guido.</speaker>
+					<line>My father?</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Is not come yet. Let me touch </line>
+					<line>Your hand.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Excellent Casti!---</line>
+					<line>Julio, look! My aunt</line>
+					<line>Has smiled for you this minute.</line>
+				</sp><sp><speaker>Julio.</speaker>
+					<line>I am gone.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Am I the hero of this fête, dear Casti?</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>You are, and you must honor it.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>I will: </line>
+					<line>It is the last.---Hark! hark! I hear a sound: </line>
+					<line>Oh!<em>she</em>is coming.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>I hear nothing---nothing. </line>
+					<line>Come, be a man.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>A wretch.---Now then you hear.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Ay, now: you're quick of ear.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Ha! ha! a man who's flayed alive will feel </line>
+					<line>The merest touch: 'tis thus with me: my ear </line>
+					<line>Hath drunk in burning tidings; scalding words </line>
+					<line>Have been thrust near my brain.&#134;</line>
+					<stage>Music is heard.</stage>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Your father comes.</line>
+				</sp><sp><speaker>Julio.</speaker>
+					<line>Madam, the Duke is coming. Gentlemen, </line>
+					<line>His Highness.</line>
+				</sp><stage>
+					<strong>Duke</strong> and <strong>Isidora</strong> enter. </stage>
+				<sp><speaker>Duke.</speaker>
+					<line>Sit; Oh! sit.---No more of this </line>
+					<line>Authority puts off her state to-day, </line>
+					<line>And for once, we are equal.---Where's my son? </line>
+					<line>Gentlemen! Friends! I give you all a welcome. </line>
+					<line>Where is my son?</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>My lord!</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Here is an old </line>
+					<line>Acquaintance, Isidora. Give my son </line>
+					<line>Welcome. He smiles upon us.</line>
+					<stage>Aside.</stage>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>Welcome, my lord!</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Madam, I thank you.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Ha! Count Casti! you </line>
+					<line>Are known unto my wife; is it not so.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Slightly I have been honored.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>Welcome, Sir, </line>
+					<line>Unto Mirandola. The Duke and I </line>
+					<line>Are glad to see so kind a countenance here.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Oh! bravely. I shall teach you soon to know </line>
+					<line>The customs of a court: but, rest you now.--- </line>
+					<line>My friends! I pray ye, sit, and taste your welcome. </line>
+					<line>But how is this? There should be music here, </line>
+					<line>To greet my son after his battles.---Bid </line>
+					<line>The trumpet speak, and the fine thrilling harp </line>
+					<line>Chime in his ear, 'till every nerve is touched; </line>
+					<line>And let the flutes (like gentler voices) lend </line>
+					<line>Their pleasant tones, and the rich viols make, </line>
+					<line>With all their strings, harmonious noise to-night. </line>
+					<line>Strike forth, musicians, while the feast proceeds.</line>
+				</sp>
+				<stage>Chorus.</stage>Welcome, welcome from afar;<line>This is thy own festal day. </line>
+				<line>Welcome from the toil of war, </line>
+				<line>Son of great Mirandola.</line>
+				<sp><speaker>Julio.</speaker>
+					<line>That was a pleasant strain.</line>
+				</sp><sp><speaker>Lady.</speaker>
+					<line>Most pleasant Sir.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Stir not.</line>
+					<stage>
+						<strong>Duke</strong> and <strong>Isidora</strong> rise.] </stage> O! fair
+						<line>Camiola, take heed.---You do not wear </line>
+					<line>The ring I gave you, dearest. How was this?</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>The ring?</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Aye, love: the ring I chose </line>
+					<line>From out a hundred, ruby cased in gold, </line>
+					<line>Shaped like a cross; I kissed it on your hand, </line>
+					<line>And swore upon that cross to love you ever. </line>
+					<line>Where is it?---But no matter; when we feast </line>
+					<line>Again, remember it---my favorite ring.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>I will, my lord.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Now sit.---Give me a bowl </line>
+					<line>Of wine!---There is a troubled spirit still </line>
+					<line>Hanging about my heart. Some wine---enough. </line>
+					<line>I'll drown it quickly.---What a sparkling crown </line>
+					<line>(Beaded too royally) floats on the top </line>
+					<line>Of this clear liquid now, and tempts my taste. </line>
+					<line>Guido, my son, health and fair life be yours; </line>
+					<line>Your father speaks it with an earnest voice.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>But, for the heart---</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Nay, now I disagree. </line>
+					<line>Methinks his heart is in it.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Excellent friend, </line>
+					<line>You always teach me well.---Father, I thank you.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>There is a cordial something in that word. </line>
+					<line>Father!---'twas thus he spoke, for the first time </line>
+					<line>Since his return, I think: 'Father!'---How lovely </line>
+					<line>My young bride looks. Beautiful, beautiful love! </line>
+					<line>How fair---how utterly without a peer </line>
+					<line>She is!---Apostate that I was to doubt: </line>
+					<line>And yet I did not: no, no, no: I did not. </line>
+					<line>Is that Hypolito?</line>
+				</sp><sp><speaker>Hyp.</speaker>
+					<line>Yes, my dear lord.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Oh! reveller!--- </line>
+					<line>Sister, I have not noticed you; forgive't. </line>
+					<line>My heart was full of trouble and deep joy; </line>
+					<line>Strange company, you'll say for one so wise </line>
+					<line>As I am thought to be: but so it is.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>What was the matter with my sister?</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>When?</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Just now: she seemed to shrink.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>From me? from<em>me</em>?</line>
+					<line>&#134;Oh! you mistake. More wine: fill high! </line>
+					<line>Gentlemen! a brave welcome to my son! </line>
+					<line>Guido, may discord never, never come </line>
+					<line>Between us.---Bring a goblet hither, Sirs, </line>
+					<line>And let him taste his welcome. Let the health </line>
+					<line>Pass round, and no one slight it. My dear son, </line>
+					<line>Give me your hand.---At Mantua once this---Ah!---</line>
+					<stage>He sees the ring.</stage>
+				</sp><sp><speaker>Julio.</speaker>
+					<line>Look!---What's the matter with the Duke?</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>My lord!</line>
+				</sp><sp><speaker>Hyp.</speaker>
+					<line>Look at my uncle, mother!</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Sir, be still!</line>
+				</sp><sp><speaker>Lord.</speaker>
+					<line>Come forward---How?</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>My lord!---Ha!</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Father, speak, </line>
+					<line>What means this?</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Nothing. I am quiet---calm. </line>
+					<line>The heaven's are o'er us, and it may be---nothing. </line>
+					<line>It may be---Ha! begone!---Now, now, for ever </line>
+					<line>I cast aside goodness and faith and love, </line>
+					<line>No more to be put on---masks as they are, </line>
+					<line>To hide the base and villainous tricks of men. </line>
+					<line>Break up the feast! All leave us!---O bright Heaven! </line>
+					<line>Laugh you in scorn upon me! See it shines </line>
+					<line>Right through the windows, and the nodding pines </line>
+					<line>Shake their black heads and mock me.---Shall I swear </line>
+					<line>To kill?</line></sp>
+				<stage>The guests go out.</stage>
+				<sp><speaker>Guido.</speaker>
+					<line>Father!</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>That is---</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>My lord!</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>A lie, </line>
+					<line>Monstrous and foul, not to be said or thought.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>My gracious lord!</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>False painted thing, begone!</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Nay---</line>
+				</sp><sp><speaker>Duke</speaker>
+					<line>Sister, will you drive me mad---outrageous? </line>
+					<line>I am abused---abused, I tell you. Ha! </line>
+					<line>Now do you start?</line></sp>
+				<sp><speaker>Isab.</speaker>
+					<line>Retire, sweet Isidora: </line>
+					<line>And you, dear Guido, bid Gheraldi come.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Poor Isidora!---What a fate is thine?</line>
+					<stage>
+						<strong>Guido</strong> and <strong>Isidora</strong> exeunt.] </stage>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Just when I had forgiven---almost forgot </line>
+					<line>All his most insolent taunts, all, and her cold </line>
+					<line>Unwilling smiles that made---that make me mad. </line>
+					<line>I could have loved her---like a fiery star, </line>
+					<line>I could have bent before her from my path </line>
+					<line>And worshipped her as something holy.---Now, </line>
+					<line>O, now!---</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Dear brother!</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Still am I the Duke. </line>
+					<line>Must you too put aside respect? No matter. </line>
+					<line>I'll keep my way alone, and burn away--- </line>
+					<line>Evil or good I care not, so I spread </line>
+					<line>Tremendous desolation on my road:--- </line>
+					<line>I'll be remembered as huge meteors are, </line>
+					<line>From the dismay they scatter.</line>
+				</sp><stage>
+					<strong>Gheraldi</strong> enters. </stage>
+				<sp><speaker>Gher.</speaker>
+					<line>Gracious Sir!---</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>I wish to be alone. </line>
+					<line>O earth and heaven! so fair, so lovely, yet </line>
+					<line>To be a---wretch. Now for all future time </line>
+					<line>I'll hate all things which seem as they were true, </line>
+					<line>For then they're false, I know. What<em>I</em>am</line>
+					<line>I care not.---Father, draw yon curtain down; </line>
+					<line>Those sycophant branches with their bending leaves </line>
+					<line>Mock me: they mock my misery---my pain. </line>
+					<line>O how my heart aches!</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Brother, be composed.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>I cannot.---Will you pour upon my brain </line>
+					<line>Oblivion, or sweet balm over my heart? </line>
+					<line>No: then you jeer me when you bid me still </line>
+					<line>Be calm.---Would I were dull as Lethe is! </line>
+					<line>Or dead---dead: that were better; yet not so, </line>
+					<line>For I will live to be a terror still.</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>My lord!---</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>And yet,---were it not better, now, </line>
+					<line>To leave the world at once, and pass my age </line>
+					<line>In cell or forest?---this has been.&#134;</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>My lord! </line>
+					<line>Perhaps the lady Isidora---</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Slave! </line>
+					<line>That word destroys me---tears me,---heart and soul. </line>
+					<line>Cannot I dream, or sleep, but thou must be </line>
+					<line>(My black familiar) at my elbow? Monk! </line>
+					<line>I hate your fawning---(Sister, stay your speech,) </line>
+					<line>I hate your sly insinuating smiles, </line>
+					<line>Your tongue that mocks your eyes, and tells a tale </line>
+					<line>As foul as night. I will not trust that tongue; </line>
+					<line>No, nor your eye, for both may be---are false. </line>
+					<line>Audacious slave!</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Dear brother, I must speak.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>I've heard of men who in a moment have </line>
+					<line>Done deeds of blood; but I---I will not thus </line>
+					<line>Redden my memory. Leave us, Monk---Begone!</line>
+					<stage>
+						<strong>Gheraldi</strong> exit. </stage>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Dear brother, you---</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>And you too go. </line>
+					<line>Go, Isabella:---Nay, it must be so. </line>
+					<line>Leave me to think.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Farewell!</line>
+					<stage>Exit.</stage>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>To think---of what? </line>
+					<line>Of hell and all its horrors; for this earth, </line>
+					<line>It seems, may have a hell as full of pains, </line>
+					<line>And burning torture as was ever hid </line>
+					<line>In the dark bowels of the rolling world. </line>
+					<line>Places there are, 'tis said, where ill-starred souls </line>
+					<line>Pine amongst flames. My flames are in the heart, </line>
+					<line>And in the head---the brain, and every nerve. </line>
+					<line>And every trembling muscle of my frame. </line>
+					<line>O this hot ague! and my parching tongue </line>
+					<line>Clings close and closer still, and thro' my eyes </line>
+					<line>Run blood and fire, and---Ah!---O false, false, false! </line>
+					<line>Hush! some one comes. What! shall the Prince be jeered? </line>
+					<line>I'll fly into some corner dark as night.</line></sp>
+				<stage>Exit.</stage></div>
+		</div>
+		<div type="act"><head>ACT IV.</head>
+			<div type="scene"><head>SCENE I.</head>
+				<stage>The Anti-room of the Duke's Apartments.</stage>
+				<stage>
+					<strong>Curio</strong> waiting. </stage>
+				<sp><speaker>Isab.</speaker>
+					<stage>entering</stage>
+					<line>Where is the Duke?</line></sp>
+				<sp><speaker>Curio.</speaker>
+					<line>Now in his chamber, Madam: </line>
+					<line>But he has given orders that no one </line>
+					<line>Shall have admittance.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>I<em>must</em>go to him.</line>
+				</sp><sp><speaker>Curio.</speaker>
+					<line>Madam, you know how violent is the Duke: </line>
+					<line>He bid me keep the door.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Go in, go in, Sir, </line>
+					<line>And tell him that I wish to see him, straight, </line>
+					<line>The matter's urgent. Go, Sir.</line>
+					<stage>
+						<strong>Curio</strong> exit. </stage>
+				</sp>
+				<sp><speaker>Casti.</speaker>
+					<stage>Without.</stage>
+					<line>Where is Lord Guido?</line></sp>
+				<sp><speaker>Isab.</speaker>
+					<line>How! </line>
+					<stage>
+						<strong>Casti</strong> enters with a letter. </stage>
+					<line>Well, Sir?---</line></sp>
+				<sp><speaker>Casti.</speaker>
+					<line>Where is he,---Guido?</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Where?</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>I must </line>
+					<line>See him directly. Can you not tell me where?</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Perhaps---</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Yes, yes.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>And yet he will not walk </line>
+					<line>To-night, tho' 'tis his hour:---but he may be </line>
+					<line>In the confessor's chamber. Do you know't?</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>I'll find it, Madam.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Yet it were as well, </line>
+					<line>If you should try the terrace first.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>I'll do't.</line>
+					<stage>Exit.</stage>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>That was well thought: now we have time at least.</line>
+				</sp><stage>
+					<strong>Guido</strong> enters. </stage>
+				<sp><speaker>Guido.</speaker>
+					<line>May I come in?</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Come in: I cannot gain </line>
+					<line>Admittance.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>I must see my father, Madam, </line>
+					<line>Let what will follow it.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Do you know yet </line>
+					<line>What caused my brother's frenzy at the feast? </line>
+					<line>'Twas strange!</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Strange! It was madness. </line>
+					<line>Half of the ills we hoard within our hearts </line>
+					<line>Are ills because we hoard them. A fair tale </line>
+					<line>Will ever put down scandal, and the Duke </line>
+					<line>Wants but an open story. I will see him, </line>
+					<line>By Heaven!</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Be patient!</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Shall my heart be wrung </line>
+					<line>At every turn, and I know not the cause? </line>
+					<line>I were a fool indeed---Well, Sir, the Duke?</line>
+				</sp><stage>
+					<strong>Curio</strong> re-enters. </stage>
+				<sp><speaker>Curio.</speaker>
+					<line>Madam, I dare not enter.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Fool!---then I </line>
+					<line>Will go myself.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>No, no; I'll see him first. Trust me for once. </line>
+					<line>A woman's words---</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Then linger not.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>How's this? I've heard no noise.</line>
+				</sp><sp><speaker>Curio.</speaker>
+					<line>Madam, nor I </line>
+					<line>For the last hour.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Great Heaven! what can it mean?</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Has he not spoken?</line>
+				</sp><sp><speaker>Curio.</speaker>
+					<line>No.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Nor moved?</line>
+				</sp><sp><speaker>Curio.</speaker>
+					<line>He has not.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>I will go in, let what will happen.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Stay!</line>
+				</sp><sp><speaker>Curio.</speaker>
+					<line>I'll venture since it must be so, my lord. </line>
+					<line>But may I beg you to withdraw.---This way.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>It cannot be.---Poor father!</line>
+				</sp><sp><speaker>Curio.</speaker>
+					<line>This way, Madam: </line>
+					<line>And I entreat your silence.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Come: this way.</line></sp>
+				<stage>Exeunt.</stage>
+			</div><div type="scene"><head>SCENE II.</head>
+				<stage>The Duke's Chamber.</stage>
+				<stage>The Duke is sitting alone.</stage>
+				<sp><speaker>Curio.</speaker><stage>entering.</stage> <line>He sleeps: Hush!---no,
+						wide awake. </line>
+					<line>My lord! the lady Isabella is here. </line>
+					<line>My lord!---He does not answer me. My lord! </line>
+					<line>Ha! Madam, Madam, enter---Look!</line></sp>
+				<stage>
+					<strong>Isabella</strong> enters. </stage>
+				<sp><speaker>Isab.</speaker>
+					<line>What's this? </line>
+					<line>Leave us.</line>
+					<stage>Exit <strong>Curio</strong> .] </stage> Dear brother, will you be the
+					talk <line>Of your own servants? Give me your hand: how cold! </line>
+					<line>Speak!---why are you alone?</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Alone---alone.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Nay, this </line>
+					<line>Is idle.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Who---Ah! sister, is it you? </line>
+					<line>'Tis a cold day---dull as December.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>'Tis </line>
+					<line>Indeed a wretched day.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Indeed? Ah! now </line>
+					<line>I recollect.---Oh! mercy! mercy!---Hear </line>
+					<line>Heaven and earth and air, if I---if I--- </line>
+					<line>But no, I will not curse them: thro' the world </line>
+					<line>A curse will follow them, like the black plague </line>
+					<line>Tracking their footsteps ever,---day and night--- </line>
+					<line>Morning and eve,---summer and winter,---ever, </line>
+					<line>I would not be a wretch so followed for </line>
+					<line>The wide supremacy of all the air. </line>
+					<line>I'd not be such a wretch---O Heaven! O Heaven! </line>
+					<line>Am I not worse than they are?</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Worse,---how worse?</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Oh, more---more desolate.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Guido.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>No more.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>He asks to see you.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>We will meet hereafter: </line>
+					<line>In the world, never. In the grave perhaps--- </line>
+					<line>In the dark common chamber of the dead </line>
+					<line>We'll visit, where upon his shadowy steed </line>
+					<line>(Pale as a corpse) the speechless phantom rides, </line>
+					<line>Our king and enemy: there, friends and foes </line>
+					<line>Meet without passions, and the sickly light </line>
+					<line>That glimmers thro' the populous homes of death </line>
+					<line>Will be enough to find us. We shall know </line>
+					<line>Each other there, perhaps.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>His was indeed </line>
+					<line>A grievous fault; but he may mend. He's shrewd, </line>
+					<line>And he may clear himself. Shall he come in?</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>No: and when I talk thus---thus calmly, you </line>
+					<line>Know well I mean my words.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Nay---</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Nay; I am </line>
+					<line>As firm as marble: fixed as fate: no more. </line>
+					<line>Now, what's the day's amusement? Is't to hunt,</line>
+					<line>Or fish, or sail, or fly the falcon?---what? </line>
+					<line>Or shall we drop upon our knees and pray?&#134;</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>He says he must be heard.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>He must? Must!---Then </line>
+					<line>Bid him come in.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>You jest.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Not I, by justice!---So---</line>
+					<stage>sits]</stage> that's well. I seem <line>To sit in judgment. Were the
+						world before me--- </line>
+					<line>The sinner, and the saint,---the prodigal, </line>
+					<line>And he who hoards his gold, and they who give </line>
+					<line>Not even a thought in charity,---base slaves, </line>
+					<line>Stabbers and thieves, and parricides, I'd hold </line>
+					<line>The balance firmly. Isabella, go. </line>
+					<line>Sirs, bid my son approach.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>I fear---well, well.</line>
+					<stage>Exit.</stage>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>There was a Roman who condemned his son </line>
+					<line>To death. I'll pass a gentler sentence, tho'</line>
+					<line>I am myself the victim. It is strange; </line>
+					<line>But I do feel within me a calm glow, </line>
+					<line>As tho' the words I am about to say </line>
+					<line>Bore on their sound conviction. Can it be </line>
+					<line>That I have erred? Away, away:---if ever </line>
+					<line>I rise to hope I shall grow wild again. </line>
+					<line>Despair is better.&#134; Hark! he comes; my blood </line>
+					<line>Is half in tumult,---yet I will be calm.</line>
+				</sp><stage>
+					<strong>Guido</strong> enters. </stage>
+				<sp><speaker>Guido.</speaker>
+					<line>Father!</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Lord Guido, I am told you wish </line>
+					<line>An audience; is it so?</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>It is.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Speak on. </line>
+					<line>If you have suffered wrong and pray relief, </line>
+					<line>Why, you should have it.---If you have done wrong, </line>
+					<line>The church is open, and the gate of Heaven </line>
+					<line>Wide for a true repenter.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Oh! my lord, </line>
+					<line>I beg you to cast off this garb.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>It is </line>
+					<line>The garb of justice; treat it with honour, Sir, </line>
+					<line>As you may hope to thrive. Well!</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Why is this?</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Why! have you aught to ask? if so, speak on.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>My lord, I know not how it is, but you </line>
+					<line>Who (if I must speak truth) have wrong'd<em>me</em>much,</line>
+					<line>Assume the injured man. What have I done?--- </line>
+					<line>You will not answer?---no?</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Go on, go on. </line>
+					<line>I like your boldness,---not your spirit. Well!</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>What have I done, my lord?</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>What done!---but speak.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>You think me traitor, as I hear; but surely </line>
+					<line>I were a sorry knave, to plot against </line>
+					<line>The state which will be mine.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Be not too sure. </line>
+					<line>Proceed.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>That's as you will, my lord:---but away with this. </line>
+					<line>My lord, my lord! I ask you, can I be </line>
+					<line>The same in soul as when we fought at Mantua--- </line>
+					<line>Together,---side by side? I hate to name it: </line>
+					<line>But, did I not---I ask you, did I not </line>
+					<line>Once do you service?</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Yes: I own to that. </line>
+					<line>You speak it doubtfully: you saved my life. </line>
+					<line>Pray, be not sparing. I can bear it all.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Have I deserved this, Sir? Great Heaven!</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Silence! </line>
+					<line>You have affronted Heaven; and the sad day </line>
+					<line>(Now dying) leaves a blush upon the face </line>
+					<line>Of the great sky, faint as your honour.---You </line>
+					<line>Have practised against Heaven,---against me.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>I have not, by my hopes: nay, hear me swear--- </line>
+					<line>If I have done---done what? I know not what. </line>
+					<line>But if I ever gave you cause to hate me,--- </line>
+					<line>If I have wronged you by myself, or e'er </line>
+					<line>Conspired with others,---plotted, writ, or thought,--- </line>
+					<line>Nay, if I ever heard of foes to you </line>
+					<line>And lent them help or countenance---strike me down! </line>
+					<line>I call on you, bright Heaven! I call on all </line>
+					<line>Your terrible thunders and blue darting fires </line>
+					<line>Quickly to come upon me. If my words </line>
+					<line>Are false, strike me to nothing!</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Well, Sir, I </line>
+					<line>Have heard.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>And doubt me still?</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Doubt! </line>
+					<line>If you have said? you have: why then good even. </line>
+					<line>Now we may go and pray.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Once more.---That ring--- </line>
+					<line>(The Duchess' ring) was given me as a pledge </line>
+					<line>Of a pure friendship.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Ha!</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Oh! my lord, do not doubt me.---Once more, Sir, </line>
+					<line>I ask you to remember what I was, </line>
+					<line>And now believe.---My lord!---Nay,---not a word? </line>
+					<line>Not one?---Then is my purpose strong. My lord, </line>
+					<line>I see that 'tis in vain to hope to stay </line>
+					<line>In quiet at Mirandola. Each hour </line>
+					<line>Would bring a host of troubles and of fears </line>
+					<line>On me,---or both, perhaps: and I've enough </line>
+					<line>Therefore, unless your highness orders that </line>
+					<line>I must remain, I purpose speedily </line>
+					<line>(To-night, indeed) to travel.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Travel!---where? </line>
+					<line>Where do you think to travel?</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>I know not where: somewhere about the world. </line>
+					<line>What matters it where I am?</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>This is sudden. </line>
+					<line>Your resolution's sudden,---but 'tis wise. </line>
+					<line>You have my full consent,---my wish: what more?</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Will you not say farewell?</line>
+				</sp>
+				<sp><speaker>Duke.</speaker><stage>rising.</stage> <line>Shall you stop first </line>
+					<line>At Naples?</line></sp>
+				<sp><speaker>Guido.</speaker>
+					<line>First at Rome.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Perhaps you may hear further from me there.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Yet say farewell.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Farewell.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Oh, Father, I </line>
+					<line>Am going far---for ever. This cold hand, </line>
+					<line>Which now I stretch abroad towards you,---now, </line>
+					<line>You'll never touch again.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Farewell!---Mountains and seas </line>
+					<line>Must rise and roll between us: then, perhaps, </line>
+					<line>We may be friends again. I loved you once--- </line>
+					<line>Once for your mother's sake; ay, for your own. </line>
+					<line>I had brave hopes, but you have blighted them;--- </line>
+					<line>But I may write to Rome.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>I hope you will.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>If what I think is wrong: no matter, you </line>
+					<line>Shall hear from me at Rome.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>At Rome, then.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>If </line>
+					<line>My power, or my purse be wanting---ever, </line>
+					<line>(Death! I shall play the fool!)---if ever I </line>
+					<line>Can serve you, let me know, and 't shall be done. </line>
+					<line>This from my old affection will I do. </line>
+					<line>Some one has used me ill---some one has struck </line>
+					<line>And tortured me. Let me look on you.---You </line>
+					<line>Had always a brave look;---ay, from a boy.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>I wore my innocence there, and in my heart.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Well, well; no more; you'll see the Duchess ere </line>
+					<line>You leave us.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>No, my lord.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>You'll see her? Nay---</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>'Tis better not. I leave Mirandola </line>
+					<line>To-night.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>But first---</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Pray, spare me.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Then---why then </line>
+					<line>Fare you well, Guido; for it must come to that </line>
+					<line>At last.---Farewell! yet, wheresoe'er you go, </line>
+					<line>Still do not quite forget Mirandola. </line>
+					<line>You have had happy hours and pleasant thoughts, </line>
+					<line>And I---I have had some: in infancy </line>
+					<line>I---(tho' I was a prince) would not confide </line>
+					<line>My son to hirelings. I have stood and watched </line>
+					<line>You sleeping, (then I dared not own you, for </line>
+					<line>My father lived,) while poor Bianca wept. </line>
+					<line>Oh! I have watch'd you with a cotter's care, </line>
+					<line>Thro' many and many a night:---'tis so; and now </line>
+					<line>Mountains and stormy seas will come between </line>
+					<line>Our hearts. While you are wandering, I shall be </line>
+					<line>Shut in my palace,---prisoned up,---a slave: </line>
+					<line>What else are princes ever? but I'll write </line>
+					<line>To Rome.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>I shall expect it.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Confide in me. </line>
+					<line>I thought I had a word or two to say, </line>
+					<line>But they are gone;---the common things, perhaps, </line>
+					<line>Men say at parting: likely nothing more. </line>
+					<line>You may return: if not, why let us part </line>
+					<line>Like friends at least: hate is a galling load </line>
+					<line>To bear in absence; so---farewell. Oh! Guido! </line>
+					<stage>Embraces him.</stage>
+					<line>And now, no more. Farewell!</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Once more, farewell, </line>
+					<line>Farewell!</line>
+					<stage>Exit.</stage>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Farewell! The kindest breath of Heaven </line>
+					<line>Rest on your head and hallow it.---My son! </line>
+					<line>My only son! and is he gone for ever? </line>
+					<line>How<em>I have</em>loved him let these tremulous hands</line>
+					<line>Proclaim, and these my weeping woman's eyes, </line>
+					<line>Not often stained with tears.---Farewell, once more. </line>
+					<line>Son of my youth! And now I'll take one look </line>
+					<line>At the blue sky, and taste the scents which hang </line>
+					<line>Around the flowers.---Methinks I feel again </line>
+					<line>My stature princely, and still running clear </line>
+					<line>The high blood of Mirandola.</line></sp>
+				<stage>Exit.</stage>
+			</div><div type="scene"><head>SCENE III.</head>
+				<stage>The Apartment of the Confessor.</stage>
+				<stage>
+					<strong>Gheraldi</strong> discovered at a Table, with Papers; and a Chest open,
+					to and from which he goes. </stage>
+				<sp><speaker>Gher.</speaker>
+					<line>Now, haughty lady, now indeed thy nets </line>
+					<line>Are closing round thy victims: but thou art </line>
+					<line>Thyself within my mesh.---I want thy help, </line>
+					<line>To thrust me in the conclave; until then </line>
+					<line>I'll keep thy secrets safely,---and thy letters. </line>
+					<line>Ha! this---</line>
+					<stage>Reads.]</stage> "To Guido de Mirandola, <line>Naples."---That Gaspero had
+						an honest look; </line>
+					<line>And yet he was a knave. This---"To the Father </line>
+					<line>Gheraldi." Signed "Thy true friend Isabella." </line>
+					<line>This is my bill on fortune---"thy true friend." </line>
+					<line>And here are Guido's letters to the Duke </line>
+					<line>I would not lose them for a mitre. But </line>
+					<line>There is another---Ha!</line>
+					<stage>Goes to the chest.</stage>
+				</sp><stage>
+					<strong>Casti</strong> enters suddenly. </stage>
+				<sp><speaker>Casti.</speaker>
+					<line>Is not Lord Guido here?</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>Signior!---Lord Guido?</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Ay, Sir, Lord Guido.---I must see him quickly. </line>
+					<line>Why, what's the matter, Monk?</line>
+				</sp>
+				<sp><speaker>Guido.</speaker>
+					<stage>Within.</stage>
+					<line>In this room, say you?</line></sp>
+				<sp><speaker>Casti.</speaker>
+					<line>Ha! that is his voice? </line>
+					<stage>
+						<strong>Guido</strong> enters. </stage>
+					<line>My dear Guido! I want </line>
+					<line>Some private words---I want to have some speech </line>
+					<line>With the lord Guido, Sir.</line></sp>
+				<sp><speaker>Gher.</speaker>
+					<line>With the lord Guido?</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Death! </line>
+					<line>Do you not hear? We wish to talk in private.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>You'll trust us in your room awhile, Gheraldi?</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>My lord,---my papers.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Never mind them, Monk. </line>
+					<line>How! do you think we wish to learn how well </line>
+					<line>You turn a cunning verse? leave 'em and go.</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>My lord, I must---</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>How!---I have spoken, Sir, </line>
+					<stage>Waves him off.</stage>
+					<line>Some minutes hence you may return.</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>But first---</line>
+					<stage>Seizes the papers.</stage>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Begone!</line>
+					<stage>As Gheraldi goes, he thrusts the papers into his robe:---some fall, as
+						Casti hurries him out.</stage>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Now, </line>
+					<line>I have a message.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>You must say it quickly; </line>
+					<line>For I am going.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Going---where?</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>I leave </line>
+					<line>Mirandola this hour.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>For what? for what?</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>My friend, the Duke and I must part. Nay, spare me: </line>
+					<line>It is determined on. I go to-night.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>To-night you must not; for the Duchess asks,--- </line>
+					<line>Implores a meeting with you.---In my hand </line>
+					<line>I hold her letter: look! 'twas written with </line>
+					<line>A trembling heart.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Poor Isidora! so </line>
+					<line>Thy young heart trembled when it wrote to me. </line>
+				</sp><stage>Reads.]</stage> Ha! Casti---stay, stay: how! to-night? to-night?
+					<line>It cannot be: I've said---</line>
+				<sp><speaker>Casti.</speaker>
+					<line>And I have sworn, </line>
+					<line>Upon the Duchess' hand, that you shall see her. </line>
+					<line>You must---Oh! no excusing.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>My dear friend, </line>
+					<line>There are some trials which the mind (tho' made </line>
+					<line>Ev'n hard by sorrow) cannot go through well: </line>
+					<line>Such one is this.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>She wept,---do you not hear? </line>
+					<line>She wept and bade me as I loved her honour, </line>
+					<line>Her life,---to bring you to her.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>How can I </line>
+					<line>See her? I go this hour.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>You can, you can: </line>
+					<line>Cannot you leave your horses at the inn </line>
+					<line>(The first you arrive at) near the mountains? then </line>
+					<line>You can return alone, wrapt in your cloak. </line>
+					<line>Who'll know of this? 'tis easy. Why, the night </line>
+					<line>Itself will shroud you well.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>But should the Duke---</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Do I not tell you that perhaps her life--- </line>
+					<line>Her very life's at stake.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Well!---</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Well---you must do't.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>We must be secret; yes, </line>
+					<line>We must be very secret,---but I'll do't. </line>
+					<line>There is a fate in this.</line>
+					<line>I seem to go</line>
+					<line>Calmly, yet with a melancholy step, </line>
+					<line>Onwards and onwards.---Is there not a tale </line>
+					<line>Of some man, (an Arabian as I think,) </line>
+					<line>Who sailed upon the wide sea many days, </line>
+					<line>Tossing about, the sport of winds and waters, </line>
+					<line>Until he saw an isle, towards which his ship </line>
+					<line>Turned suddenly?---there is: and he was drawn, </line>
+					<line>As by a magnet on, slowly, until </line>
+					<line>The vessel neared the isle: and then, it flew </line>
+					<line>Quick as a shooting star, and dash'd itself </line>
+					<line>To pieces. Methinks I am this man.&#134;---But be it. </line>
+					<line>I'll go to Isidora.</line>
+				</sp><stage>
+					<strong>Andrea</strong> and <strong>Carlo</strong> enter. </stage>
+				<sp><speaker>Casti.</speaker>
+					<line>Well!</line>
+				</sp><sp><speaker>Andrea.</speaker>
+					<line>My lord, </line>
+					<line>Your horses wait.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Now?</line>
+				</sp><sp><speaker>Andrea.</speaker>
+					<line>In the court, my lord.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Farewell, then: I shall see you once more.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>You </line>
+					<line>Will not deceive me?</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>I will not, my friend. </line>
+					<line>I'll see you after I have seen her: now, </line>
+					<line>Farewell.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Farewell then.---I will stay </line>
+					<line>Here; lest our parting (colder than should be </line>
+					<line>'Tween friends) give rise to doubts.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Right.---Fare thee well!</line>
+					<stage>Exeunt <strong>Guido, Andrea</strong> and <strong>Carlo</strong> .
+					</stage>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Poor Guido!---I have done my task; altho' </line>
+					<line>I hate these secret meetings. What I do </line>
+					<line>I wish the sun to see; yet, I have been </line>
+					<line>A messenger to him:---Well, perhaps---So, </line>
+					<stage>takes up the papers.</stage>
+					<line>What have we?---the monk's homilies, or---Ha! </line>
+					<line>What!---to Lord Guido, signed by---by the Duke? </line>
+					<line>Death! it all strikes upon me. This is not </line>
+					<stage>opens the pacquet.</stage>
+					<line>A time for doubting. What is this? Ah! Heaven!</line>
+				</sp><stage>
+					<strong>Gheraldi</strong> enters. </stage>
+				<sp><speaker>Gher.</speaker>
+					<line>I must have dropped some---Ha! Signior! </line>
+					<line>My lord, this is not well. My lord, I say!</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Begone, thou villain!---This</line>
+				</sp><stage>reads</stage>
+				<line>from Guido to</line>
+				<line>The Duke?</line>
+				<sp><speaker>Gher.</speaker>
+					<line>Give me my letters, Sir.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Another!---How! </line>
+					<line>Oh! mercy! thou'rt betray'd, poor friend, betray'd. </line>
+					<line>Thou avarice bitten slave!</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>Give---give me but </line>
+					<line>Those letters, Sir, and you shall have---</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Insolent slave!</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>Not for myself, not for myself, my lord; </line>
+					<line>But for the lady Isabella.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Ha!</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>She'll thank you---she'll reward you: you shall have--- </line>
+					<line>I know not what.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>By Heaven, her writings here </line>
+					<line>To you---to you, you mean, and loathsome worm! </line>
+					<line>Ha! signed "your true friend Isabella."</line>
+					<stage>He reads, holding the letters away from <strong>Gheraldi</strong> .
+					</stage>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>Sir--- </line>
+					<line>My lord! my lord!</line>
+					<stage>Clings to <strong>Casti</strong> . </stage>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>'Tis here, 'tis here! Begone! I see it now--- </line>
+					<line>I see it all.---Oh, Guido! poor lost friend! </line>
+					<line>But it is here---thy proof! and<em>thy</em>proof too,</line>
+					<line>Thou double slave!---Begone!</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>I'll give you all!--- </line>
+					<line>I have a mighty hoard---of gold---of gems---</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Unloose me, villain!---This shall to the Duke!</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>My lord, my life is in it.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Guido's life: </line>
+					<line>His honor! but they shall be saved. Begone!</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>I cannot---will not.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Slave! Ha! villain, down!</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>My lord, I'll be for ever---I will kneel---</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Hence!---Now we triumph.</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>Go not!</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>To the Duke: </line>
+					<line>Ay, to the Duke in triumph: Thou shalt be--- </line>
+					<line>Begone!---Ha! villain!---Nay, then thus I dash </line>
+					<line>You down for ever.---Hence!---Now then, my friend, </line>
+					<line>Now victory is ours. Honor---thy father's love, </line>
+					<line>Saved, and thy princely name made clear for ever. </line>
+					<line>Now for the Duke.---Away!</line></sp>
+				<stage>Exeunt.</stage>
+			</div>
+		</div>
+		<div type="act"><head>ACT V.</head>
+			<div type="scene"><head>SCENE I.</head>
+				<stage>The Apartment of the Duchess.</stage>
+				<stage>Duke, Isidora.</stage>
+				<sp><speaker>Duke.</speaker>
+					<line>Sweet, talk no more of this. Sorrow has past </line>
+					<line>Over us like a storm:---my heart is stilled; </line>
+					<line>And, though more lonely than I thought to live, </line>
+					<line>We'll make the best of life.</line>
+					<line>Poor policy</line>
+					<line>It is to shun the few bright hours that come, </line>
+					<line>'Cause more are absent from us. Let us be </line>
+					<line>Happy, love, if not gay.&#134; Come; sit beside me. </line>
+					<line>Why do you stand, dear Isidora?</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>I--- </line>
+				</sp><stage>Aside]</stage> The hour is past: he must be waiting. Now <line>Excuse
+					me.</line>
+				<sp><speaker>Duke.</speaker>
+					<line>Presently. Come sit by me; </line>
+					<line>And let me tell you once more how I love you, </line>
+					<line>How utterly and self-abandoned I </line>
+					<line>Gave my whole soul to you. Oh! pardon, then, </line>
+					<line>(Pardon for this devotion's sake,) that I </line>
+					<line>Ever pronounced a word that look'd like anger, </line>
+					<line>Fear, or a false mistrust. I gave up all: </line>
+					<line>Could I ask less than all? Why, what is't moves you?</line>
+				</sp>
+				<sp><speaker>Isid.</speaker>
+					<stage>aside.</stage>
+					<line>How shall I pass?---I will return.</line></sp>
+				<sp><speaker>Duke.</speaker>
+					<line>How's this? have you lost aught?</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>Yes, my lord, yes. I---I shall not be long </line>
+					<line>Ere I return.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Well; go then, if it must </line>
+					<line>Be so: but take heed, dearest; do not walk </line>
+					<line>Abroad so late again. I would not have </line>
+					<line>Evil to meet you for---for the wide world. </line>
+					<line>Quickly return.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>I will, my lord, I will. </line>
+					<stage>Exit <strong>Isidora</strong> . </stage>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>The calm I feel upon me is more like </line>
+					<line>A leaden grief than joy,---and yet 'tis joy: </line>
+					<line>Not the high buoyant spirit which lit up </line>
+					<line>Mine eye this morning: 'tis a sullen light, </line>
+					<line>But it has full possession. Every nerve </line>
+					<line>Is laden with a strange and lulling charm, </line>
+					<line>As tho' I had drank of poppies, yet alive </line>
+					<line>To the least touch. A sound would startle me. </line>
+					<line>Hark!---no.---What could my Isidora mean? </line>
+					<line>She trembled, yet she is not wont to tremble for </line>
+					<line>A trifling loss. 'Twas odd.---Again! Who's there?</line>
+				</sp>
+				<sp><speaker>Isabella</speaker>
+					<stage>without.</stage>
+					<line>Brother!</line></sp>
+				<sp><speaker>Duke.</speaker>
+					<line>Come in, come in. </line>
+				</sp><stage>
+					<strong>Isabella</strong> enters. </stage>
+				<line>Why, what is this? </line>
+				<line>Are you not well?</line>
+				<sp><speaker>Isab.</speaker>
+					<line>Not quite. Dear brother, where--- </line>
+					<line>Where is the Duchess?</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Gone. She will return </line>
+					<line>Quickly: till then, remain.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Did she go out </line>
+					<line>Lately?</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>But now unto her chamber.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Then </line>
+					<line>It could not be; and yet---no, 'tcould not be.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>What could not be?</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Dear brother!</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>What is this? </line>
+					<line>Speak, Isabella.---By the gods, you seem </line>
+					<line>Born to perplex me. Speak out.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>It is nothing.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Nothing?</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Perhaps 'tis nothing.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>I shall be </line>
+					<line>Vexed beyond all my reason.</line>
+					<line>I thank the stars</line>
+					<line>I am not of that humour which delights </line>
+					<line>In fretting this and that man,---thus and thus, </line>
+					<line>With question and no answer,---flat denial, </line>
+					<line>And then "perhaps," and "it may not be so;"--- </line>
+					<line>I hate it all. By Jupiter, if I </line>
+					<line>Had now a secret (good or ill no matter) </line>
+					<line>Which it became a friend to know---</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>What then?</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>I'd speak it boldly.&#134;</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Then---why then---I cannot.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Gods! give me patience.---Isabella, if </line>
+					<line>You cannot speak, leave me; (I am not used </line>
+					<line>To talk thus, but you fret me.) Secret!---what? </line>
+					<line>What secret can it be? Ha!---no, no, no. </line>
+					<line>You asked me of the Duchess?</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Did she go </line>
+					<line>Unto her chamber?</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Yes.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>You're sure of that?</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Sure? yes; where else? sure! sure!</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Then I am wrong.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Darkness and death! speak out---what is it?</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Nay, </line>
+					<line>Be calm.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>As the loud thunder:---Well; I'm calm.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>I thought I saw </line>
+					<line>Beneath the moonlight---</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Yes; go on, go on.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>I would not tell you, but I cannot live </line>
+					<line>And see you wronged.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Go on.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>I thought I saw </line>
+					<line>Guido, and---</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Hell!---but no, it cannot be.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>And yet, my servant, Pesaro---</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Drag him in.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>I'll bring him to you.</line>
+					<stage>Exit.</stage>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Haste: make haste.---Oh, shame! </line>
+					<line>My son!---If it be so?---If it be---Why then </line>
+					<line>Come forth, thou power of Darkness! Come abroad </line>
+					<line>And shroud the world! No;---rather let there be </line>
+					<line>Earthquake, and tumbling towns, and fiery rain, </line>
+					<line>Vapours, and spotted fever,---thick disease--- </line>
+				</sp><stage>
+					<strong>Isabella</strong> re-enters. </stage>
+				<line>Ah! sister---Well; where is he?</line>
+				<sp><speaker>Isab.</speaker>
+					<line>Come in!</line>
+				</sp><stage>
+					<strong>Pesaro</strong> enters. </stage>
+				<sp><speaker>Duke.</speaker>
+					<line>Now,---</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Be calm. Speak, Pesaro.</line>
+				</sp><sp><speaker>Pes.</speaker>
+					<line>My lord!---If I---</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Plagues blister you. Villain, speak on. </line>
+					<line>Whom have you seen? seen what?</line>
+				</sp><sp><speaker>Pes.</speaker>
+					<line>Lord Guido.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>That </line>
+					<line>Is false: he has left the city.</line>
+				</sp><sp><speaker>Pes.</speaker>
+					<line>Yes, my lord: </line>
+					<line>But he returned. I saw him near the barrier, </line>
+					<line>(Wrapped in his cloak) not half an hour ago: </line>
+					<line>And now---</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>I dream.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Well, well; you saw---?</line>
+				</sp><sp><speaker>Pes.</speaker>
+					<line>Just now </line>
+					<line>I saw him in the garden.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>And alone?</line>
+				</sp><sp><speaker>Pes.</speaker>
+					<line>I think I saw the Duchess.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Now leave us. </line>
+					<line>Brother!</line>
+					<stage>Exit <strong>Pesaro</strong> . </stage>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Look down, look down!</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>I should have thought </line>
+					<line>Less of this strange return, had I not seen him </line>
+					<line>(Yet why should that have struck me?) smile upon </line>
+					<line>That ring.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Ha!</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>When he parted with you---yes: </line>
+					<line>And then---how can I bear to name it? Yet, </line>
+					<line>Your court all smile and talk of this---their past </line>
+					<line>Love, and their---meeting in her chamber.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Ring! Chamber! I loiter:---I will have </line>
+					<line>Such---such revenge. Where is my dagger---where? </line>
+					<line>I cannot find't; 'tis better. I will have </line>
+					<line>Vengeance in open day.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Nay,---</line>
+					<stage>Interposing.]</stage>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Death and shame! </line>
+					<line>Away, away!</line>
+					<stage>Rushes out.</stage>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>He's gone.---I almost tremble. </line>
+					<line>And yet I will not. I, who never yet </line>
+					<line>Knew what it was to fear,---shall I shrink now? </line>
+					<line>He's gone, and they---no, no; he will not find </line>
+					<line>My victims soon.---My son shall be a prince. </line>
+					<line>A prince!---a noble sound.---I tremble still. </line>
+					<line>Who's there?---What noise is that?</line>
+				</sp><stage>
+					<strong>Casti</strong> comes in suddenly with papers, followed by
+						<strong>Gheraldi</strong> . </stage>
+				<sp><speaker>Casti.</speaker>
+					<line>Where is the Duke?</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>Thank God! he is not here.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>What means this tumult, Sir?</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Oh! lady you--- </line>
+					<line>Are you there? Shame! where is the Duke?</line>
+					<stage>Enters an apartment.</stage>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>He has </line>
+					<line>Discovered all.---What shall be done?</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Hush! I </line>
+					<line>Must think.---Meantime call you the guard. </line>
+					<line>Quick, quick! Ha! I must stop this choleric sir.</line>
+					<stage>
+						<strong>Gheraldi</strong> exit. </stage>
+				</sp>
+				<sp><speaker>Casti.</speaker><stage>returning.</stage> <line>He is not there; Madam!
+						Nay, </line>
+					<line>I must pass.</line></sp>
+				<sp><speaker>Isab.</speaker>
+					<line>Ha!---ha! what is this outrage? Guards!</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>By Heaven!</line>
+					<stage>attempts to pass her.</stage>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Within there---Guards, I say! </line>
+					<stage>
+						<strong>Gheraldi, Pesaro</strong> and Soldiers enter. </stage>
+					<line>Count Casti has </line>
+					<line>Forgot himself, and me. You will take care </line>
+					<line>The Count does not escape. Confine him, Sir, </line>
+					<line>Until my brother is at leisure. I </line>
+					<line>Will answer this: he has done outrage here.</line></sp>
+				<sp><speaker>Casti.</speaker>
+					<line>I have some news, good Lucio,---news to tell </line>
+					<line>The Duke; so give me way.</line>
+					<stage>Thrusts the papers in his bosom.</stage>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Sir, take him hence.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Madam---</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Away!</line>
+					<stage>Exeunt soldiers, &amp;c. with <strong>Casti</strong> . </stage>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>Madam, you are a quick contriver.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Now, </line>
+					<line>Let us go hence: no talk.---There is a thing </line>
+					<line>That now will soon be done; and then our cares </line>
+					<line>(My cares) are over. If I die, my son </line>
+					<line>Reigns in Mirandola. And yet, take care </line>
+					<line>The Count is safe.---I have a task elsewhere.</line></sp>
+				<stage>Exeunt severally.</stage>
+			</div><div type="scene"><head>SCENE II.</head>
+				<stage>A Garden.---Clouded Moonlight.</stage>
+				<stage>Guido, Isidora.</stage>
+				<sp><speaker>Isid.</speaker>
+					<line>When I wrote to you I knew not </line>
+					<line>That ye were reconciled. Oh! had I known </line>
+					<line>That you had left Mirandola, for the world </line>
+					<line>I'd not have put you in this peril: but </line>
+					<line>That ring---it seemed to me honor and life.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Not life.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>Oh! yes, to me: his violent spirit would </line>
+					<line>Soon have destroyed me. Even now, should he learn </line>
+					<line>Of this our meeting---Oh! I fear, I fear--- </line>
+					<line>Nay, give it to me.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>My pretty ring! must you then have it?</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>Yes. </line>
+					<line>And 'tis not well indeed, my lord, that you </line>
+					<line>Should wear my favors now. Some busy tongues </line>
+					<line>May talk.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Oh! Isidora, is it come </line>
+					<line>To this? Must innocence so scant her looks, </line>
+					<line>Or modesty be dumb, lest the base crowd </line>
+					<line>Abuse her?</line>
+					<line>Oh! fair Heaven, they're bitter times</line>
+					<line>And doubtful when a breath of air may blow </line>
+					<line>Our names away.&#134; But take it.</line>
+					<stage>Gives the ring.]</stage> See--- <line>I part with my last good, but 'tis
+						to thee. </line>
+					<line>When I am gone---Shame on this blinding tear! </line>
+					<line>One drop, and yet how bitter!</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>Talk not thus: </line>
+					<line>You may return.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Oh! never shall that be. </line>
+					<line>There is a period in the days of men,</line>
+					<line>Beyond which they never thrive. I have seen mine: </line>
+					<line>Now, all is darkness and decay.&#134;</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>Alas!</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Oh! weep not, weep not, Isidora. You </line>
+					<line>Had once a braver spirit.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>I will try </line>
+					<line>To say farewell calmly.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Sweet blessings rest </line>
+					<line>Upon your head for ever!---I shall go </line>
+					<line>Afar; yet do not thou forget me. We </line>
+					<line>Have known each other long. Fortune has been </line>
+					<line>Our foe. Our very youth is gone before </line>
+					<line>It's time, and we must part.---</line>
+					<line>Oh! Isidora,</line>
+					<line>Think of me sometimes: amidst crowds and revels </line>
+					<line>You'll be a queen: pomp and admiring eyes </line>
+					<line>Will follow you, and delicate music, like </line>
+					<line>Incense from Heav'n, will haunt around your rooms. </line>
+					<line>Yet, in the midst of all do not forget </line>
+					<line>The mountain song we used to sing together: </line>
+					<line>'Tis long ago; but 'twas a pleasant strain. </line>
+					<line>I love it still; better methinks than ever.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>Do not talk thus. I cannot bear it.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Nay, </line>
+					<line>Weep not. Poor Isidora!</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>Poor, indeed.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Give me your hand, once more.&#134;</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>Oh! Guido! Guido!</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>We must part, dear friend. </line>
+					<line>And I must say---what must at last be said; </line>
+					<line>Tis only---this:---I cannot, by the light </line>
+					<line>Of Heaven, I cannot say it. What! Farewell </line>
+					<line>To thee, whom I have loved---Oh! loved beyond </line>
+					<line>All words, all parallel, by day and night, </line>
+					<line>In health, in sickness, amidst toils and dangers---? </line>
+					<line>By heaven, I cannot do't.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>Hush! what is that?</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>O Night!</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>Hush!---no, 'twas nothing. Now---</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Farewell! </line>
+					<line>Must it be so, indeed?</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>It must.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Why then </line>
+					<line>Farewell; and yet---there is a boon at parting </line>
+					<line>Which mere acquaintance to each other give: </line>
+					<line>Shall it be less with us? Oh! we have loved </line>
+					<line>Dearly and long.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>That's past.</line>
+				</sp><stage>
+					<strong>Duke</strong> rushes in, and stops suddenly. </stage>
+				<sp><speaker>Duke.</speaker>
+					<line>I've sought 'em---Ha!</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Nay, Isidora!---</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Ha! ha! ha!---Oh! Devils. </line>
+					<line>Winter, and blight, and famine strike ye down: </line>
+					<line>And fires, broad as the deluge, rain, 'till they </line>
+					<line>Scorch all the land up,---all.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Shun not my last </line>
+					<line>Request; it is my last.---</line>
+					<line>Tho' dark fortune puts</line>
+					<line>Her arm between us, every gentle proof </line>
+					<line>Of what has been, we need not cast aside. </line>
+					<line>Oh! weep not. &#134;Let me take one kiss away </line>
+					<line>In memory of thee---one: it will be </line>
+					<line>The saddest, yet the sweetest,---and the last.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>No, Guido</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Then farewell: shrink not.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>I faint. Your father---</line>
+					<stage>Sinks against <strong>Guido</strong> . </stage>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Tremble not. Where is he?</line>
+				</sp><stage>
+					<strong>Duke</strong> rushes forward. </stage>
+				<sp><speaker>Duke.</speaker>
+					<line>Here!--- </line>
+					<line>Here, serpents!---Now the everlasting curse </line>
+					<line>Cling to ye both and wither. May ye both </line>
+					<line>Wander about---</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>I---</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Wretch!---wander about </line>
+					<line>The world,---the wide world, hopeless, vile, abhorred. </line>
+					<line>But no; for you---(will my head burst?) for you, </line>
+					<line>Delicate Sin, begone---yet stay: if e'er </line>
+					<line>You shall repent---repent of what? ha, ha! </line>
+					<line>Who's the accuser? none: who will believe </line>
+					<line>That I'm abused, abused? who'll swear? none, none. </line>
+					<line>Ha, ha!---O Death and Night!</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Will you not hear?</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Ay, when you die I'll listen,---I'll rejoice. </line>
+					<line>Will you have trial? never: there are crimes </line>
+					<line>Which the law touches not; but I'll have blood </line>
+					<line>Red as the Arab gulph: not your's, but you--- </line>
+					<line>You with the curse of Cain---worse, worse---with all </line>
+					<line>The blight of parricide upon you---Son! </line>
+					<line>(No son of mine!)---Ah!---how my tongue is parched--- </line>
+					<line>Dry as a withered scroll.---I will have such </line>
+					<line>Vengeance---such mighty vengeance.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Once more---nay---</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Parricide!</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>'Tis in vain.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>Alas! Alas!</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>What! do you weep and cheat me of all tears? </line>
+					<line>But I'll have justice.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Yet hear!</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Not a word: </line>
+					<line>No, not a word. I listened once, and died. </line>
+					<line>Ho, ho!---the world's abroad: lights! torches! so--- </line>
+					<line>Come on, come on.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Spare<em>her</em>. For me---</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>For you </line>
+					<line>There is a something yet. Come in, I say. </line>
+				</sp><em>My</em> soul is white.---How my head throbs! Stir not. <line>Where am
+					I?</line>
+				<stage>
+					<strong>Curio, Piero</strong> , Guards and Attendants enter. </stage>
+				<sp><speaker>Curio.</speaker>
+					<line>Stay! What tumult is there here? </line>
+					<line>Your highness?</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Where? The Duke is dead---is dead. </line>
+					<line>He died, Sir, when his wife and son forsook him: </line>
+					<line>But I am here to represent his state, </line>
+					<line>And it shall find full justice. Where's the throne? </line>
+					<line>Vanish'd, alas!---no matter. I will sit </line>
+					<line>Beneath the stars.</line>
+				</sp><stage>sits</stage>
+				<line>---Roll back those curtains, which</line>
+				<line>Hide the pale visage of the moon. And now, </line>
+				<line>I call upon the assembled lights of Heaven; </line>
+				<line>And on the immortality of Truth, </line>
+				<line>Upon white Chastity, and crown'd Revenge, </line>
+				<line>To attest what here I do. Traitors! draw near. </line>
+				<line>What have ye---(Mark! the huge and ponderous sky </line>
+				<line>Hangs right above your heads,)---to say? Speak forth!</line>
+				<sp><speaker>Guido.</speaker>
+					<line>Father!</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>I'll not admit that voice; 'tis perjured. Hark! </line>
+					<line>Did it not thunder then? no: all is still--- </line>
+					<line>Calm as despair.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>My lord!</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Hush! Music.---Hush! </line>
+					<stage>
+						<strong>Isid.</strong> comes forward. </stage>
+					<line>Ah! is it you?&#134;</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>Spare him, O spare him!</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Never.</line>
+				</sp><sp><speaker>Piero.</speaker>
+					<line>If---</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>If a word is spoken, but a word,---</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Nay, hear me. </line>
+					<line>That ring, that ring---</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Ha! do you taunt me, villain? </line>
+					<line>Blights wither you!</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>Alas!</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Come hither, slave! </line>
+					<line>You, sirrah! what's your name? no matter. Take </line>
+					<line>Yon man into the palace-court, and there--- </line>
+					<line>Come nearer---near. </line>
+					<stage>Whispers officer.</stage>
+					<line>Remember!</line>
+				</sp>
+				<sp><speaker>Isid.</speaker>
+					<stage>Shrieks.</stage>
+					<line>Ha!---What's that? </line>
+					<line>Oh! mercy, mercy. Spare him---spare us both. </line>
+					<line>My lord!---O husband!</line>
+				</sp>
+				<sp><speaker>Guido.</speaker>
+					<line>Sweet, implore no more. </line>
+					<line>My fate is come. I'll meet it as a man. </line>
+					<line>Of thee I dare not think: but<em>thou</em>---</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Speak on. </line>
+					<line>You shall have licence,---once---but once. Speak on.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Thou hast abused </line>
+					<line>Thy trusts of father, husband, prince.</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>No, no.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Thou hast, to glut a base and bitter hate, </line>
+					<line>Destroyed thine only son. Angels now look </line>
+					<line>Upon us, and before their homes I swear </line>
+					<line>That I am innocent. Remember this. </line>
+					<line>For her who stands palely beside you there, </line>
+					<line>(A star amidst this darkness,) she is pure </line>
+					<line>As Heaven. I speak this with a dying tongue. </line>
+					<line>I loved her---</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Ha! shall this be said? Away, </line>
+					<line>Away, I say! If once I swear---</line>
+					<stage>Rises.</stage>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>One word,---</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>One word.</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>Poor Isidora!</line>
+				</sp><sp><speaker>Isid.</speaker>
+					<line>One---</line>
+				</sp><sp><speaker>Guido.</speaker>
+					<line>One word's enough. My lord, when I depart, </line>
+					<line>To where---no matter, mark me. I shall tread </line>
+					<line>With the same step,---the same bold, faithful step, </line>
+					<line>Which bore me on, 'midst fire and carnage, when </line>
+					<line>I saved your life at Mantua.---Now, lead on.</line>
+					<stage>
+						<strong>Guido</strong> exit with officers. </stage>
+				</sp>
+				<sp><speaker>Duke.</speaker><stage>Sinks down.</stage> <line>He's gone.</line></sp>
+				<sp><speaker>Isid.</speaker>
+					<line>A moment stop. My lord! my lord! </line>
+					<line>Spare him. I'll kneel to you, and wet the dust </line>
+					<line>With tears. Oh! husband, my dear husband! speak! </line>
+					<line>I,---Isidora---Isidora, whom </line>
+					<line>You loved so once, am here---here on my knees, </line>
+					<line>Before the world,---in the broad light. My lord! </line>
+					<line>Give him but time,---a word---(do you hear that?) </line>
+					<line>A word will clear him. Will you not listen? Oh!--- </line>
+					<line>Cruel, oh! cruel! Mercy, yet;---oh, God!</line>
+					<stage>
+						<strong>Isidora</strong> falls before him. </stage>
+				</sp>
+				<sp><speaker>Piero.</speaker>
+					<stage>after a pause.</stage>
+					<line>Shall we not help the Duchess?</line></sp>
+				<sp><speaker>Curio.</speaker>
+					<line>Stay, stay: he </line>
+					<line>Begins to move.</line>
+				</sp><sp><speaker>Piero.</speaker>
+					<line>He looks like marble with those fixed eyes.</line>
+				</sp><sp><speaker>Curio.</speaker>
+					<line>Ha! those are heavy tears.</line>
+				</sp><sp><speaker>Officer.</speaker>
+					<line>Hark!</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Mercy!--- </line>
+					<line>No more of that. I am a desolate man: </line>
+					<line>Much injured; almost mad. I want---I'll have </line>
+					<line>Vengeance---tremendous vengeance. Ha! pale thing; </line>
+					<line>I will not tread upon her. Tears? what, tears? </line>
+					<line>Take her away. </line>
+				</sp>
+				<em>
+					<strong>Isidora</strong> is taken out. </em>
+				<line>My heart is cold as lead. </line>
+				<line>I should have had a cloak to cover me--- </line>
+				<line>A tomb, a tomb, to keep the wind out. Ha! </line>
+				<line>I love this lonely pomp. My lamps are hung </line>
+				<line>All round a mighty dome; and music, like </line>
+				<line>The noises bursting from AEolian caves, </line>
+				<line>Come round me like a charm. Oh! I have been </line>
+				<line>Betrayed; ay, and revenged.---All silent? How! </line>
+				<line>Come, talk, Sirs, talk.</line>
+				<stage>
+					<strong>Isabella</strong> enters. </stage>
+				<sp><speaker>Officer.</speaker>
+					<line>Will not your highness go?</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Go? where? where? Ah! the light comes. I have been </line>
+					<line>Long wandering. Misery! oh, misery! </line>
+					<line>But justice shall be done; and vengeance.</line>
+					<stage>leans back.</stage>
+				</sp><stage>
+					<strong>Gheraldi</strong> and <strong>Pesaro</strong> enter. </stage>
+				<sp><speaker>Isab.</speaker>
+					<line>Ha!</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>Madam, he has escaped.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Be still, Sir. Who?</line>
+				</sp><sp><speaker>Pes.</speaker>
+					<line>Count Casti.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Ha! go seek him, and confine him: </line>
+					<line>Do this, and you shall thrive. This is unlucky.</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>'Tis death.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Not quite so bad. Guido is gone </line>
+					<line>To rest.</line>
+				</sp><sp><speaker>Gher.</speaker>
+					<line>How the Duke sits!</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>We'll lead him in. My lord!</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Ah! Sister. Well; justice is done.</line>
+				</sp>
+				<sp><speaker>Casti.</speaker><stage>without.</stage> <line>The Duke!</line></sp>
+				<sp><speaker>Duke.</speaker>
+					<line>What voice is that?</line>
+					<stage>
+						<strong>Casti</strong> enters quickly. </stage>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>The Duke---where is the Duke?</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Here,---on his seat of judgement.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Seize the Monk. </line>
+					<line>My lord, pray pardon me, but---O my heart! </line>
+					<line>Madam, you must not go.</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Slave! dare you think </line>
+					<line>To daunt the sister of Mirandola?</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>What's this?</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>You are abused.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>I know it. Wretch! </line>
+					<line>Will you bring back my terrors? Silence him.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>You and your son are both abused,---betrayed. </line>
+					<line>You and your innocent wife. Look on the Monk. </line>
+					<line>Your son's as fair as Heaven. Mark the Monk, </line>
+					<line>I say. Here, my lord, here are letters,---scrawls </line>
+					<line>Fashioned in hell, too black for such a place. </line>
+					<line>Here are the letters which you sent to Naples. </line>
+					<line>Look! these your son writ; these---your sister sent. </line>
+					<line>I took them from the Monk: he bribed, and prayed, </line>
+					<line>Nay, wept and tore my cloak to get them, but </line>
+					<line>I have them here,---read, read!</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Letters? my son!---</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>He met the Duchess here by my entreaty: </line>
+					<line>Against his wish he met her: nay---</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Ah, sister!</line>
+					<stage>reads.]</stage>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Read, Sir!</line>
+				</sp><sp><speaker>Isab.</speaker>
+					<line>Slave! my son </line>
+					<line>Reigns in Mirandola. I am content.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Lead out the lady.</line>
+					<stage>
+						<strong>Isabella</strong> is taken out. </stage>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Now, where is she?---gone! </line>
+					<line>'Tis better. Ah! thou cowled villain,---thou </line>
+					<line>Whom I have loved and trusted. I forget: </line>
+					<line>Where am I? I am wandering yet.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>My lord! </line>
+					<line>Where is your son?</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>My son? Ha! death and haste. </line>
+					<line>Fly, fly and save him. Bring him hither. Drag </line>
+					<line>That villain to a dungeon. O, my heart! </line>
+					<line>Fly some one! fly again, and bring my son. </line>
+					<line>Oh! mercy, mercy!</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Where is he---his son?</line>
+				</sp><sp><speaker>Officer.</speaker>
+					<line>Led out to death.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Ha! where?</line>
+				</sp><sp><speaker>Officer.</speaker>
+					<line>In the western court.</line>
+					<stage>
+						<strong>Casti</strong> rushes out. </stage>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>My son! where is my son? Is no one gone </line>
+					<line>To stop my orders? Go---some more. I'll sit </line>
+					<line>Here, while the Heavens are trembling. </line>
+				</sp><stage>(A distant report of Musquetry is heard.)</stage>
+				<line>Ha!</line>
+				<stage>Sinks down.</stage>
+				<stage> (After a short pause, <strong>Casti</strong> re-enters.) </stage>
+				<sp><speaker>Casti.</speaker>
+					<line>My lord!</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Ha! my good messenger, a word, a word; </line>
+					<line>But one: I'll give my Dukedom to you,---all. </line>
+					<line>Tell me he lives. Swear it. 'Tis my command.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Alas! it was too late. We can but pray.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Rain down your blights upon us!</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Sir, be calm.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Sulphur and blistering fire. I want to die. </line>
+					<line>Unloose me here, here: I'm too tight.---Some one </line>
+					<line>Has tied my heart up; no, no; here, Sir, here. </line>
+					<line>All round my heart, and round my brain,---quick, quick--- </line>
+					<line>I'm burning.---Hush! a drug---a---</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Hold him up.</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>Some dull---some potent drink. I'll give---I'll give </line>
+					<line>The world away for peace. Oh! round my heart, </line>
+					<line>And---Ah! unloose this cord about my throat. </line>
+					<line>Has no one mercy here? I am the Duke,--- </line>
+					<line>The Duke. Ha! I am---nothing.</line>
+				</sp><sp><speaker>Casti.</speaker>
+					<line>Raise his head. </line>
+					<line>Now, my dear lord,---</line>
+				</sp><sp><speaker>Duke.</speaker>
+					<line>O my poor son, my son! </line>
+					<line>Young victims---both so young,---so innocent. </line>
+					<line>But they are gone. I feel as I could sleep--- </line>
+					<line>Sleep---hush! for ever. My poor son!---</line></sp>
+				<stage>Dies.</stage></div>
+			<div type="epilogue"><head>EPILOGUE [By Unknown]<lb/> (BY A FRIEND.)<lb/> SPOKEN BY MISS
+					FOOTE.<lb/>
+				</head>
+				<sp><speaker>Miss Foote</speaker>
+					<line><strong>Ladies</strong>!---Excuse me that I live---but I</line>
+					<line>Implored the Poet not to let me die; </line>
+					<line>An author's fate, I urged, would do as well,--- </line>
+					<line>To be alive, and but insensible.</line>
+					<line>No Epilogue is written, so you may guess </line>
+					<line>The Poet's and the Manager's distress:--- </line>
+					<line>I've seen much mingled fury and despair, </line>
+					<line>Stamping of feet, and tearing of the hair, </line>
+					<line>Lines penn'd and blotted out,---old verses read </line>
+					<line>To see what earlier Epilogues have said: </line>
+					<line>But not a couplet could their favour win,--- </line>
+					<line>The deepest Tragedy is there,---within. </line>
+					<line>I, by the Manager's entreaty press'd, </line>
+					<line>Come to implore your hearts for the distrest. </line>
+					<line>It is not very willingly I do't, </line>
+					<line>But Mr. Fawcett says, "They'll hear Miss Foote!"</line> <line>And will you
+						hear her?---You have thought perchance </line>
+					<line>She scarce<em>should</em>speak after so deep a trance;---</line>
+					<line>But women love last words---the best of all. </line>
+					<line>Faintness and speech are not unnatural,--- </line>
+					<line>Meek Desdemona, as I've heard and read, </line>
+					<line>(True woman!) "spake, after long seeming<em>dead</em>!"</line>
+					<line>Then may not I throw off my death-like grief, </line>
+					<line>And talk a little,---merely for relief?</line> <line>How like you this our
+						play?---be candid---come--- </line>
+					<line>Say, is the Tragic Muse at all at home?--- </line>
+					<line>'Tis said large Theatres the Drama mar,--- </line>
+					<line>At least some<em>little ones</em>keep up this war;</line>
+					<line>But oh! I love the wondrous scene,---the dress,--- </line>
+					<line>The state, that lends to sorrow, mightiness. </line>
+					<line>Give me to see ennobled Tragedy </line>
+					<line>In proud magnificence go sweeping by--- </line>
+					<line>Her royal beauty deepen'd---and her grace </line>
+					<line>Made awful by fit circumstance and place! </line>
+					<line>No niggard stage becomes her gorgeous gloom; </line>
+					<line>Her soul, as King John says, wants elbow room.</line> <line>But I forget
+						my duty to the play, </line>
+					<line>And custom disregard;---what shall I say?--- </line>
+					<line>Let me recal to mind some sterling rhyme </line>
+					<line>Of an "approved good master" of his time--- </line>
+					<line>"When Learning's triumphs o'er her barbarous foes </line>
+					<line>"First rear'd the stage"---a plague on't---I must close </line>
+					<line>This sombre task. I really cannot speak </line>
+					<line>The Epilogue---I'll learn one by next week.</line> <line>In the meantime,
+						kind friends, allow our play </line>
+					<line>To live without it till another day.</line></sp>
+			</div></div>
+	</play>
+</xml>
