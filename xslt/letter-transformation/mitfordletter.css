@@ -1,0 +1,345 @@
+@media screen {
+html{
+    background-color: #F8F8FF; 
+   color: #580000;
+    font-family: "Palatino Linotype", "Book Antiqua", Palantino, serif;
+}
+
+body{
+   /*background-color: #BBD6F1;*/ 
+   
+    text-align:left;
+    width:100%;
+   
+/*padding: 10px 10px 40px 10px;*/
+border-radius: 10px;
+}
+div#images img{
+
+width:352px;
+display:inline-block
+}
+
+div#nav_wide {background-image: url("mrmBlur.jpg"); padding:0; width:100%; position:relative; top:-35px; }
+
+div#menu {width:100%; height:100%; display:flex; justify-content:space-around; align-items:center; flex-direction:row;
+font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; padding:0;
+ }
+
+span.mainTitle {display:block; font-size:1.8em; font-weight:bold; letter-spacing:2px; color:#B16800; position:relative; top:15px; }
+span.subTitle{display:block; font-size: .88em; letter-spacing:1px;font-style:italic; font-weight:900;}
+
+ul#siteMenu {list-style-type:none; width:100%; display:flex; justify-content:space-around; align-items:flex-start; flex-direction:row; height:100%;  background-color:/*#F8F8FF;*/#FFDB90;
+position:relative; bottom:-20px;
+;
+}
+
+ul#siteMenu li.title {flex:1; display:flex; justify-content:space-around; align-items:center; flex-direction:column; background-color:#FFDB90;   }
+
+ul#siteMenu li.mainMenu {flex:2.5; background-color:/*#FFDB90*/#F8F8FF;}
+
+ul.mainMenu {list-style-type:none; display:flex; justify-content:space-between; align-items:flex-start; flex-direction:row; background-color: Grey; padding:0}
+
+ul.mainMenu li.section {/*font-weight:bold; font-size:1em;*/ display:flex; justify-content:space-around; align-items:center; flex-direction:column; padding-left:20px; padding-right:10px; height:150px; flex:1}
+
+li#home {background-color:Grey; color:#FFDB90;}
+li#home a{color:gold; text-decoration:none;}
+li#home a:hover{color:yellow; text-decoration:underline;}
+
+li#letters{background-color:FireBrick; color:Lavender;}
+li#letters a {color:Lavender; text-decoration:none;}
+li#letters a:hover {color:white; text-decoration:underline;}
+li#Bib{background-color:DarkSeaGreen; color:maroon}
+li#Bib a {color:maroon; text-decoration:none;}
+li#Bib a:hover {color:white; text-decoration:underline;}
+
+
+p.boilerplate span {text-indent:-1em;
+    margin-left:1em;
+    display:block;
+    font-size:smaller;
+    line-height:1.4em;}
+    
+    p.boilerplate img {position: relative; top:3px; right: -2px }
+
+div#container{
+width: 95%; 
+display:flex; justify-content:space-between; align-items:flex-start; flex-direction:row;
+}
+
+
+div#letterHead{
+font-size: .75em;   
+flex:1;
+padding-left:20px;
+padding-right:20px;
+}
+
+div#floatright{flex:1.5;
+  
+}
+
+ div#fieldset
+   {
+ background-color: #FFDB90;
+  text-align:left; 
+    white-space: normal;
+    
+   }
+   
+span.dipNorm {display:block;
+ white-space: normal;
+}
+span.dipNormSmall {display:block;
+white-space:normal; font-size:.9em}
+
+
+div#letter{
+
+    margin: auto;
+    display:inline-block;
+    vertical-align:top;
+  
+}
+
+/*ebb: Note: two forms: old form from Mitford Letter Transform before 2014-12-4 was 
+<div id="closer">, but we sometimes have multiple TEI closer elements separated by a postscript element that's not allowed inside closer, so we really need <div class="closer">. I'm keeping both rules until we batch transform. */
+div#closer{text-align:right;}
+h1 {
+color:#A04747;
+letter-spacing:3px;
+display:block;
+text-align:center;
+font-size:38px}
+
+div.closer{text-align:right;}
+h1 {
+color:#A04747;
+letter-spacing:3px;
+display:block;
+text-align:center;
+font-size:38px}
+
+h2 {color:#00005C; font-size:20px; padding:0; display:block; text-align:center; 
+}
+
+
+
+/*img{
+border-radius:10px;
+}*/
+
+
+a{
+color: #2929A3;
+text-decoration:none;}
+a:hover{
+text-decoration:underline;}
+
+em{
+text-decoration:underline    
+    
+}
+
+span.context[title=person]  {
+color:  #990099;
+border-bottom:1px dotted;
+}
+
+
+span.context[title=org] {
+color: #006600;
+ border-bottom:1px dotted    
+    
+}
+
+span.context[title=place] {
+color: #003399; 
+border-bottom:1px dotted 
+}
+
+span.context[title=title] {
+color:#CC0000;
+border-bottom:1px dotted 
+}
+
+span.prose {line-height:25px}
+span.prose.on{line-height:normal}
+
+span.pagebreak {font-size: .75em; text-align:center; display:block}
+span.pagebreak.on {display:none;}
+
+span.reg {display:none;}
+span.reg.on {display:inline;}
+span.sic.on {display:none;}
+
+span.add {vertical-align:super;}
+span.add.on {vertical-align:baseline;}
+
+span.caret {vertical-align:sub;}
+span.caret.on {display:none}
+
+span.jerk {display:inline}
+span.jerk.on {display:none}
+
+span.del { color:red;
+text-decoration:line-through;    
+}
+span.del.on { display:none;  
+}
+
+span.above-line {
+vertical-align:super;      
+}
+
+span.damage{background-color:#CCCCFF; font-size:.75em; font-style:italic;}
+span.damage.on{display:none;}
+
+span.supplied{background-color:#CCCCFF}
+span.supplied.on{background-color:#FFFAE6}
+
+span.anchor {
+color:blue;
+ text-decoration:underline;   
+}
+
+span.si{
+position: absolute;
+right:15%;
+color: #000041;
+line-height:normal;
+text-decoration:none;
+font-size: .75em;
+text-align:left;
+font-weight: normal;
+background: #CCE0EB;
+border:solid #440029 2px;
+width:300px;
+height:auto;
+padding:5px;
+overflow-y:scroll;
+z-index: 3;
+display:none;
+}
+
+span.anchor span.note {
+ position:absolute;
+right:12%;
+    color:black;
+    line-height:normal;
+    text-decoration:none;
+    font-size: .75em;
+    text-align:left;
+    background:white;
+    border:solid blue 1px;
+    width:350px;
+    height:auto;
+    padding:5px;
+    overflow-y:scroll;
+   display:none;
+    }
+    }
+ 
+ @media print {
+ div#menubar {display:none}
+  div#fieldset{display:none}
+ 
+ div#letterHead{
+display:block;
+font-size: .6em;
+position: absolute;
+top:100%
+}
+
+div#floatright{
+margin-left: 1%;
+margin-right:50%;  
+  
+}
+ 
+ span.si {display:none}
+  span.anchor {
+color:blue;
+ text-decoration:underline;
+ position:relative;
+}
+   span.note {
+ position:relative;
+left:100%;
+margin-left:90%;
+    color:black;
+    line-height:normal;
+    text-decoration:none;
+    font-size: .6em;
+    
+    }  
+ 
+
+div#closer{text-align:right;}
+
+a{
+color: #2929A3;
+text-decoration:none;}
+
+em{
+text-decoration:underline    
+    
+}
+
+span.context[title=person]  {
+color:  #990099;
+}
+
+
+span.context[title=org] {
+color: #006600;
+     
+    
+}
+
+span.context[title=place] {
+color: #003399; 
+
+}
+
+span.context[title=title] {
+color:#CC0000;
+
+}
+
+span.prose {line-height:25px}
+span.prose.on{line-height:normal}
+
+span.pagebreak {font-size: .75em; text-align:center; display:block}
+span.pagebreak.on {display:none;}
+
+span.reg {display:none;}
+span.reg.on {display:inline;}
+span.sic.on {display:none;}
+
+span.add {vertical-align:super;}
+span.add.on {vertical-align:baseline;}
+
+span.caret {vertical-align:sub;}
+span.caret.on {display:none}
+
+span.jerk {display:inline}
+span.jerk.on {display:none}
+
+span.del { color:red;
+text-decoration:line-through;    
+}
+span.del.on { display:none;  
+}
+
+span.above-line {
+vertical-align:super;      
+}
+
+span.damage{background-color:#CCCCFF; font-size:.75em; font-style:italic;}
+span.damage.on{display:none;}
+
+span.supplied{background-color:#CCCCFF}
+span.supplied.on{background-color:#FFFAE6}    
+}
+        
