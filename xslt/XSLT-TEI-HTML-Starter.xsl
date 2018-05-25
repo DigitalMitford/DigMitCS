@@ -7,16 +7,43 @@
    
  <xsl:template match="/">
      <html>
-        <head><title><xsl:apply-templates select="//body/div[@type='sketch']/head"/></title></head> 
+        <head><title><xsl:value-of select="//body/div[@type='sketch']/head"/></title>
+            <link rel="stylesheet" type="text/css" href="ov.css"/>
+        
+        </head> 
          <body>
+      <!--   <h1>
+             <xsl:apply-templates select="//body/div[@type='sketch']/head"/>   
+         </h1> -->
              
+        <section id="main">  
+            <xsl:apply-templates select="//div[@type='sketch']"/>
+        </section>
+                   
+          <section id="editors"> <xsl:text>Edited by: </xsl:text>
+             <xsl:value-of select="string-join(//teiHeader//titleStmt//editor, ', ')"/></section>
              
          </body> 
      </html>
  </xsl:template>  
+        
+<xsl:template match="rs[@type='person'] | persName">
+    
+<span class="person"><xsl:apply-templates/></span>    
+</xsl:template>        
    
    
+<xsl:template match="lb">
+    <br/>
+</xsl:template> 
+        
+        <xsl:template match="said">
+            <span class="said"><xsl:apply-templates/></span>
+        </xsl:template>
    
    
+   <xsl:template match="p">
+       <p><xsl:apply-templates/></p>  
+   </xsl:template>
    
     </xsl:stylesheet>
