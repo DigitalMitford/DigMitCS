@@ -15,8 +15,11 @@
     <xsl:template match="pb">
         <page> <xsl:apply-templates/></page>
     </xsl:template>
-        
-    
+   
+   <!--Totally changing the l element into a line element, Keeping its @rend attribute, but losing its xml:id: 
+    <xsl:template match="l">
+        <line tab="{@rend}"><xsl:apply-templates/></line>
+    </xsl:template>-->
         
     
  
