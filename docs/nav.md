@@ -9,6 +9,5 @@ Those staying in Apollo House should go there on arrival. One of our student ass
 ## Daily timing: 
 * A continental breakfast is served around 8:30am in downstairs Cassell Hall.
 * We begin work in **Cassell 117 at 9:30am**. 
-* Typically we break for lunch at about 12:30pm for around an hour, and return at about 1:30 to work until around 5:30pm. Breaks and dinner time are negotiable with the group.
-* Two of our student instructors, Becca Parker and Jon Horanic, will lead evening “potluck sessions” on GitHub at command line and on training ABBYY Finereader software for Optical Character Recognition. These begin around 7pm on Monday, Tuesday, and Wednesday, and will alternate as marked on the schedule below. 
+* Typically we break for lunch at about 12:30pm for around an hour, and return at about 1:30 or 2 to work until around 5:30pm. Breaks and dinner time are negotiable with the group.
 * Our agenda is flexible, depending on the needs and interests of the group. We'll keep this page updated and add details and changes as we proceed. 
