@@ -14,19 +14,19 @@
 </table>
 
 <h3 id="mon">Monday, 5/20</h3>
-{% include Monday2018.html %}
+{% include Monday2019.html %}
 
 <h3 id="tue">Tuesday, 5/21</h3>
-{% include Tuesday2018.html %}
+{% include Tuesday2019.html %}
 
 <h3 id="wed">Wednesday, 5/22</h3>
-{% include Wednesday2018.html %}
+{% include Wednesday2019.html %}
 
 <h3 id="thur">Thursday, 5/23</h3>
-{% include Thursday2018.html %}
+{% include Thursday2019.html %}
 
 <h3 id="fri">Friday, 5/24</h3>
-{% include Friday2018.html %}
+{% include Friday2019.html %}
 
 
 {% include credits.html %}
