@@ -5,7 +5,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
-         <titleStmt>
+         <titleStmt><!--ebb: I'm making an XML comment. So there.  -->
             <title>Sonnets</title>
             <author>William Shakespeare</author>
          </titleStmt>
