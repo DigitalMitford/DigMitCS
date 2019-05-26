@@ -1,0 +1,63 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-wrap: wrap;
+    height: 100%;
+    width: 100%;
+    font-family: 'Arial', sans-serif;
+    color: black ;
+}
+.title{
+    order: 1;
+    height: 20%;
+}
+.content{
+    order: 2;
+    height: 60%;
+    flex-direction: column;
+}
+.footer{
+    order: 3;
+    height: 20%;
+}
+.title, .content, .footer{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.imageBox, .about{
+    display: flex;
+    height: 50%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.mitford #mitford_image, .mitford #mitford_gif{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    height: 200px; width: auto;
+}
+.mitford #mitford_image{
+    z-index: 1;
+}
+.mitford #mitford_gif{
+    z-index: -1;
+    opacity: 0
+}
+.mitford:hover #mitford_gif{
+    opacity: 1;
+}
+.mitford:hover #mitford_image{
+    opacity: 0;
+}
+.top, .bottom{
+    display: flex;
+    flex-direction: row;
+}
+
