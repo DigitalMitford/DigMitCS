@@ -1,6 +1,6 @@
-## 2019 Session: 20 - 24 May
-## Agenda 
-#### Quick links 2019 Agenda:
+## 2022 Session: 22 - 26 June
+## 2022 Agenda under construction! Check back soon!
+#### Quick links (old) 2019 Agenda:
 
 <table id="weekMenu">
 <tr>
@@ -12,7 +12,7 @@
 </tr>
 </table>
 
-<h3 id="mon-2019">Monday, 5/20</h3>
+<h3 id="mon-2019">Wednesday, 6/20</h3>
 {% include Monday2019.html %}
 
 <h3 id="tue-2019">Tuesday, 5/21</h3>
