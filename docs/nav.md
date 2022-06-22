@@ -5,10 +5,10 @@
 <!-- ### Campus Maps -->
 ### Maps and details for Erie Behrend campus coming soon! 
 
-<!-- * [2D Labelled Campus Map](Map_UPG_Labelled.pdf)
+* [2D Labelled Campus Map](Map_UPG_Labelled.pdf)
 * [3D Google street-view of Cassell and Apollo House](3DMap_CassellApollo.png)
 Those staying in Apollo House should go there on arrival. One of our student assistants or Digital Mitford editors will be in the vicinity watching for new arrivals and will give you your key and show you to your room. Ask around about coordinating a trip for groceries or to a [restaurant](restaurants.md).  
--->
+
 
 ## Daily timing: 
 * A continental breakfast is served around 8:30am in downstairs Cassell Hall.
