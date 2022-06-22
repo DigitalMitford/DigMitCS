@@ -1,33 +1,27 @@
-## 2022 Session: 22 - 26 June
-## 2022 Agenda under construction! Check back soon!
-#### Quick links (old) 2019 Agenda:
+## 2022 Session (22 - 26 June)
 
+## Agenda 
 <table id="weekMenu">
 <tr>
-<td><a href="#mon-2019">Monday</a></td>
-<td><a href="#tue-2019">Tuesday</a></td>
-<td><a href="#wed-2019">Wednesday</a></td>
-<td><a href="#thur-2019">Thursday</a></td>
-<td><a href="#fri-2019">Friday</a></td>
+<td><a href="#thur">Thursday</a></td>
+<td><a href="#fri">Friday</a></td>
+<td><a href="#sat">Saturday</a></td>
+<td><a href="#sun">Sunday</a></td>
 </tr>
 </table>
 
-<h3 id="mon-2019">Wednesday, 6/20</h3>
-{% include Monday2019.html %}
 
-<h3 id="tue-2019">Tuesday, 5/21</h3>
-{% include Tuesday2019.html %}
+<h3 id="thur">Thursday, 6/23</h3>
+{% include Thursday2022.html %}
 
-<h3 id="wed-2019">Wednesday, 5/22</h3>
-{% include Wednesday2019.html %}
+<h3 id="fri">Friday, 6/24</h3>
+{% include Friday2022.html %}
 
-<h3 id="thur-2019">Thursday, 5/23</h3>
-{% include Thursday2019.html %}
+<h3 id="sat">Saturday, 6/25</h3>
+{% include Saturday2022.html %}
 
-<h3 id="fri-2019">Friday, 5/24</h3>
-{% include Friday2019.html %}
-
-
+<h3 id="sun">Sunday, 6/26</h3>
+{% include Sunday2022.html %}
 
 
 {% include credits.html %}
