@@ -4,7 +4,7 @@
 ### Arrivals: Wednesday 22 June 
 
 ### Arrival info: Campus apartments
-If you are traveling to stay on campus during the workshop, you'll enter campus by driving up Jordan Road, literally up to the top of a hill where you will find a sand volleyball area and the parking lots bordering the campus apartments. You are staying in the **600's of the campus apartments**: look for the **Caledonia** buliding on the map, and try parking in the **Ariel Lot** near it when you arrive. You should report to Apartment 601 on arrival to meet one of us (either me or my student assistant Yuying) to collect your key and find your room.
+If you are traveling to stay on campus during the workshop, you'll enter campus by driving up Jordan Road, literally up to the top of a hill where you will find a sand volleyball area and the parking lots bordering the campus apartments. You are staying in the **600's of the campus apartments**: look for the **Scorpion** buliding on the map, and try parking in the **Ariel Lot** near it when you arrive. **You should report to Apartment 601 on arrival** to meet one of us (either me or my student assistant Yuying) to collect your key and find your room.
 
 ### Workshop location: Burke 153
 Our workshop sessions are scheduled in the Burke building across Jordan Road from the apartments. You'll want to enter at the top level via the nearest parking lot to the apartments to walk to room 153, which is a big computer lab classroom **Burke 153**. You can't miss that room: it is bordered by a giant stock ticker (yes, it's in our business school). 
