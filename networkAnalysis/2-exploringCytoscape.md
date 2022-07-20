@@ -216,10 +216,10 @@ We prefer to output SVG for use in web-based digital edition projects. You could
 
 You can also explore the web outputs from Cytoscape, which do permit interaction. Here are two different web exports of our entire network, permitting visitors to tug on nodes and rearrange and explore them at will. 
 
-* Simple Web View (only your styling): 
+* [Simple Web View (only your styling)](https://digitalmitford.github.io/DigMitCS/simple-web-session/#/)
 
 
-* Full Web View (your styling, plus lots of layout/theme options):
+* [Full Web View (your styling, plus lots of layout/theme options)](https://digitalmitford.github.io/DigMitCS/full-web-session/#/)
 
 Of course you should also be saving your Cytoscape file session regularly. It will save with a `.cys` file extension.
 
