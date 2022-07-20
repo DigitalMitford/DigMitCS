@@ -221,10 +221,12 @@ You can also explore the web outputs from Cytoscape, which do permit interaction
 
 * Full Web View (your styling, plus lots of layout/theme options):
 
+Of course you should also be saving your Cytoscape file session regularly. It will save with a `.cys` file extension.
 
 
 
+## File Resources and Further Reading: 
 
-## For Further Reading: 
+* [Our Cytoscape session file complete with subnetworks](network/MRMsonnetsNetwork.cys)
 
 * [An Introduction to Network Analysis and Cytoscape for XML Coders](http://ebeshero.github.io/thalaba/cytosc.html) My longer (and older) network analysis tutorial with more on the theory and history of networks. 
