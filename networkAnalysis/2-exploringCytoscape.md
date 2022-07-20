@@ -12,6 +12,7 @@ Now we turn our attention to exploring and processing the network data
 
 ### 2. Carefully set up the Cytoscape import options: 
 Usually (as is the case with our example), our first line from an XQuery pull to a TSV text file is data, not a header. Be sure to **un-select** the box that wants to use the first line as column names. 
+
 <img width="700" src="images/2-cytoimportOptions.png" alt="Cytoscape import options"/>
 
 ### 3. Mark each column of the table import with network source, edge, target info.
