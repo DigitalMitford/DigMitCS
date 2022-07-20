@@ -214,8 +214,14 @@ You can export static SVG or PNG files that represent your network styling. Thes
 We prefer to output SVG for use in web-based digital edition projects. You could try opening the output SVG in a code editor to see how you might manipulate it. 
 
 
+You can also explore the web outputs from Cytoscape, which do permit interaction. Here are two different web exports of our entire network, permitting visitors to tug on nodes and rearrange and explore them at will. 
 
-You can an also explore the interactive web outputs from Cytoscape, wh
+* Simple Web View (only your styling): 
+
+
+* Full Web View (your styling, plus lots of layout/theme options):
+
+
 
 
 
