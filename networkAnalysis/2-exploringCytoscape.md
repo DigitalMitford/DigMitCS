@@ -89,7 +89,7 @@ You can grab the “handle bars” to increase or decrease the slope for scaling
 <img width="700" src="images/12-contMappingEditor.png" alt="Handles for rescaling the continous mapping"/>
 
 
-#### 12. Applying color to differentiate the kinds of nodes.
+#### 11. Applying color to differentiate the kinds of nodes.
 Remember our attribute descriptors? This is precisely where they come in handy! 
 Find the column heading that you set on import, and set it in the Styling pane for Fill Color (or wherever you wish). 
 Select the option for **Discrete Mapping** to select one color for each category.
@@ -101,7 +101,7 @@ Select the option for **Discrete Mapping** to select one color for each category
 Now, look for the small tabs along the bottom of the Styling Pane again, and select the Edge Tab just to the right of the Node Tab. 
 
 
-#### 13. Find and study the Edge Table.
+#### 12. Find and study the Edge Table.
 <img width="700" src="images/13-edgeTable.png" alt="Introducing the Edge Table"/>
 In our sample data, we imported edge attributes to categorize different kinds of connections. 
 Perhaps we can color code some of the connection categories? 
@@ -109,7 +109,7 @@ Be careful of overwhelming with too much color. Perhaps some categories in our e
 In our example, we'll be applying the same colors to any nodes that represent people. We'll use
 color to distinguish major categories like people from places.
 
-#### 14. Adding color to categorize the edges
+#### 13. Adding color to categorize the edges
 This is much the same as what we did for color-coding nodes. 
 Choose a the column from the Edge Table that represents the Edge Attribute information and apply Discrete Mapping to select one color for each category.
 
@@ -122,13 +122,13 @@ Choose a the column from the Edge Table that represents the Edge Attribute infor
 ### Styling the entire network visualization
 Once again, look for the small tabs along the bottom of the Styling Pane, and find Network tab (to the right of the Edge tab).
 
-#### 15. Change the background color for the Network Analysis if you wish:
+#### 14. Change the background color for the Network Analysis if you wish:
 
 <img width="700" src="images/15-stylingNABackground.png" alt="changing the background color of the network viz"/>
 
 *Note: Cytoscape also has its own color themes for networks. Ordinarily we bypass these because color coding our infographics might be highly customized for a project.
 
-#### 16. Changing the layout of the network
+#### 15. Changing the layout of the network
 Now we use the **Layout menu** and begin exploring many different ways to organize your network in two-dimensional space. 
 
 Take your time and explore to see what layouts help to organize your data in a way that is helpful.
@@ -140,14 +140,14 @@ Sometimes the layout gives you insights into relationships you're studying.
 
 <img width="700" src="images/17-layoutGA-targetType.png" alt="This shows how the network layout changes by selecting the target type attribute"/>
 
-#### 17. Manipulate the nodes “by hand” to make the network more legible.
+#### 16. Manipulate the nodes “by hand” to make the network more legible.
 You can always “pull out” and otherwise disentangle nodes to make them easier to see. 
 
 <img width="700" src="images/18-pullOut-layoutGA-targetType.png" alt="Pulling out some of the nodes by hand to make them easier to read."/>
 
 *Note: You can also annotate the network viz. Try right-clicking in the space near to something you want to highlight, and find the text annotation fields and options. 
 
-#### 18. Changing the scale of the network viz
+#### 17. Changing the scale of the network viz
 
 Try the Layout Tools on the bottom left in the Styling Pane to alter the scale of the entire network graph.
 
@@ -158,19 +158,19 @@ Try the Layout Tools on the bottom left in the Styling Pane to alter the scale o
 ### Creating Subnetworks from a large, complex network
 One of the most helpful things to do with a large and complex network visualization is to create sub-networks to isolate particularly interesting nodes and their immediate neighbors. 
 
-#### 19. Select a particular node and its adjacent edges
+#### 18. Select a particular node and its adjacent edges
 
 * First, select a node or a few nodes by clicking on them in the graph, or by selecting them on your Node table. 
 * Then, use the Select menu, choose Edges, and on the submenu go to the bottom and choose, “Select Adjacent Edges”
 * 
 <img width="700" src="images/20-selectNodeAdjEdges.png" alt="Selecting adjacent edges to a node already selected."/>
 
-#### 20. Now, select the neighbors on the other side of the edge connections.
+#### 19. Now, select the neighbors on the other side of the edge connections.
 
 <img width="700" src="images/21-selectNodesbySelectEdges.png" alt="Selecting nodes connected by selected edges."/>
 
 
-#### 21. Create a subnetwork from the selection.
+#### 20. Create a subnetwork from the selection.
 Find the icon near the top center to create new network from the selection.
 <img width="700" src="images/22-newSubNetwork.png" alt="Creating a new subnetwork"/>
 
@@ -179,13 +179,13 @@ When prompted, choose to create the subnetwork only from the selected edges:
 <img width="700" src="images/23-newSubNet-SelectedEdge.png" alt="Creating a new subnetwork limited to selected edges"/>
 
 
-#### 22. Redo the layout for your new subnetwork.
+#### 21. Redo the layout for your new subnetwork.
 
 The subnetwork will come out with all the nodes and edges in their position from the original network. You'll want to modify that, so you can return to the Layout menu and try out the options, or even redo the same layout, which will now be optimized for the smaller selection of nodes. 
 
 <img width="700" src="images/24-subNetLayoutRedo.png" alt="Revising the layout for the subnetwork"/>
 
-#### 23. Moving between multiple subnetworks 
+#### 22. Moving between multiple subnetworks 
 Don’t worry about losing the main network when you create a subnetwork. Cytoscape’s Network pane (in the Styling panel on the left) helps you to see the main network and any subnetworks you create in a nested hierarchy. 
 
 
