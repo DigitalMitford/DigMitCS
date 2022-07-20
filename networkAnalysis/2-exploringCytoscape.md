@@ -122,7 +122,7 @@ Choose a the column from the Edge Table that represents the Edge Attribute infor
 ### Styling the entire network visualization
 Once again, look for the small tabs along the bottom of the Styling Pane, and find Network tab (to the right of the Edge tab).
 
-#### 15. Change the background color for the Network Analysis if you like:
+#### 15. Change the background color for the Network Analysis if you wish:
 
 <img width="700" src="images/15-stylingNABackground.png" alt="changing the background color of the network viz"/>
 
@@ -138,7 +138,55 @@ Sometimes the layout gives you insights into relationships you're studying.
 
 *Here we are trying the **Group Attributes Layout** and selecting a layout that matches our Target attributes, and found it helpful to organize quite a lot of relationships. It was helpful for us to pull the nodes representing letters away from the nodes representing literary documents simply to help study the various relationships.* 
 
-<img width="700" src="images/17-layoutGA-targetType.png" alt="Introducing the Edge Table"/>
+<img width="700" src="images/17-layoutGA-targetType.png" alt="This shows how the network layout changes by selecting the target type attribute"/>
+
+#### 17. Manipulate the nodes “by hand” to make the network more legible.
+You can always “pull out” and otherwise disentangle nodes to make them easier to see. 
+
+<img width="700" src="images/18-pullOut-layoutGA-targetType.png" alt="Pulling out some of the nodes by hand to make them easier to read."/>
+
+*Note: You can also annotate the network viz. Try right-clicking in the space near to something you want to highlight, and find the text annotation fields and options. 
+
+#### 18. Changing the scale of the network viz
+
+Try the Layout Tools on the bottom left in the Styling Pane to alter the scale of the entire network graph.
+
+<img width="700" src="images/19-scalingLayout.png" alt="Changing the scale of the entire network graph."/>
+
+<hr/>
+
+### Creating Subnetworks from a large, complex network
+One of the most helpful things to do with a large and complex network visualization is to create sub-networks to isolate particularly interesting nodes and their immediate neighbors. 
+
+#### 19. Select a particular node and its adjacent edges
+
+* First, select a node or a few nodes by clicking on them in the graph, or by selecting them on your Node table. 
+* Then, use the Select menu, choose Edges, and on the submenu go to the bottom and choose, “Select Adjacent Edges”
+* 
+<img width="700" src="images/20-selectNodeAdjEdges.png" alt="Selecting adjacent edges to a node already selected."/>
+
+#### 20. Now, select the neighbors on the other side of the edge connections.
+
+<img width="700" src="images/21-selectNodesbySelectEdges.png" alt="Selecting nodes connected by selected edges."/>
+
+
+#### 21. Create a subnetwork from the selection.
+Find the icon near the top center to create new network from the selection.
+<img width="700" src="images/22-newSubNetwork.png" alt="Creating a new subnetwork"/>
+
+When prompted, choose to create the subnetwork only from the selected edges:
+
+<img width="700" src="images/23-newSubNet-SelectedEdge.png" alt="Creating a new subnetwork limited to selected edges"/>
+
+
+#### 22. Redo the layout for your new subnetwork.
+
+The subnetwork will come out with all the nodes and edges in their position from the original network. You'll want to modify that, so you can return to the Layout menu and try out the options, or even redo the same layout, which will now be optimized for the smaller selection of nodes. 
+
+<img width="700" src="images/24-subNetLayoutRedo.png" alt="Revising the layout for the subnetwork"/>
+
+<hr/>
+
 
 
 
