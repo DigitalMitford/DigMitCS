@@ -4,7 +4,14 @@
 In the previous tutorial we worked from an XML (TEI) based digital edition to pull network data using XQuery. 
 We have [a text file formatted as a TSV](network/sonnetsNA.tsv) for output that we are working with. 
 
-Now we turn our attention to exploring and processing the network data
+Now we turn our attention to exploring and processing the network data with Cytoscape. If you see firewall cautions, be sure to mark if it’s okay to allow the application to access what it needs through your firewall.
+
+## Preliminary: Install Cytoscape on your system
+
+<https://cytoscape.org/>
+
+Follow the instructions for your operating system. 
+If your system can't locate the appropriate version of Java, allow the installer to download it for you. You may be asked to quit and restart Cytoscape so it can download fresh copies of some of its dependencies like Cyrest. 
 
 <hr/>
 ## Import and explore network statistics 
