@@ -185,8 +185,37 @@ The subnetwork will come out with all the nodes and edges in their position from
 
 <img width="700" src="images/24-subNetLayoutRedo.png" alt="Revising the layout for the subnetwork"/>
 
+#### 23. Moving between multiple subnetworks 
+Don’t worry about losing the main network when you create a subnetwork. Cytoscape’s Network pane (in the Styling panel on the left) helps you to see the main network and any subnetworks you create in a nested hierarchy. 
+
+
+<img width="700" src="images/25-newSubNet-allNets.png" alt="Navigating between main network and subnetworks"/>
+
+Here are two more subnetworks we created to show how you can start a subnetwork from target nodes:
+
+* a very tiny subnetwork between the headnote of a play and three sonnets 
+<img width="700" src="images/26-tinySubNet.png" alt="a very tiny subnetwork"/>
+
+* a subnetwork starting from a letter to show connected sonnets: 
+<img width="700" src="images/27-letterSubNet.png" alt="a network from a letter to several sonnets"/>
+
 <hr/>
 
+## Exporting your visualizations from Cytoscape
+
+<img width="700" src="images/28-exportToImage.png" alt="Cytoscape’s file  menu options for exporting network visualizations"/>
+
+You can export static SVG or PNG files that represent your network styling. These will not be interactive, but can readily be used as infographics in a web-based or print project. 
+
+
+<img width="700" src="images/29-exportToSVG.png" alt="Exporting an SVG from Cytoscape"/>
+
+
+We prefer to output SVG for use in web-based digital edition projects. You could try opening the output SVG in a code editor to see how you might manipulate it. 
+
+
+
+You can an also explore the interactive web outputs from Cytoscape, wh
 
 
 
