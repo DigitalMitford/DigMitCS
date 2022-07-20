@@ -18,8 +18,8 @@ let $filetype := "sonnet"
 let $label := $filetype || '-' || $sNumber
 let $sTitle := $s//tei:head/tei:title ! normalize-space()
 let $namedEnts := $s//*/@ref ! normalize-space() => distinct-values()
-let $nameTags := $s//*[@ref] ! name() => distinct-values() 
     for $e in $namedEnts
+    let $eKind := ($s//*[@ref = $e])[1] ! name()
     let $fileLookups := ($lettersColl | $literaryColl)[descendant::*/@ref ! normalize-space() = $e] 
     let $filenames := $fileLookups ! base-uri() => distinct-values()
         for $f in $filenames
@@ -29,6 +29,6 @@ let $nameTags := $s//*[@ref] ! name() => distinct-values()
         let $fLabel := $f ! tokenize(., '/')[last()] ! substring-before(., '.xml')
         where $e != "#MRM"
         where $fLabel != "1827Sonnets_REV"
-        return ($label || $tab || $filetype || $tab || $e || $tab || $fLabel || $tab || $fType), $linefeed);
+        return ($label || $tab || $filetype || $tab || $e || $tab || $eKind || $tab || $fLabel || $tab || $fType), $linefeed);
 $ThisFileContent
         
