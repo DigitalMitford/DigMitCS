@@ -53,7 +53,7 @@ What kinds of relationships in your edition data could you describe this way?
 Let's walk through this together step-by-step in oXygen.
 Here is a starter XQuery script. We'll link to the “raw” version in GitHub if you would to open it directly from GitHub (via File > Open URL, or just by downloading in your own space and reopening in oXygen): 
 
-<>
+<https://raw.githubusercontent.com/DigitalMitford/DigMitCS/master/networkAnalysis/xquery/workshopStarter-sonnets-NA.xql>
 
 Don't peek until we tell you to, but here is a finished XQuery script: 
 
