@@ -234,6 +234,6 @@ Of course you should also be saving your Cytoscape file session regularly. It wi
 
 ## File Resources and Further Reading: 
 
-* [Our Cytoscape session file complete with subnetworks](network/MRMsonnetsNetwork.cys)
+* [Our Cytoscape session file complete with subnetworks](network/MRMsonnetsNetwork.cys): You can open this file directly in Cytoscape and explore it to review our network data and styling decisions. 
 
 * [An Introduction to Network Analysis and Cytoscape for XML Coders](http://ebeshero.github.io/thalaba/cytosc.html) My longer (and older) network analysis tutorial with more on the theory and history of networks. 
