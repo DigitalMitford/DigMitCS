@@ -58,3 +58,6 @@ Here is a starter XQuery script. We'll link to the “raw” version in GitHub i
 Don't peek until we tell you to, but here is a finished XQuery script: 
 
 <https://github.com/DigitalMitford/DigMitCS/blob/master/networkAnalysis/xquery/sonnets-NA.xql>
+
+## Continue on to the next part!
+We continue in [Part 2 of this workshop](2-exploringCytoscape.md) with the output TSV file to construct a network visualization using Cytoscape.
