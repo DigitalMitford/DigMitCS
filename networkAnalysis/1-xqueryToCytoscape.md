@@ -7,7 +7,7 @@ One of our research quests is to explore how personal letters are connected to p
 Sometimes seeing examples of networks pulled from XML edition projects can provide ideas for your own networks.
 In that spirit, I have prepared other network analysis visualizations from the Digital Mitford project, including these:
 * A directed network of Mitford and her correspondents throughout her life: Digitla Mitford team member Kellie Donovan-Condron and I worked together to prepare this as an online slideshow some years ago:  https://www.slideshare.net/ebbondar/mary-russell-mitfords-correspondence-a-network-from-17981855 
-    * We had to change the color networks to grayscale for publication in an edited book collection, *Women's Literary Networks and Romanticism: "A Tribe of Authoresses"*, eds. Andrew O. Winckles. Angela Rehbein (2018) : https://www.academia.edu/40233722/Modelling_Mary_Russell_Mitfords_Networks_The_Digital_Mitford_as_Collaborative_Database 
+    * We had to change the color networks to [grayscale for publication in an edited book collection](https://www.academia.edu/40233722/Modelling_Mary_Russell_Mitfords_Networks_The_Digital_Mitford_as_Collaborative_Database), *Women's Literary Networks and Romanticism: "A Tribe of Authoresses"*, eds. Andrew O. Winckles. Angela Rehbein (2018).
 
 * [A network exploring Mary Mitford's comments on Jane Austen](https://digitalmitford.org/visual.html#JA), showing who is mentioned with her in the same paragraphs or journal entries: across letters and literary works.
 
