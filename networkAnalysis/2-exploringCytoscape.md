@@ -1,8 +1,8 @@
 # Part II: Exploring Cytoscape
 ## A visual step-by-step guide, starting from a TSV file with node,s, edges, and descriptive data
 
-In the previous tutorial we worked from an XML (TEI) based digital edition to pull network data using XQuery. 
-We have [a text file formatted as a TSV](network/sonnetsNA.tsv) for output that we are working with. 
+In [Part 1 of this tutorial](1-xqueryToCytoscape.md) we worked from an XML (TEI) based digital edition to pull network data using XQuery. 
+After completing the XQuery, we have now output [a text file formatted as a TSV](network/sonnetsNA.tsv) that contains the data for our network analysis.
 
 Now we turn our attention to exploring and processing the network data with Cytoscape. If you see firewall cautions, be sure to mark if it’s okay to allow the application to access what it needs through your firewall.
 
