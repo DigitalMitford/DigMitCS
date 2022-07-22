@@ -9,11 +9,11 @@ In that spirit, I have prepared other network analysis visualizations from the D
 * A directed network of Mitford and her correspondents throughout her life: Digitla Mitford team member Kellie Donovan-Condron and I worked together to prepare this as an online slideshow some years ago:  https://www.slideshare.net/ebbondar/mary-russell-mitfords-correspondence-a-network-from-17981855 
     * We had to change the color networks to grayscale for publication in an edited book collection, *Women's Literary Networks and Romanticism: "A Tribe of Authoresses"*, eds. Andrew O. Winckles. Angela Rehbein (2018) : https://www.academia.edu/40233722/Modelling_Mary_Russell_Mitfords_Networks_The_Digital_Mitford_as_Collaborative_Database 
 
-* A network exploring Mary Mitford's comments on Jane Austen, and who is mentioned with her in the same paragraphs or journal entries: across letters and literary works: <https://digitalmitford.org/visual.html#JA>
+* [A network exploring Mary Mitford's comments on Jane Austen](https://digitalmitford.org/visual.html#JA), showing who is mentioned with her in the same paragraphs or journal entries: across letters and literary works.
 
 * A very different network of place references in an epic poem (Thalaba the Destroyer, 1801) by Robert Southey:
-    *  a slideshow: <https://slides.com/elisabeshero-bondar/thalabana>
-    * The full network is here, together with some maps: <https://ebeshero.github.io/thalaba/>
+    *  [a slideshow](https://slides.com/elisabeshero-bondar/thalabana)
+    * [The full Thalaba network](https://ebeshero.github.io/thalaba/), together with some map visualizations.
 
 The network analysis prepared for this workshop is entirely new for the Digital Mitford project, and allows the Mitford team to learn how Mitford's small collection of sonnets (recently encoded for the project) relates to the rest of our files. 
 
